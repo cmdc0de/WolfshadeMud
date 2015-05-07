@@ -1,0 +1,1388 @@
+30001
+&yEntrance to a cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30002
+DOOR
+3
+~
+1 -1 1004972
+ENDROOM
+30002
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30003
+DOOR
+3
+~
+1 -1 30001
+ENDROOM
+30003
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30004
+DOOR
+3
+~
+1 -1 30002
+ENDROOM
+30004
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30003
+DOOR
+2
+~
+1 -1 30006
+ENDROOM
+30005
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30007
+ENDROOM
+30006
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30004
+DOOR
+2
+~
+1 -1 30008
+ENDROOM
+30007
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30005
+DOOR
+2
+~
+1 -1 30011
+ENDROOM
+30008
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30006
+DOOR
+1
+~
+1 -1 30009
+DOOR
+2
+~
+1 -1 30012
+ENDROOM
+30009
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30010
+DOOR
+3
+~
+1 -1 30008
+ENDROOM
+30010
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30013
+DOOR
+3
+~
+1 -1 30009
+ENDROOM
+30011
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30007
+DOOR
+2
+~
+1 -1 30014
+ENDROOM
+30012
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30008
+DOOR
+2
+~
+1 -1 30015
+ENDROOM
+30013
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30010
+DOOR
+2
+~
+1 -1 30016
+ENDROOM
+30014
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30011
+DOOR
+2
+~
+1 -1 30017
+ENDROOM
+30015
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30012
+DOOR
+2
+~
+1 -1 30019
+ENDROOM
+30016
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30013
+DOOR
+2
+~
+1 -1 30021
+ENDROOM
+30017
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30014
+DOOR
+2
+~
+1 -1 30022
+ENDROOM
+30018
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30019
+DOOR
+4
+trapdoor~
+c -1 30033
+ENDROOM
+30019
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30015
+DOOR
+1
+~
+1 -1 30020
+DOOR
+3
+~
+1 -1 30018
+ENDROOM
+30020
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30021
+DOOR
+3
+~
+1 -1 30019
+ENDROOM
+30021
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30016
+DOOR
+1
+~
+1 -1 30022
+DOOR
+3
+~
+1 -1 30020
+ENDROOM
+30022
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30017
+DOOR
+1
+~
+1 -1 30023
+DOOR
+3
+~
+1 -1 30021
+ENDROOM
+30023
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30024
+DOOR
+2
+~
+1 -1 30027
+DOOR
+3
+~
+1 -1 30022
+ENDROOM
+30024
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30028
+DOOR
+3
+~
+1 -1 30023
+ENDROOM
+30025
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30026
+DOOR
+2
+~
+1 -1 30029
+ENDROOM
+30026
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+3
+~
+1 -1 30025
+ENDROOM
+30027
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30023
+DOOR
+1
+~
+1 -1 30028
+DOOR
+2
+~
+1 -1 30031
+ENDROOM
+30028
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30024
+DOOR
+2
+~
+1 -1 30032
+DOOR
+3
+~
+1 -1 30027
+ENDROOM
+30029
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30025
+DOOR
+1
+~
+1 -1 30030
+ENDROOM
+30030
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30031
+DOOR
+3
+~
+1 -1 30029
+ENDROOM
+30031
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30027
+DOOR
+1
+~
+1 -1 30032
+DOOR
+2
+~
+1 -1 30035
+DOOR
+3
+~
+1 -1 30030
+ENDROOM
+30032
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30028
+DOOR
+2
+~
+1 -1 30036
+DOOR
+3
+~
+1 -1 30031
+ENDROOM
+30033
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+5
+trapdoor~
+c -1 30018
+DOOR
+2
+~
+1 -1 30034
+ENDROOM
+30034
+&yA dark &Ldamp&y cave&n~
+&yThis dark cave leads upwards towards an oak door.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30033
+DOOR
+4
+door oak~
+1 -1 30040
+ENDROOM
+30035
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30031
+DOOR
+1
+~
+1 -1 30036
+DOOR
+2
+~
+1 -1 30039
+ENDROOM
+30036
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30032
+DOOR
+1
+~
+1 -1 30037
+DOOR
+3
+~
+1 -1 30035
+ENDROOM
+30037
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30038
+DOOR
+3
+~
+1 -1 30036
+ENDROOM
+30038
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+3
+~
+1 -1 30037
+ENDROOM
+30039
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30035
+DOOR
+2
+~
+1 -1 30042
+ENDROOM
+30040
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30041
+DOOR
+2
+~
+1 -1 30043
+DOOR
+5
+~
+1 -1 30034
+ENDROOM
+30041
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30044
+DOOR
+3
+~
+1 -1 30040
+ENDROOM
+30042
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30039
+DOOR
+2
+~
+1 -1 30045
+ENDROOM
+30043
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30040
+DOOR
+1
+~
+1 -1 30044
+DOOR
+2
+~
+1 -1 30048
+ENDROOM
+30044
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30041
+DOOR
+3
+~
+1 -1 30043
+ENDROOM
+30045
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30042
+DOOR
+2
+~
+1 -1 30049
+ENDROOM
+30046
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30047
+ENDROOM
+30047
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30046
+DOOR
+2
+~
+1 -1 30051
+ENDROOM
+30048
+&bOgre &Lsleeping area&n~
+&LHere all kinds of Ogres are sleeping on rocks and soft beds of Centaur hide, type 'rent' to be shown an area.&n~
+300 acl 0 2
+DOOR
+0
+~
+1 -1 30043
+ENDROOM
+30049
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30045
+DOOR
+2
+~
+1 -1 30052
+ENDROOM
+30050
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30051
+DOOR
+4
+~
+1 -1 30053
+ENDROOM
+30051
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30047
+DOOR
+2
+~
+1 -1 30054
+DOOR
+3
+~
+1 -1 30050
+ENDROOM
+30052
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30049
+DOOR
+1
+~
+1 -1 30053
+DOOR
+2
+~
+1 -1 30058
+DOOR
+4
+~
+1 -1 30057
+ENDROOM
+30053
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+3
+~
+1 -1 30052
+DOOR
+5
+~
+1 -1 30050
+ENDROOM
+30054
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30051
+DOOR
+2
+~
+1 -1 30059
+ENDROOM
+30055
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30056
+DOOR
+2
+~
+1 -1 30060
+ENDROOM
+30056
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30057
+DOOR
+2
+~
+1 -1 30061
+DOOR
+3
+~
+1 -1 30053
+ENDROOM
+30057
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30062
+DOOR
+3
+~
+1 -1 30056
+DOOR
+5
+~
+1 -1 30052
+ENDROOM
+30058
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30052
+DOOR
+2
+~
+1 -1 30063
+ENDROOM
+30059
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30054
+ENDROOM
+30060
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30055
+DOOR
+1
+~
+1 -1 30061
+DOOR
+2
+~
+1 -1 30064
+ENDROOM
+30061
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30056
+DOOR
+1
+~
+1 -1 30062
+DOOR
+2
+~
+1 -1 30065
+DOOR
+3
+~
+1 -1 30060
+ENDROOM
+30062
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30057
+DOOR
+2
+~
+1 -1 30066
+DOOR
+3
+~
+1 -1 30063
+ENDROOM
+30063
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30058
+DOOR
+2
+~
+1 -1 30067
+ENDROOM
+30064
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30060
+DOOR
+1
+~
+1 -1 30065
+DOOR
+2
+~
+1 -1 30068
+ENDROOM
+30065
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30061
+DOOR
+1
+~
+1 -1 30066
+DOOR
+2
+~
+1 -1 30069
+DOOR
+3
+~
+1 -1 30064
+ENDROOM
+30066
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30062
+DOOR
+2
+~
+1 -1 30070
+DOOR
+3
+~
+1 -1 30065
+ENDROOM
+30067
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30063
+DOOR
+2
+~
+1 -1 30071
+ENDROOM
+30068
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30064
+DOOR
+1
+~
+1 -1 30069
+ENDROOM
+30069
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30065
+DOOR
+1
+~
+1 -1 30070
+DOOR
+3
+~
+1 -1 30068
+ENDROOM
+30070
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30066
+DOOR
+3
+~
+1 -1 30069
+ENDROOM
+30071
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30067
+DOOR
+2
+~
+1 -1 30072
+ENDROOM
+30072
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30071
+DOOR
+2
+~
+1 -1 30074
+ENDROOM
+30073
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30075
+ENDROOM
+30074
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30072
+DOOR
+2
+~
+1 -1 30079
+ENDROOM
+30075
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30073
+DOOR
+2
+~
+1 -1 30081
+ENDROOM
+30076
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30077
+DOOR
+2
+~
+1 -1 30082
+ENDROOM
+30077
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30078
+DOOR
+3
+~
+1 -1 30076
+ENDROOM
+30078
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30079
+DOOR
+3
+~
+1 -1 30077
+ENDROOM
+30079
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30074
+DOOR
+1
+~
+1 -1 30080
+DOOR
+2
+~
+1 -1 30083
+DOOR
+3
+~
+1 -1 30078
+ENDROOM
+30080
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30081
+DOOR
+3
+~
+1 -1 30079
+ENDROOM
+30081
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30075
+DOOR
+3
+~
+1 -1 30080
+ENDROOM
+30082
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30076
+DOOR
+2
+~
+1 -1 30085
+ENDROOM
+30083
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30079
+DOOR
+2
+~
+1 -1 30086
+ENDROOM
+30084
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30085
+ENDROOM
+30085
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30082
+DOOR
+3
+~
+1 -1 30084
+ENDROOM
+30086
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30083
+DOOR
+2
+~
+1 -1 30087
+ENDROOM
+30087
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30086
+DOOR
+2
+~
+1 -1 30091
+ENDROOM
+30088
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30089
+DOOR
+2
+~
+1 -1 30093
+ENDROOM
+30089
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30094
+DOOR
+3
+~
+1 -1 30088
+ENDROOM
+30090
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+2
+~
+1 -1 30095
+ENDROOM
+30091
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30087
+DOOR
+1
+door~
+c -1 30092
+DOOR
+2
+~
+1 -1 30096
+ENDROOM
+30092
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30093
+DOOR
+3
+door~
+c -1 30091
+ENDROOM
+30093
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30088
+DOOR
+1
+~
+1 -1 30094
+DOOR
+2
+~
+1 -1 30097
+DOOR
+3
+~
+1 -1 30092
+ENDROOM
+30094
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30089
+DOOR
+2
+~
+1 -1 30098
+DOOR
+3
+~
+1 -1 30093
+ENDROOM
+30095
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30090
+DOOR
+2
+~
+1 -1 30109
+ENDROOM
+30096
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30091
+DOOR
+2
+~
+1 -1 30105
+ENDROOM
+30097
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30093
+DOOR
+1
+~
+1 -1 30098
+ENDROOM
+30098
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+0
+~
+1 -1 30094
+DOOR
+3
+~
+1 -1 30097
+ENDROOM
+30099
+&yA dark &Ldamp&y cave&n~
+&yDark, damp and wide, this cave stretches out into the darkness.  Sounds of life are all around but barely visible.&n~
+300 ac 0 2
+DOOR
+1
+~
+1 -1 30100
+DOOR
+2
+~
+1 -1 30102
+ENDROOM
+ENDFILE

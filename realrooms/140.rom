@@ -1,0 +1,1388 @@
+14003
+&LThe holding pens&n~
+&LThis is where the raid party launches from.&n~
+140 do 0 1
+DOOR
+4
+~
+1 -1 14004
+ENDROOM
+14004
+&LEntrance to Swamp Mohr Castle&n~
+&LThe entrance to the castle is made of strong white marble.&n~
+140 0 1 2
+DOOR
+1
+~
+1 -1 1009245
+DOOR
+3
+~ 
+1 -1 14028
+ENDROOM
+14005
+&WThe &cCourtyard&n~
+&gA wide open area in the middle of the castle is here.  
+Many of the common folk in the castle walk around looking for something to do.  
+Several well dressed nobles talk in groups all around.&n~
+140 0 1 2
+DOOR
+0
+~
+1 -1 14007
+DOOR
+1
+~
+1 -1 14010
+DOOR
+2
+~
+1 -1 14012
+DOOR
+3
+~
+1 -1 14009
+ENDROOM
+14006
+&WThe &cCourtyard&n~
+&gA wide open area in the middle of the castle is here.  
+Many of the common folk in the castle walk around looking for something to do.  
+Several well dressed nobles talk in groups all around.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14007
+DOOR
+2
+~
+1 -1 14009
+ENDROOM
+14007
+&WThe &cCourtyard&n~
+&gA wide open area in the middle of the castle is here.  
+Many of the common folk in the castle walk around looking for something to do.  
+Several well dressed nobles talk in groups all around.&n~
+140 0 1 2
+DOOR
+1
+~
+1 -1 14008
+DOOR
+2
+~
+1 -1 14005
+DOOR
+3
+~
+1 -1 14006
+ENDROOM
+14008
+&WThe &cCourtyard&n~
+&gA wide open area in the middle of the castle is here.  
+Many of the common folk in the castle walk around looking for something to do.  
+Several well dressed nobles talk in groups all around.&n~
+140 0 1 2
+DOOR
+0
+door~
+c -1 14017
+DOOR
+2
+~
+1 -1 14010
+DOOR
+3
+~
+1 -1 14007
+ENDROOM
+14009
+&WThe &cCourtyard&n~
+&gA wide open area in the middle of the castle is here.  
+Many of the common folk in the castle walk around looking for something to do.  
+Several well dressed nobles talk in groups all around.&n~
+140 0 1 2
+DOOR
+0
+~
+1 -1 14006
+DOOR
+1
+~
+1 -1 14005
+DOOR
+2
+~
+1 -1 14011
+ENDROOM
+14010
+&WThe &cCourtyard&n~
+&gA wide open area in the middle of the castle is here.  
+Many of the common folk in the castle walk around looking for something to do.  
+Several well dressed nobles talk in groups all around.&n~
+140 0 1 2
+DOOR
+0
+~
+1 -1 14008
+DOOR
+1
+~
+1 -1 14028
+DOOR
+2
+~
+1 -1 14013
+DOOR
+3
+~
+1 -1 14005
+ENDROOM
+14011
+&WThe &cCourtyard&n~
+&gA wide open area in the middle of the castle is here.  
+Many of the common folk in the castle walk around looking for something to do.  
+Several well dressed nobles talk in groups all around.&n~
+140 0 1 2
+DOOR
+0
+~
+1 -1 14009
+DOOR
+1
+~
+1 -1 14012
+ENDROOM
+14012
+&WThe &cCourtyard&n~
+&gA wide open area in the middle of the castle is here.  
+Many of the common folk in the castle walk around looking for something to do.  
+Several well dressed nobles talk in groups all around.&n~
+140 0 1 2
+DOOR
+0
+~
+1 -1 14005
+DOOR
+1
+~
+1 -1 14013
+DOOR
+3
+~
+1 -1 14011
+ENDROOM
+14013
+&WThe &cCourtyard&n~
+&gA wide open area in the middle of the castle is here.  
+Many of the common folk in the castle walk around looking for something to do.  
+Several well dressed nobles talk in groups all around.&n~
+140 0 1 2
+DOOR
+0
+~
+1 -1 14010
+DOOR
+2
+door~
+c -1 14025
+DOOR
+3
+~
+1 -1 14012
+ENDROOM
+14014
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+1
+~
+1 -1 14015
+DOOR
+2
+~
+1 -1 14019
+DOOR
+4
+~
+1 -1 14030
+ENDROOM
+14015
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+1
+~
+1 -1 14016
+DOOR
+3
+~
+1 -1 14014
+ENDROOM
+14016
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+1
+~
+1 -1 14017
+DOOR
+3
+~
+1 -1 14015
+ENDROOM
+14017
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+0
+door~
+c -1 14070
+DOOR
+1
+~
+1 -1 14018
+DOOR
+2
+door~
+c -1 14008
+DOOR
+3
+~
+1 -1 14016
+ENDROOM
+14018
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+2
+~
+1 -1 14027
+DOOR
+3
+~
+1 -1 14017
+DOOR
+4
+~
+1 -1 14034
+ENDROOM
+14019
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+0
+~
+1 -1 14014
+DOOR
+2
+~
+1 -1 14020
+ENDROOM
+14020
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+0
+~
+1 -1 14019
+DOOR
+2
+~
+1 -1 14021
+ENDROOM
+14021
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+0
+~
+1 -1 14020
+DOOR
+2
+~
+1 -1 14022
+ENDROOM
+14022
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+0
+~
+1 -1 14021
+DOOR
+1
+~
+1 -1 14023
+DOOR
+4
+~
+1 -1 14041
+ENDROOM
+14023
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+1
+~
+1 -1 14024
+DOOR
+3
+~
+1 -1 14022
+ENDROOM
+14024
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+1
+~
+1 -1 14025
+DOOR
+3
+~
+1 -1 14023
+ENDROOM
+14025
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 c 0 1
+DOOR
+0
+door~
+c -1 14013
+DOOR
+1
+~
+1 -1 14026
+DOOR
+2
+door~
+c -1 14087
+DOOR
+3
+~
+1 -1 14024
+ENDROOM
+14026
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14029
+DOOR
+3
+~
+1 -1 14025
+DOOR
+4
+~
+1 -1 14045
+ENDROOM
+14027
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14018
+DOOR
+2
+~
+1 -1 14028
+ENDROOM
+14028
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14027
+DOOR
+1
+~
+1 -1 14004
+DOOR
+2
+~
+1 -1 14029
+DOOR
+3
+~
+1 -1 14010
+ENDROOM
+14029
+&cHallway&n~
+&cThis hallway surrounds the inner courtyard of the castle.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14028
+DOOR
+2
+~
+1 -1 14026
+ENDROOM
+14030
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14031
+DOOR
+2
+~
+1 -1 14035
+DOOR
+5
+~
+1 -1 14014
+ENDROOM
+14031
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14032
+DOOR
+3
+~
+1 -1 14030
+ENDROOM
+14032
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14033
+DOOR
+3
+~
+1 -1 14031
+ENDROOM
+14033
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+0
+door~
+c -1 14117
+DOOR
+1
+~
+1 -1 14034
+DOOR
+3
+~
+1 -1 14032
+ENDROOM
+14034
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+2
+~
+1 -1 14036
+DOOR
+3
+~
+1 -1 14033
+DOOR
+5
+~
+1 -1 14018
+ENDROOM
+14035
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14030
+DOOR
+2
+~
+1 -1 14037
+ENDROOM
+14036
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14034
+DOOR
+2
+~
+1 -1 14038
+ENDROOM
+14037
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14035
+DOOR
+2
+~
+1 -1 14039
+ENDROOM
+14038
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14036
+DOOR
+2
+~
+1 -1 14040
+ENDROOM
+14039
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14037
+DOOR
+2
+~
+1 -1 14041
+ENDROOM
+14040
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14038
+DOOR
+2
+~
+1 -1 14045
+ENDROOM
+14041
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14039
+DOOR
+1
+~
+1 -1 14042
+DOOR
+5
+~
+1 -1 14022
+ENDROOM
+14042
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14043
+DOOR
+3
+~
+1 -1 14041
+ENDROOM
+14043
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14044
+DOOR
+3
+~
+1 -1 14042
+ENDROOM
+14044
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14045
+DOOR
+2
+door~
+c -1 14127
+DOOR
+3
+~
+1 -1 14043
+ENDROOM
+14045
+&WBalcony overlooking the courtyard&n~
+&WYou are standing on a strong marble balcony overlooking the courtyard below.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14040
+DOOR
+3
+~
+1 -1 14044
+DOOR
+5
+~
+1 -1 14026
+ENDROOM
+14046
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 0 1 1
+DOOR
+5
+~
+1 -1 14047
+ENDROOM
+14047
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 no 0 1
+DOOR
+4
+~
+1 -1 14046
+DOOR
+5
+~
+1 -1 14048
+ENDROOM
+14048
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 no 0 1
+DOOR
+4
+~
+1 -1 14047
+DOOR
+5
+~
+1 -1 14049
+ENDROOM
+14049
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14050
+DOOR
+2
+~
+1 -1 14057
+DOOR
+4
+~
+1 -1 14048
+ENDROOM
+14050
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+2
+door~
+c -1 14059
+DOOR
+1
+~
+1 -1 14051
+DOOR
+3
+~
+1 -1 14049
+ENDROOM
+14051
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14052
+DOOR
+3
+~
+1 -1 14050
+ENDROOM
+14052
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14053
+DOOR
+3
+~
+1 -1 14051
+ENDROOM
+14053
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14054
+DOOR
+3
+~
+1 -1 14052
+ENDROOM
+14054
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14055
+DOOR
+3
+~
+1 -1 14053
+ENDROOM
+14055
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+2
+~
+1 -1 14064
+DOOR
+3
+~
+1 -1 14054
+DOOR
+4
+~
+1 -1 14057
+ENDROOM
+14056
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 no 0 1
+DOOR
+5
+~
+1 -1 14057
+ENDROOM
+14057
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 no 0 1
+DOOR
+4
+~
+1 -1 14056
+DOOR
+5
+~
+1 -1 14055
+ENDROOM
+14058
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14049
+DOOR
+2
+~
+1 -1 14065
+ENDROOM
+14059
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+0
+door~
+c -1 14050
+DOOR
+1
+~
+1 -1 14060
+DOOR
+2
+~
+1 -1 14066
+ENDROOM
+14060
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14061
+DOOR
+2
+door~
+c -1 14067
+DOOR
+3
+~
+1 -1 14059
+ENDROOM
+14061
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14062
+DOOR
+2
+door~
+c -1 14068
+DOOR
+3
+~
+1 -1 14060
+ENDROOM
+14062
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14063
+DOOR
+2
+door~
+c -1 14069
+DOOR
+3
+~
+1 -1 14061
+ENDROOM
+14063
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+2
+~
+1 -1 14070
+DOOR
+3
+~
+1 -1 14062
+ENDROOM
+14064
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14055
+DOOR
+2
+~
+1 -1 14071
+ENDROOM
+14065
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14058
+DOOR
+2
+~
+1 -1 14072
+ENDROOM
+14066
+&WBefore the war room&n~
+&WInside the door to the south is the great war room.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14059
+DOOR
+2
+door~
+c -1 14073
+ENDROOM
+14067
+&WCastle Barracks&n~
+&WElaborately decorated, this room has a bed and everything one needs to be a guest at the great castle.&n~
+140 no 0 1
+DOOR
+0
+door~
+c -1 14060
+ENDROOM
+14068
+&WGuest Room&n~
+&WCots line the walls with small chests for personal belongings at the feet of each cot.&n~
+140 no 0 1
+DOOR
+0
+door~
+c -1 14061
+ENDROOM
+14069
+&WCastle Barracks&n~
+&WCots line the walls with small chests for personal belongings at the feet of each cot.&n~
+140 no 0 1
+DOOR
+0
+door~
+c -1 14062
+ENDROOM
+14070
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+2
+door~
+c -1 14017
+DOOR
+0
+~
+1 -1 14063
+ENDROOM
+14071
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14064
+ENDROOM
+14072
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14065
+DOOR
+2
+~
+1 -1 14074
+ENDROOM
+14073
+&WThe War Room&n~
+&WMaps with all kinds of plans line the walls.  Tables full of minatures and maps litter the tables.&n~
+140 no 0 1
+DOOR
+0
+door~
+c -1 14066
+DOOR
+2
+~
+1 -1 14075
+ENDROOM
+14074
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14072
+DOOR
+2
+~
+1 -1 14076
+ENDROOM
+14075
+&WThe War Room&n~
+&WMaps with all kinds of plans line the walls.  Tables full of minatures and maps litter the tables.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14073
+DOOR
+2
+~
+1 -1 14077
+ENDROOM
+14076
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14072
+DOOR
+2
+~
+1 -1 14078
+ENDROOM
+14077
+&WThe War Room&n~
+&WMaps with all kinds of plans line the walls.  Tables full of minatures and maps litter the tables.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14075
+DOOR
+2
+~
+1 -1 14079
+ENDROOM
+14078
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14076
+DOOR
+2
+~
+1 -1 14080
+ENDROOM
+14079
+&WThe War Room&n~
+&WMaps with all kinds of plans line the walls.  Tables full of minatures and maps litter the tables.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14077
+DOOR
+2
+~
+1 -1 14081
+ENDROOM
+14080
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14078
+DOOR
+2
+~
+1 -1 14082
+ENDROOM
+14081
+&WThe War Room&n~
+&WMaps with all kinds of plans line the walls.  Tables full of minatures and maps litter the tables.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14079
+DOOR
+2
+door~
+c -1 14083
+ENDROOM
+14082
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14078
+DOOR
+2
+~
+1 -1 14089
+ENDROOM
+14083
+&WBefore the war room&n~
+&WInside the door to the north is the great war room.&n~
+140 no 0 1
+DOOR
+0
+door~
+c -1 14081
+DOOR
+2
+~
+1 -1 14090
+ENDROOM
+14084
+&WCastle Barracks&n~
+&WCots line the walls with small chests for personal belongings at the feet of each cot.&n~
+140 no 0 1
+DOOR
+2
+door~
+c -1 14091
+ENDROOM
+14085
+&WCastle Barracks&n~
+&WCots line the walls with small chests for personal belongings at the feet of each cot.&n~
+140 no 0 1
+DOOR
+2
+door~
+c -1 14092
+ENDROOM
+14086
+&WCastle Barracks&n~
+&WCots line the walls with small chests for personal belongings at the feet of each cot.&n~
+140 no 0 1
+DOOR
+2
+door~
+c -1 14093
+ENDROOM
+14087
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+0
+door~
+c -1 14025
+DOOR
+2
+~
+1 -1 14094
+ENDROOM
+14088
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+2
+~
+1 -1 14095
+ENDROOM
+14089
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14082
+DOOR
+2
+~
+1 -1 14096
+ENDROOM
+14090
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14083
+DOOR
+1
+~
+1 -1 14091
+DOOR
+2
+door~
+c -1 14097
+ENDROOM
+14091
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14092
+DOOR
+0
+door~
+c -1 14084
+DOOR
+3
+~
+1 -1 14090
+ENDROOM
+14092
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14093
+DOOR
+0
+door~
+c -1 14085
+DOOR
+3
+~
+1 -1 14091
+ENDROOM
+14093
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14094
+DOOR
+0
+door~
+c -1 14086
+DOOR
+3
+~
+1 -1 14092
+ENDROOM
+14094
+&WInner Corridor&n~
+&WTapestries line the walls of this inner corridor.  The corridor is very clean and sparkling.  As military structures go it's extremely clean.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14087
+DOOR
+3
+~
+1 -1 14093
+ENDROOM
+14095
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14088
+DOOR
+2
+~
+1 -1 14102
+ENDROOM
+14096
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+~
+1 -1 14089
+DOOR
+1
+~
+1 -1 14097
+DOOR
+4
+~
+1 -1 14103
+ENDROOM
+14097
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+0
+door~
+c -1 14090
+DOOR
+1
+~
+1 -1 14098
+DOOR
+3
+~
+1 -1 14096
+ENDROOM
+14098
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14099
+DOOR
+3
+~
+1 -1 14097
+ENDROOM
+14099
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 no 0 1
+DOOR
+1
+~
+1 -1 14100
+DOOR
+3
+~
+1 -1 14098
+ENDROOM
+ENDFILE

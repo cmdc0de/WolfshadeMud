@@ -1,0 +1,23 @@
+&BWelcome to &WWOLFSHADE MUD&n
+&YThis is currently test phase I&n
+&GUp since October 29, 1999&n
+Please read the &MNEWS&n for any new bug fixes or zone additions
+type "Help newbie" in the game to get a small introduction.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+READ THE NEWS
+
+A quick word on names...people don't make me put in code to stop non fantasy names...eg don't 
+use names like Mike, Ted...etc, enough said.
+
+&RREAD HELP RULES!&n
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+&WWolfshade Mud&n has been created for you by:
+&WDemetrius Comes&n A.K.A. Duth 
+-AND-
+&WJohn Comes&n A.K.A. Guk
+
+&WWe welcome you and feel free to give a god a tell, use the ooc channel or use petition if you have any problems or questions.&n
+Please use the "&Wbug <problem>&n" command to report bug finds, everything from logic problems to typos.
+Please remember we are still in beta test and working on bug fixes and zones as fast as possible.
+
+&WMay your booty be plentiful, as the beer always is&n

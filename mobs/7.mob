@@ -1,0 +1,25 @@
+701
+god home godroom~
+&WGodRoom guard&n~
+&WThe GodRoom guard stands here.&n~
+&WThe GodRoom guard stands here.&n~
+&WThe GodRoom guard stands here.&n~
+a ad 50 
+1 1 50 
+0 -90 7000
+6 8 10
+50 1500 j j 1
+ENDMOB
+702
+judge judgement~
+&WThe Judge&n~
+&WThe Judge stands here.&n~
+&WThe Judge stands here.&n~
+&WThe Judge stands here.&n~
+aco ad 50 
+1 1 50 
+0 -90 7000
+6 8 10
+50 1500 j j 1
+ENDMOB
+ENDFILE

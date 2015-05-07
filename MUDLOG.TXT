@@ -1,0 +1,256 @@
+Wed Dec 06 00:22:42 2000:Booting Skills File
+Wed Dec 06 00:22:42 2000:Booting SpellsFile (mage, cleric, empath, psi, and flayer)
+Wed Dec 06 00:22:42 2000:Booting social file
+Wed Dec 06 00:22:42 2000:Booting Affect files
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/1.zone
+Wed Dec 06 00:22:43 2000:The Wolfshade World read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/7.zone
+Wed Dec 06 00:22:43 2000:The God Rooms read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/9.zone
+Wed Dec 06 00:22:43 2000:The Construct read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/101.zone
+Wed Dec 06 00:22:43 2000:The Fugue Plane read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/110.zone
+Wed Dec 06 00:22:43 2000:The Orcish Outpost read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/111.zone
+Wed Dec 06 00:22:43 2000:Xaxkix the Thri-kreen city read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/120.zone
+Wed Dec 06 00:22:43 2000:The Gnomish Town read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/121.zone
+Wed Dec 06 00:22:43 2000:Willow Creek Militia barrack read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/122.zone
+Wed Dec 06 00:22:43 2000: read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/130.zone
+Wed Dec 06 00:22:43 2000:The Coliseum read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/140.zone
+Wed Dec 06 00:22:43 2000:Swamp Mohr Castle read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/200.zone
+Wed Dec 06 00:22:43 2000:Kipu's Farm House read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/205.zone
+Wed Dec 06 00:22:43 2000:The Tunnel of Challenge read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/210.zone
+Wed Dec 06 00:22:43 2000:The Docking Bay read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/230.zone
+Wed Dec 06 00:22:43 2000:Frost Giant Camp read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/240.zone
+Wed Dec 06 00:22:43 2000:The Mage Tower read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/250.zone
+Wed Dec 06 00:22:43 2000:A good small path read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/251.zone
+Wed Dec 06 00:22:43 2000:An evil small path read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/260.zone
+Wed Dec 06 00:22:43 2000:Guru Mountain read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/300.zone
+Wed Dec 06 00:22:43 2000:Gnoll and Ogre Town read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/340.zone
+Wed Dec 06 00:22:43 2000:The Illithid town read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/500.zone
+Wed Dec 06 00:22:43 2000:Sibrene Cove read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/502.zone
+Wed Dec 06 00:22:43 2000:Sibrene Cove Mines read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/503.zone
+Wed Dec 06 00:22:43 2000:The Thieves' Den read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/510.zone
+Wed Dec 06 00:22:43 2000:Cave of the Lizardmen read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/511.zone
+Wed Dec 06 00:22:43 2000:Swamp of the Bog Trolls read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/515.zone
+Wed Dec 06 00:22:43 2000:The Oasis read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/516.zone
+Wed Dec 06 00:22:43 2000:Lava Tubes read.
+Wed Dec 06 00:22:43 2000:Reading zone file: zones/540.zone
+Wed Dec 06 00:22:43 2000:A Dark Forest read.
+Wed Dec 06 00:22:43 2000:29 zones read.
+Wed Dec 06 00:22:43 2000:booting mob prototypes
+Wed Dec 06 00:22:43 2000:Reading file: mobs/1.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/2.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/7.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/110.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/111.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/120.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/121.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/122.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/130.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/140.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/200.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/205.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/210.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/230.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/240.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/250.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/251.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/260.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/300.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/340.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/500.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/502.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/503.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/510.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/511.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/515.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/516.mob
+Wed Dec 06 00:22:43 2000:Reading file: mobs/540.mob
+Wed Dec 06 00:22:43 2000:457 mobs read in.
+Wed Dec 06 00:22:43 2000:395 mob names and aliases loaded
+Wed Dec 06 00:22:43 2000:booting object prototypes
+Wed Dec 06 00:22:43 2000:booting object file: objs/1.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/2.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/9newbie.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/10.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/110.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/111.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/120.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/121.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/122.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/130.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/140.object
+Wed Dec 06 00:22:43 2000:booting object file: objs/200.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/205.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/210.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/230.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/240.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/260.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/300.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/500.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/502.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/503.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/510.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/511.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/515.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/516.object
+Wed Dec 06 00:22:44 2000:booting object file: objs/540.object
+Wed Dec 06 00:22:44 2000:367 object prototypes read in.
+Wed Dec 06 00:22:44 2000:booting prototype rooms
+Wed Dec 06 00:22:44 2000:12 virtual rooms prototypes read.
+Wed Dec 06 00:22:44 2000:creating virutal world
+Wed Dec 06 00:22:44 2000:10000 virtual rooms made.
+Wed Dec 06 00:22:44 2000:booting real rooms
+Wed Dec 06 00:22:44 2000:reading file realrooms/7.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/8.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/9.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/10.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/101.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/110.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/111.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/120.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/121.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/122.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/130.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/140.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/141.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/200.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/205.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/210.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/230.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/240.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/250.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/251.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/260.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/300.rom
+Wed Dec 06 00:22:44 2000:reading file realrooms/301.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/340.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/500.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/501.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/502.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/503.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/510.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/511.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/515.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/516.rom
+Wed Dec 06 00:22:45 2000:reading file realrooms/540.rom
+Wed Dec 06 00:22:45 2000:1310 real rooms read.
+Wed Dec 06 00:22:45 2000:11310 total rooms in world.
+Wed Dec 06 00:22:45 2000:size of a room is : 340
+Wed Dec 06 00:22:45 2000:booting shops
+Wed Dec 06 00:22:45 2000:Reading shop file: shops/110.shp
+Wed Dec 06 00:22:45 2000:Saved Player size is: 2724
+Wed Dec 06 00:22:45 2000:Deleted : 0 characters from player file.
+Wed Dec 06 00:22:45 2000:1 players in player file
+Wed Dec 06 00:22:45 2000:Reading shop file: shops/120.shp
+Wed Dec 06 00:22:45 2000:Reading shop file: shops/300.shp
+Wed Dec 06 00:22:45 2000:Reading shop file: shops/500.shp
+Wed Dec 06 00:22:45 2000:Reading shop file: shops/boat.shp
+Wed Dec 06 00:22:45 2000:17 shops loaded
+Wed Dec 06 00:22:45 2000:size of a shop room is 368
+Wed Dec 06 00:22:45 2000:Setting Room pointers for faster movement =)
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1002174
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1005057
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1000099
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1001519
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1009245
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1002075
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1006105
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1006107
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1005055
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1008875
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1005047
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1002275
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1000949
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1004972
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1006466
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1005045
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1003651
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1002004
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1008612
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1009269
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1004734
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1006006
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1005052
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1006206
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1002176
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1000894
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1009596
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1005052
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1005050
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1001109
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1009455
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1008808
+Wed Dec 06 00:22:45 2000:creating zone connection at room vnum: 1000795
+Wed Dec 06 00:22:45 2000:Checking for bad doors...
+Wed Dec 06 00:22:45 2000:Done checking bad doors.
+Wed Dec 06 00:22:45 2000:Making virtual map.
+Wed Dec 06 00:22:45 2000:resetting zone  
+Wed Dec 06 00:22:45 2000:resetting zone &RLava &LTubes&n 
+Wed Dec 06 00:22:45 2000:resetting zone &gA &LDark &gForest&n 
+Wed Dec 06 00:22:45 2000:resetting zone &RThe Gnomish Town&n 
+Wed Dec 06 00:22:46 2000:resetting zone &WThe &BWolfshade &WWorld&n 
+Wed Dec 06 00:22:46 2000:resetting zone &WThe Construct&n 
+Wed Dec 06 00:22:46 2000:resetting zone &yKipu's Farm House&n 
+Wed Dec 06 00:22:46 2000:resetting zone &WThe &RMage &LTower&n 
+Wed Dec 06 00:22:46 2000:resetting zone &WSibrene &MCove &LMines&n 
+Wed Dec 06 00:22:46 2000:resetting zone &cWil&Clow &wCreek &CMili&ctia&w barrack&n 
+Wed Dec 06 00:22:46 2000:resetting zone &gCave of the &rLizard&gmen&n 
+Wed Dec 06 00:22:46 2000:resetting zone &LThe &rThieves' &LDen&n 
+Wed Dec 06 00:22:46 2000:resetting zone &gSwamp of the &LBog &gTrolls&n 
+Wed Dec 06 00:22:46 2000:resetting zone &WThe Coliseum&n 
+Wed Dec 06 00:22:46 2000:resetting zone A good small path 
+Wed Dec 06 00:22:46 2000:resetting zone &yThe Docking Bay&n 
+Wed Dec 06 00:22:46 2000:resetting zone An evil small path 
+Wed Dec 06 00:22:46 2000:resetting zone &LSwamp Mohr Castle&n 
+Wed Dec 06 00:22:46 2000:resetting zone &rThe Fugue Plane&n 
+Wed Dec 06 00:22:46 2000:resetting zone &GGuru Mountain&n 
+Wed Dec 06 00:22:46 2000:resetting zone &LGn&yoll and &bOgre Town&n 
+Wed Dec 06 00:22:46 2000:resetting zone &LThe Tunnel of Challenge&n 
+Wed Dec 06 00:22:46 2000:resetting zone &mThe &MIllithid &mtown&n 
+Wed Dec 06 00:22:46 2000:resetting zone &LThe Orcish Outpost&n 
+Wed Dec 06 00:22:46 2000:resetting zone &WThe &GOasis&n 
+Wed Dec 06 00:22:46 2000:resetting zone &WThe God Rooms&n 
+Wed Dec 06 00:22:46 2000:resetting zone &WFrost &CGiant &WCamp&n 
+Wed Dec 06 00:22:47 2000:resetting zone &yXaxkix the &GThri&W-&Ykreen&y city&n 
+Wed Dec 06 00:22:47 2000:resetting zone &WSibrene &MCove&n 
+Wed Dec 06 00:22:47 2000:booting help system
+Wed Dec 06 00:22:47 2000:No corpses to load...
+Wed Dec 06 00:22:47 2000:Winsock started using 2.0
+Wed Dec 06 00:22:47 2000:Max Players set to 296
+Wed Dec 06 00:22:47 2000:Wolfshade mud is running on port: 1234
+Wed Dec 06 00:22:47 2000:Size of CCharacter Class: 1908
+Wed Dec 06 00:23:02 2000:New connection waking up!
+The desc is: 364
+Wed Dec 06 00:23:02 2000:127.0.0.1 and there are 1 connected sockets 
+Wed Dec 06 00:23:02 2000:resetting zone  
+Wed Dec 06 00:23:13 2000:Duth has entered the game 
+Wed Dec 06 00:24:02 2000:resetting zone  
+Wed Dec 06 00:24:44 2000:DEATH: &yGrub the &LGn&yoll Butcher&n has just killed &wa &YDwarf&w slave&n 
+Wed Dec 06 00:24:55 2000:Total Pulses: 1123
+Wed Dec 06 00:24:55 2000:Missed Pulses: 0
+Wed Dec 06 00:24:55 2000:%: 0

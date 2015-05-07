@@ -1,0 +1,14 @@
+801
+&LGrey&y Bridge&n~
+&yThis bridge looks like it can open up for passing ships and is also the gateway to the other side of the world.&n~
+8 b 1 2
+DOOR
+1
+~
+1 -1 1005052
+DOOR
+3
+~
+1 -1 1005050
+ENDROOM
+ENDFILE

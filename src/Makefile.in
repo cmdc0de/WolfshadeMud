@@ -1,0 +1,498 @@
+# C++ compiler to use
+CC = @CXX@
+
+##############################################################################
+# Do Not Modify Anything Below This Line (unless you know what you're doing) #
+##############################################################################
+
+WOFLSHADE_HOME=..
+INSTALL_DIR=/usr/local/games/wolfshademud
+INSTALL=@INSTALL@
+BINDIR = ../bin
+SRCDIR=.
+OBJDIR=$(SRCDIR)/objs
+VERSION=1.66.5
+DEFS= -D_DEBUG -DVERSION=\"$(VERSION)\"
+
+CXXFLAGS = @CXXFLAGS@ $(DEFS)
+
+#LIBS = @LIBS@ @NETLIB@
+LIBS = @LIBS@
+
+OBJFILES = $(OBJDIR)/affect.o \
+$(OBJDIR)/affectedby.o \
+$(OBJDIR)/armor.o \
+$(OBJDIR)/anti.paladin.o \
+$(OBJDIR)/ascii.stream.o \
+$(OBJDIR)/attributes.o \
+$(OBJDIR)/bank.room.o \
+$(OBJDIR)/barbarian.reference.o \
+$(OBJDIR)/brownie.reference.o \
+$(OBJDIR)/centaur.reference.o \
+$(OBJDIR)/char.intermediate.o \
+$(OBJDIR)/character.attributes.o \
+$(OBJDIR)/character.o \
+$(OBJDIR)/cleric.o \
+$(OBJDIR)/container.o \
+$(OBJDIR)/corpse.o \
+$(OBJDIR)/defiler.o \
+$(OBJDIR)/draconian.reference.o \
+$(OBJDIR)/drow.elf.reference.o \
+$(OBJDIR)/druid.o \
+$(OBJDIR)/duergar.dwarf.reference.o \
+$(OBJDIR)/elemental.reference.o \
+$(OBJDIR)/empath.o \
+$(OBJDIR)/error.o \
+$(OBJDIR)/game.o \
+$(OBJDIR)/githyanki.reference.o \
+$(OBJDIR)/global.management.o \
+$(OBJDIR)/gnoll.reference.o \
+$(OBJDIR)/gnome.reference.o \
+$(OBJDIR)/grey.elf.reference.o \
+$(OBJDIR)/group.o \
+$(OBJDIR)/half.drow.elf.reference.o \
+$(OBJDIR)/half.grey.elf.reference.o \
+$(OBJDIR)/half.orc.reference.o \
+$(OBJDIR)/human.reference.o \
+$(OBJDIR)/illithid.reference.o \
+$(OBJDIR)/imp.reference.o \
+$(OBJDIR)/interpetor.o \
+$(OBJDIR)/kender.reference.o \
+$(OBJDIR)/kenku.reference.o \
+$(OBJDIR)/lich.reference.o \
+$(OBJDIR)/light.o \
+$(OBJDIR)/list.o \
+$(OBJDIR)/mage.o \
+$(OBJDIR)/main.o \
+$(OBJDIR)/message.manager.o \
+$(OBJDIR)/mindflayer.o \
+$(OBJDIR)/minotaur.reference.o \
+$(OBJDIR)/mob.manager.o \
+$(OBJDIR)/mob.prototype.o \
+$(OBJDIR)/money.o \
+$(OBJDIR)/mountain.dwarf.reference.o \
+$(OBJDIR)/mudtime.o \
+$(OBJDIR)/mul.reference.o \
+$(OBJDIR)/none.reference.o \
+$(OBJDIR)/npc.antipaladin.o \
+$(OBJDIR)/npc.classless.ai.o \
+$(OBJDIR)/npc.cleric.o \
+$(OBJDIR)/npc.defiler.o \
+$(OBJDIR)/npc.druid.o \
+$(OBJDIR)/npc.empath.o \
+$(OBJDIR)/npc.mage.o \
+$(OBJDIR)/npc.mindflayer.o \
+$(OBJDIR)/npc.o \
+$(OBJDIR)/npc.paladin.o \
+$(OBJDIR)/npc.psionicist.o \
+$(OBJDIR)/npc.ranger.o \
+$(OBJDIR)/npc.rogue.o \
+$(OBJDIR)/npc.shaman.o \
+$(OBJDIR)/npc.warrior.o \
+$(OBJDIR)/object.manager.o \
+$(OBJDIR)/object.o \
+$(OBJDIR)/object.misc.o \
+$(OBJDIR)/object.prototype.o \
+$(OBJDIR)/object.save.o \
+$(OBJDIR)/ogre.reference.o \
+$(OBJDIR)/orc.reference.o \
+$(OBJDIR)/paladin.o \
+$(OBJDIR)/pixie.reference.o \
+$(OBJDIR)/portal.o \
+$(OBJDIR)/psionicist.o \
+$(OBJDIR)/racial.reference.o \
+$(OBJDIR)/ranger.o \
+$(OBJDIR)/rogue.o \
+$(OBJDIR)/room.o \
+$(OBJDIR)/saurial.reference.o \
+$(OBJDIR)/save.char.o \
+$(OBJDIR)/shaman.o \
+$(OBJDIR)/shop.room.o \
+$(OBJDIR)/socket.o \
+$(OBJDIR)/stdinclude.o \
+$(OBJDIR)/trackinfo.o \
+$(OBJDIR)/transport.o \
+$(OBJDIR)/transportroom.o \
+$(OBJDIR)/thrikreen.reference.o \
+$(OBJDIR)/troll.reference.o \
+$(OBJDIR)/undead.reference.o \
+$(OBJDIR)/warrior.o \
+$(OBJDIR)/wolfshade.string.o \
+$(OBJDIR)/world.o \
+$(OBJDIR)/zone.manager.o \
+$(OBJDIR)/zone.o 
+
+default: wolfshade
+
+wolfshade:
+	$(MAKE) checkdirs
+	$(MAKE) $(BINDIR)/wolfshade
+
+all :
+	$(MAKE) clean
+	$(MAKE) makefile
+	$(MAKE) $(BINDIR)/wolfshade
+
+$(BINDIR)/wolfshade : $(OBJFILES)
+	$(CC) -o $(BINDIR)/wolfshade $(OBJFILES) $(LIBS)
+
+clean:
+	rm -f $(OBJDIR)/*.o
+
+makefile :
+	rm config.cache config.status config.log
+	autoheader
+	autoconf
+	./configure
+
+checkdirs :
+	[ -d $(OBJDIR) ] || mkdir $(OBJDIR);
+	[ -d $(BINDIR) ] || mkdir $(BINDIR);
+
+remove : 
+	#just an extra safe uninstall...insure we are not going to delete /
+	if [ "$(INSTALL_DIR)" != "/" ]; \
+	then \
+		echo "delete all wolfshade files"; \
+       		rm -Rf $(INSTALL_DIR); \
+		echo "complete"; \
+	else \
+        	echo "INSTALL_DIR is set to /...DOH!"; \
+	fi
+
+install :
+	echo "Install program: $(INSTALL)"
+	$(INSTALL) -d $(INSTALL_DIR)
+	$(INSTALL) -d $(INSTALL_DIR)/zones
+	$(INSTALL) -d $(INSTALL_DIR)/objs
+	$(INSTALL) -d $(INSTALL_DIR)/mobs
+	$(INSTALL) -d $(INSTALL_DIR)/players
+	$(INSTALL) -d $(INSTALL_DIR)/plobjs
+	$(INSTALL) -d $(INSTALL_DIR)/spellsave
+	$(INSTALL) -d $(INSTALL_DIR)/bin
+	$(INSTALL) -d $(INSTALL_DIR)/shops
+	$(INSTALL) -d $(INSTALL_DIR)/docs
+	$(INSTALL) -d $(INSTALL_DIR)/utils
+	$(INSTALL) -d $(INSTALL_DIR)/utils/msworld
+	$(INSTALL) -d $(INSTALL_DIR)/files
+	$(INSTALL) -d $(INSTALL_DIR)/realrooms
+	$(INSTALL) -d $(INSTALL_DIR)/virtualrooms
+	$(INSTALL) $(WOLFSHADE_HOME)/zones/* $(INSTALL_DIR)/zones
+	$(INSTALL) $(WOLFSHADE_HOME)/objs/* $(INSTALL_DIR)/objs
+	$(INSTALL) $(WOLFSHADE_HOME)/mobs/* $(INSTALL_DIR)/mobs
+	$(INSTALL) $(WOLFSHADE_HOME)/bin/* $(INSTALL_DIR)/bin
+	$(INSTALL) $(WOLFSHADE_HOME)/shops/* $(INSTALL_DIR)/shops
+	$(INSTALL) $(WOLFSHADE_HOME)/docs/* $(INSTALL_DIR)/docs
+	$(INSTALL) $(WOLFSHADE_HOME)/utils/msworld/* $(INSTALL_DIR)/utils/msworld
+	$(INSTALL) $(WOLFSHADE_HOME)/files/* $(INSTALL_DIR)/files
+	$(INSTALL) $(WOLFSHADE_HOME)/realrooms/* $(INSTALL_DIR)/realrooms
+	$(INSTALL) $(WOLFSHADE_HOME)/virtualrooms/* $(INSTALL_DIR)/virtualrooms
+
+# Dependencies for the object files (automagically generated with
+# c++)
+
+$(OBJDIR)/affect.o affect.o : $(SRCDIR)/affect.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/affect.cpp -o $(OBJDIR)/affect.o
+
+$(OBJDIR)/affectedby.o affectedby.o : $(SRCDIR)/affectedby.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/affectedby.cpp -o $(OBJDIR)/affectedby.o
+
+$(OBJDIR)/armor.o armor.o : $(SRCDIR)/armor.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/armor.cpp -o $(OBJDIR)/armor.o
+
+$(OBJDIR)/anti.paladin.o anti.paladin.o : $(SRCDIR)/anti.paladin.cpp 
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/anti.paladin.cpp -o $(OBJDIR)/anti.paladin.o
+
+$(OBJDIR)/ascii.stream.o ascii.stream.o : $(SRCDIR)/ascii.stream.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/ascii.stream.cpp -o $(OBJDIR)/ascii.stream.o
+
+$(OBJDIR)/attributes.o attributes.o: $(SRCDIR)/attributes.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/attributes.cpp -o $(OBJDIR)/attributes.o
+
+$(OBJDIR)/bank.room.o bank.room.o : $(SRCDIR)/bank.room.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/bank.room.cpp -o $(OBJDIR)/bank.room.o
+
+$(OBJDIR)/barbarian.reference.o barbarian.reference.o : $(SRCDIR)/barbarian.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/barbarian.reference.cpp -o $(OBJDIR)/barbarian.reference.o
+
+$(OBJDIR)/brownie.reference.o brownie.reference.o : $(SRCDIR)/brownie.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/brownie.reference.cpp -o $(OBJDIR)/brownie.reference.o
+
+$(OBJDIR)/centaur.reference.o centaur.reference.o : $(SRCDIR)/centaur.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/centaur.reference.cpp -o $(OBJDIR)/centaur.reference.o
+
+$(OBJDIR)/char.intermediate.o char.intermediate.o : $(SRCDIR)/char.intermediate.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/char.intermediate.cpp -o $(OBJDIR)/char.intermediate.o
+
+$(OBJDIR)/character.attributes.o character.attributes.o : $(SRCDIR)/character.attributes.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/character.attributes.cpp -o $(OBJDIR)/character.attributes.o
+
+$(OBJDIR)/character.o character.o : $(SRCDIR)/character.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/character.cpp -o $(OBJDIR)/character.o
+
+$(OBJDIR)/cleric.o cleric.o : $(SRCDIR)/cleric.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/cleric.cpp -o $(OBJDIR)/cleric.o
+
+$(OBJDIR)/container.o container.o : $(SRCDIR)/container.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/container.cpp -o $(OBJDIR)/container.o
+
+$(OBJDIR)/corpse.o corpse.o : $(SRCDIR)/corpse.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/corpse.cpp -o $(OBJDIR)/corpse.o
+
+$(OBJDIR)/defiler.o defiler.o : $(SRCDIR)/defiler.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/defiler.cpp -o $(OBJDIR)/defiler.o
+
+$(OBJDIR)/draconian.reference.o draconian.reference.o : $(SRCDIR)/draconian.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/draconian.reference.cpp -o $(OBJDIR)/draconian.reference.o
+
+$(OBJDIR)/drow.elf.reference.o drow.elf.reference.o : $(SRCDIR)/drow.elf.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/drow.elf.reference.cpp -o $(OBJDIR)/drow.elf.reference.o
+
+$(OBJDIR)/druid.o druid.o : $(SRCDIR)/druid.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/druid.cpp -o $(OBJDIR)/druid.o
+
+$(OBJDIR)/duergar.dwarf.reference.o duergar.dwarf.reference.o : $(SRCDIR)/duergar.dwarf.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/duergar.dwarf.reference.cpp -o $(OBJDIR)/duergar.dwarf.reference.o
+
+$(OBJDIR)/elemental.reference.o elemental.reference.o : $(SRCDIR)/elemental.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/elemental.reference.cpp -o $(OBJDIR)/elemental.reference.o
+
+$(OBJDIR)/empath.o empath.o : $(SRCDIR)/empath.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/empath.cpp -o $(OBJDIR)/empath.o
+
+$(OBJDIR)/error.o error.o: $(SRCDIR)/error.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/error.cpp -o $(OBJDIR)/error.o
+
+$(OBJDIR)/game.o game.o : $(SRCDIR)/game.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/game.cpp -o $(OBJDIR)/game.o
+
+$(OBJDIR)/githyanki.reference.o githyanki.reference.o : $(SRCDIR)/githyanki.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/githyanki.reference.cpp -o $(OBJDIR)/githyanki.reference.o
+
+$(OBJDIR)/global.management.o global.management.o : $(SRCDIR)/global.management.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/global.management.cpp -o $(OBJDIR)/global.management.o
+
+$(OBJDIR)/gnoll.reference.o gnoll.reference.o : $(SRCDIR)/gnoll.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/gnoll.reference.cpp -o $(OBJDIR)/gnoll.reference.o
+
+$(OBJDIR)/gnome.reference.o gnome.reference.o : $(SRCDIR)/gnome.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/gnome.reference.cpp -o $(OBJDIR)/gnome.reference.o
+
+$(OBJDIR)/grey.elf.reference.o grey.elf.reference.o : $(SRCDIR)/grey.elf.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/grey.elf.reference.cpp -o $(OBJDIR)/grey.elf.reference.o
+
+$(OBJDIR)/group.o group.o : $(SRCDIR)/group.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/group.cpp -o $(OBJDIR)/group.o
+
+$(OBJDIR)/half.drow.elf.reference.o half.drow.elf.reference.o : $(SRCDIR)/half.drow.elf.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/half.drow.elf.reference.cpp -o $(OBJDIR)/half.drow.elf.reference.o
+
+$(OBJDIR)/half.grey.elf.reference.o half.grey.elf.reference.o : $(SRCDIR)/half.grey.elf.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/half.grey.elf.reference.cpp -o $(OBJDIR)/half.grey.elf.reference.o
+
+$(OBJDIR)/half.orc.reference.o half.orc.reference.o :  $(SRCDIR)/half.orc.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/half.orc.reference.cpp -o $(OBJDIR)/half.orc.reference.o
+
+$(OBJDIR)/human.reference.o human.reference.o : $(SRCDIR)/human.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/human.reference.cpp -o $(OBJDIR)/human.reference.o
+
+$(OBJDIR)/illithid.reference.o illithid.reference.o : $(SRCDIR)/illithid.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/illithid.reference.cpp -o $(OBJDIR)/illithid.reference.o
+
+$(OBJDIR)/imp.reference.o imp.reference.o: $(SRCDIR)/imp.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/imp.reference.cpp -o $(OBJDIR)/imp.reference.o
+
+$(OBJDIR)/interpetor.o interpetor.o :  $(SRCDIR)/interpetor.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/interpetor.cpp -o $(OBJDIR)/interpetor.o
+
+$(OBJDIR)/kender.reference.o kender.reference.o : $(SRCDIR)/kender.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/kender.reference.cpp -o $(OBJDIR)/kender.reference.o
+
+$(OBJDIR)/kenku.reference.o kenku.reference.o: $(SRCDIR)/kenku.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/kenku.reference.cpp -o $(OBJDIR)/kenku.reference.o
+
+$(OBJDIR)/lich.reference.o lich.reference.o: $(SRCDIR)/lich.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/lich.reference.cpp -o $(OBJDIR)/lich.reference.o
+
+$(OBJDIR)/light.o light.o: $(SRCDIR)/light.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/light.cpp -o $(OBJDIR)/light.o
+
+$(OBJDIR)/list.o list.o: $(SRCDIR)/list.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/list.cpp -o $(OBJDIR)/list.o
+
+$(OBJDIR)/mage.o mage.o: $(SRCDIR)/mage.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/mage.cpp -o $(OBJDIR)/mage.o
+
+$(OBJDIR)/main.o main.o : $(SRCDIR)/main.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/main.cpp -o $(OBJDIR)/main.o
+
+$(OBJDIR)/message.manager.o message.manager.o : $(SRCDIR)/message.manager.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/message.manager.cpp -o $(OBJDIR)/message.manager.o
+
+$(OBJDIR)/mindflayer.o mindflayer.o : $(SRCDIR)/mindflayer.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/mindflayer.cpp -o $(OBJDIR)/mindflayer.o
+
+$(OBJDIR)/minotaur.reference.o minotaur.reference.o : $(SRCDIR)/minotaur.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/minotaur.reference.cpp -o $(OBJDIR)/minotaur.reference.o
+
+$(OBJDIR)/mob.manager.o mob.manager.o : $(SRCDIR)/mob.manager.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/mob.manager.cpp -o $(OBJDIR)/mob.manager.o
+
+$(OBJDIR)/mob.prototype.o mob.prototype.o : $(SRCDIR)/mob.prototype.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/mob.prototype.cpp -o $(OBJDIR)/mob.prototype.o
+
+$(OBJDIR)/money.o money.o : $(SRCDIR)/money.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/money.cpp -o $(OBJDIR)/money.o
+
+$(OBJDIR)/mountain.dwarf.reference.o mountain.dwarf.reference.o : $(SRCDIR)/mountain.dwarf.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/mountain.dwarf.reference.cpp -o $(OBJDIR)/mountain.dwarf.reference.o
+
+$(OBJDIR)/mudtime.o mudtime.o : $(SRCDIR)/mudtime.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/mudtime.cpp -o $(OBJDIR)/mudtime.o
+
+$(OBJDIR)/mul.reference.o mul.reference.o : $(SRCDIR)/mul.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/mul.reference.cpp -o $(OBJDIR)/mul.reference.o
+
+$(OBJDIR)/none.reference.o none.reference.o : $(SRCDIR)/none.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/none.reference.cpp -o $(OBJDIR)/none.reference.o
+
+$(OBJDIR)/npc.antipaladin.o npc.antipaladin.o : $(SRCDIR)/npc.antipaladin.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.antipaladin.cpp -o $(OBJDIR)/npc.antipaladin.o
+
+$(OBJDIR)/npc.classless.ai.o npc.classless.ai.o : $(SRCDIR)/npc.classless.ai.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.classless.ai.cpp -o $(OBJDIR)/npc.classless.ai.o 
+
+$(OBJDIR)/npc.cleric.o npc.cleric.o : $(SRCDIR)/npc.cleric.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.cleric.cpp -o $(OBJDIR)/npc.cleric.o
+
+$(OBJDIR)/npc.defiler.o npc.defiler.o : $(SRCDIR)/npc.defiler.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.defiler.cpp -o $(OBJDIR)/npc.defiler.o
+
+$(OBJDIR)/npc.druid.o npc.druid.o : $(SRCDIR)/npc.druid.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.druid.cpp -o $(OBJDIR)/npc.druid.o
+
+$(OBJDIR)/npc.empath.o npc.empath.o : $(SRCDIR)/npc.empath.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.empath.cpp -o $(OBJDIR)/npc.empath.o
+
+$(OBJDIR)/npc.mage.o npc.mage.o : $(SRCDIR)/npc.mage.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.mage.cpp -o $(OBJDIR)/npc.mage.o
+
+$(OBJDIR)/npc.mindflayer.o npc.mindflayer.o: $(SRCDIR)/npc.mindflayer.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.mindflayer.cpp -o $(OBJDIR)/npc.mindflayer.o
+
+$(OBJDIR)/npc.o npc.o : $(SRCDIR)/npc.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.cpp -o $(OBJDIR)/npc.o
+
+$(OBJDIR)/npc.paladin.o npc.paladin.o : $(SRCDIR)/npc.paladin.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.paladin.cpp -o $(OBJDIR)/npc.paladin.o
+
+$(OBJDIR)/npc.psionicist.o npc.psionicist.o : $(SRCDIR)/npc.psionicist.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.psionicist.cpp -o $(OBJDIR)/npc.psionicist.o
+
+$(OBJDIR)/npc.ranger.o npc.ranger.o : $(SRCDIR)/npc.ranger.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.ranger.cpp -o $(OBJDIR)/npc.ranger.o
+
+$(OBJDIR)/npc.rogue.o npc.rogue.o : $(SRCDIR)/npc.rogue.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.rogue.cpp -o $(OBJDIR)/npc.rogue.o
+
+$(OBJDIR)/npc.shaman.o npc.shaman.o : $(SRCDIR)/npc.shaman.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.shaman.cpp -o $(OBJDIR)/npc.shaman.o
+
+$(OBJDIR)/npc.warrior.o npc.warrior.o : $(SRCDIR)/npc.warrior.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/npc.warrior.cpp -o $(OBJDIR)/npc.warrior.o
+
+$(OBJDIR)/object.manager.o object.manager.o : $(SRCDIR)/object.manager.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/object.manager.cpp -o $(OBJDIR)/object.manager.o
+
+$(OBJDIR)/object.o object.o : $(SRCDIR)/object.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/object.cpp -o $(OBJDIR)/object.o
+
+$(OBJDIR)/object.misc.o object.misc.o : $(SRCDIR)/object.misc.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/object.misc.cpp -o $(OBJDIR)/object.misc.o
+
+$(OBJDIR)/object.prototype.o object.prototype.o : $(SRCDIR)/object.prototype.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/object.prototype.cpp -o $(OBJDIR)/object.prototype.o
+
+$(OBJDIR)/object.save.o object.save.o : $(SRCDIR)/object.save.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/object.save.cpp -o $(OBJDIR)/object.save.o
+
+$(OBJDIR)/ogre.reference.o ogre.reference.o : $(SRCDIR)/ogre.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/ogre.reference.cpp -o $(OBJDIR)/ogre.reference.o
+
+$(OBJDIR)/orc.reference.o orc.reference.o : $(SRCDIR)/orc.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/orc.reference.cpp -o $(OBJDIR)/orc.reference.o
+
+$(OBJDIR)/paladin.o paladin.o : $(SRCDIR)/paladin.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/paladin.cpp -o $(OBJDIR)/paladin.o
+
+$(OBJDIR)/pixie.reference.o pixie.reference.o : $(SRCDIR)/pixie.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/pixie.reference.cpp -o $(OBJDIR)/pixie.reference.o
+
+$(OBJDIR)/portal.o portal.o : $(SRCDIR)/portal.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/portal.cpp -o $(OBJDIR)/portal.o
+
+$(OBJDIR)/psionicist.o psionicist.o : $(SRCDIR)/psionicist.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/psionicist.cpp -o $(OBJDIR)/psionicist.o
+
+$(OBJDIR)/racial.reference.o racial.reference.o : $(SRCDIR)/racial.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/racial.reference.cpp -o $(OBJDIR)/racial.reference.o
+
+$(OBJDIR)/ranger.o ranger.o : $(SRCDIR)/ranger.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/ranger.cpp -o $(OBJDIR)/ranger.o
+
+$(OBJDIR)/rogue.o rogue.o : $(SRCDIR)/rogue.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/rogue.cpp -o $(OBJDIR)/rogue.o
+
+$(OBJDIR)/room.o room.o : $(SRCDIR)/room.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/room.cpp -o $(OBJDIR)/room.o
+
+$(OBJDIR)/saurial.reference.o saurial.reference.o : $(SRCDIR)/saurial.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/saurial.reference.cpp -o $(OBJDIR)/saurial.reference.o
+
+$(OBJDIR)/save.char.o save.char.o : $(SRCDIR)/save.char.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/save.char.cpp -o $(OBJDIR)/save.char.o
+
+$(OBJDIR)/shaman.o shaman.o : $(SRCDIR)/shaman.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/shaman.cpp -o $(OBJDIR)/shaman.o
+
+$(OBJDIR)/shop.room.o shop.room.o : $(SRCDIR)/shop.room.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/shop.room.cpp -o $(OBJDIR)/shop.room.o
+
+$(OBJDIR)/socket.o socket.o : $(SRCDIR)/socket.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/socket.cpp -o $(OBJDIR)/socket.o
+
+$(OBJDIR)/stdinclude.o stdinclude.o : $(SRCDIR)/stdinclude.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/stdinclude.cpp -o $(OBJDIR)/stdinclude.o
+
+$(OBJDIR)/trackinfo.o trackinfo.o : $(SRCDIR)/trackinfo.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/trackinfo.cpp -o $(OBJDIR)/trackinfo.o
+
+$(OBJDIR)/transport.o transport.o : $(SRCDIR)/transport.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/transport.cpp -o $(OBJDIR)/transport.o
+
+$(OBJDIR)/transportroom.o transportroom.o : $(SRCDIR)/transportroom.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/transportroom.cpp -o $(OBJDIR)/transportroom.o
+
+$(OBJDIR)/thrikreen.reference.o thrikreen.reference.o : $(SRCDIR)/thrikreen.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/thrikreen.reference.cpp -o $(OBJDIR)/thrikreen.reference.o
+
+$(OBJDIR)/troll.reference.o troll.reference.o : $(SRCDIR)/troll.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/troll.reference.cpp -o $(OBJDIR)/troll.reference.o
+
+$(OBJDIR)/undead.reference.o undead.reference.o : $(SRCDIR)/undead.reference.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/undead.reference.cpp -o $(OBJDIR)/undead.reference.o
+
+$(OBJDIR)/warrior.o warrior.o : $(SRCDIR)/warrior.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/warrior.cpp -o $(OBJDIR)/warrior.o
+
+$(OBJDIR)/wolfshade.string.o wolfshade.string.o : $(SRCDIR)/wolfshade.string.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/wolfshade.string.cpp -o $(OBJDIR)/wolfshade.string.o
+
+$(OBJDIR)/world.o world.o : $(SRCDIR)/world.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/world.cpp -o $(OBJDIR)/world.o
+
+$(OBJDIR)/zone.manager.o zone.manager.o : $(SRCDIR)/zone.manager.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/zone.manager.cpp -o $(OBJDIR)/zone.manager.o
+
+$(OBJDIR)/zone.o zone.o: $(SRCDIR)/zone.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/zone.cpp -o $(OBJDIR)/zone.o

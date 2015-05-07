@@ -1,0 +1,301 @@
+11001
+orc king~
+&LThe Orc King&n~
+&LThe Orc King stands here regally over his council.&n~
+&Lstands here regally over his council.&n~
+&LThis is the great king of the Orcs.&n~
+abhi abeh -900 
+3 1 55 
+0 -100 20
+5 6 20
+5000 90 j j 1
+ENDMOB
+11002
+orc queen~
+&LThe Orc Queen&n~
+&LThe Orc Queen stands next to her king.&n~
+&Lstands next to her king.&n~
+&LThis is the queen of orcs, she protects her king at all costs.&n~
+abhi abcdefg -900 
+3 3 50 
+0 -100 10
+4 6 15
+5000 50 j j 2
+ENDMOB
+11003
+orcish patrol~
+&Lan Orcish Patrol&n~
+&Lan Orcish Patrol walks around the outpost watching for invaders.&n~
+&Lwalks around the outpost watching for invaders.&n~
+&LThis orc does not look like the kind to be messed with.&n~
+ehio abd -900 
+3 1 30 
+2 -20 10
+5 5 5
+50 50 j j 1
+ENDMOB
+11004
+old orcish mage~
+&LThe Old Orcish &mMage&n~
+&LThe Old Orcish &mMage stands here working on a new spell.&n~
+&Lstands here working on a new spell.&n~
+&LThis Old Orc pours over tomes and scrolls researching a new spell.&n~
+abq afd -900 
+3 3 60 
+0 -100 10
+5 10 20
+200 40 j j 1
+ENDMOB
+11005
+orcish banker~
+&Lthe orcish banker&n~
+&Lthe orcish banker is here counting money.&n~
+&Lthe orcish banker is here counting money.&n~
+&LThis grocer talks continuously trying to offer the best prices for exchange of money.&n~
+ab a -900 
+3 1 53 
+0 -90 15
+5 6 30
+200 60 j j 1
+ENDMOB
+11006
+orc war master~
+&Lthe Orc &rwar &Lmaster&n~
+&Lthe Orc &rwar &Lmaster pours over maps and plans for impending attacks.&n~
+&Lpours over maps and plans for impending attacks.&n~
+&LThis &rwar &Lmaster makes all the plans for the attacks of the orc tribe.&n~
+abq abcdefghijk -900 
+3 1 60 
+0 -100 10
+6 6 35
+400 40 j j 1
+ENDMOB
+11007
+old orcish priest~
+&LThe Old Orcish &WCleric&n~
+&LThe Old Orcish &WCleric stands here praying to his god.&n~
+&Lstands here praying to his god.&n~
+&LThis Orc is obviously highly devoted to his god.&n~
+abq a -900 
+3 2 60 
+0 -100 10
+5 10 20
+200 40 j j 1
+ENDMOB
+11008
+elite orcish guard~
+&WAn Elite &LOrcish &WGuard&n~
+&WAn Elite &LOrcish &WGuard protects the outpost.&n~
+&Wprotects the outpost.&n~
+&WThis &LOrc &Wwill protect his outpost with his life.&n~
+abchiC abcg -900 
+3 1 65 
+0 -100 7000
+10 10 40
+200 40 j j 1
+ENDMOB
+11009
+royal orcish guard~
+&WA Royal &LOrcish &WGuard&n~
+&WA Royal &LOrcish &WGuard protects the Throne.&n~
+&Wprotects the Throne.&n~
+&WThis &LOrc &Wwill protect his King and Queen with his life.&n~
+abchi abd -900 
+3 1 65 
+0 -100 7000
+10 10 40
+200 40 j j 1
+ENDMOB
+11010
+Bronk orcish Innkeeper~
+&LBronk&W, the &LOrc &WInnkeeper&n~
+&LBronk&W, the &LOrc &WInnkeeper stares at you from behind his desk.&n~
+&Wstares at you from behind his desk.&n~
+&LBronk&w is a orc you don't want to mess with.&n~
+abchi c -900 
+3 3 50 
+0 -75 5000
+10 10 40
+200 40 j j 1
+ENDMOB
+11011
+orc nobleman noble~
+&MAn &LOrc &Mnobleman&n~
+&MAn &LOrc &Mnobleman awaits audience with the King.&n~
+&Mawaits audience with the King.&n~
+&MDressed very gaudily, this orc must be some sort of noble.&n~
+ec ab -900 
+3 1 25 
+0 50 500
+5 5 5
+6000 0 j j 1
+ENDMOB
+11012
+orc noblewoman noble~
+&MAn &LOrc &Mnoblewoman&n~
+&MAn &LOrc &Mnoblewoman awaits audience with the King.&n~
+&Mawaits audience with the King.&n~
+&MDressed very gaudy, this orc must be some sort of noble.&n~
+ec ab -900 
+3 1 25 
+0 50 500
+5 5 5
+6000 0 j j 1
+ENDMOB
+11013
+orc jester~
+&MAn &LOrc &Yjester&n~
+&MAn &LOrc &Yjester awaits audience with the King.&n~
+&Mawaits audience with the King.&n~
+&MDressed in &Ycrazy &Rcolors, this &Lorc &Gmust &Bbe a &Yjester.&n~
+ec 0 -900 
+3 1 20 
+0 50 50
+5 5 5
+6 0 j j 1
+ENDMOB
+11014
+orc drunken~
+&LA drunken Orc&n~
+&LA drunken Orc swaggars about here.&n~
+&Lswaggars about here.&n~
+&LReeking of alcohol and not being able to stand straight, this orc must be drunk.&n~
+ac 0 -900 
+3 1 5 
+0 50 5
+1 5 5
+6 0 j j 1
+ENDMOB
+11015
+orc drunken~
+&LA drunken Orc&n~
+&LA drunken Orc swaggers about here.&n~
+&Lswaggers about here.&n~
+&LReeking of alcohol and not being able to stand straight, this orc must be drunk.&n~
+ac 0 -900 
+3 1 5 
+0 80 5
+1 5 5
+6 0 j j 2
+ENDMOB
+11016
+baby orc~
+&Wa baby &LOrc&n~
+&Wa baby &LOrc crawls around aimlessly.&n~
+&Wcrawls around aimlessly.&n~
+&WUgh ugh uga ugaa?&n~
+ce 0 -900 
+3 1 1 
+100 100 1
+1 5 0
+6 0 j j 1
+ENDMOB
+11017
+toddler orc~
+&Wan &LOrc &Wtoddler&n~
+&Wan &LOrc &Wtoddler crawls around aimlessly.&n~
+&Wcrawls around aimlessly.&n~
+&WToddle toddle toddle.&n~
+ce 0 -900
+3 1 3 
+90 95 3
+1 5 2
+6 0 j j 2
+ENDMOB
+11018
+warrior orc~
+&Wan &LOrc &Wwarrior&n~
+&Wan &LOrc &Wwarrior walks around looking for trouble.&n~
+&Wwalks around looking for trouble.&n~
+&WThis orc stands ready for any kind of invasion.&n~
+ceq abd -900 
+3 1 40 
+20 -20 2000
+10 10 0
+100 11 j j 1
+ENDMOB
+11019
+war mage orc~
+&Wan &LOrcish &rWar &LMage&n~
+&Wan &LOrcish &rWar &LMage practices spells as he walks around the outpost.&n~
+&Wpractices spells as he walks around the outpost.&n~
+&WMaking sure this place is well protected, this mage casts helpful spells during battle.&n~
+ceq adf -900
+3 3 35 
+40 0 1000
+10 5 10
+600 400 j j 1
+ENDMOB
+11020
+cleric orc~
+&Wan &LOrcish &CCleric&n~
+&Wan &LOrcish &CCleric &Lpractices spells as she walks around the outpost.&n~
+&Wpractices spells as she walks around the outpost.&n~
+&WMaking sure this place is well protected, this cleric casts helpful spells during battle.&n~
+ceq a -900
+3 2 45 
+40 -40 3000
+10 15 10
+2000 600 j j 2
+ENDMOB
+11021
+commoner orc~
+&Wan &LOrc &Wcommoner&n~
+&Wan &LOrc &Wcommoner walks around the outpost going about his business.&n~
+&Wwalks around the outpost going about his business.&n~
+&WThis orc is just a normal orc doing what he does everyday.&n~
+ce 0 -900
+3 1 20 
+70 30 200
+1 15 10
+200 10 j j 1
+ENDMOB
+11022
+commoner orc~
+&Wan &LOrc &Wcommoner&n~
+&Wan &LOrc &Wcommoner walks around the outpost going about her business.&n~
+&Wwalks around the outpost going about her business.&n~
+&WThis orc is just a normal orc doing what she does everyday.&n~
+ce 0 -900
+3 1 20 
+70 30 200
+1 15 10
+200 10 j j 2
+ENDMOB
+11023
+pet wolf~
+&La &bpet &Lwolf&n~
+&La &bpet &Lwolf wanders around the outpost.&n~
+&Lwanders around the outpost.&n~
+&LThis is a common pet for the orcs around here.&n~
+dfe 0 -900 
+27 1 5 
+90 90 100
+1 1 1
+0 10 j j 1
+ENDMOB
+11024
+war horse~
+&ya war horse&n~
+&ya war horse wanders around the outpost.&n~
+&Lwanders around the outpost.&n~
+&LThis is a common pet for the orcs around here.&n~
+fe 0 -900
+3 1 20
+70 50 100
+2 10 10
+0 10 j j 1
+ENDMOB
+11025
+elite orcish guard~
+&WAn Elite &LOrcish &WGuard&n~
+&WAn Elite &LOrcish &WGuard protects the outpost.&n~
+&Wprotects the outpost.&n~
+&WThis &LOrc &Wwill protect his outpost with his life.&n~
+bcehijpt abcg -900 
+3 1 65 
+0 -100 7000
+10 10 40
+200 40 j j 1
+ENDMOB
+ENDFILE

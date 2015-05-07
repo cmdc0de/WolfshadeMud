@@ -1,0 +1,133 @@
+51601
+zombie minotaur kpar~
+&Lthe Zombie of the Mino&rtaur&L Kpar&n~
+&LThe Zombie of the Mino&rtaur&L Kpar stands here.&n~
+&LThe Zombie of the Mino&rtaur&L Kpar stands here.&n~
+&LThe Zombie of the Mino&rtaur&L Kpar stands here.&n~
+aejp abcf -900 
+22 1 35 
+45 0 1
+3 5 5
+4000 0 j j 0
+ENDMOB
+51602
+sheeak kenku spirit~
+&Wthe spirit of the K&Lenk&Wu Sheeak&n~
+&Wthe spirit of the K&Lenk&Wu Sheeak floats here.&n~
+&Wthe spirit of the K&Lenk&Wu Sheeak floats here.&n~
+&Wthe spirit of the K&Lenk&Wu Sheeak floats here.&n~
+aejp ag -900 
+25 3 31 
+60 40 1
+2 5 5
+3000 0 j j 0
+ENDMOB
+51603
+decaying mul zombie~
+&ya decay&Ling &BMul &LZom&rbie&n~
+&ya decay&Ling &BMul &LZom&rbie &ystands moaning and groaning.&n~
+&ya decay&Ling &BMul &LZom&rbie &ystands moaning and groaning.&n~
+&ya decay&Ling &BMul &LZom&rbie &ystands moaning and groaning.&n~
+aejp ab -900 
+29 1 25
+60 50 1
+1 10 1
+3000 0 j j 0
+ENDMOB
+51604
+headless human skeleton~
+&Wa headless &whuman &Wskeleton&n~
+&WA headless &whuman &Wskeleton walks around here.&n~
+&WA headless &whuman &Wskeleton walks around here.&n~
+&WA headless &whuman &Wskeleton walks around here.&n~
+abejp abe -900 
+29 1 23 
+70 60 1
+1 10 0
+2000 0 j j 0
+ENDMOB
+51605
+large minotaur skeleton~
+&Wa large &LMino&rtaur&W Skeleton&n~
+&WStumbling about the area, a large &LMino&rtaur&W Skeleton is here.&n~
+&WStumbling about the area, a large &LMino&rtaur&W Skeleton is here.&n~
+&WStumbling about the area, a large &LMino&rtaur&W Skeleton is here.&n~
+bejp abc -900
+29 1 27 
+45 45 1
+2 5 2
+4000 0 j j 0
+ENDMOB
+51606
+mummified barbarian~
+&ba &LMummified Barb&barian&n~
+&bA &LMummified Barb&barian stands here.&n~
+&bA &LMummified Barb&barian stands here.&n~
+&bA &LMummified Barb&barian stands here.&n~
+bepj abej -900
+29 1 33 
+40 40 1
+2 6 6
+6000 0 j j 0
+ENDMOB
+51607
+eerie spectre~
+&Lan &beerie &mspectre&n~
+&LAn &beerie &mspectre &Lfloats here.&n~
+&LAn &beerie &mspectre &Lfloats here.&n~
+&LAn &beerie &mspectre &Lfloats here.&n~
+bejp ab -900
+29 4 20
+70 70 1
+2 3 2
+700 0 j j 0
+ENDMOB
+51608
+young necromantic mage~
+&ma young necromantic &Ymage&n~
+&mA young necromantic &Ymage&n stands here practicing a new spell.&n~
+&mA young necromantic &Ymage&n stands here practicing a new spell.&n~
+&mA young necromantic &Ymage&n stands here practicing a new spell.&n~
+abj af -900
+20 3 30 
+50 50 1
+3 3 3
+8000 0 j j 0
+ENDMOB
+51609
+scared kobold warrior~
+&ra scared kobold warrior&n~
+&rA scared kobold warrior hides in the corner.&n~
+&rA scared kobold warrior hides in the corner.&n~
+&rA scared kobold warrior hides in the corner.&n~
+abj a -900
+28 1 15 
+80 80 1
+1 4 1
+300 0 j j 1
+ENDMOB
+51610
+brave cleric~
+&Wa brave &Ccleric&n~
+&WA brave &Ccleric&W chants a prayer of protection.&n~
+&WA brave &Ccleric&W chants a prayer of protection.&n~
+&WA brave &Ccleric&W chants a prayer of protection.&n~
+abjp a 500
+20 2 26 
+50 50 1
+2 4 0
+3000 0 j j 2
+ENDMOB
+51611
+young thief~
+&La young thief&n~
+&LA barely seen thief sneaks around looking for treasure.&n~
+&LA barely seen thief sneaks around looking for treasure.&n~
+&LA barely seen thief sneaks around looking for treasure.&n~
+bejp a -400
+25 4 28 
+40 40 1
+3 3 3
+3000 0 j j 1
+ENDMOB
+ENDFILE

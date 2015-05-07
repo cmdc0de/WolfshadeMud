@@ -1,0 +1,85 @@
+12201
+tunser ale house owner~
+&WTunser&n~
+&WTunser, the owner of the ale house, stands here looking over his sales.&n~
+&WTunser, the owner of the ale house, stands here looking over his sales.&n~
+&WTunser, the owner of the ale house, is a small intelligent Gnome.  His glasses reveal a small hazel eyes that are constantly keeping watch on details.&n~
+ajegn ae 900
+11 3 47
+10 0 0
+3 6 5
+20000 0 j j 1
+ENDMOB
+12202
+dwarven barkeep Braymar~
+&YBraymar&n~
+&WThe &YDwarven&W barkeep, Brakmar, stands here filling orders for his ale.&n~
+&WThe &YDwarven&W barkeep, Brakmar, stands here filling orders for his ale.&n~
+&WBraymar is a stout Dwarf, ready to serve anyone with his renouned ale.  His breath reeks of ale, but that is often overlooked because of the greatness of his brew.&n~
+ajegn a 800
+14 1 6
+90 90 1
+1 3 1
+15 50 j j 1
+ENDMOB
+12203
+drunken rogue~
+&La &rdrunken &Lrogue&n~
+&LAn &rdrunken &Lrogue is here, oogling the wenches.&n~
+&LAn &rdrunken &Lrogue is here, oogling the wenches.&n~
+&LYou've seen this rogue before, helping out in the teaching of students over at the barrakcs, but right now he is only interested in his ale and the women.&n~
+ajeq ab 500
+11 4 20
+10 60 2
+3 3 3
+1000 50 j j 1
+ENDMOB
+12204
+neophyte ranger~
+&La &Yneophyte &Granger&n~
+&La &Yneophyte &Granger stands here gawking at the scene.&n~
+&La &Yneophyte &Granger stands here gawking at the scene.&n~
+&LThis &Granger &Lgoes around trying to talk to the people about the wonders of nature and how they can help him in his quest, but no one seems to listen.  He tries to recruit people by telling them he can teach them the ways of the forest.&n~
+ajeq a 995
+17 6 20
+70 60 1
+3 3 1
+900 40 j j 1
+ENDMOB
+12205
+adept mage~
+&ban &Radept &Ymage&n~
+&bAn &Radept &Ymage &bis here showing off his new found spells.&n~
+&bAn &Radept &Ymage &bis here showing off his new found spells.&n~
+&bThis &Ymage &bis obviously ready to teach someone how great he is, but most of the people in the bar just ignore him.&n~
+ajeq ace 900
+11 3 20 
+60 80 5
+2 4 1
+3000 0 j j 1
+ENDMOB
+12206
+visiting saurial paladin~
+&Wa &GSaurial &WPaladin&n~
+&WA visiting &GSaurial &WPaladin blesses his drink in the corner.&n~
+&WA visiting &GSaurial &WPaladin blesses his drink in the corner.&n~
+&WThis Saurial seems to be a rather large looking one, but just as holy as he is big.  He sits in the corner drinking quietly and blessing every drink he gets.  Maybe you could learn something from him?&n~
+ajeq a 995
+18 8 20
+50 50 1
+2 5 1
+5000 0 j j 1
+ENDMOB
+12207
+serving wench~
+&Wa &Cserving &Wwench&n~
+&WA &Cserving &Wwench stands here passing out ale.&n~
+&WA &Cserving &Wwench stands here passing out ale.&n~
+&WA nice beard growns on this Gnome.  She has attracted most of the patrons' attention with her thin garb and lusty moves&n~
+aje a 800
+11 1 10 
+80 80 1
+2 3 1
+500 0 j j 1
+ENDMOB
+ENDFILE

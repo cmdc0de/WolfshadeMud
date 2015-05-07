@@ -1,0 +1,85 @@
+205001
+lich lord~
+&Lthe Li&rch&L Lord&n~
+&LThe Li&rch&L Lord is here ready to take you on.&n~
+&LThe Li&rch&L Lord is here ready to take you on.&n~
+&LThe Li&rch&L Lord looks like a mighty powerful beast.&n~
+ajed af -1000
+30 3 55
+-20 -90 0
+10 10 20
+20500 0 j j 1
+ENDMOB
+205002
+buff warrior~
+&Ya buff warrior&n~
+&YA buff warrior stands here looking... buff.&n~
+&YA buff warrior stands here looking... buff.&n~
+&YThis large man looks to be quite a challenge.&n~
+ajde abek 800
+2 1 45
+0 -90 1
+10 10 50
+15000 0 j j 1
+ENDMOB
+205003
+annoying mage~
+&can &Cannoying &cmage&n~
+&cAn &Cannoying &cmage stands here.&n~
+&cAn &Cannoying &cmage stands here.&n~
+&cAn &Cannoying &cmage stands here.&n~
+ajed ad -900
+10 3 35
+15 0 0
+5 5 5
+1000 50 j j 1
+ENDMOB
+205004
+smelly troll~
+&ga &Gsmelly &gtroll&n~
+&gA &Gsmelly &gtroll stands here.&n~
+&gA &Gsmelly &gtroll stands here.&n~
+&gA &Gsmelly &gtroll stands here.&n~
+ajed ab -900
+2 1 25
+50 50 1
+3 3 3
+900 40 j j 2
+ENDMOB
+205005
+dark~
+&Ma dark &mDrow Elf&n~
+&MA dark &mDrow Elf &Mstands here waiting for you.&n~
+&MA dark &mDrow Elf &Mstands here waiting for you.&n~
+&MThis &mDrow Elf &Mstands here waiting for you.&n~
+ajed abej -900
+6 4 15 
+40 10 5
+2 4 1
+3000 0 j j 1
+ENDMOB
+205006
+drunk duergar~
+&ra drunk duergar&n~
+&rA drunk duergar stands here.&n~
+&rA drunk duergar stands here.&n~
+&rThis duergar smells really really bad.&n~
+ajde ab 995
+5 1 5
+90 90 1
+2 5 1
+500 0 j j 1
+ENDMOB
+205007
+skeleton guard~
+&Wa skeleton guard&n~
+&WA skeleton guard stands here.&n~
+&WA skeleton guard stands here.&n~
+&WA skeleton guard stands here.&n~
+ajed ad -700
+29 1 40 
+10 -20 1
+5 5 15
+500 0 j j 1
+ENDMOB
+ENDFILE

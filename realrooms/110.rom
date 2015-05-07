@@ -1,0 +1,1568 @@
+11001 Y
+&WGates to an &LOrcish &Woutpost.&n~
+&WBefore you lies some large gates that protect the only entrance to the &Lorcish &Woutpost.&n~
+110 a 1 2
+DOOR
+0
+~
+1 -1 1009455
+DOOR
+2
+~
+1 -1 11006
+ENDROOM
+11002 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11003
+DOOR
+2
+~
+1 -1 11011
+ENDROOM
+11003 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11004
+DOOR
+2
+~
+1 -1 11012
+DOOR
+3
+~
+1 -1 11002
+ENDROOM
+11004 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11005
+DOOR
+2
+~
+1 -1 11013
+DOOR
+3
+~
+1 -1 11003
+ENDROOM
+11005 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11006
+DOOR
+2
+~
+1 -1 11014
+DOOR
+3
+~
+1 -1 11004
+ENDROOM
+11006 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11001
+DOOR
+1
+~
+1 -1 11007
+DOOR
+2
+~
+1 -1 11015
+DOOR
+3
+~
+1 -1 11005
+ENDROOM
+11007 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11008
+DOOR
+2
+~
+1 -1 11016
+DOOR
+3
+~
+1 -1 11006
+ENDROOM
+11008 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11009
+DOOR
+2
+~
+1 -1 11017
+DOOR
+3
+~
+1 -1 11007
+ENDROOM
+11009 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11010
+DOOR
+2
+~
+1 -1 11018
+DOOR
+3
+~
+1 -1 11008
+ENDROOM
+11010 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+2
+~
+1 -1 11019
+DOOR
+3
+~
+1 -1 11009
+ENDROOM
+11011 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11002
+DOOR
+1
+~
+1 -1 11012
+DOOR
+2
+~
+1 -1 11020
+ENDROOM
+11012 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11003
+DOOR
+1
+~
+1 -1 11013
+DOOR
+2
+~
+1 -1 11021
+DOOR
+3
+~
+1 -1 11011
+ENDROOM
+11013 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11004
+DOOR
+1
+~
+1 -1 11014
+DOOR
+2
+~
+1 -1 11022
+DOOR
+3
+~
+1 -1 11012
+ENDROOM
+11014 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11005
+DOOR
+3
+~
+1 -1 11013
+ENDROOM
+11015 N
+&wEnterance to the Outpost Center&n~
+Opening to the south is the center of the outpost, where most of the important works occur.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11006
+DOOR
+2
+~
+1 -1 11024
+ENDROOM
+11016 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11007
+DOOR
+1
+~
+1 -1 11017
+ENDROOM
+11017 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11008
+DOOR
+1
+~
+1 -1 11018
+DOOR
+2
+~
+1 -1 11026
+DOOR
+3
+~
+1 -1 11016
+ENDROOM
+11018 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11009
+DOOR
+1
+~
+1 -1 11019
+DOOR
+2
+~
+1 -1 11027
+DOOR
+3
+~
+1 -1 11017
+ENDROOM
+11019 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11010
+DOOR
+2
+~
+1 -1 11028
+DOOR
+3
+~
+1 -1 11018
+ENDROOM
+11020 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11011
+DOOR
+1
+~
+1 -1 11021
+DOOR
+2
+~
+1 -1 11029
+ENDROOM
+11021 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11012
+DOOR
+1
+~
+1 -1 11022
+DOOR
+2
+~
+1 -1 11030
+DOOR
+3
+~
+1 -1 11020
+ENDROOM
+11022 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11013
+DOOR
+2
+~
+1 -1 11031
+DOOR
+3
+~
+1 -1 11021
+ENDROOM
+11023 N
+&rWar &LMaster's &rroom&n~
+Here the War Master Orc delegates the work of the orcish military.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11024
+ENDROOM
+11024 N
+&yPath to the Center of the Outpost&n~
+This is the main path to the center of the outpost.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11015
+DOOR
+1
+~
+1 -1 11025
+DOOR
+2
+~
+1 -1 11033
+DOOR
+3
+~
+1 -1 11023
+ENDROOM
+11025 N
+&cMarketing Master.&n~
+This is a bank.~
+110 a 17 2
+DOOR
+3
+~
+1 -1 11024
+ENDROOM
+11026 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11017
+DOOR
+1
+~
+1 -1 11027
+DOOR
+2
+~
+1 -1 11035
+ENDROOM
+11027 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11018
+DOOR
+1
+~
+1 -1 11028
+DOOR
+2
+~
+1 -1 11036
+DOOR
+3
+~
+1 -1 11026
+ENDROOM
+11028 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11019
+DOOR
+2
+~
+1 -1 11037
+DOOR
+3
+~
+1 -1 11027
+ENDROOM
+11029 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11020
+DOOR
+1
+~
+1 -1 11030
+DOOR
+2
+~
+1 -1 11038
+ENDROOM
+11030 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11021
+DOOR
+1
+~
+1 -1 11031
+DOOR
+2
+~
+1 -1 11039
+DOOR
+3
+~
+1 -1 11031
+ENDROOM
+11031 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11022
+DOOR
+2
+~
+1 -1 11040
+DOOR
+3
+~
+1 -1 11030
+ENDROOM
+11032 N
+&CAn &LOrcish &CMage Meeting Place&n~
+Here is where many orcish mages come to learn spells and gather needed components~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11033
+ENDROOM
+11033 N
+&yPath to the Center of the Outpost&n~
+This is the main path to the center of the outpost.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11024
+DOOR
+1
+~
+1 -1 11034
+DOOR
+2
+~
+1 -1 11042
+DOOR
+3
+~
+1 -1 11032
+ENDROOM
+11034 N
+&WAn &LOrcish &Wshrine&n~
+&WThis shrine is dedicated to one of the &LOrcish &WGods.~
+110 a 1 2
+DOOR
+3
+~
+1 -1 11033
+ENDROOM
+11035 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11026
+DOOR
+1
+~
+1 -1 11036
+DOOR
+2
+~
+1 -1 11044
+ENDROOM
+11036 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11027
+DOOR
+1
+~
+1 -1 11037
+DOOR
+2
+~
+1 -1 11045
+DOOR
+3
+~
+1 -1 11035
+ENDROOM
+11037 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11028
+DOOR
+2
+~
+1 -1 11046
+DOOR
+3
+~
+1 -1 11036
+ENDROOM
+11038 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11029
+DOOR
+1
+~
+1 -1 11039
+DOOR
+2
+~
+1 -1 11047
+ENDROOM
+11039 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11030
+DOOR
+1
+~
+1 -1 11040
+DOOR
+2
+~
+1 -1 11048
+DOOR
+3
+~
+1 -1 11038
+ENDROOM
+11040 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11031
+DOOR
+1
+~
+1 -1 11041
+DOOR
+2
+~
+1 -1 11049
+DOOR
+3
+~
+1 -1 11039
+ENDROOM
+11041 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+3
+~
+1 -1 11040
+ENDROOM
+11042 N
+&yPath to the Center of the Outpost&n~
+This is the main path to the center of the outpost.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11033
+DOOR
+2
+~
+1 -1 11051
+ENDROOM
+11043 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11044
+ENDROOM
+11044 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11035
+DOOR
+1
+~
+1 -1 11045
+DOOR
+2
+~
+1 -1 11053
+DOOR
+3
+~
+1 -1 11043
+ENDROOM
+11045 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11036
+DOOR
+1
+~
+1 -1 11046
+DOOR
+2
+~
+1 -1 11054
+DOOR
+3
+~
+1 -1 11044
+ENDROOM
+11046 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11037
+DOOR
+2
+~
+1 -1 11055
+DOOR
+3
+~
+1 -1 11045
+ENDROOM
+11047 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11038
+DOOR
+1
+~
+1 -1 11048
+DOOR
+2
+~
+1 -1 11056
+ENDROOM
+11048 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11049
+DOOR
+1
+~
+1 -1 11039
+DOOR
+2
+~
+1 -1 11057
+DOOR
+3
+~
+1 -1 11047
+ENDROOM
+11049 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11040
+DOOR
+2
+~
+1 -1 11058
+DOOR
+3
+~
+1 -1 11048
+ENDROOM
+11050 N
+&wThe square of the &LOrcish &wOutpost.&n~
+This is the square of the outpost.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11051
+DOOR
+2
+~
+1 -1 11059
+ENDROOM
+11051 N
+&wThe square of the &LOrcish &wOutpost.&n~
+This is the square of the outpost.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11042
+DOOR
+1
+~
+1 -1 11052
+DOOR
+2
+~
+1 -1 11060
+DOOR
+3
+~
+1 -1 11050
+ENDROOM
+11052 N
+&wThe square of the &LOrcish &wOutpost.&n~
+This is the square of the outpost.~
+110 a 1 2
+DOOR
+2
+~
+1 -1 11061
+DOOR
+3
+~
+1 -1 11051
+ENDROOM
+11053 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11044
+DOOR
+1
+~
+1 -1 11054
+DOOR
+2
+~
+1 -1 11062
+ENDROOM
+11054 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11045
+DOOR
+1
+~
+1 -1 11055
+DOOR
+2
+~
+1 -1 11063
+DOOR
+3
+~
+1 -1 11053
+ENDROOM
+11055 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11046
+DOOR
+2
+~
+1 -1 11064
+DOOR
+3
+~
+1 -1 11054
+ENDROOM
+11056 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11047
+DOOR
+1
+~
+1 -1 11057
+DOOR
+2
+~
+1 -1 11065
+ENDROOM
+11057 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11048
+DOOR
+1
+~
+1 -1 11058
+DOOR
+2
+~
+1 -1 11066
+DOOR
+3
+~
+1 -1 11056
+ENDROOM
+11058 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11049
+DOOR
+2
+~
+1 -1 11057
+DOOR
+3
+~
+1 -1 11067
+ENDROOM
+11059 N
+&wThe square of the &LOrcish &wOutpost.&n~
+This is the square of the outpost.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11050
+DOOR
+1
+~
+1 -1 11060
+DOOR
+2
+~
+1 -1 11069
+ENDROOM
+11060 N
+&wThe square of the &LOrcish &wOutpost.&n~
+This is the square of the outpost.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11051
+DOOR
+1
+~
+1 -1 11061
+DOOR
+2
+~
+1 -1 11069
+DOOR
+3
+~
+1 -1 11059
+ENDROOM
+11061 N
+&wThe square of the &LOrcish &wOutpost.&n~
+This is the square of the outpost.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11052
+DOOR
+3
+~
+1 -1 11060
+ENDROOM
+11062 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11053
+DOOR
+1
+~
+1 -1 11063
+DOOR
+2
+~
+1 -1 11071
+ENDROOM
+11063 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11054
+DOOR
+1
+~
+1 -1 11064
+DOOR
+2
+~
+1 -1 11072
+DOOR
+3
+~
+1 -1 11062
+ENDROOM
+11064 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11055
+DOOR
+2
+~
+1 -1 11073
+DOOR
+3
+~
+1 -1 11063
+ENDROOM
+11065 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11056
+DOOR
+1
+~
+1 -1 11066
+DOOR
+2
+~
+1 -1 11074
+ENDROOM
+11066 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11057
+DOOR
+1
+~
+1 -1 11067
+DOOR
+2
+~
+1 -1 11075
+DOOR
+3
+~
+1 -1 11065
+ENDROOM
+11067 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11058
+DOOR
+2
+~
+1 -1 11076
+DOOR
+3
+~
+1 -1 11066
+ENDROOM
+11068 N
+&wThe square of the &LOrcish &wOutpost.&n~
+This is the square of the outpost.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11059
+DOOR
+1
+~
+1 -1 11069
+ENDROOM
+11069 N
+&wThe square of the &LOrcish &wOutpost.&n~
+This is the square of the outpost.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11060
+DOOR
+1
+~
+1 -1 11070
+DOOR
+3
+~
+1 -1 11068
+DOOR
+4
+~
+1 -1 11083
+ENDROOM
+11070 N
+&wThe Olde &LOrcish &wInn.&n~
+This is a place of rest.~
+110 al 1 2
+DOOR
+3
+~
+1 -1 11069
+ENDROOM
+11071 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11062
+DOOR
+1
+~
+1 -1 11072
+DOOR
+2
+~
+1 -1 11080
+ENDROOM
+11072 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11063
+DOOR
+1
+~
+1 -1 11073
+DOOR
+2
+~
+1 -1 11081
+DOOR
+3
+~
+1 -1 11071
+ENDROOM
+11073 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11064
+DOOR
+2
+~
+1 -1 11082
+DOOR
+3
+~
+1 -1 11072
+ENDROOM
+11074 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11065
+DOOR
+1
+~
+1 -1 11075
+ENDROOM
+11075 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11066
+DOOR
+1
+~
+1 -1 11076
+DOOR
+3
+~
+1 -1 11074
+ENDROOM
+11076 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11067
+DOOR
+1
+~
+1 -1 11077
+DOOR
+3
+~
+1 -1 11075
+ENDROOM
+11077 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11078
+DOOR
+3
+~
+1 -1 11076
+ENDROOM
+11078 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11079
+DOOR
+3
+~
+1 -1 11077
+ENDROOM
+11079 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11080
+DOOR
+3
+~
+1 -1 11078
+ENDROOM
+11080 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11071
+DOOR
+1
+~
+1 -1 11081
+DOOR
+3
+~
+1 -1 11079
+ENDROOM
+11081 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11072
+DOOR
+1
+~
+1 -1 11082
+DOOR
+3
+~
+1 -1 11080
+ENDROOM
+11082 N
+&wInside an &LOrcish &woutpost.&n~
+Inside this outpost many orcs are a bustle keeping the outpost protected.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11073
+DOOR
+3
+~
+1 -1 11081
+ENDROOM
+11083 N
+&LPath to the &rThrone Room&n~
+This path leads down to the throne room.~
+110 a 1 2
+DOOR
+2
+~
+1 -1 11084
+DOOR
+5
+~
+1 -1 11069
+ENDROOM
+11084 N
+&LPath to the &rThrone Room&n~
+This path leads down to the throne room.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11083
+DOOR
+2
+~
+1 -1 11085
+ENDROOM
+11085 N
+&LPath to the &rThrone Room&n~
+This path leads down to the throne room.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11084
+DOOR
+2
+~
+1 -1 11086
+ENDROOM
+11086 N
+&LPath to the &rThrone Room&n~
+This path leads down to the throne room.~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11085
+DOOR
+2
+~
+1 -1 11090
+ENDROOM
+11087 N
+&rThe Throne Room&n~
+&rThis is the lavish throne room of the &LOrcs.&n~
+110 a 1 2
+DOOR
+2
+~
+1 -1 11088
+DOOR
+3
+~
+1 -1 11090
+ENDROOM
+11088 N
+&rThe Throne Room&n~
+&rThis is the lavish throne room of the &LOrcs.&n~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11087
+DOOR
+2
+~
+1 -1 11089
+DOOR
+3
+~
+1 -1 11091
+ENDROOM
+11089 N
+&rThe Throne Room&n~
+&rThis is the lavish throne room of the &LOrcs.&n~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11088
+DOOR
+3
+~
+1 -1 11092
+ENDROOM
+11090 N
+&rThe Throne Room&n~
+&rThis is the lavish throne room of the &LOrcs.&n~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11086
+DOOR
+1
+~
+1 -1 11087
+DOOR
+2
+~
+1 -1 11091
+DOOR
+3
+~
+1 -1 11093
+ENDROOM
+11091 N
+&rThe Throne Room&n~
+&rThis is the lavish throne room of the &LOrcs.&n~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11090
+DOOR
+1
+~
+1 -1 11087
+DOOR
+2
+~
+1 -1 11092
+DOOR
+3
+~
+1 -1 11094
+ENDROOM
+11092 N
+&rThe Throne Room&n~
+&rThis is the lavish throne room of the &LOrcs.&n~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11091
+DOOR
+1
+~
+1 -1 11089
+DOOR
+3
+~
+1 -1 11095
+ENDROOM
+11093 N
+&rThe Throne Room&n~
+&rThis is the lavish throne room of the &LOrcs.&n~
+110 a 1 2
+DOOR
+1
+~
+1 -1 11090
+DOOR
+2
+~
+1 -1 11094
+ENDROOM
+11094 N
+&rThe Throne Room&n~
+&rThis is the lavish throne room of the &LOrcs.&n~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11093
+DOOR
+1
+~
+1 -1 11091
+DOOR
+2
+~
+1 -1 11095
+ENDROOM
+11095 N
+&rThe Throne Room&n~
+&rThis is the lavish throne room of the &LOrcs.&n~
+110 a 1 2
+DOOR
+0
+~
+1 -1 11094
+DOOR
+1
+~
+1 -1 11092
+ENDROOM
+ENDFILE

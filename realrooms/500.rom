@@ -1,0 +1,1340 @@
+50001 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50002
+ENDROOM
+50002 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50003
+DOOR
+3
+~
+1 -1 50001
+ENDROOM
+50003 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+2
+~
+1 -1 50010
+DOOR
+3
+~
+1 -1 50002
+ENDROOM
+50004 N
+&LThe Guard Tower&n~
+&LThis stone tower leads to the catwalk above.  This marks the end of the northern city wall.&n~
+500 0 0 1 1
+DOOR
+4
+~
+1 -1 50112
+DOOR
+1
+door~
+1 -1 50005
+DOOR
+2
+door~
+1 -1 50011
+ENDROOM
+50005 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50006
+DOOR
+2
+~
+1 -1 50012
+DOOR
+3
+door~
+1 -1 50004
+ENDROOM
+50006 Y
+&cThe gates of &WSibrene &mCove&n~
+&cA large portcullis is used here to open and close the opening in the city wall.  Many travelers pass in and out of the city at this point.  Off to the side is a large customs booth to check in goods and weapons as people enter and exit the city.&n~
+500 o 1 2
+DOOR
+0
+gate portcullis~
+1 -1 1008808
+DOOR
+1
+~
+1 -1 50007
+DOOR
+2
+~
+1 -1 50013
+DOOR
+3
+~
+1 -1 50005
+ENDROOM
+50007 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+3
+~
+1 -1 50006
+DOOR
+1
+~
+1 -1 50008
+ENDROOM
+50008 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+3
+~
+1 -1 50007
+DOOR
+2
+~
+1 -1 50015
+DOOR
+1
+door~
+1 -1 50009
+ENDROOM
+50009 N
+&LThe Guard Tower&n~
+&LThis stone tower leads to the catwalk above.  This marks the end of the northern city wall.&n~
+500 0 0 1
+DOOR
+4
+~
+1 -1 50118
+DOOR
+3
+door~
+1 -1 50008
+DOOR
+2
+door~
+1 -1 50016
+ENDROOM
+50010 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50003
+DOOR
+1
+~
+1 -1 50011
+DOOR
+2
+~
+1 -1 50017
+ENDROOM
+50011 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50012
+DOOR
+2
+~
+1 -1 50018
+DOOR
+0
+door~
+1 -1 50004
+DOOR
+3
+~
+1 -1 50010
+ENDROOM
+50012 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50005
+DOOR
+3
+~
+1 -1 50011
+ENDROOM
+50013 N
+&WArgran &BRoad&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50006
+DOOR
+2
+~
+1 -1 50020
+ENDROOM
+50015 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50008
+DOOR
+1
+~
+1 -1 50016
+ENDROOM
+50016 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+3
+~
+1 -1 50015
+DOOR
+2
+~
+1 -1 50023
+DOOR
+0
+door~
+1 -1 50009
+ENDROOM
+50017 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50010
+DOOR
+1
+~
+1 -1 50018
+DOOR
+2
+~
+1 -1 50030
+ENDROOM
+50018 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50011
+DOOR
+3
+~
+1 -1 50017
+ENDROOM
+50019 N
+&LA &mcommoner's &Lhouse&n~
+&LThis elegant little abode is decorated with all kinds of foreign tapestries and items, most likely things that have come in off of the docks.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50020
+ENDROOM
+50020 N
+&WArgran &BRoad&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50013
+DOOR
+1
+~
+1 -1 50022
+DOOR
+2
+~
+1 -1 50033
+DOOR
+3
+~
+1 -1 50019
+ENDROOM
+50022 N
+&LA &mcommoner's &Lhouse&n~
+&LThis elegant little abode is decorated with all kinds of foreign tapestries and items, most likely things that have come in off of the docks.&n~
+500 o 1 2
+DOOR
+3
+~
+1 -1 50020
+ENDROOM
+50023 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50016
+DOOR
+1
+~
+1 -1 50024
+ENDROOM
+50024 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+1
+door~
+1 -1 50025
+DOOR
+2
+~
+1 -1 50037
+DOOR
+3
+~
+1 -1 50023
+ENDROOM
+50025 N
+&LThe Guard Tower&n~
+&LThis stone tower leads to the catwalk above.  This marks the end of the northern city wall.&n~
+500 0 0 1
+DOOR
+4
+~
+1 -1 50122
+DOOR
+3
+door~
+1 -1 50024
+DOOR
+2
+door~
+1 -1 50038
+ENDROOM
+50026 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50027
+ENDROOM
+50027 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50028
+DOOR
+3
+~
+1 -1 50026
+ENDROOM
+50028 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50029
+DOOR
+2
+~
+1 -1 50039
+DOOR
+3
+~
+1 -1 50027
+ENDROOM
+50029 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50030
+DOOR
+2
+~
+1 -1 50040
+DOOR
+3
+~
+1 -1 50028
+ENDROOM
+50030 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50017
+DOOR
+3
+~
+1 -1 50029
+DOOR
+2
+~
+1 -1 50041
+ENDROOM
+50031 N
+&cEnterance to the &WSibrene &mCove &cTemple&n~
+&cThis bright place seems to glow with heavenly light. Here many symbols hang from the walls of the great goddess Sibrene.&n~
+500 0 0 1
+DOOR
+1
+door~
+1 -1 50032
+DOOR
+2
+~
+1 -1 50042
+ENDROOM
+50032 N
+&cBefore a temple&n~
+&cBefore you is a huge temple.  Clerics pass in and out of the front door.  The walls of this great temple seem to glow heavenly.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50033
+DOOR
+3
+door~
+1 -1 50031
+ENDROOM
+50033 N
+&WArgran &BRoad&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50020
+DOOR
+1
+~
+1 -1 50034
+DOOR
+2
+~
+1 -1 50044
+DOOR
+3
+~
+1 -1 50032
+ENDROOM
+50034 N
+&LBefore a warrior's training center&n~
+&LA large building stands here.  Young and old warriors pass in and out of this center. &n~
+500 o 1 2
+DOOR
+3
+~
+1 -1 50033
+DOOR
+1
+door~
+1 -1 50035
+ENDROOM
+50035 N
+&LEntrance to the &WSibrene &mCove &LWarrior's Guild&n~
+&LA large fighting arena is here.  Solid stone walls fence in the area where old and young men and woman practice their fighting skills and hone their talents.&n~
+500 0 0 1
+DOOR
+2
+~
+1 -1 50046
+DOOR
+3
+door~
+1 -1 50034
+ENDROOM
+50036 N
+&LA shady &mdead &Lend&n~
+&LThis dark alleyway is enclosed by some broken down old houses.  The alley comes to an abrupt stop here, the only visible exit is a small trapdoor on the ground.&n~
+500 o 1 2
+DOOR
+2
+~
+1 -1 50047
+DOOR
+5
+trapdoor~
+1 -1 50130
+ENDROOM
+50037 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50024
+DOOR
+1
+~
+1 -1 50038
+ENDROOM
+50038 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+0
+door~
+1 -1 50025
+DOOR
+2
+~
+1 -1 50049
+DOOR
+3
+~
+1 -1 50037
+ENDROOM
+50039 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50028
+DOOR
+1
+~
+1 -1 50040
+DOOR
+2
+~
+1 -1 50053
+ENDROOM
+50040 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50029
+DOOR
+1
+~
+1 -1 50041
+DOOR
+3
+~
+1 -1 50039
+ENDROOM
+50041 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50030
+DOOR
+3
+~
+1 -1 50040
+ENDROOM
+50042 N
+&cThe &YAlter&n~
+&cA large alter stands here used for the worship of the god, Kythis Krynshar.&n~
+500 0 0 1
+DOOR
+0
+~
+1 -1 50031
+DOOR
+1
+~
+1 -1 50043
+ENDROOM
+50043 N
+&cThe guildmaster's quarters&n~
+&cA desk with papers strew everywhere resides in the middle of this room.  Holy symbols and tapestries hangs from all walls. &n~
+500 0 0 1
+DOOR
+3
+~
+1 -1 50042
+ENDROOM
+50044 N
+&WArgran &BRoad&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50033
+DOOR
+2
+~
+1 -1 50058
+ENDROOM
+50045 N
+&LThe guildmaster's quarters&n~
+&LA small rooms is cluttered with weapons and tactics books.  &n~
+500 0 0 1
+DOOR
+1
+~
+1 -1 50046
+ENDROOM
+50046 N
+&LHallway to the master's room&n~
+&LThis large hallway leads from the practice arena to the master's office.  Plaque's of great warriors hang from the walls along with many weapon cabinets&n~
+500 0 0 1
+DOOR
+0
+~
+1 -1 50035
+DOOR
+3
+~
+1 -1 50045
+ENDROOM
+50047 N
+&LA shady alleyway&n~
+&LThis dark alleyway is concealed by old broken down houses on either side.  The shadows seem to dissipate all light, making it very dark.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50036
+DOOR
+1
+~
+1 -1 50048
+ENDROOM
+50048 N
+&LA shady alleyway&n~
+&LThis dark alleyway is concealed by old broken down houses on either side.  The shadows seem to dissipate all light, making it very dark.&n~
+500 o 1 2
+DOOR
+2
+~
+1 -1 50062
+DOOR
+3
+~
+1 -1 50047
+ENDROOM
+50049 N
+&yRoad next to the city wall&n~
+&yNext to this cobblestone and dirt road is the massive city wall that protects the open, northern side of the cove.  A large catwalk is about twenty feet above your head.&n~
+500 o 1 2
+DOOR
+2
+~
+1 -1 50063
+DOOR
+0
+~
+1 -1 50038
+ENDROOM
+50050 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50051
+ENDROOM
+50051 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50052
+DOOR
+3
+~
+1 -1 50050
+ENDROOM
+50052 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50053
+DOOR
+3
+~
+1 -1 50051
+ENDROOM
+50053 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50039
+DOOR
+3
+~
+1 -1 50052
+DOOR
+2
+~
+1 -1 50064
+ENDROOM
+50054 N
+&CA large warehouse&n~
+&CThis large building seems to be the main place that most of the shady imports and exports are stored.&n~
+500 0 0 1
+DOOR
+1
+~
+1 -1 50055
+ENDROOM
+50055 N
+&CA large warehouse&n~
+&CThis large building seems to be the main place that most of the shady imports and exports are stored.  A large wooden panel is to the south.&n~
+500 0 0 1
+DOOR
+3
+~
+1 -1 50054
+DOOR
+2
+panel large wooden~
+1 -1 50066
+ENDROOM
+50057 N
+&RThe &YBakery&n~
+&YFresh scents of baked goods rise from the mounds of foods in front of you.  This seems to be the main place in the cove to buy food.&n~
+500 0 0 1
+DOOR
+2
+~
+1 -1 50068
+ENDROOM
+50058 N
+&yThe path before the market&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.  The market of the cove is to the south.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50044
+DOOR
+2
+~
+1 -1 50069
+ENDROOM
+50059 N
+&mThe &cWeapon's &mShop&n~
+&CAll sorts of weapons are strewn around the room, all for sale, all deadly.  The shopkeeper stand behind a small oak counter grinning as you browse the room&n~
+500 0 0 1
+DOOR
+2
+~
+1 -1 50070
+ENDROOM
+50061 N
+&LA shady alleyway&n~
+&LThis dark alleyway is concealed by old broken down houses on either side.  The shadows seem to dissipate all light, making it very dark.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50062
+ENDROOM
+50062 N
+&LA shady alleyway&n~
+&LThis dark alleyway is concealed by old broken down houses on either side.  The shadows seem to dissipate all light, making it very dark.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50048
+DOOR
+1
+~
+1 -1 50063
+DOOR
+2
+~
+1 -1 50073
+DOOR
+3
+~
+1 -1 50061
+ENDROOM
+50063 N
+&yRoad next to the rock wall&n~
+&yThis road resides next to the rock wall of the hollowed out portion of the cove.  Solid rock rises up from the street about 150 feet and makes a solid roof over the middle and southern portions of the cove.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50049
+DOOR
+2
+~
+1 -1 50074
+DOOR
+3
+~
+1 -1 50062
+ENDROOM
+50064 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50053
+DOOR
+2
+~
+1 -1 50078
+ENDROOM
+50065 N
+&gThe &yKargan &gRoad&n~
+&yThis is the road leading north of the Cove.&n~
+500 0 0 1
+DOOR
+2
+gate portcullis~
+1 -1 50006
+DOOR
+0
+~
+1 -1 50001
+ENDROOM
+50066 N
+&WA small stable&n~
+&WA small stable filled with straw and horses is here.  The walls seem to be totally intact except for a large oak panel on the north side.&n~
+500 0 0 1
+DOOR
+0
+oak large panel~
+1 -1 50055
+DOOR
+2
+~
+1 -1 50080
+ENDROOM
+50067 N
+&CTizza's &YSupply &CShoppe&n~
+&cHere everything a person may need is sold in this store.  Cabinets and tables are littered with supplies.  Tizza keeps her shop well stocked as you noticeably see.&n~
+500 0 0 1
+DOOR
+1
+~
+1 -1 50068
+ENDROOM
+50068 N
+&cThe Market of &WSibrene &mCove&n~
+&yHere many merchants walk amongst the crowded market square peddling there wares along the dirt ground.  The great fountain is to the north.&n~
+500 o 1 2
+DOOR
+2
+~
+1 -1 50082
+DOOR
+0
+~
+1 -1 50057
+DOOR
+1
+~
+1 -1 50069
+DOOR
+3
+~
+1 -1 50067
+ENDROOM
+50069 N
+&cThe Market of &WSibrene &mCove&n~
+&yHere many merchants walk amongst the crowded market square peddling there wares along the dirt ground.  The great fountain is to the north.&n~
+500 o 1 2
+DOOR
+2
+~
+1 -1 50083
+DOOR
+0
+~
+1 -1 50058
+DOOR
+1
+~
+1 -1 50070
+DOOR
+3
+~
+1 -1 50068
+ENDROOM
+50070 N
+&cThe Market of &WSibrene &mCove&n~
+&yHere many merchants walk amongst the crowded market square peddling there wares along the dirt ground.  The great fountain is to the north.&n~
+500 o 1 2
+DOOR
+2
+~
+1 -1 50084
+DOOR
+0
+~
+1 -1 50059
+DOOR
+1
+~
+1 -1 50071
+DOOR
+3
+~
+1 -1 50069
+ENDROOM
+50071 N
+&mThe &cArmor &mshop&n~
+&yThis shop is has all kinds of armor hanging from the walls.  A shopkeeper stands behind a table ready to show you his goods.&n~
+500 0 0 1
+DOOR
+3
+~
+1 -1 50070
+ENDROOM
+50072 N
+&gA small park&n~
+&gThis park is a nice quiet place with small animals and nice park benches.  A good place to take a rest.&n~
+500 o 1 2
+DOOR
+2
+~
+1 -1 50086
+ENDROOM
+50073 N
+&LA shady alleyway&n~
+&LThis dark alleyway is concealed by old broken down houses on either side.  The shadows seem to dissipate all light, making it very dark.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50062
+ENDROOM
+50074 N
+&yRoad next to the rock wall&n~
+&yThis road resides next to the rock wall of the hollowed out portion of the cove.  Solid rock rises up from the street about 150 feet and makes a solid roof over the middle and southern portions of the cove.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50063
+DOOR
+2
+~
+1 -1 50088
+ENDROOM
+50075 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50076
+ENDROOM
+50076 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50077
+DOOR
+3
+~
+1 -1 50075
+ENDROOM
+50077 N
+&BThe pier.&n~
+&BJutting out of the side of the mountain, this pier is used for the transport of goods in and out of the city of &WSibrene &mCove.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50078
+DOOR
+3
+~
+1 -1 50076
+ENDROOM
+50078 N
+&BThe docks of &WSibrene &mCove&n~
+&BThe docks of the cove are bustling with activity all day and all night.  Ships from all over the realm dock here to drop and pick up supplies.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50064
+DOOR
+3
+~
+1 -1 50077
+DOOR
+1
+~
+1 -1 50079
+ENDROOM
+50079 N
+&WA city road&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50080
+DOOR
+3
+~
+1 -1 50078
+ENDROOM
+50080 N
+&WA city road&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50066
+DOOR
+1
+~
+1 -1 50081
+DOOR
+2
+~
+1 -1 50090
+DOOR
+3
+~
+1 -1 50079
+ENDROOM
+50081 N
+&yThe path before the market&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.  The market of the cove is to the south.&n~
+500 o 1 2
+DOOR
+3
+~
+1 -1 50080
+DOOR
+1
+~
+1 -1 50082
+ENDROOM
+50082 N
+&cThe Market of &WSibrene &mCove&n~
+&yHere many merchants walk amongst the crowded market square peddling there wares along the dirt ground.  The great fountain is to the west.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50083
+DOOR
+3
+~
+1 -1 50081
+DOOR
+0
+~
+1 -1 50068
+DOOR
+2
+~
+1 -1 50092
+ENDROOM
+50083 N
+&cFountain of &WSibrene &mCove&n~
+&yHere in the middle of the market stands the statue of a beautiful young maiden, the Goddess Sibrene.  The area around the fountain is used as a resting place for the weary buyers and sellers.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50069
+DOOR
+2
+~
+1 -1 50093
+DOOR
+1
+~
+1 -1 50084
+DOOR
+3
+~
+1 -1 50082
+ENDROOM
+50084 N
+&cThe Market of &WSibrene &mCove&n~
+&yHere many merchants walk amongst the crowded market square peddling there wares along the dirt ground.  The great fountain is to the east.&n~
+500 o 1 2
+DOOR
+3
+~
+1 -1 50083
+DOOR
+0
+~
+1 -1 50070
+DOOR
+2
+~
+1 -1 50094
+DOOR
+1
+~
+1 -1 50085
+ENDROOM
+50085 N
+&yThe path before the market&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.  The market of the cove is to the south.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50086
+DOOR
+3
+~
+1 -1 50084
+ENDROOM
+50086 N
+&WA city road&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50072
+DOOR
+1
+~
+1 -1 50087
+DOOR
+3
+~
+1 -1 50085
+ENDROOM
+50087 N
+&WA city road&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 o 1 2
+DOOR
+1
+~
+1 -1 50088
+DOOR
+3
+~
+1 -1 50086
+ENDROOM
+50088 N
+&yRoad next to the rock wall&n~
+&yThis road resides next to the rock wall of the hollowed out portion of the cove.  Solid rock rises up from the street about 150 feet and makes a solid roof over the middle and southern portions of the cove.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50074
+DOOR
+1
+~
+1 -1 50089
+DOOR
+3
+~
+1 -1 50087
+ENDROOM
+50089 N
+&WA tunnel in the &Lrock&n~
+&CHere a tunnel leads upwards towards the top of the cove&n~
+500 0 0 1
+DOOR
+3
+~
+1 -1 50088
+ENDROOM
+50090 N
+&CThe bank of &WSibrene &mCove&n~
+&CThis bleak room is not very decorated.  A simple oak desk is here with the banker standing behind it.  A large safe is in the back of the room.&n~
+500 c 17 1
+DOOR
+0
+~
+1 -1 50080
+ENDROOM
+50091 N
+&gAram's &GBrews&n~
+&CAram keeps good care of his bar, it is very clean and the bottle behind the bar are all in order.  This is where weary sailors come to drink and relax after months of labor on the sea.&n~
+500 0 0 1
+DOOR
+1
+~
+1 -1 50092
+ENDROOM
+50092 N
+&cThe Market of &WSibrene &mCove&n~
+&yHere many merchants walk amongst the crowded market square peddling there wares along the dirt ground.  The great fountain is to the north.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50082
+DOOR
+2
+~
+1 -1 50097
+DOOR
+1
+~
+1 -1 50093
+DOOR
+3
+~
+1 -1 50091
+ENDROOM
+50093 N
+&cThe Market of &WSibrene &mCove&n~
+&yHere many merchants walk amongst the crowded market square peddling there wares along the dirt ground.  The great fountain is to the north.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50083
+DOOR
+2
+~
+1 -1 50098
+DOOR
+1
+~
+1 -1 50094
+DOOR
+3
+~
+1 -1 50092
+ENDROOM
+50094 N
+&cThe Market of &WSibrene &mCove&n~
+&yHere many merchants walk amongst the crowded market square peddling there wares along the dirt ground.  The great fountain is to the north.&n~
+500 o 1 2
+DOOR
+0
+~
+1 -1 50084
+DOOR
+2
+~
+1 -1 50099
+DOOR
+1
+~
+1 -1 50095
+DOOR
+3
+~
+1 -1 50093
+ENDROOM
+50095 N
+&CThe &WSibrene &mCove &CPet Shop&n~
+&CCages and boxes line the walls of this large shop.  Here pets of all kinds can be purchased here. &n~
+500 0 0 1
+DOOR
+3
+~
+1 -1 50094
+ENDROOM
+50096 N
+&LA storage area&n~
+&LHere storage is kept for all of the shops of the cove&n~
+500 0 0 1
+ENDROOM
+50097 N
+&CThe &gInn &Cof &WSibrene &mCove&n~
+&CA receptionist stand is placed near the entrance to this inn.  Rooms for rent in this end are legendary throughout the realm.&n~
+500 jlo 0 1
+DOOR
+0
+~
+1 -1 50092
+ENDROOM
+50098 N
+&yThe path before the market&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.  The market of the cove is to the south.&n~
+500 o 1 2
+DOOR
+2
+~
+1 -1 50103
+DOOR
+0
+~
+1 -1 50093
+ENDROOM
+50099 N
+&CThe &rMage's Shop &Cof &WSibrene &mCove&n~
+&CMage's throughout the realms come to this shop to catch up on supplies.  The counter in which the keeper stands behind is full of needed things for any trip around the cove of the world.&n~
+500 0 0 1
+DOOR
+0
+~
+1 -1 50094
+ENDROOM
+ENDFILE

@@ -1,0 +1,97 @@
+24001
+mage guck~
+&LGuck the Grey Mage&n~
+&LGuck the Grey Mage, this &wHalf-&LOrc&n sits here, pouring over his tomes.&n~
+, this &wHalf-&LOrc&n sits here, pouring over his tomes.&n~
+&LGuck the Grey Mage is the most renowned mage of the realms.&n~
+abq abcdefg 0 
+23 3 65 
+0 -100 6500
+6 2 200
+20000 20000 j j 1
+ENDMOB
+24002
+mage duthe~
+&WDuthe the Tundra Magus&n~
+&WDuthe the Tundra Magus, this &cGrey Elf&n &Wsits here, pouring over his tomes.&n~
+&W, this &cGrey Elf&n &Wsits here, pouring over his tomes.&n~
+&WDuthe the Tundra Magus is one of the most renowned mage of the realms.&n~
+akq ac 0 
+23 3 60 
+0 -100 6000
+6 2 100
+10000 15000 j j 1
+ENDMOB
+24003
+mage naeguss~
+&BNaeguss the Ocean Magus&n~
+&BNaeguss the Ocean Magus, this &wHuman&n &Bsits here, pouring over his tomes.&n~
+&B, this &wHuman&n &Bsits here, pouring over his tomes.&n~
+&BNaeguss the Ocean Magus is one of the most renowned mage of the realms.&n~
+akq ag 0 
+23 3 60 
+0 -100 6000
+6 2 100
+10000 15000 j j 1
+ENDMOB
+24004
+mage reqa~
+&GReqa the Forest Magus&n~
+&GReqa the Forest Magus, this &yBrownie&n &Gsits here, pouring over her tomes.&n~
+&G, this &yBrownie&n &Gsits here, pouring over her tomes.&n~
+&GReqa the Forest Magus is one of the most renowned mage of the realms.&n~
+akq ae 0 
+23 3 60 
+0 -100 6000
+6 2 100
+10000 15000 j j 2
+ENDMOB
+24005
+mage brelle~
+&yBrelle the Desert Magus&n~
+&yBrelle the Desert Magus, this &wKe&Lnk&wu&n &ysits here, pouring over her tomes.&n~
+&y, this &wKe&Lnk&wu&n &ysits here, pouring over her tomes.&n~
+&yBrelle the Desert Magus is one of the most renowned mage of the realms.&n~
+akq ab 0 
+23 3 60 
+0 -100 6000
+6 2 100
+10000 15000 j j 1
+ENDMOB
+24006
+mage nngha~
+&RNngha the Mountain Magus&n~
+&RNngha the Mountain Magus, this &LOrc&n &Rsits here, pouring over his tomes.&n~
+&R, this &LOrc&n &Rsits here, pouring over his tomes.&n~
+&RNngha the Mountain Magus is one of the most renowned mage of the realms.&n~
+akq d 0 
+23 3 60 
+0 -100 6000
+6 2 100
+10000 15000 j j 1
+ENDMOB
+24007
+mage sharontia~
+&LSharontia the Swamp Magus&n~
+&LSharontia the Swamp Magus, this &mDrow Elf&n &Lsits here, pouring over her tomes.&n~
+&L, this &mDrow Elf&n &Lsits here, pouring over her tomes.&n~
+&LSharontia the Swamp Magus is one of the most renowned mage of the realms.&n~
+akq af 0 
+23 3 60 
+0 -100 6000
+6 2 100
+10000 15000 j j 1
+ENDMOB
+24008
+magical golem guard~
+&WA magical golem guard&n~
+&WA magical golem guard stands here like a wall of living rock protecting the tower.&n~
+&Wstands here like a wall of living rock protecting the tower.&n~
+&WThis golem is obviously created by magical means, empty eyes sockets are magically glowing, staring straight ahead.&n~
+a ad 50 
+1 1 50 
+0 -90 5500
+6 4 50
+0 1500 j j 1
+ENDMOB
+ENDFILE

@@ -1,0 +1,390 @@
+50001
+sword blade edged wickedly~
+&LA wickedly edged sword&n~
+&LA wickedly edged sword&n~
+&yA deadly looking &Lsword &ylies here.&n~
+10 0 nm
+2 6 3 7 4
+5 1000 4
+ENDOBJ
+50002
+stiletto knife dagger gleaming~
+&cThe &WGl&rea&ymi&bng &mSt&gil&cet&nto&n~
+&cThe &WGl&rea&ymi&bng &mSt&gil&cet&nto&n~
+&cA brilliant, long thin bladed weapon lies here.&n~
+10 0 nm
+5 50 10 50 2
+1 1000000 4
+EXTRA
+knife dagger stiletto~
+&yThis dagger made of pure diamond is obviously forged by the gods alone&n.~
+AFFECT
+2 7
+3 7
+14 100
+ENDOBJ
+50003
+shield insignia~
+&WA shield marked with the &WSibrene &mCove &Winsignia&n~
+&WA shield marked with the &WSibrene &mCove &Winsignia&n~
+&WA shiny polished &mCove Shield &Wlies here.&n~
+6 0 p
+15
+7 10000 0
+EXTRA
+shield~
+&yThis shield is made of polished steel.  It hold the goddess Sibrene's symbol of a fountain overlaid with clouds.&n~
+AFFECT
+2 4
+6 9
+ENDOBJ
+50004
+fountain great sibrene cove~
+&LThe Great &cFountain &Lof &WSibrene &mCove.~
+&LThe Great &cFountain &Lof &WSibrene &mCove.~
+&LThe Great &cFountain &Lof &WSibrene &mCove &Lis here in all it's glory.~
+9 a 0
+-1 -1 0
+9999 0 4
+EXTRA
+fountain great sibrene cove~
+&mHere is a fountain made of the purest marble, outlined in solid gold trim.  The Goddess Sibrene sits on a cloud with water pouring out of her fingertips and toes.&n~
+ENDOBJ
+50005
+teller bank booth~
+&yA &Lbank &yteller's booth&n~
+&yA &Lbank &yteller's booth&n~
+&yA &Lbank &yteller's booth is here.&n~
+6 a 0
+0 0 0 0
+5000 0 4 
+ENDOBJ
+50010
+key sibrene cove~
+&WSibrene &mCove &Wkey&n~
+&WSibrene &mCove &Wkey&n~
+&WA key with the &WSibrene &mCove &Winsignia is here.&n~
+6 0 q
+0
+1 10 0
+ENDOBJ
+50011
+dagger~
+&Wa dagger&n~
+&Wa dagger&n~
+&WA &Ldagger &Wwith a polished blade is here.&n~
+10 0 mn
+1 4 1 4 2
+1 10 4
+ENDOBJ
+50012
+sword small~
+&Wa small sword&n~
+&Wa small sword&n~
+&WA small &Lsword &Wlies here.&n~
+10 0 nm
+1 6 1 6 4
+3 60 4
+ENDOBJ
+50013
+sword long~
+&Wa long sword&n~
+&Wa long sword&n~
+&WA long &Lsword &Whas been left here.&n~
+10 0 mn
+1 8 1 8 4
+8 600 4
+ENDOBJ
+50014
+club wooden~
+&ya wooden club&n~
+&ya wooden club&n~
+&yA simple looking wooden &Lclub &yis here.&n~
+10 0 mn
+1 6 2 3 3
+3 12 1
+ENDOBJ
+50015
+mace steel~
+&Wa steel mace&n~
+&Wa steel mace&n~
+&WA steel &Lmace &Wis here.&n~
+10 0 mn
+1 6 1 7 3
+6 50 5
+ENDOBJ
+50016
+flail large~
+&Wa flail&n~
+&Wa flail&n~
+&WA large &Lflail &Wis here.&n~
+10 0 mn
+2 4 3 4 3
+6 625 1
+ENDOBJ
+50017
+torch~
+&ya torch&n~
+&ya torch&n~
+&yA large torch.&n~
+2 0 q
+8
+1 10 1
+ENDOBJ
+50018
+lantern small~
+&Wa lantern&n~
+&Wa lantern&n~
+&WA small &clantern &Wis here.&n~
+2 0 q
+30
+1 50 3
+ENDOBJ
+50019
+bag~
+&ya bag&n~
+&ya bag&n~
+&yA small bag is here.&n~
+8 0 q
+30 a -1 0
+2 20 6
+ENDOBJ
+50020
+box~
+&ya box&n~
+&ya box&n~
+&yA small box is here.&n~
+8 0 q
+50 a -1 0
+5 50 10
+ENDOBJ
+50021
+lizard scale plate breast~
+&ra lizard scale breast plate&n~
+&ra lizard scale breast plate&n~
+&ra lizard scale breast plate lies here&n~
+6 0 h
+9
+20 18000 4
+ENDOBJ
+50022
+shirt chainmail~
+&ca &Lchain&cmail shirt&n~
+&ca &Lchain&cmail shirt&n~
+&cA &Lchain&cmail shirt is lying on the ground.&n~
+6 0 h
+5
+8 2500 1
+ENOBJ
+50023
+shield wooden
+&ya small &Lwooden &yshield&n~
+&ya small &Lwooden &yshield&n~
+&ya small &Lwooden &yshield is lying on the ground.&n~
+6 0 p
+3
+3 100 1
+ENDOBJ
+50024
+jacket soft leather~
+&ya &Lleather &yjacket&n~
+&ya &Lleather &yjacket&n~
+&ya &Lleather &yjacket is lying on the ground.&n~
+6 0 h
+3
+3 200 6
+ENDOBJ
+50025
+jacket studded leather~
+&La studded &yleather &Ljacket&n~
+&La studded &yleather &Ljacket&n~
+&La studded &yleather &Ljacket is lying on the ground.&n~
+6 0 h
+3
+5 500 6
+ENDOBJ
+50026
+small pearl earring~
+&ca small &Wpearl &cearring&n~
+&ca small &Wpearl &cearring&n~
+&ca small &Wpearl &cearring lies here.&n~
+6 0 c
+2
+1 1000 4
+ENDOBJ
+50027
+ring set rubies~
+&ya ring with set &Rrubies&n~
+&ya ring with set &Rrubies&n~
+&ya ring with set &Rrubies &ylies here.&n~
+6 0 l
+6
+1 7000 4
+ENDOBJ
+50028
+scroll identify~
+&ya &Lscroll &yof &miden&btify&n~
+&ya &Lscroll &yof &miden&btify&n~
+&ya &Lscroll &yhas carelessly been left here.&n~
+2 0 q
+50 -1 -1 -1
+1 200001 1
+EXTRA
+scroll identify~
+&cThe scroll has a magic formula drawn upon it:&n
+&mRecite scroll &b<item>&n~
+ENDOBJ
+50029
+staff metal~
+&Wa &Lmetal &Wstaff&n~
+&Wa &Lmetal &Wstaff&n~
+&Wa &Lmetal &Wstaff has carelessly been left here.&n~
+5 0 qmn
+10 10 1 -1
+7 8500 4
+ENDOBJ
+50030
+raft~
+&ya raft&n~
+&ya raft&n~
+&yA raft has been left here.&n~
+6 0 q
+0 0 0 0
+75 40000 1
+ENDOBJ
+50031
+canoe~
+&ya canoe&n~
+&ya canoe&n~
+&yA canoe has been left here.&n~
+6 0 q
+0 0 0 0
+75 40000 1
+ENDOBJ
+50032
+gauntlets plated steel~
+&Wa pair of &cplated &Lsteel &Wgauntlets&n~
+&Wa pair of &cplated &Lsteel &Wgauntlets&n~
+&Wa pair of &cplated &Lsteel &Wgauntlets are here&n.~
+6 0 v
+6 0 0 0
+8 1750 4
+ENDOBJ
+50033
+black cowhide gloves~
+&ya pair of &Lblack &WCow&Lhide &ygloves&n~
+&ya pair of &Lblack &WCow&Lhide &ygloves&n~
+&ya pair of &Lblack &WCow&Lhide &ygloves are here.&n~
+6 0 v
+3
+3 75 6
+ENDOBJ
+50034
+black cowhide boots~
+&ya pair of &Lblack &WCow&Lhide &yboots&n~
+&ya pair of &Lblack &WCow&Lhide &yboots&n~
+&ya pair of &Lblack &WCow&Lhide &yboots is lying on the ground.&n~
+6 0 u
+3
+5 350 6
+ENDOBJ
+50035
+black cowhide cap~
+&ya &Lblack &WCow&Lhide &ycap&n~
+&ya &Lblack &WCow&Lhide &ycap&n~
+&ya &Lblack &WCow&Lhide &ycap lies here.&n~
+6 0 a
+3
+3 150 6
+ENDOBJ
+50036
+black cowhide leggings~
+&ya pair of &Lblack &WCow&Lhide &yleggings&n~
+&ya pair of &Lblack &WCow&Lhide &yleggings&n~
+&ya pair of &Lblack &WCow&Lhide &yleggings lie here.&n~
+6 0 t
+6
+8 3500 6
+ENDOBJ
+50037
+black cow hide pants~
+&ya pair of &Lblack &WCow&Lhide &ypants&n~
+&ya pair of &Lblack &WCow&Lhide &ypants&n~
+&ya pair of &Lblack &WCow&Lhide &yleggings lie here.&n~
+6 0 t
+3
+8 150 6
+ENDOBJ
+50038
+sleeves plated steel~
+&Wa pair of &cplated &Lsteel &Wsleeves&n~
+&Wa pair of &cplated &Lsteel &Wsleeves&n~
+&Wa pair of &cplated &Lsteel &Wsleeves lie here&n~
+6 0 j
+6
+8 1750 5
+ENDOBJ
+50039
+black cowhide sleeves~
+&ya pair of &Lblack &WCow&Lhide &ysleeves&n~
+&ya pair of &Lblack &WCow&Lhide &ysleeves&n~
+&ya pair of &Lblack &WCow&Lhide &ysleeves lie here.&n~
+6 0 j
+2
+4 75 6
+ENDOBJ
+50040
+black cowhide dog collar~
+&ya &Lblack &WCow&Lhide &ydog collar&n~
+&ya &Lblack &WCow&Lhide &ydog collar&n~
+&ya &Lblack &WCow&Lhide &ycollar lie here.&n~
+6 0 g
+2
+2 75 6
+ENDOBJ
+50041
+backpack bp~
+&ya &Lblack &WCow&Lhide &ybackpack&n~
+&ya &Lblack &WCow&Lhide &ybackpack&n~
+&ya &Lblack &WCow&Lhide &ybackpack is here.&n~
+8 0 i
+200 1 -1 0
+1 20 6
+ENDOBJ
+50046
+potion yellow~
+&ca milky &yyellow &cpotion&n~
+&ca milky &yyellow &cpotion&n~
+&cA small milky &yyellow &cpotion has carelessly been left here.&n~
+11 0 q
+4 2 4 1 -1
+1 9000 1
+ENDOBJ
+50047
+green yellow~
+&La thick &Ggreen &Lpotion&n~
+&La thick &Ggreen &Lpotion&n~
+&LA thick &Ggreen &Lpotion has carelessly been left here.&n~
+11 o q
+1 3 15 -1 -1
+1 15000 1
+ENDOBJ
+50048
+staff metal~
+&La &Wshiny &Lmetal staff&n~
+&La &Wshiny &Lmetal staff&n~
+&LA &Wshiny &Lmetal staff has carelessly been left here.&n~
+10 0 mn
+2 10 1 10 1
+7 8500 5
+ENDOBJ
+50049
+leggings sharp white~
+&Wsome &Ysharp &Wwhite &Bleggings&n~
+&Wsome &Ysharp &Wwhite &Bleggings&n~
+&Wsome &Ysharp &Wwhite &Bleggings &clie here.&n~
+6 0 t
+8
+4 5000 4
+ENDOBJ
+ENDFILE

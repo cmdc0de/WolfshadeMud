@@ -1,0 +1,109 @@
+210001
+bay master~
+&ythe bay master&n~
+&yThe bay master is here pouring over reports.&n~
+&yThe bay master is here pouring over reports.&n~
+&yThis large, strong man has seen many years of hauling crates and boxes on and off of ships.&n~
+aje abek 0
+20 1 55
+-20 -90 0
+10 10 50
+21000 0 j j 1
+ENDMOB
+210002
+pier master~
+&ya pier master&n~
+&yA pier master stands here holding his report and a pen.&n~
+&yA pier master stands here holding his report and a pen.&n~
+&yThe pier master is the guy who records all of the comings and goings of the pier.  He always keeps a pen and paper handy to write down the quantities of imports and exports on the bay.&n~
+aje abek 0
+20 1 45
+0 -60 1
+10 10 20
+15000 0 j j 1
+ENDMOB
+210003
+visiting mage~
+&ca &Wvisiting &cmage&n~
+&cA &Wvisiting &cmage stands here looking around at the sites.&n~
+&cA &Wvisiting &cmage stands here looking around at the sites.&n~
+&cThis little Pixie stands around looking at the sites.&n~
+je ag 1000
+16 3 36
+15 0 0
+5 5 5
+1000 50 j j 1
+ENDMOB
+210004
+cargo loader~
+&ya &Lcargo &yloader&n~
+&yA &Lcargo &yloader walks around the dock with a purpose.&n~
+&yA &Lcargo &yloader walks around the dock with a purpose.&n~
+&yThis strong &Lcargo &yloader is well built and has obviously worked hauling cargo for some time.&n~
+je ab 0
+20 1 25
+50 50 1
+3 3 3
+900 40 j j 2
+ENDMOB
+210005
+dock hand~
+&ya dock hand&n~
+&yA dock hand stands here waiting for the next duty.&n~
+&yA dock hand stands here waiting for the next duty.&n~
+&yThis young boy helps the loaders and masters in moving goods and people to where they need to go.&n~
+je abej 0
+20 1 15 
+40 10 5
+2 4 1
+3000 0 j j 1
+ENDMOB
+210006
+small draconian~
+&ga small draco&rnian&n~
+&gA small draco&rnian &gstands here.&n~
+&gA small draco&rnian &gstands here.&n~
+&gThis small draconian looks lost.  He also looks to be more of a child or adolescent draconian.&n~
+jde ab -800
+5 1 5
+90 90 1
+2 5 1
+500 0 j j 1
+ENDMOB
+210007
+battle mage~
+&ma &Mbattle &mmage&n~
+&mA &Mbattle &mmage stands here.&n~
+&mA &Mbattle &mmage stands here.&n~
+&mThis mage is part of a larger group of mages who go around doing battle with foul creatures.&n~
+je ag 700
+20 3 40 
+10 -20 1
+5 5 15
+500 0 j j 1
+ENDMOB
+210008
+battle mage~
+&ra &Rbattle &rmage&n~
+&rA &Rbattle &rmage stands here.&n~
+&rA &Rbattle &rmage stands here.&n~
+&rThis mage is part of a larger group of mages who go around doing battle with foul creatures.&n~
+je ae 700
+20 3 35 
+10 0 1
+5 5 15
+500 0 j j 2
+ENDMOB
+210009
+quiet stranger~
+&La &wquiet &Lstranger&n~
+&LA &wquiet &Lstranger stands here checking out the surroundings.&n~
+&LA &wquiet &Lstranger stands here checking out the surroundings.&n~
+&LThis quiet individual seems to mind his own business.&n~
+je abe -800
+20 4 50 
+10 0 1
+5 15 15
+500 0 j j 1
+ENDMOB
+ENDFILE

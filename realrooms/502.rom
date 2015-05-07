@@ -1,0 +1,991 @@
+50200 N
+&yA dark &Ltunnel&n~
+&LThis dark tunnel leads down into the side of the mountain towards the mines of &WSibrene &mCove.&n~
+502 ac 0 1
+DOOR
+4
+~ 
+1 -1 50111
+DOOR
+5
+~
+1 -1 50201
+ENDROOM
+50201 N
+&yA dark &Ltunnel&n~
+&LThis dark tunnel leads down into the side of the mountain towards the mines of &WSibrene &mCove.&n~
+502 ac 0 1
+DOOR
+4
+~ 
+1 -1 50200
+DOOR
+5
+~
+1 -1 50202
+ENDROOM
+50202 N
+&yA dark &Ltunnel&n~
+&LThis dark tunnel leads down into the side of the mountain towards the mines of &WSibrene &mCove.&n~
+502 ac 0 1
+DOOR
+4
+~ 
+1 -1 50201
+DOOR
+5
+~
+1 -1 50203
+ENDROOM
+50203 N
+&LBegining of a Mine&n~
+&LHere starts the mines of &WSibrene &mCove.&n~
+502 ac 0 1
+DOOR
+4
+~
+1 -1 50202
+DOOR
+2
+~
+1 -1 50204
+ENDROOM
+50204 N
+&LThe Mines&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50203
+DOOR
+2
+~
+1 -1 50205
+ENDROOM
+50205 N
+&LThe Mines&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50204
+DOOR
+2
+~
+1 -1 50206
+ENDROOM
+50206 N
+&LThe Mines&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50205
+DOOR
+2
+~
+1 -1 50214
+ENDROOM
+50207 N
+&LThe &yCopper &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of copper are on the walls and floor.  Some rocks and rubble block your way to the east.&n~
+502 ac 0 1
+DOOR
+1
+rocks rubble~
+1 -1 50208
+DOOR
+2
+~
+1 -1 50210
+ENDROOM
+50208 N
+&LThe &yCopper &LMine&n~
+&LHere the mine ends.  Traces of copper are on the walls and floor.  Some rocks and rubble block your way to the west.&n~
+502 ac 0 1
+DOOR
+3
+rocks rubble~
+1 -1 50207
+ENDROOM
+50209 N
+&LThe &yCopper &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of copper are on the walls and floor&n~
+502 ac 0 1
+DOOR
+2
+~
+1 -1 50216
+DOOR
+1
+~
+1 -1 50210
+ENDROOM
+50210 N
+&LThe &yCopper &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of copper are on the walls and floor.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50207
+DOOR
+3
+~
+1 -1 50209
+ENDROOM
+50211 N
+&LThe &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+2
+~
+1 -1 50217
+DOOR
+1
+~
+1 -1 50212
+ENDROOM
+50212 N
+&LThe &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50213
+DOOR
+3
+~
+1 -1 50211
+ENDROOM
+50213 N
+&LThe &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50214
+DOOR
+3
+~
+1 -1 50212
+ENDROOM
+50214 N
+&LThe Mine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50206
+DOOR
+1
+~
+1 -1 50215
+DOOR
+2
+~
+1 -1 50218
+DOOR
+3
+~
+1 -1 50213
+ENDROOM
+50215 N
+&LThe &yCopper &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of copper are on the walls and floor&n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50216
+DOOR
+2
+~
+1 -1 50219
+DOOR
+3
+~
+1 -1 50214
+ENDROOM
+50216 N
+&LThe &yCopper &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of copper are on the walls and floor&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50209
+DOOR
+3
+~
+1 -1 50215
+ENDROOM
+50217 N
+&LThe &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50211
+DOOR
+2
+~
+1 -1 50221
+ENDROOM
+50218 N
+&LThe Mine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50214
+DOOR
+1
+~
+1 -1 50219
+DOOR
+2
+~
+1 -1 50224
+ENDROOM
+50219 N
+&LThe &yCopper &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of copper are on the walls and floor&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50215
+DOOR
+3
+~
+1 -1 50218
+ENDROOM
+50220 N
+&LThe &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50221
+DOOR
+2
+~
+1 -1 50230
+ENDROOM
+50221 N
+&LThe &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50217
+DOOR
+3
+~
+1 -1 50220
+ENDROOM
+50222 N
+&LThe &rDolomite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of dolomite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50223
+ENDROOM
+50223 N
+&LThe &rDolomite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of dolomite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50224
+DOOR
+3
+~
+1 -1 50222
+ENDROOM
+50224 N
+&LThe Mine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50218
+DOOR
+2
+~
+1 -1 50231
+DOOR
+3
+~
+1 -1 50223
+ENDROOM
+50225 N
+&LThe &YGold &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Gold litters the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50226
+DOOR
+2
+~
+1 -1 50232
+ENDROOM
+50226 N
+&LThe &YGold &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Gold litters the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50227
+DOOR
+3
+~
+1 -1 50225
+ENDROOM
+50227 N
+&LThe &YGold &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Gold litters the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50228
+DOOR
+3
+~
+1 -1 50226
+ENDROOM
+50228 N
+&LThe &YGold &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Gold litters the walls and floor. &n~
+502 ac 0 1
+DOOR
+3
+~
+1 -1 50227
+ENDROOM
+50229 N
+&LThe &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50230
+DOOR
+2
+~
+1 -1 50233
+ENDROOM
+50230 N
+&LThe &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50220
+DOOR
+3
+~
+1 -1 50229
+ENDROOM
+50231 N
+&LThe Mine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50224
+DOOR
+2
+~
+1 -1 50235
+ENDROOM
+50232 N
+&LThe &YGold &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Gold litters the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50225
+DOOR
+2
+~
+1 -1 50236
+ENDROOM
+50233 N
+&LThe End of the &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. Loose rubble and rock line the wall to the south.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50229
+DOOR
+2
+rubble rock~
+c -1 50238
+ENDROOM
+50234 N
+&LMiner's Rest Area&n~
+&LHere miners sit, rest, have lunch, and all the fun things that go with digging into solid rock.&n~
+502 ac 0 1
+DOOR
+2
+~
+1 -1 50239
+ENDROOM
+50235 N
+&LThe Mine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50231
+DOOR
+1
+~
+1 -1 50236
+DOOR
+2
+~
+1 -1 50240
+ENDROOM
+50236 N
+&LThe &YGold &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of gold are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50232
+DOOR
+3
+~
+1 -1 50235
+ENDROOM
+50237 N
+&LThe end of the &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. Rocks and rubble line the wall to the south.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50229
+DOOR
+2
+rubble rocks~
+1 -1 50238
+ENDROOM
+50238 N
+&LThe end of the &wSilver &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of silver are on the walls and floor. Rocks and rubble line the wall to the north.&n~
+502 ac 0 1
+DOOR
+0
+rubble rocks~
+c -1 50233
+ENDROOM
+50239 N
+&LMiner's Rest Area&n~
+&LHere miners sit, rest, have lunch, and all the fun things that go with digging into solid rock.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50234
+DOOR
+2
+~
+1 -1 50246
+ENDROOM
+50240 N
+&LThe Mine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50235
+DOOR
+2
+~
+1 -1 50248
+ENDROOM
+50241 N
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50242
+DOOR
+2
+~
+1 -1 50250
+ENDROOM
+50242 N
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50243
+DOOR
+2
+~
+1 -1 50251
+DOOR
+3
+~
+1 -1 50241
+ENDROOM
+50243 N
+&LThe end of a &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. A dirty old wooden door is to the north.&n~
+502 ac 0 1
+DOOR
+0
+door dirty old wooden~
+1 -1 50270
+DOOR
+3
+~
+1 -1 50242
+ENDROOM
+50244 N
+&LThe &cAdamantite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of adamantite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50245
+ENDROOM
+50245 N
+&LThe &cAdamantite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of adamantite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+2
+~
+1 -1 50252
+DOOR
+3
+~
+1 -1 50244
+ENDROOM
+50246 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.  Miners walk back and forth.  This area looks to be the central main point of all the mines.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50239
+DOOR
+1
+~
+1 -1 50247
+DOOR
+2
+~
+1 -1 50253
+ENDROOM
+50247 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.  Miners walk back and forth.  This area looks to be the central main point of all the mines.&n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50248
+DOOR
+2
+~
+1 -1 50254
+DOOR
+3
+~
+1 -1 50246
+ENDROOM
+50248 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.  Miners walk back and forth.  This area looks to be the central main point of all the mines.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50240
+DOOR
+1
+~
+1 -1 50249
+DOOR
+2
+~
+1 -1 50255
+DOOR
+3
+~
+1 -1 50247
+ENDROOM
+50249 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.  Miners walk back and forth.  This area looks to be the central main point of all the mines.&n~
+502 ac 0 1
+DOOR
+2
+~
+1 -1 50256
+DOOR
+3
+~
+1 -1 50248
+ENDROOM
+50250 N2
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50241
+ENDROOM
+50251 N
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50242
+DOOR
+2
+~
+1 -1 50257
+ENDROOM
+50252 N
+&LThe &cAdamantite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of adamantite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50245
+DOOR
+2
+~
+1 -1 50258
+ENDROOM
+50253 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.  Miners walk back and forth.  This area looks to be the central main point of all the mines.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50246
+DOOR
+1
+~
+1 -1 50254
+ENDROOM
+50254 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.  Miners walk back and forth.  This area looks to be the central main point of all the mines.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50247
+DOOR
+1
+~
+1 -1 50255
+DOOR
+3
+~
+1 -1 50253
+ENDROOM
+50255 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.  Miners walk back and forth.  This area looks to be the central main point of all the mines.&n~
+502 ac 0 1
+DOOR
+2
+~
+1 -1 50259
+DOOR
+1
+~
+1 -1 50256
+DOOR
+0
+~
+1 -1 50248
+DOOR
+3
+~
+1 -1 50254
+ENDROOM
+50256 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.  Miners walk back and forth.  This area looks to be the central main point of all the mines.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50249
+DOOR
+3
+~
+1 -1 50255
+ENDROOM
+50257 N
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50251
+DOOR
+2
+~
+1 -1 50263
+ENDROOM
+50258 N
+&LThe &cAdamantite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of adamantite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50252
+DOOR
+2
+~
+1 -1 50265
+ENDROOM
+50259 N
+&LThe Mine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.&n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50235
+DOOR
+1
+~
+1 -1 50260
+DOOR
+2
+~
+1 -1 50269
+ENDROOM
+50260 N
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50261
+DOOR
+3
+~
+1 -1 50259
+ENDROOM
+50261 N
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50262
+DOOR
+3
+~
+1 -1 50260
+ENDROOM
+50262 N
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50263
+DOOR
+3
+~
+1 -1 50261
+ENDROOM
+50263 N
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50257
+DOOR
+1
+~
+1 -1 50264
+DOOR
+3
+~
+1 -1 50262
+ENDROOM
+50264 N
+&LThe &bMithril &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of mithril are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+3
+~
+1 -1 50263
+ENDROOM
+50265 N
+&LThe &cAdamantite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of adamantite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50258
+DOOR
+1
+~
+1 -1 50266
+ENDROOM
+50266 N
+&LThe &cAdamantite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of adamantite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50267
+DOOR
+3
+~
+1 -1 50265
+ENDROOM
+50267 N
+&LThe &cAdamantite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of adamantite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50268
+DOOR
+3
+~
+1 -1 50266
+ENDROOM
+50268 N
+&LThe &cAdamantite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of adamantite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+1
+~
+1 -1 50269
+DOOR
+3
+~
+1 -1 50267
+ENDROOM
+50269 N
+&LThe &cAdamantite &LMine&n~
+&LLines of where a mine cart was pushed line the floor.  Solid wood braces line the walls, as do many pick marks of where digging has already been done.  Traces of adamantite are on the walls and floor. &n~
+502 ac 0 1
+DOOR
+0
+~
+1 -1 50259
+DOOR
+3
+~
+1 -1 50268
+ENDROOM
+50270 N
+&LA tunnel&n~
+&LA tunnel leading upwards is here.  A staircase has been carved out around the outside, giving easy access to the top.&n~
+502 ac 0 1
+DOOR
+4
+~
+1 -1 50271
+DOOR
+2
+door~
+1 -1 50243
+ENDROOM
+50271 N
+&LA tunnel&n~
+&LA tunnel leading up and down is here.  A staircase has been carved out around the outside, giving easy access to the top and bottom.&n~
+502 ac 0 1
+DOOR
+4
+~
+1 -1 50272
+DOOR
+5
+~
+1 -1 50270
+ENDROOM
+50272 N
+&LA tunnel&n~
+&LA tunnel leading up and down is here.  A staircase has been carved out around the outside, giving easy access to the top and bottom.&n~
+502 ac 0 1
+DOOR
+4
+~
+1 -1 50273
+DOOR
+5
+~
+1 -1 50271
+ENDROOM
+50273 N
+&LAn Office&n~
+&LHere all the workings of the mine are taken care of.   Papers and maps are strewn throughout the office, cluttering the desk.&n~
+502 ac 0 1
+DOOR
+5
+~
+1 -1 50272
+ENDROOM
+ENDFILE

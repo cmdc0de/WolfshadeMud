@@ -1,0 +1,991 @@
+51100 Y
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+3
+~ 
+1 -1 1009269
+DOOR
+2
+~
+1 -1 51101
+ENDROOM
+51101 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~ 
+1 -1 51100
+DOOR
+2
+~
+1 -1 51102
+ENDROOM
+51102 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~ 
+1 -1 51101
+DOOR
+2
+~
+1 -1 51103
+ENDROOM
+51103 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51102
+DOOR
+2
+~
+1 -1 51104
+ENDROOM
+51104 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51103
+DOOR
+2
+~
+1 -1 51105
+ENDROOM
+51105 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51104
+DOOR
+2
+~
+1 -1 51106
+ENDROOM
+51106 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51105
+DOOR
+2
+~
+1 -1 51114
+ENDROOM
+51107 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+rocks rubble~
+1 -1 51108
+DOOR
+2
+~
+1 -1 51110
+ENDROOM
+51108 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+3
+rocks rubble~
+1 -1 51107
+ENDROOM
+51109 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+2
+~
+1 -1 51116
+DOOR
+1
+~
+1 -1 51110
+ENDROOM
+51110 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51107
+DOOR
+3
+~
+1 -1 51109
+ENDROOM
+51111 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+2
+~
+1 -1 51117
+DOOR
+1
+~
+1 -1 51112
+ENDROOM
+51112 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51113
+DOOR
+3
+~
+1 -1 51111
+ENDROOM
+51113 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51114
+DOOR
+3
+~
+1 -1 51112
+ENDROOM
+51114 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51106
+DOOR
+1
+~
+1 -1 51115
+DOOR
+2
+~
+1 -1 51118
+DOOR
+3
+~
+1 -1 51113
+ENDROOM
+51115 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51116
+DOOR
+2
+~
+1 -1 51119
+DOOR
+3
+~
+1 -1 51114
+ENDROOM
+51116 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51109
+DOOR
+3
+~
+1 -1 51115
+ENDROOM
+51117 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51111
+DOOR
+2
+~
+1 -1 51121
+ENDROOM
+51118 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51114
+DOOR
+1
+~
+1 -1 51119
+DOOR
+2
+~
+1 -1 51124
+ENDROOM
+51119 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51115
+DOOR
+3
+~
+1 -1 51118
+ENDROOM
+51120 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51121
+DOOR
+2
+~
+1 -1 51130
+ENDROOM
+51121 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51117
+DOOR
+3
+~
+1 -1 51120
+ENDROOM
+51122 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51123
+ENDROOM
+51123 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51124
+DOOR
+3
+~
+1 -1 51122
+ENDROOM
+51124 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51118
+DOOR
+2
+~
+1 -1 51131
+DOOR
+3
+~
+1 -1 51123
+ENDROOM
+51125 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51126
+DOOR
+2
+~
+1 -1 51132
+ENDROOM
+51126 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51127
+DOOR
+3
+~
+1 -1 51125
+ENDROOM
+51127 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51128
+DOOR
+3
+~
+1 -1 51126
+ENDROOM
+51128 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+3
+~
+1 -1 51127
+ENDROOM
+51129 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51130
+DOOR
+2
+~
+1 -1 51133
+ENDROOM
+51130 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51120
+DOOR
+3
+~
+1 -1 51129
+ENDROOM
+51131 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51124
+DOOR
+2
+~
+1 -1 51135
+ENDROOM
+51132 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51125
+DOOR
+2
+~
+1 -1 51136
+ENDROOM
+51133 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51129
+DOOR
+2
+rubble rock~
+c -1 51138
+ENDROOM
+51134 N
+&wMurky &bpool&L of water&n~
+&LThe water here is grey and swirling and smells worse than most other parts of the area.&n~
+511 ac 0 1
+DOOR
+2
+~
+1 -1 51139
+ENDROOM
+51135 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51131
+DOOR
+1
+~
+1 -1 51136
+DOOR
+2
+~
+1 -1 51140
+ENDROOM
+51136 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51132
+DOOR
+3
+~
+1 -1 51135
+ENDROOM
+51137 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51129
+DOOR
+2
+rubble rocks~
+1 -1 51138
+ENDROOM
+51138 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+rubble rocks~
+c -1 51133
+ENDROOM
+51139 N
+&wMurky &bpool&L of water&n~
+&LThe water here is grey and swirling and smells worse than most other parts of the area.&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51134
+DOOR
+2
+~
+1 -1 51146
+ENDROOM
+51140 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51135
+DOOR
+2
+~
+1 -1 51148
+ENDROOM
+51141 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51142
+DOOR
+2
+~
+1 -1 51150
+ENDROOM
+51142 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51143
+DOOR
+2
+~
+1 -1 51151
+DOOR
+3
+~
+1 -1 51141
+ENDROOM
+51143 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+door dirty old wooden~
+1 -1 51170
+DOOR
+3
+~
+1 -1 51142
+ENDROOM
+51144 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51145
+ENDROOM
+51145 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+2
+~
+1 -1 51152
+DOOR
+3
+~
+1 -1 51144
+ENDROOM
+51146 N
+&gA large circular pool of &Ldark &bwater&n~
+&gThis pool of water is large and smells really bad.&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51139
+DOOR
+1
+~
+1 -1 51147
+DOOR
+2
+~
+1 -1 51153
+ENDROOM
+51147 N
+&gA large circular pool of &Ldark &bwater&n~
+&gThis pool of water is large and smells really bad.&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51148
+DOOR
+2
+~
+1 -1 51154
+DOOR
+3
+~
+1 -1 51146
+ENDROOM
+51148 N
+&gA large circular pool of &Ldark &bwater&n~
+&gThis pool of water is large and smells really bad.&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51140
+DOOR
+1
+~
+1 -1 51149
+DOOR
+2
+~
+1 -1 51155
+DOOR
+3
+~
+1 -1 51147
+ENDROOM
+51149 N
+&gA large circular pool of &Ldark &bwater&n~
+&gThis pool of water is large and smells really bad.&n~
+511 ac 0 1
+DOOR
+2
+~
+1 -1 51156
+DOOR
+3
+~
+1 -1 51148
+ENDROOM
+51150 N2
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51141
+ENDROOM
+51151 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51142
+DOOR
+2
+~
+1 -1 51157
+ENDROOM
+51152 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51145
+DOOR
+2
+~
+1 -1 51158
+ENDROOM
+51153 N
+&gA large circular pool of &Ldark &bwater&n~
+&gThis pool of water is large and smells really bad.&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51146
+DOOR
+1
+~
+1 -1 51154
+ENDROOM
+51154 N
+&gA large circular pool of &Ldark &bwater&n~
+&gThis pool of water is large and smells really bad.&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51147
+DOOR
+1
+~
+1 -1 51155
+DOOR
+3
+~
+1 -1 51153
+ENDROOM
+51155 N
+&gA large circular pool of &Ldark &bwater&n~
+&gThis pool of water is large and smells really bad.&n~
+511 ac 0 1
+DOOR
+2
+~
+1 -1 51159
+DOOR
+1
+~
+1 -1 51156
+DOOR
+0
+~
+1 -1 51148
+DOOR
+3
+~
+1 -1 51154
+ENDROOM
+51156 N
+&gA large circular pool of &Ldark &bwater&n~
+&gThis pool of water is large and smells really bad.&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51149
+DOOR
+3
+~
+1 -1 51155
+ENDROOM
+51157 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51151
+DOOR
+2
+~
+1 -1 51163
+ENDROOM
+51158 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51152
+DOOR
+2
+~
+1 -1 51165
+ENDROOM
+51159 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51135
+DOOR
+1
+~
+1 -1 51160
+DOOR
+2
+~
+1 -1 51169
+ENDROOM
+51160 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51161
+DOOR
+3
+~
+1 -1 51159
+ENDROOM
+51161 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51162
+DOOR
+3
+~
+1 -1 51160
+ENDROOM
+51162 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51163
+DOOR
+3
+~
+1 -1 51161
+ENDROOM
+51163 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51157
+DOOR
+1
+~
+1 -1 51164
+DOOR
+3
+~
+1 -1 51162
+ENDROOM
+51164 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+3
+~
+1 -1 51163
+ENDROOM
+51165 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51158
+DOOR
+1
+~
+1 -1 51166
+ENDROOM
+51166 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51167
+DOOR
+3
+~
+1 -1 51165
+ENDROOM
+51167 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51168
+DOOR
+3
+~
+1 -1 51166
+ENDROOM
+51168 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+1
+~
+1 -1 51169
+DOOR
+3
+~
+1 -1 51167
+ENDROOM
+51169 N
+&gA &ysmelly &gbog&n~
+&gThe bog gives off a terrible stench here, you feel as though you want to yak and the steam that floats up from the water does not help&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51159
+DOOR
+3
+~
+1 -1 51168
+ENDROOM
+51170 N
+&gA smelly stream&n~
+&gA small murky stream runs along the path here.&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51171
+DOOR
+2
+door~
+1 -1 51143
+ENDROOM
+51171 N
+&gA smelly stream&n~
+&gA small murky stream runs along the path here.&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51172
+DOOR
+2
+~
+1 -1 51170
+ENDROOM
+51172 N
+&gA smelly stream&n~
+&gA small murky stream runs along the path here.&n~
+511 ac 0 1
+DOOR
+0
+~
+1 -1 51173
+DOOR
+2
+~
+1 -1 51171
+ENDROOM
+51173 N
+&gA small pool at the end of the stream&n~
+&gA small murky stream runs along the path here and stops into a little pool.&n~
+511 ac 0 1
+DOOR
+2
+~
+1 -1 51172
+ENDROOM
+ENDFILE

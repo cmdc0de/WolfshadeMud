@@ -1,0 +1,416 @@
+50102 N
+&ySibrene &MCove &Cauction house&n~
+&yA small podium stands atop a large stage.  A table sits on top of the stage, strewn with items up for bid.&n~
+500 0 0 1
+DOOR
+1
+~
+1 -1 50103
+ENDROOM
+50103 N
+&yA city road&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 0 0 2 
+DOOR
+0
+~
+1 -1 50098
+DOOR
+1
+~
+1 -1 50104
+DOOR
+2
+~
+1 -1 50108
+DOOR
+3
+~
+1 -1 50102
+ENDROOM
+50104 N
+&CBefore the &MMage's &Cguild hall&n~
+&CA strangely shaped building stands before you.  Mages of the realms pass in and out of the front door.&n~
+500 0 0 1
+DOOR
+1
+~
+1 -1 50105
+DOOR
+3
+~
+1 -1 50103
+ENDROOM
+50105 N
+&CEnterance to the &MMage's &Cguild&n~
+&CHere all the new mages of the cove sit and pour over scrolls and papers of spells that they are either working on or studying.&n~
+500 0 0 1
+DOOR
+2
+~
+1 -1 50110
+DOOR
+3
+~
+1 -1 50104
+ENDROOM
+50108 N
+&yA city road&n~
+&yThis road connects the road by the city wall to the market at the center of town.  This cobblestone and dirt road is lined with houses.&n~
+500 0 0 2
+DOOR
+0
+~
+1 -1 50103
+DOOR
+2
+~
+1 -1 50111
+ENDROOM
+50109 N
+&CThe &MGuildmaster's &CRoom&n~
+&CVials and bottles of substances found throughout the realm have been placed in accordance around the room.  The desk in the middle of the room is littered with papers and scolls.&n~
+500 0 0 2
+DOOR
+1
+~
+1 -1 50110
+ENDROOM
+50110 N
+&CHallway to the guildmaster&n~
+&CHere the hallway connects the study room with the master's room.  This room seems to be magically lit.&n~
+500 0 0 1
+DOOR
+0
+~
+1 -1 50105
+DOOR
+3
+~
+1 -1 50109
+ENDROOM
+50111 N
+&yA tunnel made of &n&wrock&n~
+&yA dark tunnel leads upwards from here, no telling where.&n~
+500 0 0 2 2
+DOOR
+0
+~
+1 -1 50108
+DOOR
+5
+~
+1 -1 50200
+ENDROOM
+50112 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2 2
+DOOR
+1
+~
+1 -1 50113
+DOOR
+5
+~
+1 -1 50004
+ENDROOM
+50113 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2 2
+DOOR
+1
+~
+1 -1 50114
+DOOR
+3
+~
+1 -1 50112
+ENDROOM
+50114 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2 2
+DOOR
+1
+~
+1 -1 50115
+DOOR
+3
+~
+1 -1 50113
+ENDROOM
+50115 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2 2
+DOOR
+1
+~
+1 -1 50116
+DOOR
+3
+~
+1 -1 50114
+ENDROOM
+50116 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2 2
+DOOR
+1
+~
+1 -1 50117
+DOOR
+3
+~
+1 -1 50115
+ENDROOM
+50117 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2 2
+DOOR
+1
+~
+1 -1 50118
+DOOR
+3
+~
+1 -1 50116
+ENDROOM
+50118 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2 2
+DOOR
+2
+~
+1 -1 50119
+DOOR
+3
+~
+1 -1 50117
+DOOR
+5
+~
+1 -1 50009
+ENDROOM
+50119 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2
+DOOR
+0
+~
+1 -1 50118
+DOOR
+2
+~
+1 -1 50120
+ENDROOM
+50120 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2
+DOOR
+0
+~
+1 -1 50119
+DOOR
+1
+~
+1 -1 50121
+ENDROOM
+50121 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2
+DOOR
+1
+~
+1 -1 50122
+DOOR
+3
+~
+1 -1 50120
+ENDROOM
+50122 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2
+DOOR
+2
+~
+1 -1 50123
+DOOR
+3
+~
+1 -1 50121
+DOOR
+5
+~
+1 -1 50025
+ENDROOM
+50123 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2
+DOOR
+0
+~
+1 -1 50122
+DOOR
+2
+~
+1 -1 50124
+ENDROOM
+50124 N
+&wThe city wall&n~
+&wA wall of solid stone protects the northern side of &ySibrene &MCove. &n&wFrom the catwalk you are on you can see out to the fields to the north of the city and the sea off to the west.&n~
+500 0 0 2
+DOOR
+0
+~
+1 -1 50123
+ENDROOM
+50125 N
+&wA dark tunnel&n~
+&wThis dark tunnel is very damp and very dark.&n~
+500 0 1 1
+DOOR
+2
+~
+1 -1 50127
+DOOR
+4
+trapdoor~
+1 -1 50022
+ENDROOM
+50126 N
+&wA dark tunnel&n~
+&wThis dark tunnel is very damp and very dark.&n~
+500 ac 0 1
+DOOR
+1
+~
+1 -1 50127
+DOOR
+2
+~
+1 -1 50131
+DOOR
+3
+secret door~
+1 -1 50301
+ENDROOM
+50127 N
+&wA dark tunnel&n~
+&wThis dark tunnel is very damp and very dark.&n~
+500 ac 0 1
+DOOR
+1
+~
+1 -1 50128
+DOOR
+0
+~
+1 -1 50125
+DOOR
+3
+~
+1 -1 50126
+ENDROOM
+50128 N
+&wA dark tunnel&n~
+&wThis dark tunnel is very damp and very dark.&n~
+500 ac 0 1
+DOOR
+1
+~
+1 -1 50129
+DOOR
+3
+~
+1 -1 50127
+ENDROOM
+50129 N
+&wA dark tunnel&n~
+&wThis dark tunnel is very damp and very dark.&n~
+500 ac 0 1
+DOOR
+1
+~
+1 -1 50130
+DOOR
+2
+~
+1 -1 50132
+DOOR
+3
+~
+1 -1 50128
+ENDROOM
+50130 N
+&wA dark tunnel&n~
+&wThis dark tunnel is very damp and very dark.&n~
+500 ac 0 1
+DOOR
+3
+~
+1 -1 50129
+DOOR
+4
+~
+1 -1 50036
+ENDROOM
+50131 N
+&wA dark tunnel&n~
+&wThis dark tunnel is very damp and very dark.&n~
+500 ac 0 1
+DOOR
+0
+~
+1 -1 50126
+DOOR
+4
+trapdoor~
+1 -1 50103
+ENDROOM
+50132 N
+&wA dark tunnel&n~
+&wThis dark tunnel is very damp and very dark.&n~
+500 ac 0 1
+DOOR
+0
+~
+1 -1 50129
+DOOR
+2
+~
+1 -1 50133
+ENDROOM
+50133 N
+&wA dark tunnel&n~
+&wThis dark tunnel is very damp and very dark.&n~
+500 ac 0 1
+DOOR
+0
+~
+1 -1 50132
+DOOR
+1
+~
+1 -1 50134
+ENDROOM
+50134 N
+&wA dark office&n~
+&wHere is the office of the rogue guildmaster.  Dark and warm, here almost all of the people of the underground learn their trade.&n~
+500 ac 0 1
+DOOR
+3
+~
+1 -1 50133
+ENDROOM
+ENDFILE

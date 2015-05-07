@@ -1,0 +1,85 @@
+901
+&LSleeping area&n~
+&LGo down to enter the &rGnome &Linn.  Feel free to pick up some of the equipment on the ground.
+If you're a newbie you may want to check out the caves to the east or the path to the southeast.
+When you're done go to an inn and type 'rent' or go outside and 'camp'.
+Use petition to talk to a god.&n~
+9 no 0 2
+DOOR
+5
+~
+1 -1 12070
+ENDROOM
+902
+&LSleeping area&n~
+&LGo down to enter the &LOrc &ninn.  Feel free to pick up some of the equipment on the ground.
+If you're a newbie you may want to check out the bog to the east or the gnoll caves to the northeast.
+When you're done go to an inn and type 'rent' or go outside and 'camp'.
+Use petition to talk to a god.&n~
+9 no 0 2
+DOOR
+5
+~
+1 -1 11070
+ENDROOM
+903
+&LSleeping area&n~
+&LGo down to enter the Thri-kreen inn.  Feel free to pick up some of the equipment on the ground.
+If you're a newbie you may want to check out the path to the southwest across the desert.
+When you're done go to an inn and type 'rent' or go outside and 'camp'.
+Use petition to talk to a god.&n~
+9 no 0 2
+DOOR
+5
+~
+1 -1 11116
+ENDROOM
+904
+&LSleeping area&n~
+&LGo down to enter the &MIllithid &Linn.  Feel free to pick up some of the equipment on the ground.
+If you're a newbie you may want to check out another race, Illithids are difficult at best to play.
+When you're done go to an inn and type 'rent' or go outside and 'camp'.
+Use petition to talk to a god.&n~
+9 no 0 2
+DOOR
+5
+~
+1 -1 34011
+ENDROOM
+905
+&LSleeping area&n~
+&LGo down to enter the &WSibrene &mCove &Linn.  Feel free to pick up some of the equipment on the ground.
+If you're a newbie you may want to check out the mines then buy a boat to get to the main land.
+When you're done go to an inn and type 'rent' or go outside and 'camp'.
+Use petition to talk to a god.&n~
+9 no 0 2
+DOOR
+5
+~
+1 -1 50097
+ENDROOM
+906
+&LSleeping area&n~
+&LGo down to enter the Gn&yoll&L inn.  Feel free to pick up some of the equipment on the ground.
+If you're a newbie you may want to check out the bog to the west or the path to the northwest.
+When you're done go to an inn and type 'rent' or go outside and 'camp'.
+Use petition to talk to a god.&n~
+9 no 0 2
+DOOR
+5
+~
+1 -1 30154
+ENDROOM
+907
+&LSleeping area&n~
+&LGo down to enter the &bOgre&L inn.  Feel free to pick up some of the equipment on the ground.
+If you're a newbie you may want to check out the bog to the west or the path to the northwest.
+When you're done go to an inn and type 'rent' or go outside and 'camp'.
+Use petition to talk to a god.&n~
+9 no 0 2
+DOOR
+5
+~
+1 -1 30048
+ENDROOM
+ENDFILE

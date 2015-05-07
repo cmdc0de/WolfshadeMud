@@ -1,0 +1,289 @@
+11101
+arch druid arch druid~
+&cThe Arch &gDruid&n~
+&cThe Arch &gDruid&c of the city stands here.&n~
+&cThe Arch &gDruid&c of the city stands here.&n~
+&cThis &GThri&W-&Ykreen&c is the spiritual leader and healer of the city.&n~
+aejoq a 0 
+21 5 55 
+-30 -100 20
+2 6 20
+5000 1000 j j 0
+ENDMOB
+11102
+mother~
+&ya mother &GThri&W-&Ykreen&n~
+&yA &GThri&W-&Ykreen mother stands here ready to help you rest.&n~
+&yA &GThri&W-&Ykreen mother stands here ready to help you rest.&n~
+&yWatching over the inn this &GThri&W-&Ykreen is ready to help you rest.&n~
+abj ab -1000
+21 1 40 
+0 -60 10
+1 6 1
+2000 50 j j 0
+ENDMOB
+11103
+weapon smith xaxxklix~
+&yXaxxklix the &GThri&W-&Ykreen&y Weapon smith&n~
+&yXaxxklix the &GThri&W-&Ykreen&y Weapon smith stands here.&n~
+&yXaxxklix the &GThri&W-&Ykreen&y Weapon smith stands here.&n~
+&yXaxxklix the &GThri&W-&Ykreen&y Weapon smith works hard with all 4 hands to create weapons for the army.&n~
+abje adg 0 
+21 1 50 
+-30 -80 10
+1 5 20
+4000 50 j j 0
+ENDMOB
+11104
+war chief mkatli~
+&ythe war chief mkatli&n~
+&yThe war chief mkatli feverishly clicks orders to its army.&n~
+&yThe war chief mkatli feverishly clicks orders to its army.&n~
+&yThis &GThri&W-&Ykreen stands here giving orders to its army.&n~
+abjq abcdefghijk 0 
+21 1 60 
+-50 -100 10
+1 10 20
+200 40 j j 0
+ENDMOB
+11105
+city guard~
+&ya &GThri&W-&Ykreen &yGuard&n~
+&ya &GThri&W-&Ykreen &yGuard stands here watching for intruders.&n~
+&ya &GThri&W-&Ykreen &yGuard stands here watching for intruders.&n~
+&ya &GThri&W-&Ykreen &yGuard stands here watching for intruders.&n~
+abj a 0 
+21 1 50 
+-20 -90 15
+5 6 3
+200 60 j j 0
+ENDMOB
+11106
+city guard~
+&ya &GThri&W-&Ykreen &yGuard&n~
+&ya &GThri&W-&Ykreen &yGuard stands here watching for intruders.&n~
+&ya &GThri&W-&Ykreen &yGuard stands here watching for intruders.&n~
+&ya &GThri&W-&Ykreen &yGuard stands here watching for intruders.&n~
+ab a 0 
+21 1 50 
+-20 -90 15
+5 6 3
+200 60 j j 0
+ENDMOB
+11107
+common guard~
+&ya &GThri&W-&Ykreen &ycommon guard&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices tactics.&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices tactics.&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices tactics.&n~
+ab a 0 
+21 1 20 
+20 30 15
+2 6 0
+800 10 j j 0
+ENDMOB
+11108
+common guard~
+&ya &GThri&W-&Ykreen &ycommon guard&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices attacking.&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices attacking.&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices attacking.&n~
+ab a 0 
+21 1 25 
+10 30 15
+2 7 0
+1000 10 j j 0
+ENDMOB
+11109
+common guard~
+&ya &GThri&W-&Ykreen &ycommon guard&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices defending.&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices defending.&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices defending.&n~
+abj a 0 
+21 1 30 
+10 30 15
+2 6 0
+1500 10 j j 0
+ENDMOB
+11110
+common guard~
+&ya &GThri&W-&Ykreen &ycommon guard&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices for the city guard.&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices for the city guard.&n~
+&yA &GThri&W-&Ykreen &ycommon guard practices for the city guard.&n~
+abj a 0 
+21 1 35 
+0 0 15
+3 7 0
+2000 10 j j 0
+ENDMOB
+11111
+larva~
+&ya &GThri&W-&Ykreen &ylarva&n~
+&yA &GThri&W-&Ykreen &ylarva sits here pulsating.&n~
+&yA &GThri&W-&Ykreen &ylarva sits here pulsating.&n~
+&yA &GThri&W-&Ykreen &ylarva sits here pulsating.&n~
+ab 0 0 
+28 1 1 
+100 100 1
+1 1 0
+0 10 j j 0
+ENDMOB
+11112
+larva~
+&ya &GThri&W-&Ykreen &ylarva&n~
+&yA &GThri&W-&Ykreen &ylarva sits here pulsating.&n~
+&yA &GThri&W-&Ykreen &ylarva sits here pulsating.&n~
+&yA &GThri&W-&Ykreen &ylarva sits here pulsating.&n~
+ab 0 0 
+28 1 5 
+100 100 1
+1 1 0
+0 10 j j 0
+ENDMOB
+11113
+larva~
+&ya &GThri&W-&Ykreen &ylarva&n~
+&yA &GThri&W-&Ykreen &ylarva sits here pulsating.&n~
+&yA &GThri&W-&Ykreen &ylarva sits here pulsating.&n~
+&yA &GThri&W-&Ykreen &ylarva sits here pulsating.&n~
+ab 0 0 
+28 1 3 
+100 100 1
+1 1 0
+0 10 j j 0
+ENDMOB
+11114
+overseer brood katka~
+&ythe &YKatka&y Brood Overseer&n~
+&yThe &YKatka&y Brood Overseer stands amongst the young.&n~
+&yThe &YKatka&y Brood Overseer stands amongst the young.&n~
+&yThe &YKatka&y Brood Overseer watches over the young &GThri&W-&Ykreen&y.&n~
+abj bf 0 
+21 1 55 
+-20 -100 10
+5 5 2
+10000 10 j j 0
+ENDMOB
+11115
+overseer brood xaxtk~
+&ythe &YXaxtk&y Brood Overseer&n~
+&yThe &YXaxtk&y Brood Overseer stands amongst the young.&n~
+&yThe &YXaxtk&y Brood Overseer stands amongst the young.&n~
+&yThe &YXaxtk&y Brood Overseer watches over the young &GThri&W-&Ykreen&y.&n~
+abj bf 0 
+21 1 55 
+-20 -100 10
+5 5 2
+10000 10 j j 0
+ENDMOB
+11116
+overseer brood aktal~
+&ythe &YAktal&y Brood Overseer&n~
+&yThe &YAktal&y Brood Overseer stands amongst the young.&n~
+&yThe &YAktal&y Brood Overseer stands amongst the young.&n~
+&yThe &YAktal&y Brood Overseer watches over the young &GThri&W-&Ykreen&y.&n~
+abj bf 0 
+21 1 55 
+-20 -100 10
+5 5 2
+10000 10 j j 0
+ENDMOB
+11117
+overseer brood tkicka~
+&ythe &YTkicka&y Brood Overseer&n~
+&yThe &YTkicka&y Brood Overseer stands amongst the young.&n~
+&yThe &YTkicka&y Brood Overseer stands amongst the young.&n~
+&yThe &YTkicka&y Brood Overseer watches over the young &GThri&W-&Ykreen&y.&n~
+abj bf 0 
+21 1 55 
+-20 -100 10
+5 5 2
+10000 10 j j 0
+ENDMOB
+11118
+overseer brood shkia~
+&ythe &YShkia&y Brood Overseer&n~
+&yThe &YShkia&y Brood Overseer stands amongst the young.&n~
+&yThe &YShkia&y Brood Overseer stands amongst the young.&n~
+&yThe &YShkia&y Brood Overseer watches over the young &GThri&W-&Ykreen&y.&n~
+abj bf 0 
+21 1 55 
+-20 -100 10
+5 5 2
+10000 10 j j 0
+ENDMOB
+11119
+overseer brood xixix~
+&ythe &YXixix&y Brood Overseer&n~
+&yThe &YXixix&y Brood Overseer stands amongst the young.&n~
+&yThe &YXixix&y Brood Overseer stands amongst the young.&n~
+&yThe &YXixix&y Brood Overseer watches over the young &GThri&W-&Ykreen&y.&n~
+abj bf 0 
+21 1 55
+-20 -100 10
+5 5 2
+10000 10 j j 0
+ENDMOB
+11120
+brood guard~
+&ya &GThri&W-&Ykreen &ybrood guard&n~
+&yA &GThri&W-&Ykreen &ybrood guard protects the brood.&n~
+&yA &GThri&W-&Ykreen &ybrood guard protects the brood.&n~
+&yA &GThri&W-&Ykreen &ybrood guard protects the brood.&n~
+abj a 0 
+21 1 35
+30 30 15
+3 7 0
+2000 10 j j 0
+ENDMOB
+11121
+young commoner~
+&ya young &GThri&W-&Ykreen &ycommoner&n~
+&yA young &GThri&W-&Ykreen &ycommoner stands here.&n~
+&yA young &GThri&W-&Ykreen &ycommoner stands here.&n~
+&yA young &GThri&W-&Ykreen &ycommoner walks around the city.&n~
+bj a 0 
+21 1 15 
+80 80 15
+1 6 0
+200 10 j j 0
+ENDMOB
+11122
+old commoner~
+&ya old &GThri&W-&Ykreen &ycommoner&n~
+&yA old &GThri&W-&Ykreen &ycommoner stands here.&n~
+&yA old &GThri&W-&Ykreen &ycommoner stands here.&n~
+&yA old &GThri&W-&Ykreen &ycommoner walks around the city.&n~
+bj a 0 
+21 1 10 
+90 90 15
+1 4 0
+100 10 j j 0
+ENDMOB
+11123
+practicing druid~
+&ya practicing &GThri&W-&Ykreen &gDruid&n~
+&yA practicing &GThri&W-&Ykreen &gDruid &ystands here.&n~
+&yA practicing &GThri&W-&Ykreen &gDruid &ystands here.&n~
+&yA practicing &GThri&W-&Ykreen &gDruid &ystands here.&n~
+bj 0 0 
+21 1 25 
+80 80 15
+2 4 0
+500 10 j j 0
+ENDMOB
+11124
+ant large~
+&La large riding ant&n~
+&LA large riding ant stands here.&n~
+&LA large riding ant stands here.&n~
+&LA large riding ant stands here.n~
+bj 0 0 
+21 1 25 
+50 50 15
+2 4 0
+500 10 j j 0
+ENDMOB
+ENDFILE

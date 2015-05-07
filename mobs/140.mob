@@ -1,0 +1,397 @@
+14001
+janitor castle~
+&Wa &Lcastle &Wjanitor&n~
+&WA &Lcastle &Wjanitor stands here cleaning the floors.&n~
+&WA &Lcastle &Wjanitor stands here.&n~
+&WA &Lcastle &Wjanitor stands here.&n~
+be ab 700 
+14 1 10 
+90 90 1
+1 4 0
+40 0 j j 1
+ENDMOB
+14002
+serving wench~
+&Wa &Yserving &Wwench&n~
+&WA &Yserving &Wwench stands here.&n~
+&WA &Yserving &Wwench stands here.&n~
+&WA &Yserving &Wwench stands here.&n~
+be ab 700
+14 1 15
+75 80 1
+1 5 0
+60 0 j j 2
+ENDMOB
+14003
+apprentice mage~
+&Ban apprentice &bmage&n~
+&BAn apprentice &bmage stands here.&n~
+&BAn apprentice &bmage stands here.&n~
+&BAn apprentice &bmage stands here.&n~
+ej ac 700
+12 3 20
+60 60 1
+2 10 0
+1000 0 j j 1
+ENDMOB
+14004
+dwarven warrior~
+&Wa &Ydwarven &Wwarrior&n~
+&WA &Ydwarven &Wwarrior stands here.&n~
+&WA &Ydwarven &Wwarrior stands here.&n~
+&WA &Ydwarven &Wwarrior stands here.&n~
+aej ab 600
+14 1 25
+60 60 1
+3 5 0
+2000 0 j j 1
+ENDMOB
+14005
+haughty noble young~
+&Wa &Mhaugty young &Wnoble&n~
+&WA &Mhaugty young &Wnoble stands here.&n~
+&WA &Mhaugty young &Wnoble stands here.&n~
+&WA &Mhaugty young &Wnoble stands here.&n~
+ej a 400
+12 3 17
+70 70 1
+2 7 0
+200 0 j j 1
+ENDMOB
+14006
+archer dwarven~
+&Wa &Ydwarven &Warcher&n~
+&WA &Ydwarven &Warcher stands here gazing out over the swamp.&n~
+&WA &Ydwarven &Warcher stands here gazing out over the swamp.&n~
+&WA &Ydwarven &Warcher stands here gazing out over the swamp.&n~
+ae a 500
+14 3 5
+90 90 1
+1 4 0
+10 0 j j 1
+ENDMOB
+14007
+dwarven lookout~
+&Wa &Ydwarven &Wlookout&n~
+&WA &Ydwarven &Wlookout stands here looking out over the swamp.&n~
+&WA &Ydwarven &Wlookout stands here looking out over the swamp.&n~
+&WA &Ydwarven &Wlookout stands here looking out over the swamp.&n~
+aej ab 700
+14 1 30
+20 20 0
+3 5 4
+7000 0 j j 1
+ENDMOB
+14008
+dwarven cleric~
+&Wa &Ydwarven &Wcleric&n~
+&WA &Ydwarven &Wcleric stands here.&n~
+&WA &Ydwarven &Wcleric stands here.&n~
+&WA &Ydwarven &Wcleric stands here.&n~
+etj ab 0
+14 2 35
+10 10 0
+4 4 5
+9000 0 j j 2
+ENDMOB
+14009
+dwarven paladin~
+&Wa &Ydwarven &Wpaladin&n~
+&WA &Ydwarven &Wpaladin stands here.&n~
+&WA &Ydwarven &Wpaladin stands here.&n~
+&WA &Ydwarven &Wpaladin stands here.&n~
+abej ab -200 
+20 8 40 
+0 -20 1
+5 5 5
+9200 0 j j 1
+ENDMOB
+14010
+swamp mohr champion~
+&LSwamp Mohr Champion&n~
+&LThe Swamp Mohr champion walks around looking rather upset.&n~
+&LThe Swamp Mohr champion walks around looking rather upset.&n~
+&LThe Swamp Mohr champion walks around looking rather upset.&n~
+de abcg 800
+14 1 50
+-40 -80 1
+10 10 10
+6000 0 gf j 2
+ENDMOB
+14011
+castle private~
+&Wa &Bprivate &Wof the castle&n~
+&WA &Bprivate &Wof the castle stands here.&n~
+&WA &Bprivate &Wof the castle stands here.&n~
+&WA &Bprivate &Wof the castle stands here.&n~
+aej ab 700
+14 1 22
+60 60 1
+2 5 5
+2000 0 j j 2
+ENDMOB
+14012
+lieutenant castle~
+&Wa &Glieutenant &Wof the castle&n~
+&WA &Glieutenant &Wof the castle stands here.&n~
+&WA &Glieutenant &Wof the castle stands here.&n~
+&WA &Glieutenant &Wof the castle stands here.&n~
+abej ab 0
+14 1 28
+40 30 1
+2 5 10
+5000 0 j j 1
+ENDMOB
+14013
+castle guard~
+&Wa &Lcastle &Wguard&n~
+&Wa &Lcastle &Wguard stands here.&n~
+&Wa &Lcastle &Wguard stands here.&n~
+&Wa &Lcastle &Wguard stands here.&n~
+bje abek 800
+14 1 35
+20 0 1
+2 7 10
+6000 0 j j 1
+ENDMOB
+14014
+captain guard~
+&Wthe &wcaptain&W of the guard&n~
+&WThe &wcaptain&W of the guard stands here pouring over reports.&n~
+&WThe &wcaptain&W of the guard stands here pouring over reports.&n~
+&WThe &wcaptain&W of the guard stands here pouring over reports.&n~
+abje abdi 500
+14 1 50
+-20 -80 1
+5 5 10
+10000 0 j j 1
+ENDMOB
+14015
+royal guest~
+&ma &Mroyal &mguest&n~
+&mA &Mroyal &mguest of the castle stands here admiring the room.&n~
+&mA &Mroyal &mguest of the castle stands here admiring the room.&n~
+&mA &Mroyal &mguest of the castle stands here admiring the room.&n~
+abej ab 500
+12 1 40
+40 40 100
+2 4 0
+10000 0 j j 1
+ENDMOB
+14016
+king royal guard~
+&Wa royal guard&n~
+&WThe king's royal guard stands here in front of the door.&n~
+&WThe king's royal guard stands here in front of the door.&n~
+&WThe king's royal guard stands here in front of the door.&n~
+aej abejk 800
+14 1 50
+-20 -80 0
+5 5 10
+80000 0 j j 1
+ENDMOB
+14017
+king swamp mohr castle~
+&Wthe King&n~
+&WThe King of &LSwamp Mohr&W Castle stands here pondering over the current state of affairs.&n~
+&WThe King of &LSwamp Mohr&W Castle stands here pondering over the current state of affairs.&n~
+&WThe King of &LSwamp Mohr&W Castle stands here pondering over the current state of affairs.&n~
+aej abek 800
+14 1 60
+-40 -50 0
+5 15 25
+11110 0 j j 1
+ENDMOB
+14018
+dwarven general~
+&Wthe &Ydwarven &Wgeneral&n~
+&WThe &Ydwarven &Wgeneral stands here upset with any entrusian.&n~
+&WThe &Ydwarven &Wgeneral stands here upset with any entrusian.&n~
+&WThe &Ydwarven &Wgeneral stands here upset with any entrusian.&n~
+dje abek 800
+14 1 50
+-10 -90 0
+2 15 35
+10510 0 j j 1
+ENDMOB
+14019
+gnomish war mage~
+&Wa &RGnomish War Mage&n~
+&WA &RGnomish War Mage helps with plans of the war.&n~
+&WA &RGnomish War Mage helps with plans of the war.&n~
+&WA &RGnomish War Mage helps with plans of the war.&n~
+dej ac 700
+11 3 50
+-40 -60 0
+2 12 25
+8510 0 j j 1
+ENDMOB
+14020
+elvin war mage~
+&Wan &cElvin War Mage&n~
+&WAn &cElvin War Mage helps with plans of the war.&n~
+&WAn &cElvin War Mage helps with plans of the war.&n~
+&WAn &cElvin War Mage helps with plans of the war.&n~
+dej abe 800
+12 3 50
+-20 -80 0
+5 6 10
+13510 0 j j 1
+ENDMOB
+14021
+dwarven defensive master~
+&Wthe &Ydwarven &Wdefensive master&n~
+&WThe &Ydwarven &Wdefensive master stands here.&n~
+&WThe &Ydwarven &Wdefensive master stands here.&n~
+&WThe &Ydwarven &Wdefensive master stands here.&n~
+bdje a 800 
+14 2 12 
+-40 -70 1
+5 6 20
+4000 0 j j 1
+ENDMOB
+14022
+visiting priest~
+&Wa &Cvisiting &Wpriest&n~
+&WA &Cvisiting &Wpriest stands here.&n~
+&WA &Cvisiting &Wpriest stands here.&n~
+&WA &Cvisiting &Wpriest stands here.&n~
+bej a 800
+14 2 32
+25 0 1
+2 5 10
+6000 0 j j 2
+ENDMOB
+14023
+duke nyrembar~
+&Wthe &YDuke &BNyrembar&n~
+&WThe &YDuke &BNyrembar stands here.&n~
+&WThe &YDuke &BNyrembar stands here.&n~
+&WThe &YDuke &BNyrembar stands here.&n~
+abej abek 800
+14 1 40
+10 -20 0
+3 6 10
+10000 0 j j 1
+ENDMOB
+14024
+duchess symbor~
+&Wthe &YDuchess &BSymbor&n~
+&WThe &YDuchess &BSymbor stands here.&n~
+&WThe &YDuchess &BSymbor stands here.&n~
+&WThe &YDuchess &BSymbor stands here.&n~
+abej ace 800
+12 3 36
+40 0 1
+2 4 10
+8000 0 j j 2
+ENDMOB
+14025
+captured orc~
+&La captured orc&n~
+&La captured orc stands here planning his escape.&n~
+&La captured orc stands here planning his escape.&n~
+&La captured orc stands here planning his escape.&n~
+abe ab -500
+3 1 1
+100 100 1
+1 4 0
+0 0 j j 1
+ENDMOB
+14026
+ale drinking~
+&Wan ale drinking &Ydwarf&n~
+&WA dwarf stands here drinking a lot of ale.&n~
+&WA dwarf stands here drinking a lot of ale.&n~
+&WA dwarf stands here drinking a lot of ale.&n~
+abej ab 500
+14 1 12
+80 80 0
+1 4 0
+10 0 j j 1
+ENDMOB
+14027
+quiet~
+&Wa quiet &Ydwarf&n~
+&WA quiet &Ydwarf &Wwalks around slowy hiding in the shadows.&n~
+&WA quiet &Ydwarf &Wwalks around slowy hiding in the shadows.&n~
+&WA quiet &Ydwarf &Wwalks around slowy hiding in the shadows.&n~
+be abej 800
+14 4 42
+0 -50 0
+3 10 20
+50000 0 j j 1
+ENDMOB
+14028
+dwaven raid leader~
+&Wthe &Ydwarven &Wraid leader&n~
+&WThe &Ydwarven &Wraid leader is here with death in his eyes.&n~
+&WThe &Ydwarven &Wraid leader is here with death in his eyes.&n~
+&WThe &Ydwarven &Wraid leader is here with death in his eyes.&n~
+abdegin abek 800
+14 1 60
+-20 -100 10000
+10 20 20
+20000 0 j j 1
+ENDMOB
+14029
+dwaven raider~
+&Wthe &Ydwarven &Wraider&n~
+&WThe &Ydwarven &Wraider is here drooling and wild-eyed.&n~
+&WThe &Ydwarven &Wraider is here drooling and wild-eyed.&n~
+&WThe &Ydwarven &Wraider is here drooling and wild-eyed.&n~
+abdegin abek 800
+14 1 50
+-10 -80 10000
+5 20 20
+20000 0 j j 1
+ENDMOB
+14030
+dwaven fanatic~
+&Wthe &Ydwarven &Wfanatic&n~
+&WThe &Ydwarven &Wfanatic is here drooling and wild-eyed.&n~
+&WThe &Ydwarven &Wfanatic is here drooling and wild-eyed.&n~
+&WThe &Ydwarven &Wfanatic is here drooling and wild-eyed.&n~
+abdegin a 800
+14 2 50
+0 -80 1
+10 15 25
+11000 0 j j 2
+ENDMOB
+14031
+elven raider~
+&Wthe &celven &Wraider&n~
+&WThe &celven &Wraider is here drooling and wild-eyed.&n~
+&WThe &celven &Wraider is here drooling and wild-eyed.&n~
+&WThe &celven &Wraider is here drooling and wild-eyed.&n~
+abdegin ae 800
+12 3 50
+0 -100 1
+11 15 15
+11000 0 j j 1
+ENDMOB
+14032
+page boy~
+&Wa page boy&n~
+&WA page boy stands here looking nervous.&n~
+&WA page boy stands here looking nervous.&n~
+&WA page boy stands here looking nervous.&n~
+be a 800
+14 1 1
+100 100 1
+1 1 0
+5 0 j j 1
+ENDMOB
+14033
+squire~
+&wa squire&n~
+&wA squire does his chores for his knight and his king.&n~
+&wA squire does his chores for his knight and his king.&n~
+&wA squire does his chores for his knight and his king.&n~
+bej ab 800
+14 1 8
+90 90 1
+1 2 0
+110 0 j j 1
+ENDMOB
+ENDFILE

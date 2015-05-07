@@ -1,0 +1,91 @@
+901
+bag burlap~
+&ya large burlap bag&n~
+&ya large burlap bag&n~
+&yA large burlap bag lies here.&n~
+8 0 q
+30 a -1
+2 0 0
+ENDOBJ
+902
+wooden club~
+&ya wooden club&n~
+&ya wooden club&n~
+&yA wooden club lies here.&n~
+10 0 mn
+2 4 2 4 8
+5 0 1
+ENDOBJ
+903
+small tree~
+&ya small tree&n~
+&ya small tree&n~
+&yA small uprooted tree lies here.&n~
+10 0 o
+2 6 3 4 9
+30 0 1
+ENDOBJ
+904
+leather doublet~
+&ya leather doublet&n~
+&ya leather doublet&n~
+&yA leather doublet lies here.&n~
+6 0 h
+5
+2 0 6
+ENDOBJ
+905
+leather pants~
+&ya pair of leather pants&n~
+&ya pair of leather panTs&n~
+&yA pair of leather pants lie here.&n~
+6 0 t
+5
+2 0 6
+ENDOBJ
+906
+leather boots~
+&ya pair of leather boots&n~
+&ya pair of leather boots&n~
+&yA pair of leather boots lie here.&n~
+6 0 u
+2
+2 0 6
+ENDOBJ
+907
+leather gloves~
+&ya pair of leather gloves&n~
+&ya pair of leather gloves&n~
+&yA pair of leather gloves lie here.&n~
+6 0 v
+2
+2 0 6
+ENDOBJ
+908
+leather backpack bp~
+&ya leather backpack&n~
+&ya leather backpack&n~
+&yA leather backpack lies here.&n~
+8 0 i
+30 a -1
+2 0 0
+ENDOBJ
+909
+dagger rock jagged~
+&ba small jagged rock&n~
+&ba small jagged rock&n~
+&ba small jagged rock lies here.&n~
+10 0 o
+2 6 3 4 9
+30 0 1
+ENDOBJ
+910    #minor creation dagger
+dagger sharp~
+a small wooden dagger~
+a thin piece of wood fashioned into a dagger~
+a thin piece of wood resembling a dagger~
+10 0 mn
+2 4 2 4 2
+1 0 1
+ENDOBJ
+ENDFILE

@@ -1,0 +1,70 @@
+12201
+&WTunser's Ale House&n~
+&WIn this famous inn, many good hearted races dine and drink.  A bar lines the east wall and a stairway on the south side of the ale house leads to what seems to be some kind of office for Tunser himself.&n~
+120 no 0 1
+DOOR
+1
+~
+1 -1 12202
+DOOR
+2
+~
+1 -1 12202
+DOOR
+5
+~
+1 -1 12070
+ENDROOM
+12202
+&WTunser's Ale House&n~
+&WIn this famous inn, many good hearted races dine and drink.  A bar lines the east wall and a stairway on the south side of the ale house leads to what seems to be some kind of office for Tunser himself.&n~
+120 no 0 1
+DOOR
+2
+~
+1 -1 12204
+DOOR
+3
+~
+1 -1 12201
+ENDROOM
+12203
+&WTunser's Ale House&n~
+&WIn this famous inn, many good hearted races dine and drink.  A bar lines the east wall and a stairway on the south side of the ale house leads to what seems to be some kind of office for Tunser himself.&n~
+120 no 0 1
+DOOR
+0
+~
+1 -1 12201
+DOOR
+1
+~
+1 -1 12204
+ENDROOM
+12204
+&WTunser's Ale House&n~
+&WIn this famous inn, many good hearted races dine and drink.  A bar lines the east wall and a stairway on the south side of the ale house leads to what seems to be some kind of office for Tunser himself.&n~
+120 no 0 1
+DOOR
+0
+~
+1 -1 12202
+DOOR
+3
+~
+1 -1 12203
+DOOR
+4
+~
+1 -1 12205
+ENDROOM
+12205
+&WTunser's Office&n~
+&WLavish in the decor, Tunser's office is obviously the focal point of a lot of the commerce in the city.  Tunser is known as a great marketeer and a helpful merchant in all reguards.&n~
+120 no 0 1
+DOOR
+5
+~
+1 -1 12204
+ENDROOM
+ENDFILE

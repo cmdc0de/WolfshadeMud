@@ -1,0 +1,991 @@
+51000 Y
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+3
+~ 
+1 -1 1001519
+DOOR
+5
+~
+1 -1 51001
+ENDROOM
+51001 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+4
+~ 
+1 -1 51000
+DOOR
+5
+~
+1 -1 51002
+ENDROOM
+51002 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+4
+~ 
+1 -1 51001
+DOOR
+5
+~
+1 -1 51003
+ENDROOM
+51003 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+4
+~
+1 -1 51002
+DOOR
+2
+~
+1 -1 51004
+ENDROOM
+51004 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51003
+DOOR
+2
+~
+1 -1 51005
+ENDROOM
+51005 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51004
+DOOR
+2
+~
+1 -1 51006
+ENDROOM
+51006 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51005
+DOOR
+2
+~
+1 -1 51014
+ENDROOM
+51007 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+rocks rubble~
+1 -1 51008
+DOOR
+2
+~
+1 -1 51010
+ENDROOM
+51008 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+3
+rocks rubble~
+1 -1 51007
+ENDROOM
+51009 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+2
+~
+1 -1 51016
+DOOR
+1
+~
+1 -1 51010
+ENDROOM
+51010 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51007
+DOOR
+3
+~
+1 -1 51009
+ENDROOM
+51011 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+2
+~
+1 -1 51017
+DOOR
+1
+~
+1 -1 51012
+ENDROOM
+51012 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51013
+DOOR
+3
+~
+1 -1 51011
+ENDROOM
+51013 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51014
+DOOR
+3
+~
+1 -1 51012
+ENDROOM
+51014 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51006
+DOOR
+1
+~
+1 -1 51015
+DOOR
+2
+~
+1 -1 51018
+DOOR
+3
+~
+1 -1 51013
+ENDROOM
+51015 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51016
+DOOR
+2
+~
+1 -1 51019
+DOOR
+3
+~
+1 -1 51014
+ENDROOM
+51016 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51009
+DOOR
+3
+~
+1 -1 51015
+ENDROOM
+51017 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51011
+DOOR
+2
+~
+1 -1 51021
+ENDROOM
+51018 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51014
+DOOR
+1
+~
+1 -1 51019
+DOOR
+2
+~
+1 -1 51024
+ENDROOM
+51019 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51015
+DOOR
+3
+~
+1 -1 51018
+ENDROOM
+51020 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51021
+DOOR
+2
+~
+1 -1 51030
+ENDROOM
+51021 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51017
+DOOR
+3
+~
+1 -1 51020
+ENDROOM
+51022 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51023
+ENDROOM
+51023 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51024
+DOOR
+3
+~
+1 -1 51022
+ENDROOM
+51024 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51018
+DOOR
+2
+~
+1 -1 51031
+DOOR
+3
+~
+1 -1 51023
+ENDROOM
+51025 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51026
+DOOR
+2
+~
+1 -1 51032
+ENDROOM
+51026 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51027
+DOOR
+3
+~
+1 -1 51025
+ENDROOM
+51027 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51028
+DOOR
+3
+~
+1 -1 51026
+ENDROOM
+51028 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+3
+~
+1 -1 51027
+ENDROOM
+51029 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51030
+DOOR
+2
+~
+1 -1 51033
+ENDROOM
+51030 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51020
+DOOR
+3
+~
+1 -1 51029
+ENDROOM
+51031 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51024
+DOOR
+2
+~
+1 -1 51035
+ENDROOM
+51032 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51025
+DOOR
+2
+~
+1 -1 51036
+ENDROOM
+51033 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51029
+DOOR
+2
+rubble rock~
+c -1 51038
+ENDROOM
+51034 N
+&LSmall &bpool&L of water&n~
+&Linside the cave here is a small pool of water, it's cold and smells pretty bad.&n~
+510 ac 0 1
+DOOR
+2
+~
+1 -1 51039
+ENDROOM
+51035 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51031
+DOOR
+1
+~
+1 -1 51036
+DOOR
+2
+~
+1 -1 51040
+ENDROOM
+51036 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51032
+DOOR
+3
+~
+1 -1 51035
+ENDROOM
+51037 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51029
+DOOR
+2
+rubble rocks~
+1 -1 51038
+ENDROOM
+51038 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+rubble rocks~
+c -1 51033
+ENDROOM
+51039 N
+&LSmall &bpool&L of water&n~
+&Linside the cave here is a small pool of water, it's cold and smells pretty bad.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51034
+DOOR
+2
+~
+1 -1 51046
+ENDROOM
+51040 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51035
+DOOR
+2
+~
+1 -1 51048
+ENDROOM
+51041 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51042
+DOOR
+2
+~
+1 -1 51050
+ENDROOM
+51042 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51043
+DOOR
+2
+~
+1 -1 51051
+DOOR
+3
+~
+1 -1 51041
+ENDROOM
+51043 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+door dirty old wooden~
+1 -1 51070
+DOOR
+3
+~
+1 -1 51042
+ENDROOM
+51044 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51045
+ENDROOM
+51045 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+2
+~
+1 -1 51052
+DOOR
+3
+~
+1 -1 51044
+ENDROOM
+51046 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you. &n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51039
+DOOR
+1
+~
+1 -1 51047
+DOOR
+2
+~
+1 -1 51053
+ENDROOM
+51047 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51048
+DOOR
+2
+~
+1 -1 51054
+DOOR
+3
+~
+1 -1 51046
+ENDROOM
+51048 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51040
+DOOR
+1
+~
+1 -1 51049
+DOOR
+2
+~
+1 -1 51055
+DOOR
+3
+~
+1 -1 51047
+ENDROOM
+51049 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.&n~
+510 ac 0 1
+DOOR
+2
+~
+1 -1 51056
+DOOR
+3
+~
+1 -1 51048
+ENDROOM
+51050 N2
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51041
+ENDROOM
+51051 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51042
+DOOR
+2
+~
+1 -1 51057
+ENDROOM
+51052 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51045
+DOOR
+2
+~
+1 -1 51058
+ENDROOM
+51053 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51046
+DOOR
+1
+~
+1 -1 51054
+ENDROOM
+51054 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51047
+DOOR
+1
+~
+1 -1 51055
+DOOR
+3
+~
+1 -1 51053
+ENDROOM
+51055 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you. &n~
+510 ac 0 1
+DOOR
+2
+~
+1 -1 51059
+DOOR
+1
+~
+1 -1 51056
+DOOR
+0
+~
+1 -1 51048
+DOOR
+3
+~
+1 -1 51054
+ENDROOM
+51056 N
+&LA large cavern&n~
+&LA huge cavern is laid out before you.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51049
+DOOR
+3
+~
+1 -1 51055
+ENDROOM
+51057 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51051
+DOOR
+2
+~
+1 -1 51063
+ENDROOM
+51058 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51052
+DOOR
+2
+~
+1 -1 51065
+ENDROOM
+51059 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51035
+DOOR
+1
+~
+1 -1 51060
+DOOR
+2
+~
+1 -1 51069
+ENDROOM
+51060 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51061
+DOOR
+3
+~
+1 -1 51059
+ENDROOM
+51061 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51062
+DOOR
+3
+~
+1 -1 51060
+ENDROOM
+51062 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51063
+DOOR
+3
+~
+1 -1 51061
+ENDROOM
+51063 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51057
+DOOR
+1
+~
+1 -1 51064
+DOOR
+3
+~
+1 -1 51062
+ENDROOM
+51064 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+3
+~
+1 -1 51063
+ENDROOM
+51065 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51058
+DOOR
+1
+~
+1 -1 51066
+ENDROOM
+51066 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51067
+DOOR
+3
+~
+1 -1 51065
+ENDROOM
+51067 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51068
+DOOR
+3
+~
+1 -1 51066
+ENDROOM
+51068 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+1
+~
+1 -1 51069
+DOOR
+3
+~
+1 -1 51067
+ENDROOM
+51069 N
+&LA cool, dark cave&n~
+&LThe air is cool here, almost death-like.  This place causes a chill in your bones.&n~
+510 ac 0 1
+DOOR
+0
+~
+1 -1 51059
+DOOR
+3
+~
+1 -1 51068
+ENDROOM
+51070 N
+&LA tunnel&n~
+&LA tunnel leading upwards is here, scrap marks from something animal like are all around the walls making an easier climb to the top. &n~
+510 ac 0 1
+DOOR
+4
+~
+1 -1 51071
+DOOR
+2
+door~
+1 -1 51043
+ENDROOM
+51071 N
+&LA tunnel&n~
+&LA tunnel leading upwards is here, scrap marks from something animal like are all around the walls making an easier climb to the top. &n~
+510 ac 0 1
+DOOR
+4
+~
+1 -1 51072
+DOOR
+5
+~
+1 -1 51070
+ENDROOM
+51072 N
+&LA tunnel&n~
+&LA tunnel leading upwards is here, scrap marks from something animal like are all around the walls making an easier climb to the top. &n~
+510 ac 0 1
+DOOR
+4
+~
+1 -1 51073
+DOOR
+5
+~
+1 -1 51071
+ENDROOM
+51073 N
+&LA large meeting cavern&n~
+&LThe tunnel ends here, scrap marks from something animal like are all around the walls making an easier climb back down. &n~
+510 ac 0 1
+DOOR
+5
+~
+1 -1 51072
+ENDROOM
+ENDFILE

@@ -1,0 +1,192 @@
+26001 Y
+&GBase of a mountain&n~
+This is the base of a large steep mountain.~
+260 0 1 3
+DOOR
+2
+~
+1 -1 1006466
+DOOR
+4
+~
+1 -1 26002
+ENDROOM
+26002 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26003
+DOOR
+5
+~
+1 -1 26001
+ENDROOM
+26003 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 1 0 1
+DOOR
+4
+~
+1 -1 26004
+DOOR
+5
+~
+1 -1 26002
+ENDROOM
+26004 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26005
+DOOR
+5
+~
+1 -1 26003
+ENDROOM
+26005 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26006
+DOOR
+5
+~
+1 -1 26004
+ENDROOM
+26006 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26007
+DOOR
+5
+~
+1 -1 26005
+ENDROOM
+26007 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26008
+DOOR
+5
+~
+1 -1 26006
+ENDROOM
+26008 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26009
+DOOR
+5
+~
+1 -1 26007
+ENDROOM
+26009 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26010
+DOOR
+5
+~
+1 -1 26008
+ENDROOM
+26010 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26011
+DOOR
+5
+~
+1 -1 26009
+ENDROOM
+26011 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26012
+DOOR
+5
+~
+1 -1 26010
+ENDROOM
+26012 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26013
+DOOR
+5
+~
+1 -1 26011
+ENDROOM
+26013 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26014
+DOOR
+5
+~
+1 -1 26012
+ENDROOM
+26014 N
+&GOn a mountain.&n~
+This is a very steep mountain leading to some sort of important summit.~
+260 0 1 3
+DOOR
+4
+~
+1 -1 26015
+DOOR
+5
+~
+1 -1 26013
+ENDROOM
+26015 N
+&GThe &WSummit &Gof the mountain.&n~
+&GThere is a great view from this summit, only the most wise would sit on such a precipice.~
+260 0 1 3
+DOOR
+5
+~
+1 -1 26014
+ENDROOM
+ENDFILE

@@ -1,0 +1,306 @@
+13001
+serving tray~
+&Wa serving tray&n~
+&Wa serving tray&n~
+&WA serving tray lies here.&n~
+10 0 o
+1 2 1 2 8
+3 20 1
+ENDOBJ
+13002
+betting ticket~
+&Wa betting ticket&n~
+&Wa betting ticket&n~
+&WA betting ticket lies here.&n~
+6 0 q
+0
+0 0 1
+ENDOBJ
+13003
+cane wooden~
+&ya wooden cane&n~
+&ya wooden cane&n~
+&yA wooden cane lies here.&n~
+10 0 mn
+1 1 1 2 8
+1 3 1
+ENDOBJ
+13004
+robe blue~
+&Ba blue robe&n~
+&Ba blue robe&n~
+&BA blue robe.&n~
+6 0 h
+7
+2 2000 0
+AFFECTS
+17 10
+ENDOBJ
+13005
+silver tiara~
+&Wa &wsilver &Wtiara&n~
+&Wa &wsilver &Wtiara&n~
+&WA &wsilver &Wtiara lies here.&n~
+6 0 a
+3
+2 3000 6
+AFFECTS
+16 2
+ENDOBJ
+13006
+soft boots~
+&Wsome &csoft &wboots&n~
+&Wsome &csoft &wboots&n~
+&WSome &csoft &wboots lie here.&n~
+6 0 u
+2
+2 300 6
+AFFECTS
+18 10
+ENDOBJ
+13007
+soft gloves~
+&Wsome &csoft &wgloves&n~
+&Wsome &csoft &wgloves&n~
+&WSome &csoft &wgloves lie here.&n~
+6 0 v
+3
+2 300 6
+AFFECTS
+3 4
+ENDOBJ
+13008
+green ring~
+&Wa &Ggreen &Wring&n~
+&Wa &Ggreen &Wring&n~
+&WA &Ggreen &Wring lies here.&n~
+6 0 l
+1
+1 4000 1
+AFFECTS
+21 1
+22 1
+ENDOBJ
+13009
+green earring~
+&Wa &Ggreen &Wearring&n~
+&Wa &Ggreen &Wearring&n~
+&WA &Ggreen &Wearring lies here.&n~
+6 0 c
+0
+1 4000 1
+AFFECTS
+21 1
+21 1
+ENDOBJ
+13010
+red glowing orb~
+&La &Rred &Wglowing &Lorb&n~
+&La &Rred &Wglowing &Lorb&n~
+&LA &Rred &Wglowing &Lorb lies here.&n~
+10 0 mn
+2 2 2 2 8
+3 3000 1
+AFFECTS
+16 1
+17 20
+ENDOBJ
+13011
+elegant rapier~
+&Wa &Celegant &Wrapier&n~
+&Wa &Celegant &Wrapier&n~
+&WA &Celegant &Wrapier lies here.&n~
+10 0 mn
+2 4 2 4 4
+3 2000 1
+ENDOBJ
+13012
+large metal sceptre~
+&La large &wmetal sceptre&n~
+&La large &wmetal sceptre&n~
+&LA large &wmetal sceptre lies here.&n~
+10 0 o
+2 6 3 4 8
+5 2000 1
+ENDOBJ
+13013
+gold specs spectacles~
+&Wa pair of &Ygold &Wspectacles&n~
+&Wa pair of &Ygold &Wspectacles&n~
+&WA pair of &Ygold &Wspectacles lie here.&n~
+6 0 d
+2
+2 3000 6
+AFFECTS
+21 2
+ENDOBJ
+13014
+blue ring~
+&ba &Bblue ring&n~
+&ba &Bblue ring&n~
+&bA &Bblue ring lies here.&n~
+6 0 l
+3
+2 3000 6
+ENDOBJ
+13015
+feather attachments~
+&wsome &Rpainted &wfeather attachements&n~
+&wsome &Rpainted &wfeather attachements&n~
+&wSome &Rpainted &wfeather attachements lie here.&n~
+6 0 x
+8
+2 3000 6
+AFFECTS
+3 10
+ENDOBJ
+13016
+chain link belt~
+&wa &Lchain &wlink &Lbelt&n~
+&wa &Lchain &wlink &Lbelt&n~
+&wA &Lchain &wlink &Lbelt &wlies here.&n~
+6 0 r
+3
+2 3000 6
+ENDOBJ
+13017
+soft sleeves~
+&Wsome soft sleeves&n~
+&Wsome soft sleeves&n~
+&WSome soft sleeves lie here.&n~
+6 0 j
+6
+1 3000 1
+ENDOBJ
+13018
+iron bracers~
+&Wsome &Liron &Wbracers&n~
+&Wsome &Liron &Wbracers&n~
+&WSome &Liron &Wbracers lie here.&n~
+6 0 k
+4
+1 3000 1
+AFFECTS
+5 3
+6 3
+ENDOBJ
+13019
+shield large wooden~
+&ya large wooden shield&n~
+&ya large wooden shield&n~
+&ya large wooden shield lies here.&n~
+6 0 p
+4
+1 2000 1
+ENDOBJ
+13020
+stiletto hard dark shadows~
+&La &mhardened &Lshadow &rstiletto&n~
+&La &mhardened &Lshadow &rstiletto&n~
+&La &mhardened &Lshadow &rstiletto lies here.&n~
+10 0 mn
+2 4 2 4 2
+3 1000 1
+AFFECTS
+21 2
+22 1
+ENDOBJ
+13021
+gladiator breast plate~
+&Wa &wgladiator &Wbreast plate&n~
+&Wa &wgladiator &Wbreast plate&n~
+&WA &wgladiator &Wbreast plate lies here.&n~
+6 jklnq h
+12
+5 2000 6
+ENDOBJ
+13022
+huge gladiator sword~
+&Wa huge &wgladiator &Wsword&n~
+&Wa huge &wgladiator &Wsword&n~
+&WA huge &wgladiator &Wsword lies here.&n~
+10 0 o
+5 5 5 7 4
+4 3000 6
+AFFECTS
+21 5
+22 5
+ENDOBJ
+13023
+plated mithril boots~
+&Wsome &wplated &bmithril &Wboots&n~
+&Wsome &wplated &bmithril &Wboots&n~
+&WSome &wplated &bmithril &Wboots lie here.&n~
+6 0 u
+4
+2 3000 6
+AFFECTS
+22 1
+ENDOBJ
+13024
+plated adamantite gloves~
+&Wsome &wplated &cadamantite &Wgloves&n~
+&Wsome &wplated &cadamantite &Wgloves&n~
+&WSome &wplated &cadamantite &Wgloves lie here.&n~
+6 0 v
+4
+2 3000 6
+AFFECTS
+2 5
+10 5
+ENDOBJ
+13025
+ring barbed~
+&Wa small &ybarbed &Wring&n~
+&Wa small &ybarbed &Wring&n~
+&WA small &ybarbed &Wring lies here.&n~
+6 0 l
+2
+1 4000 1
+AFFECTS
+21 1
+22 1
+ENDOBJ
+13026
+large hoop~
+&Wa large &whoop&n~
+&Wa large &whoop&n~
+&Wa large &whoop lies here.&n~
+6 0 c
+2
+1 4000 1
+AFFECTS
+5 5
+6 6
+ENDOBJ
+13027
+eye bandage~
+&Wa soft &Reye &Wbandage&n~
+&Wa soft &Reye &Wbandage&n~
+&WA soft &Reye &Wbandage lies here.&n~
+6 0 d
+4
+2 3000 6
+ENDOBJ
+13028
+battered dolomite vambraces~
+&csome &Cbattered &rdolomite &Cvambraces&n~
+&csome &Cbattered &rdolomite &Cvambraces&n~
+&cSome &Cbattered &rdolomite &Cvambraces lie here.&n~
+6 0 j
+12
+1 3000 1
+ENDOBJ
+13029
+wristbands silver spiked~
+&Rsome &wsilver &rspiked &Rwristbands&n~
+&Rsome &wsilver &rspiked &Rwristbands&n~
+&RSome &wsilver &rspiked &Rwristbands lie here.&n~
+6 0 k
+5
+1 3000 1
+AFFECTS
+5 5
+6 6
+ENDOBJ
+ENDFILE

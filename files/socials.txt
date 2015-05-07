@@ -1,0 +1,920 @@
+***********************************
+** socialName
+*	2 sets 
+*	1st set: if no agrument after social
+*	To you
+*	To Room
+*	2nd set: if argument after social
+*	To you
+*	To doie
+*	To Room
+*	$N = doer and $n = doie 
+*  	$P = pronoun of doer(his, her)
+*  	$p = pronoun of doie (his,her)
+*********************************
+mosh
+You mosh madly about the room.
+$N moshes madly about the room.
+You most madly into $n.
+$N moshes madly into you.
+$N mostes madly into n$.
+mutter
+You mutter something under your breath.
+$N mutters something unintelligibile under $P breath.
+You mutter something unintelligible about $n under your breath.
+$N mutters something unintelligible under $P breath about you.
+$N mutters something unintelligible under $P breath about $n.
+peace
+Peace dude.
+$N flashes a peace sign.
+You flash a peace sign at $n.
+$N flashes a peace sign at you.
+$N flashes a peace sign at n$.
+cheer
+You cheer.
+$N cheers.
+You cheer $n.
+$N cheers for you.
+$N cheers for $n. 
+wave
+You wave.
+$N waves.
+You wave to $n.
+$N waves to you.
+$N waves to $n.
+blink
+You blink in disbelief.
+$N blinks in disbelief.
+You blink at $n in disbelief.
+$N blinks at you in disbelief.
+$N blinks at $n in disbelief.
+fool
+You stamp yourself a &B&FFOOL&n.
+$N stamps $P a &B&FFOOL&n.
+You stamp $n a &B&FFOOL&n.
+$N stamps you a &B&FFOOL&n.
+$N stamps $n a &B&FFOOL&n.
+eye
+You look around evilly.
+$N eyes everyone in the room evilly.
+You eye $n with contempt.
+$N eyes you with contempt.
+$N eyes $n with contempt.
+appologize
+You're sorry.
+$N lets everyone know $P sorry.
+You appologize to $n.
+$N applogizes to you.
+$N applogizes to $n.
+bark
+You bark ...woof woof
+$N barks loudly.
+You bark loudly at $n.
+$N barks loudly at you.
+$N barks loudly at $n.
+duck
+You duck.
+$N ducks.
+You duck under $n.
+$N ducks under you.
+$N ducks under $n.
+ready
+You let everyone know your ready.
+$N lets you know $P is ready.
+You let $n know your ready.
+$N lets you know $P is ready.
+$N lets $n know $P is ready.
+
+tug
+You tug at the air.
+$N tugs at the air...$P looks like a &FFOOL&n!
+You tug on $n's sleeve trying to get $p attention.
+$N tugs on your sleeve trying to get your attention.
+$N tugs on $n sleeve trying to get $P attention.
+
+flex
+You flex showing off your bulking muscles.
+$N flexes $P bulking muscles, are you impressed?
+You show $n your bulking muscles
+$N shows your $P bulking muscles.
+$N show $n $P bulking muscles.
+
+boggle
+You boggle at that concept.
+$N boggles at that concept.
+You boggle at $n.
+$N boggles at you, what are you talking about?!
+$N boggles at $n.
+
+wince
+You wince.
+$N winces.
+#
+#
+#
+
+tap
+You tap your foot.
+$N taps $P foot.
+You tap your foot in $n's direction.
+$N taps $P foot in your direction.  Hurry up will ya?
+$N taps $P foot in $n's direction.
+
+veto
+Nope, you veto that idea.
+$N vetos that idea.
+You veto $n.
+$N vetos you.
+$N vetos $n.
+
+pet
+#
+#
+You pet $n lovingly.
+$N pets you lovingly.
+$N pets $n lovingly.
+
+lag
+You are lagging eh?  Get a better ISP!
+$N is lagging... just wanted you to know...
+#
+#
+#
+
+choke
+You start choking on something.
+$N stats choking on something.
+You choke $n, $p eyes start bulging.
+$N chokes you until your eyes start bulging.
+$N chokes $n, $p eyes start bulging.
+
+bonk
+Bonk who?
+#
+You bonk $n on $p head.
+$N bonks you on your head.
+$N bonks $n on $p head.
+
+panic
+You panic. AAAAAAaaaarrrrrgggghhhhhh!!!!!!
+$N panics!
+You panic about $n!
+$N panics about you!
+$N panics about $n!
+
+afk 
+You announce you will be going away from the keyboard.
+$N is going away from the keyboard.
+#
+#
+#
+
+ggp
+You announce you are going pee.
+$N announces $P bathroom break is happening now.
+#
+#
+#
+
+lol
+You laugh out loud.
+$N laughs out loud.
+#
+#
+#
+
+rofl
+You Roll On the Floor Laughing.
+$N Rolls On the Floor Laughing.
+You roll on the floor laughing at $n.
+$N rolls on the floor laughing at you.
+$N rolls on the floor laughing at $n.
+
+ayt
+Yeap you're here.
+#
+You waive your hands in front of $n's face, wondering if $p mind is in this reality.
+$N waives $P hands in front of your face, wondering if your mind is in this reality.
+$N waives $P hands in front of $n's face, wondering if $p mind is in this reality.
+
+applaud
+Clap, clap, clap.
+$N gives a round of applause.
+You claps for $n.
+$N claps for you.
+$N claps for $n.
+
+doh
+You get a &F&Wstupid&n look on your face and say DOH!
+$N looks &Fstupid&n and says DOH!
+#
+#
+#
+
+ack
+You ack ...hair ball.
+$N acks around.
+#
+#
+#
+
+roar
+ROOAARR!!!
+$N roars loudly.
+You roars loudly at $n.
+$N roars loudly at you.
+$N roars loudly at $n.
+
+jig
+You do the jig.
+$N jigs.
+You jig with $n.
+$N jigs with you.
+$N jigs with $n.
+
+grin
+You grin.
+$N grins.
+You flash a wicked grin at $n.
+$N flashes you a wicked grin.
+$N flashes $n a wicked grin.
+
+lick
+You lick your lips.
+$N licks $p lips.
+You lick $n.
+$N licks you.
+$N licks $n.
+
+bounce
+You bounce around.
+$N bounces around like a &FFOOL&n.
+You bounce around $n.
+$N bounces around you driving you crazy!
+$N bounces around like a &FFOOL&n.
+
+love
+You stare at the sky like a fool in love.
+$N pronounces his love to himself.
+You tell $n how much you love $p.
+$N professes $P undying love to you.
+$N professes $P undying love to $n.
+
+nog
+You nog.
+$N nogs at $Pself.
+You nog at $n.
+$N nogs at you.
+$N nogs at $n.
+
+nod
+You nod.
+$N nods.
+You nod at $n.
+$N nods at you in agreement.
+$N nods at $n.
+
+agree
+You agree.
+$N agrees.
+You agree with $n.
+$N shows you $P agrees.
+$N agrees with $n.
+
+whap
+You hit yourself silly.
+$N hits $P over and over.
+You whap $n across the head.
+$N whaps you in the head...what did you do?
+$N whaps $n in the head.
+
+accuse
+#
+#
+$N looks accusingly at you.
+You accuse yourself.
+$N seems to have a bad conscience.
+
+bleed
+You bleed profusely... you're a warrior, not a doctor.
+$N bleeds profusely... they are a warrior, not a doctor. 
+#
+#
+#
+
+blush
+Your cheeks are burning.
+$N blushes.
+#
+#
+#
+
+bow
+You bow deeply.
+$N bows deeply.
+You bow before $n.
+$N bows before you.
+$N bows before $n.
+
+brb
+You let everyone know you'll be right back
+$N will be right back!
+#
+#
+#
+
+burp
+You burp loudly.
+$N burps loudly.
+You burp loudly in $n's face.
+$N burps in your face.. ewww breath mint please.
+$N burps loudly in $n's face.
+
+cackle
+You cackle insanely.
+$N throws back $P head and cackles with insane glee!
+You cackle with insane glee at $n.
+$N cackles with insane glee at you!
+$N cackles with insane glee at $n.
+
+chuckle
+You give a good hearty chuckle.
+$N gives it a good hearty chuckle.
+#
+#
+#
+
+clap
+You clap your hands together.
+$N shows $P approval by clapping $P hands together.
+#
+#
+#
+
+comfort
+Comfort who?
+#
+You comfort $n
+$N comforts you.
+$N comforts $n.
+
+cough
+Yuck, try to cover your mouth next time!
+$N coughs loudly.
+#
+#
+#
+
+cringe
+You cringe in terror.
+$N cringes in terror!
+You cringe away from $n.
+$N cringes away from you.
+$N cringes away from $n in mortal terror.
+
+cry
+Waaaaah..
+$N bursts into tears.
+You cry on $S shoulder.
+$N cries on your shoulder.
+$N cries on $n's shoulder.
+
+cuddle
+#
+#
+You cuddle $n.
+$N cuddles you.
+$N cuddles $n.
+ 
+curse
+You swear loudly for a long time.
+$N swears: #@*"*&^%@*&!!!!!!
+You swear at $n.
+$N spews for a barrage of curses at you.
+$N spews for a barrage of curses at $n.
+
+curtsey
+You curtsey to your audience.
+$N curtseys gracefully.
+You curtseys towards $n.
+$N curtseys at you.
+$N curtseys at $n.
+
+dance
+You dance.
+$N dances around like a damn fool.
+You lead $N to the dancefloor.
+$N sends you across the dancefloor.
+$N sends $n across the dancefloor.
+
+daydream
+You dream of better times.
+$N looks absent-minded, $P eyes staring into space.
+#
+#
+#
+
+drool
+You start to drool.
+$N starts to drool.
+You drool all over $n.
+$N drools all over you.
+$N drools all over $n.
+
+embrace
+You reach but come away empty.  :(
+$N reaches out for an embrace, but no one is there.
+You embrace $N warmly.
+$N embraces you warmly.  
+$N embraces $n warmly.  
+
+fart
+Where are your manners?
+$N lets off a real rip-roarer!
+You fart at $n sending them flying!
+$N farts at you... ewwww.
+$N farts at $n sending them flying!
+
+flip
+You flip head over heels.
+$N flips head over heels.
+#
+#
+#
+
+flirt
+You flirt outrageously.
+$N flirts outragously.
+You flirt outrageously with $n.
+$N flirts outrageously with you.
+$N flirts outrageously with $n.
+
+fondle
+Who needs to be fondled?
+#
+You fondly fondle $n.
+$N fondly fondles you.
+$N fondly fondles $n.
+
+french
+French whom??
+#
+You give $n a long and passionate kiss, it seems to take forever...
+$N gives you a long and passionate kiss, it seems to take forever...
+$N kisses $n passionately.
+
+frown
+What's bothering you?
+$N frowns.
+#
+#
+#
+
+fume
+Take it easy now!  Count to ten, very slowly.
+$N grits $P teeth and fumes with rage.
+You stare at $N, fuming.
+$N stares at you, fuming with rage!
+$N stares at $n, fuming with rage.
+
+gasp
+You gasp in astonishment.
+$N gasps in astonishment.
+You gasp in astonishment at $n.
+$N gasps in astonishment at you.
+$N gasps in astonishment at $n.
+
+giggle
+You giggle.
+$N giggles.
+You giggle at $n.
+$N giggles at you.
+$N giggles at $n.
+
+glare
+You glare at nothing in particular.
+$N glares around $Pself.
+You glare icily at $n.
+$N glares icily at you, you feel cold to your bones.
+$N glares at $n.
+
+greet
+Greet Who?
+#
+You greet $n, welcoming $p presence.
+$N greets you, welcoming your precence.
+$N greets $n, welcoming $p precence.
+
+groan
+You groan loudly.
+$N groans loudly.
+#
+#
+#
+
+grope
+Whom do you wish to grope??
+#
+You grope $n.
+$N gropes $n.
+$N gropes you.
+
+grovel
+You grovel in the dirt.
+$N grovels in the dirt.
+You grovel before $n.
+$N grovels in the dirt before you.
+$N grovels in the dirt before $n.
+
+growl
+Grrrrrrrrrr...
+$N growls.
+#
+#
+#
+
+hiccup
+*HIC*
+$N hiccups.
+#
+#
+#
+
+hug
+Hug who?
+#
+You hug $n.
+$N hugs you.
+$N hugs $n.
+
+kiss
+Isn't there someone you want to kiss?
+#
+You kiss $n.
+$N kisses you.
+$N kisses $n.
+
+laugh
+You laugh.
+$N starts laughing.
+You laugh at $n.
+$N laughs at you.
+$N laughs at $n.
+
+massage
+Massage what, thin air?
+#
+You gently massage $n's shoulders.
+$N gently massages your shoulders...ahhhhhhhhhh...
+$N massages $n's shoulders.
+
+moan
+You start to moan.
+$N starts moaning.
+You moan at $n.
+$N moans at you.
+$N moans at $n.
+
+nibble
+Ok Mr. Tyson, settle down.
+#
+You nibble on $n's ear.
+$N nibbles on your ear.
+$N nibbles on $n's ear.
+
+nudge
+Nudge? Who?
+#
+You nudge $n with your elbow.
+$N nudges you.
+$N nudges $n.
+
+nuzzle
+Nuzzle who??
+#
+You nuzzle $P neck softly.
+$N softly nuzzles your neck.
+$N softly nuzzles $n's neck.
+
+pat
+Pat who??
+#
+You pat $n on $p head.
+$N pats you on your head.
+$N pats $n on $p head.
+
+peer
+You peer all around you.
+$N peers all around $Pself.
+You peer at $n, scrutinizing $p person.
+$N peers at you, scrutinizing you.
+$N peers at $n, scrutinizing $p person.
+
+point
+You point whereto?
+$N points in all directions, seemingly confused.
+You point at $n.
+$N points you.
+$N points $n.
+
+poke
+Poke who??
+#
+You poke $n in the ribs.
+$N pokes you in the ribs.
+$N pokes $n in the ribs.
+
+ponder
+You ponder over matters as they appear to you at this moment.
+$N sinks deeply into $P own thoughts.
+You ponder about $n, will it work?
+$N ponders about you, considering $P options.
+$N ponders about $n, considering $P options.
+
+pout
+Ah, don't take it so hard.
+$N pouts.
+You pout at $n, trying to affect $p emotions.
+$N pouts at you, are you feeling bad?
+$N pouts at $n, trying to affect $p emotions.
+
+puke
+You puke.
+$N pukes.
+You puke on $n.
+$N pukes on your clothes!
+$N pukes on $n.
+
+purr
+Cats suck, quit acting like one.
+$N purrs contentedly.
+#
+#
+#
+
+roll
+You roll your eyes in disgust.
+$N rolls $P eyes in disgust.
+You look at $n and roll your eyes.
+$N stares at you and rolls $P eyes.
+$N looks at $n and rolls $P eyes.
+
+ruffle
+You've got to ruffle SOMEONE.
+#
+You ruffle $n's hair playfully.
+$N ruffles your hair playfully.
+$N ruffles $n's hair playfully.
+
+scream
+ARRRRRRRRRRGH!!!!!
+$N screams loudly!
+You scream at $n.
+$N screams at you, what did you do?
+$N screams at $n.
+
+shake
+You shake your head.
+$N shakes $P head.
+You shake $n's hand.
+$N shakes your hand.
+$N shakes $n's hand.
+
+shiver
+Brrrrrrrrr.
+$N shivers uncomfortably.
+You shiver at $n.
+$N shivers uncomfortably at you.
+$N shivers uncomfortable at $n.
+
+shrug
+You shrug.
+$N shrugs helplessly.
+You shrug at $n.
+$N shrugs at you.
+$N shrugs at $n.
+
+sigh
+You sigh.
+$N sighs loudly.
+You give $n a deep sigh.
+$N gives you a deep sigh.
+$N gives $n a deep sigh.
+
+sing
+You raise your clear (?) voice towards the sky.
+$N has begun to sing, Frank Sinatra they are NOT.
+#
+#
+#
+
+slap
+Normally you slap SOMEBODY.
+#
+You slap $n.
+You are slapped by $N.
+$N slaps $n.
+
+smile
+You smile happily.
+$N smiles happily.
+You smile at $n.
+$N smiles at you.
+$N beams a smile at $n.
+
+smirk
+You smirk.
+$N smirks.
+#
+#
+#
+
+snap
+You snap your fingers.
+$N snaps $P fingers.
+#
+#
+#
+
+snarl
+You snarl like an animal.
+$N snarls like an animal.
+You snarl at $n angrily.
+$N snarls at you.
+$N snarls angrily at $n. 
+
+sneeze
+Gesundheit!
+$N sneezes.
+#
+#
+#
+
+snicker
+You snicker softly.
+$N snickers softly.
+You snicker at $n.
+$N snickers at you.
+$N snickers at $n.
+
+sniff
+You sniff sadly.  *SNIFF*
+$N sniffs sadly.
+You sniff sadly at $n.
+$N sniffs sadly at you.
+$N sniffs sadly at $n.
+
+snore
+Zzzzzzzzzzzzzzzzz.
+$N snores loudly.
+You snore loudly at $n.
+$N snores loudly at you.
+$N snores loudly at $n.
+
+snuggle
+Who?
+#
+You snuggle up to $n.
+$N snuggles up to you.
+$N snuggles up to $n.
+
+spank
+Giggling wildly, You slap your rear end.
+Giggling wildly, $N spanks $P rear end.
+You spank $n.
+$N spanks you.
+$N spanks $n.
+
+spit
+You spit over your left shoulder.
+$N spits over $P left shoulder.
+You spit on $n.
+$N spits in your face.
+$N spits in $n's face.
+
+squeeze
+Where, what, how, WHO???
+#
+You squeeze $n fondly.
+$N squeezes you fondly.
+$N squeezes $n fondly.
+
+stare
+You stare at the sky.
+$n stares at the sky.
+You stare dreamily at $n, completely lost in $p eyes..
+$N stares dreamily at you, completely lost in your eyes.
+$N stares dreamily at $n.
+
+steam 
+You let out some steam, much to the others' relief (and your own!)
+$N lets out a lot of steam, much to your relief.
+#
+#
+#
+
+strut
+Strut your stuff.
+$N struts proudly.
+You strut your stuff for $n.
+$N struts $P stuff for you.
+$N struts $P stuff for $n.
+
+sulk
+You sulk.
+$N sulks in the corner.
+#
+#
+#
+
+tackle
+You tackle the air.  It stands not a chance.
+$N starts running around in a desperate attempt to tackle the air.
+You make a Levon Kirkland move and tackle $n to the ground.
+$N makes a Levon Kirkland move and tackles you to the ground.
+$N makes a Levon Kirkland move and tackles $n to the ground.
+
+tango
+With whom would you like to tango?
+$N puts a rose between $P teeth, but takes it out since no one joins $P.
+You put a rose between your teeth and tango with $n seductively.
+$N puts a rose between $P teeth and tangos with you seductively.
+$N puts a rose between $P teeth and tangos with $n seductively.
+
+taunt
+You taunt the nothing in front of you. 
+$N taunts something that seems to be right in front of $N.
+You taunt $n.
+$N taunts you rather insultingly.
+$N taunts $n rather insultingly.
+
+thank
+Thank you too.
+#
+You thank $n heartily.
+$N thanks you heartily.
+$N thanks $n heartily.
+
+tickle
+Who do you want to tickle??
+#
+You tickle $n.
+$N tickles you - hee hee hee.
+$N tickles $n.
+
+twiddle
+You patiently twiddle your thumbs.
+$n patiently twiddles $s thumbs.
+#
+#
+#
+
+wave 0 0
+You wave.
+$N waves happily.
+You wave to $n.
+$N waves to you.
+$N waves to $n.
+
+whine
+You whine pitifully.
+$N whines pitifully about the whole situation.
+You whine to $n.
+$N whines to you, how annoying.
+$N whines to $n.
+
+whistle
+You whistle appreciatively.
+$N whistles appreciatively.
+You whistle at $n.
+$N whistles at you.
+$N whistles at $n.
+
+wiggle
+Your wiggle your bottom.
+$N wiggles $P bottom.
+You wiggle your bottom at $n.
+$N wiggles $P bottom at you.
+$N wiggles $P bottom at $n.
+
+wink
+Have you got something in your eye?
+$N winks.
+You wink at $n.
+$N winks at you.
+$N winks at $n.
+
+yawn
+You give out a long, loud yawn.
+$N yawns.
+#
+#
+#
+
+yodel
+You start yodelling loudly and rather beautifully in your own ears.
+$N starts a yodelling session that goes right to the bone.
+#
+#
+#
+

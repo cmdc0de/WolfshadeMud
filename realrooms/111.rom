@@ -1,0 +1,943 @@
+11101 N
+&yA small &Yhut &ynext to a large mud wall.&n~
+&yThis structure is made from mud, rock and sand.&n~
+111 cno 9 1
+DOOR
+2
+~
+1 -1 11105
+ENDROOM
+11102 N
+&yA small &Yhut &ynext to a large mud wall.&n~
+&yThis structure is made from mud, rock and sand.&n~
+111 cno 9 1
+DOOR
+2
+~
+1 -1 11106
+ENDROOM
+11103 N
+&yA small &Yhut &ynext to a large mud wall.&n~
+&yThis structure is made from mud, rock and sand.&n~
+111 cno 9 1
+DOOR
+2
+~
+1 -1 11107
+ENDROOM
+11104 N
+&yA small &Yhut &ynext to a large mud wall.&n~
+&yThis structure is made from mud, rock and sand.&n~
+111 cno 9 2
+DOOR
+1
+~
+1 -1 11105
+ENDROOM
+11105 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 3
+DOOR
+0
+~
+1 -1 11101
+DOOR
+1
+~
+1 -1 11106
+DOOR
+3
+~
+1 -1 11104
+ENDROOM
+11106 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 3
+DOOR
+0
+~
+1 -1 11102
+DOOR
+1
+~
+1 -1 11107
+DOOR
+2
+~
+1 -1 11111
+DOOR
+3
+~
+1 -1 11105
+ENDROOM
+11107 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 3
+DOOR
+0
+~
+1 -1 11103
+DOOR
+1
+~
+1 -1 11108
+DOOR
+2
+~
+1 -1 11112
+DOOR
+3
+~
+1 -1 11106
+ENDROOM
+11108 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 2
+DOOR
+2
+~
+1 -1 11113
+DOOR
+3
+~
+1 -1 11107
+ENDROOM
+11109 N
+&yHut of the &cArch &gDruid&n~
+&yThis long mud and sand hut is that of the city's &cArch &gDruid&n~
+111 cno 9 2
+DOOR
+2
+~
+1 -1 11114
+ENDROOM
+11110 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 3
+DOOR
+1
+~
+1 -1 11111
+DOOR
+2
+~
+1 -1 11115
+ENDROOM
+11111 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11106
+DOOR
+1
+~
+1 -1 11112
+DOOR
+3
+~
+1 -1 11110
+ENDROOM
+11112 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11107
+DOOR
+1
+~
+1 -1 11113
+DOOR
+2
+~
+1 -1 11117
+DOOR
+3
+~
+1 -1 11111
+ENDROOM
+11113 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 3
+DOOR
+0
+~
+1 -1 11108
+DOOR
+2
+~
+1 -1 11118
+DOOR
+3
+~
+1 -1 11112
+ENDROOM
+11114 N
+&yCorridor inside the &Yhut&y of the &cArch &gDruid&y.&n~
+&yThis mud and &Ysand&y corridor is part of the inside of the &cArch &gDruid&y's hut.~
+111 cno 9 2
+DOOR
+0
+~
+1 -1 11109
+DOOR
+2
+~
+1 -1 11122
+ENDROOM
+11115 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 3
+DOOR
+0
+~
+1 -1 11110
+DOOR
+2
+~
+1 -1 11123
+ENDROOM
+11116 N
+&yPublic resting place.&n~
+&yMany slots have been carved into the mud walls here, perfect for mass Rest and Relaxation.&n~
+111 cnol 9 2
+DOOR
+2
+~
+1 -1 11124
+ENDROOM
+11117 N
+&yGathering Area.&n~
+&yThis large open area inside the city is where a lot of the locals come and socialize.&n~
+111 no 9 4
+DOOR
+0
+~
+1 -1 11112
+DOOR
+1
+~
+1 -1 11118
+DOOR
+2
+~
+1 -1 11125
+DOOR
+3
+~
+1 -1 11116
+ENDROOM
+11118 N
+&yGathering Area.&n~
+&yThis large open area inside the city is where a lot of the locals come and socialize.&n~
+111 no 9 4
+DOOR
+0
+~
+1 -1 11113
+DOOR
+1
+~
+1 -1 11119
+DOOR
+2
+~
+1 -1 11126
+DOOR
+3
+~
+1 -1 11117
+ENDROOM
+11119 N
+&yA &Ydusty &yroad inside the city.&n~
+&yThis sandy road runs through the city leading to various areas.~
+111 no 9 2
+DOOR
+1
+~
+1 -1 11120
+DOOR
+3
+~
+1 -1 11118
+ENDROOM
+11120 N
+&yA &Ydusty &yroad inside the city.&n~
+&yThis sandy road runs through the city leading to various areas.~
+111 no 9 2
+DOOR
+1
+~
+1 -1 11121
+DOOR
+3
+~
+1 -1 11119
+ENDROOM
+11121 N
+&yA &Ydusty &yroad inside the city.&n~
+&yThis sandy road runs through the city leading to various areas.~
+111 no 9 2
+DOOR
+2
+~
+1 -1 11129
+DOOR
+3
+~
+1 -1 11120
+ENDROOM
+11122 N
+&yCorridor inside the &Yhut&y of the &cArch &gDruid&y.&n~
+&yThis mud and &Ysand&y corridor is part of the inside of the &cArch &gDruid&y's hut.~
+111 cno 9 2
+DOOR
+0
+~
+1 -1 11114
+DOOR
+2
+~
+1 -1 11130
+ENDROOM
+11123 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 3
+DOOR
+0
+~
+1 -1 11115
+DOOR
+2
+~
+1 -1 11131
+ENDROOM
+11124 N
+&yGathering Area.&n~
+&yThis large open area inside the city is where a lot of the locals come and socialize.&n~
+111 no 9 4
+DOOR
+0
+~
+1 -1 11116
+DOOR
+1
+~
+1 -1 11125
+DOOR
+2
+~
+1 -1 11132
+ENDROOM
+11125 N
+&yGathering Area.&n~
+&yThis large open area inside the city is where a lot of the locals come and socialize.&n~
+111 no 9 4
+DOOR
+0
+~
+1 -1 11117
+DOOR
+1
+~
+1 -1 11126
+DOOR
+2
+~
+1 -1 11133
+DOOR
+3
+~
+1 -1 11124
+ENDROOM
+11126 N
+&yGathering Area.&n~
+&yThis large open area inside the city is where a lot of the locals come and socialize.&n~
+111 no 9 4
+DOOR
+0
+~
+1 -1 11118
+DOOR
+1
+~
+1 -1 11127
+DOOR
+2
+~
+1 -1 11134
+DOOR
+3
+~
+1 -1 11125
+ENDROOM
+11127 N
+&yA small &Yhut &ynext to a large mud wall.&n~
+&yThis structure is made from mud, rock and sand.&n~
+111 cno 9 1
+DOOR
+3
+~
+1 -1 11126
+ENDROOM
+11128 N
+&yThe &GThri&W-&YKreen&n &YGuard Post&n~
+&yTables and maps are strew about the area, this is obviously where the city's defense and attacks plans are derived.&n~
+111 cno 9 2
+DOOR
+1
+~
+1 -1 11129
+ENDROOM
+11129 N
+&yA &Ydusty &yroad inside the city.&n~
+&yThis sandy road runs through the city leading to various areas.~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11121
+DOOR
+1
+~
+1 -1 11168
+DOOR
+2
+~
+1 -1 11137
+DOOR
+3
+~
+1 -1 11128
+ENDROOM
+11130 N
+&yEnterance to the &cArch &gDruid&y's hut.&n~
+&yThe most renowned place in the city, the &cArch &gDruid&y can be found in the hut to the north.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11122
+DOOR
+1
+~
+1 -1 11131
+ENDROOM
+11131 N
+&yA &YDesert&y &Lrock &ypathway.&n~
+&yThe main road of the city runs along here.&n~
+111 no 9 3
+DOOR
+0
+~
+1 -1 11123
+DOOR
+1
+~
+1 -1 11132
+DOOR
+3
+~
+1 -1 11130
+ENDROOM
+11132 N
+&yGathering Area.&n~
+&yThis large open area inside the city is where a lot of the locals come and socialize.&n~
+111 no 9 4
+DOOR
+0
+~
+1 -1 11124
+DOOR
+1
+~
+1 -1 11133
+DOOR
+3
+~
+1 -1 11131
+ENDROOM
+11133 N
+&yGathering Area.&n~
+&yThis large open area inside the city is where a lot of the locals come and socialize.&n~
+111 no 9 4
+DOOR
+0
+~
+1 -1 11125
+DOOR
+1
+~
+1 -1 11134
+DOOR
+2
+~
+1 -1 11140
+DOOR
+3
+~
+1 -1 11132
+ENDROOM
+11134 N
+&yGathering Area.&n~
+&yThis large open area inside the city is where a lot of the locals come and socialize.&n~
+111 no 9 4
+DOOR
+0
+~
+1 -1 11126
+DOOR
+3
+~
+1 -1 11133
+ENDROOM
+11135 N
+&yA &Ydusty &yroad inside the city.&n~
+&yThis sandy road runs through the city leading to various areas.~
+111 no 9 2
+DOOR
+1
+~
+1 -1 11136
+DOOR
+2
+~
+1 -1 11142
+ENDROOM
+11136 N
+&yA &Ydusty &yroad inside the city.&n~
+&yThis sandy road runs through the city leading to various areas.~
+111 no 9 2
+DOOR
+1
+~
+1 -1 11137
+DOOR
+2
+~
+1 -1 11143
+DOOR
+3
+~
+1 -1 11135
+ENDROOM
+11137 N
+&yA &Ydusty &yroad inside the city.&n~
+&yThis sandy road runs through the city leading to various areas.~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11129
+DOOR
+2
+~
+1 -1 11144
+DOOR
+3
+~
+1 -1 11136
+ENDROOM
+11138 N
+&yPractice area for the &GThri&W-&YKreen&n Guard.&n~
+&yYoung and old Thri's alike practice their art here.&n~
+111 no 9 2
+DOOR
+1
+~
+1 -1 11139
+DOOR
+2
+~
+1 -1 11145
+ENDROOM
+11139 N
+&yPractice area for the &GThri&W-&YKreen&n Guard.&n~
+&yYoung and old Thri's alike practice their art here.&n~
+111 no 9 2
+DOOR
+2
+~
+1 -1 11146
+DOOR
+3
+~
+1 -1 11138
+ENDROOM
+11140 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11133
+DOOR
+2
+~
+1 -1 11147
+ENDROOM
+11141 N
+&yA small &Yhut &ynext to a large mud wall.&n~
+&yThis structure is made from mud, rock and sand.&n~
+111 cno 9 1
+DOOR
+2
+~
+1 -1 11148
+ENDROOM
+11142 N
+&yWeaponsmith for the &GThri&W-&Ykreen&y Guard.&n~
+&yAll kinds of weapons hang from the walls and ceiling of this hut, ready to be given to the warriors.~
+111 cno 9 2
+DOOR
+0
+~
+1 -1 11135
+ENDROOM
+11143 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11136
+DOOR
+1
+~
+1 -1 11144
+DOOR
+2
+~
+1 -1 11150
+ENDROOM
+11144 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11137
+DOOR
+3
+~
+1 -1 11143
+ENDROOM
+11145 N
+&yPractice area for the &GThri&W-&YKreen&n Guard.&n~
+&yYoung and old Thri's alike practice their art here.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11138
+DOOR
+2
+~
+1 -1 11152
+ENDROOM
+11146 N
+&yPractice area for the &GThri&W-&YKreen&n Guard.&n~
+&yYoung and old Thri's alike practice their art here.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11139
+DOOR
+1
+~
+1 -1 11147
+ENDROOM
+11147 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11140
+DOOR
+1
+~
+1 -1 11148
+DOOR
+2
+~
+1 -1 11154
+DOOR
+3
+~
+1 -1 11146
+ENDROOM
+11148 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11141
+DOOR
+1
+~
+1 -1 11149
+DOOR
+3
+~
+1 -1 11147
+ENDROOM
+11149 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+1
+~
+1 -1 11150
+DOOR
+2
+~
+1 -1 11156
+DOOR
+3
+~
+1 -1 11148
+ENDROOM
+11150 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11143
+DOOR
+1
+~
+1 -1 11151
+DOOR
+2
+~
+1 -1 11157
+DOOR
+3
+~
+1 -1 11149
+ENDROOM
+11151 N
+&yA small &Yhut &ynext to a large mud wall.&n~
+&yThis structure is made from mud, rock and sand.&n~
+111 cno 9 1
+DOOR
+3
+~
+1 -1 11150
+ENDROOM
+11152 N
+&yPractice area for the &GThri&W-&YKreen&n Guard.&n~
+&yYoung and old Thri's alike practice their art here.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11145
+DOOR
+1
+~
+1 -1 11153
+ENDROOM
+11153 N
+&yPractice area for the &GThri&W-&YKreen&n Guard.&n~
+&yYoung and old Thri's alike practice their art here.&n~
+111 no 9 2
+DOOR
+3
+~
+1 -1 11152
+ENDROOM
+11154 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11147
+DOOR
+2
+~
+1 -1 11159
+ENDROOM
+11156 N
+&yA small &Yhut &ynext to a large mud wall.&n~
+&yThis structure is made from mud, rock and sand.&n~
+111 cno 9 1
+DOOR
+0
+~
+1 -1 11149
+ENDROOM
+11157 N 
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11150
+DOOR
+2
+~
+1 -1 11160
+ENDROOM
+11159 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11154
+DOOR
+2
+~
+1 -1 11162
+ENDROOM
+11160 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11157
+DOOR
+2
+~
+1 -1 11165
+ENDROOM
+11161 N
+&ySouthern &GThri&W-&Ykreen&y guard post.&n~
+&yThis guard post holds the commanders quarters for the southern entrance.~
+111 cno 9 2
+DOOR
+1
+~
+1 -1 11162
+ENDROOM
+11162 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11159
+DOOR
+1
+~
+1 -1 11163
+DOOR
+2
+~
+1 -1 11166
+DOOR
+3
+~
+1 -1 11161
+ENDROOM
+11163 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+1
+~
+1 -1 11164
+DOOR
+3
+~
+1 -1 11162
+ENDROOM
+11164 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+1
+~
+1 -1 11165
+DOOR
+3
+~
+1 -1 11163
+ENDROOM
+11165 N
+&ySouthern road of the city.&n~
+&yCovered in &Ysand&y and weaving through small huts, this road runs all along the southern end of the city.&n~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11160
+DOOR
+3
+~
+1 -1 11164
+ENDROOM
+11166 N
+&yGateway to the &GThri&W-&Ykreen&y city&n~
+&yA huge opening in the mud wall encircles the guard post of Thri warriors.~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11162
+DOOR
+2
+~
+1 -1 11167
+ENDROOM
+11167 Y
+&yBefore a huge mud and &Ysand&y walled city.&n~
+&yBefore you is a huge city, all the walls and building are made from a rock hard mesh of mud and sand.~
+111 no 9 2
+DOOR
+0
+~
+1 -1 11166
+DOOR
+2
+~
+1 -1 1000894
+ENDROOM
+11168 Y
+&yGateway to the &GThri&W-&Ykreen&y city&n~
+&yA huge opening in the mud wall encircles the guard post of Thri warriors.~
+111 no 9 2
+DOOR
+1
+~
+1 -1 1000795
+DOOR
+3
+~
+1 -1 11129
+ENDROOM
+ENDFILE

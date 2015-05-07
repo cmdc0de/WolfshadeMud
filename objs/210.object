@@ -1,0 +1,91 @@
+210001
+shard glass~
+&Wa shard of &Cglass&n~
+&Wa shard of &Cglass&n~
+&WA shard of &Cglass lies here.&n~
+10 g nm
+2 2 2 3 2
+2 200 4
+ENDOBJ
+210002
+dull axe~
+&wa &Ldull &waxe&n~
+&wa &Ldull &waxe&n~
+&wA &Ldull &waxe lies here.&n~
+10 g nm
+2 3 2 3 2
+2 200 4
+ENDOBJ
+210003
+robe blue white bolts~
+&wa robe with &Bblue &wand &Wwhite &wbolts&n~
+&wa robe with &Bblue &wand &Wwhite &wbolts&n~
+&wA robe with &Bblue &wand &Wwhite &wbolts lies here.&n~
+6 0 hy
+8
+1 10000 6
+AFFECTS
+17 30
+ENDOBJ
+210004
+war paint~
+&rsome &Rwar &wpaint&n~
+&rsome &Rwar &wpaint&n~
+&rSome &Rwar &wpaint lies here.&n~
+6 0 f
+2
+1 1000 6
+AFFECTS
+8 10
+ENDOBJ
+210005
+large crate~
+&ya large crate&n~
+&ya large crate&n~
+&yA large crate sits here on the docks.&n~
+6 a 0
+0
+10 0 0
+ENDOBJ
+210006
+small crate~
+&ya small crate&n~
+&ya small crate&n~
+&yA small crate sits here on top of the docks.&n~
+6 a 0
+-1 -1 1
+10 0 0
+ENDOBJ
+210007
+slave whip~
+&wa &rslave &Lwhip&n~
+&wa &rslave &Lwhip&n~
+&wA &rslave &Lwhip &wlies here.&n~
+10 0 nm
+2 2 3 3 5
+2 2000 4
+ENDOBJ
+210008
+gauntlets inept~
+&wsome &Wgaunt&wlets of the &Winept&n~
+&wsome &Wgaunt&wlets of the &Winept&n~
+&wsome &Wgaunt&wlets of the &Winept lie here.&n~
+6 0 v
+0
+5 100 2
+AFFECTS
+21 -3
+22 -3
+ENDOBJ
+210009
+hard leather shoes~
+&Wsome hard &yleather &Wshoes&n~
+&Wsome hard &yleather &Wshoes&n~
+&WSome hard &yleather &Wshoes lie here.&n~
+6 0 u
+2
+1 0 4
+AFFECTS
+18 -10
+ENDOBJ
+ENDFILE

@@ -1,0 +1,151 @@
+200001
+mop~
+&ya mop&n~
+&ya mop&n~
+&yA mop lies here.&n~
+10 0 o
+1 2 1 2 8
+3 20 1
+ENDOBJ
+200002
+overalls~
+&Bsome overalls&n~
+&Bsome overalls&n~
+&BSome overalls lie here.&n~
+6 0 y
+5
+1 10 1
+ENDOBJ
+200003
+large trident~
+&ya large trident&n~
+&ya large trident&n~
+&yA large trident lies here.&n~
+10 0 o
+3 3 3 3 2
+1 300 1
+ENDOBJ
+200004
+adamantite ringmail~
+&ysome &cadamantite &yringmail&n~
+&ysome &cadamantite &yringmail&n~
+&ySome &cadamantite &yringmail lies here.~
+6 0 h
+15
+2 2000 0
+AFFECTS
+5 6
+6 6
+ENDOBJ
+200005
+adamatite plated boots~
+&ysome &cadamantite &yplated boots&n~
+&ysome &cadamantite &yplated boots&n~
+&ySome &cadamantite &yplated boots lie here.&n~
+6 0 u
+4
+2 3000 6
+AFFECTS
+2 6
+3 6
+ENDOBJ
+200006
+adamatite helm~
+&yan &cadamantite &yhelm&n~
+&yan &cadamantite &yhelm&n~
+&yAn &cadamantite &yhelm lies here.&n~
+6 0 a
+1
+2 300 6
+AFFECTS
+21 1
+22 1
+ENDOBJ
+200007
+adamatite pendant~
+&yan &cadamantite &ypendant&n~
+&yan &cadamantite &ypendant&n~
+&yAn &cadamantite &ypendant lies here.&n~
+6 0 g
+1
+2 300 6
+AFFECTS
+22 3
+ENDOBJ
+200008
+leather wing straps~
+&ysome &Lleather &ywing straps&n~
+&ysome &Lleather &ywing straps&n~
+&ySome &Lleather &ywing straps lie here.&n~
+6 0 x
+0
+1 4000 1
+AFFECTS
+16 2
+17 2
+ENDOBJ
+200009
+black skull shaped earring~
+&La black &Wskull &Lshaped earring&n~
+&La black &Wskull &Lshaped earring&n~
+&LA black &Wskull &Lshaped earring lies here.&n~
+6 0 c
+0
+1 4000 1
+AFFECTS
+21 3
+ENDOBJ
+200010
+orb dark pulsating~
+&La &mdark &Mpulsating &Lorb&n~
+&La &mdark &Mpulsating &Lorb&n~
+&LA &mdark &Mpulsating &Lorb lies here.&n~
+6 0 q
+2
+1 3000 1
+AFFECTS
+17 5
+ENDOBJ
+200011
+pitch fork~
+&ya pitch fork&n~
+&ya pitch fork&n~
+&yA pitch fork lies here.&n~
+10 0 o
+2 2 2 2 2
+3 200 1
+ENDOBJ
+200012
+staff dark pulsating~
+&La &mdark &Mpulsating &Lstaff&n~
+&La &mdark &Mpulsating &Lstaff&n~
+&LA &mdark &Mpulsating &Lstaff lies here.&n~
+10 0 o
+2 2 3 2 8
+2 2000 1
+AFFECTS
+17 10
+ENDOBJ
+200013
+dark pulsating ring~
+&La &mdark &Mpulsating &Lring&n~
+&La &mdark &Mpulsating &Lring&n~
+&LA &mdark &Mpulsating &Lring lies here.&n~
+6 0 l
+0
+2 3000 6
+AFFECTS
+17 5
+ENDOBJ
+200014
+dark pulsating gem stone~
+&La &mdark &Mpulsating &mgem &Lstone&n~
+&La &mdark &Mpulsating &mgem &Lstone&n~
+&LA &mdark &Mpulsating &mgem &Lstone lies here.&n~
+6 0 c
+2
+2 3000 6
+AFFECTS
+17 1
+ENDOBJ
+ENDFILE

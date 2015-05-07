@@ -1,0 +1,1228 @@
+********************************
+* Spell messages
+*  	Format
+*	<spellName>
+*	To_Damager_Death
+*	To_damagee_death
+*	To_Room_Death
+*	To_Damager_Miss
+*	To_damagee_miss
+*	To_Room_Miss
+*	To_damager_hit
+*	To_damagee_hit
+*	To_Room_hit
+*	'n' doie
+*	'N' Doer
+*	'p' Doie pronoun
+*	'P' Doer pronoun
+******************************
+magic missle
+Your &Ymagic missle&n brightens $n last breath.
+$N's &Ymagic missle&n brightens your last breath.
+$N's &Ymagic missle&n brithtens $n last breath.
+#
+#
+#
+Your &Ymagic missle&n slams into $n.
+$N's &Ymagic missle&n slams into you.
+$n's &Ymagic missle&n slams into $n.
+lightning bolt
+Your &F&Blightning bolt&n brightens $n last breath.
+$N's &F&Blightning bolt&n brightens your last breath.
+$N's &F&Blightning bolt&n brithtens $n last breath.
+#
+#
+#
+Your &F&Blightning bolt&n slams into $n.
+$N's &F&Blightning bolt&n slams into you.
+$n's &F&Blightning bolt&n slams into $n.
+fireball
+Your &Rfireball&n brightens $n last breath.
+$N's &Rfireball&n brightens your last breath.
+$N's &Rfireball&n brithtens $n last breath.
+#
+#
+#
+Your &Rfireball&n slams into $n.
+$N's &Rfireball&n slams into you.
+$n's &Rfireball&n slams into $n.
+guks angry fist
+Your giant &Yfist&n slams into $n, creating a &ybattered&n corpse!
+$N's giant &Yfist&n slams into you, knocking you into eternity.
+$N's giant &Yfist&n slams into $n, turning $n into so much pulp!
+#
+#
+#
+Your giant &Yfist&n slams into $n, &rblood&n pours out of $p!
+$N's giant &Yfist&n slams into you, ouch.
+$N's giant &Yfist&n slams into $n, &rblood&n pours out of $p!
+duths snowball
+Your &cS&Cn&Wowba&Cl&cl&n smashes into $n killing $n.
+$N's &cS&Cn&Wowba&Cl&cl&n smashes you into oblivion.
+$N's &cS&Cn&Wowba&Cl&cl&n smashes into $n killing $n.
+#
+#
+#
+Your &cS&Cn&Wowba&Cl&cl&n smashes into $n, sending &Wsnow&n and &rblood&n flying.
+$N's &cS&Cn&Wowba&Cl&cl&n smashes into you, sending &Wsnow&n and &rblood&n flying.
+$N's &cS&Cn&Wowba&Cl&cl&n smashes into $n, sending &Wsnow&n and &rblood&n flying.
+duths snowball swarm
+Your &cS&Cn&Wowba&Cl&cl&n smashes into $n killing $n.
+$N's &cS&Cn&Wowba&Cl&cl&n smashes you into oblivion.
+$N's &cS&Cn&Wowba&Cl&cl&n smashes into $n killing $n.
+#
+#
+#
+Your &cS&Cn&Wowba&Cl&cl&n smashes into $n, sending &Wsnow&n and &rblood&n flying.
+$N's &cS&Cn&Wowba&Cl&cl&n smashes into you, sending &Wsnow&n and &rblood&n flying.
+$N's &cS&Cn&Wowba&Cl&cl&n smashes into $n, sending &Wsnow&n and &rblood&n flying.
+duths snow storm
+Your &Wsnow storm&n smashes into $n killing $n.
+$N's &Wsnow storm&n smashes you into oblivion.
+$N's &Wsnow storm&n smashes into $n killing $n.
+#
+#
+#
+Your &Wsnow storm&n smashes into $n, sending &Wsnow&n and &rblood&n flying.
+$N's &Wsnow storm&n smashes into you, sending &Wsnow&n and &rblood&n flying.
+$N's &Wsnow storm&n smashes into $n, sending &Wsnow&n and &rblood&n flying.
+guks fist flurry
+Your giant &Bfists&n slam into $n, again and again, creating a &rbloody&n, &ybattered&n corpse!
+$N's giant &Bfists&n slam into you, again and again, knocking you into eternity.
+$N's giant &Bfists&n slam into $n, again and again, turning $p into a &Lbroken&n, &rbloody&n, &ybattered&n corpse!
+#
+#
+#
+Your giant &Bfists&n slam into $n, &rblood&n pours out of $p!
+$N's giant &Bfists&n slam into you, &mouch&n, &mouch&n and &mouch&n again!
+$N's giant &Bfists&n slam into $n, &rblood&n pours out of $p!
+guks wicked glance
+Your glance at $n is the &Llast&n thing he sees.
+$N's &Lwi&wck&Led&n glance is the &Llast&n thing you see.
+$N's &Lwi&wck&Led&n glance is the &Llast&n thing $p sees.
+#
+#
+#
+Your glance at $n makes him shudder with &Lfear&n.
+$N's &Lwi&wck&Led&n glance penetrates your inner &Lsoul&n. 
+$N's &Lwi&wck&Led&n glance makes $n &Lshudder&n in pain.
+firestorm
+Your &rF&Rir&West&Ror&rm&n burns $n into a charred corpse.
+$N's &rF&Rir&West&Ror&rm&n burns you into a charred corpse!
+$N's &rF&Rir&West&Ror&rm&n burns $n into a charred corpse.
+#
+#
+#
+Your burning &rF&Rir&West&Ror&rm&n torches $n.
+$N's burning &rF&Rir&West&Ror&rm&n torches you!
+$N's burning &rF&Rir&West&Ror&rm&n torches $n.
+hurricane	
+Your conjured &cHu&Crr&Wi&Cca&cne&n tears $n limb to limb.
+$N's conjured &cHu&Crr&Wi&Cca&cne&n tears each of your limbs off untill there is nothing left.
+$N's conjured &cHu&Crr&Wi&Cca&cne&n tears $n limb to limb.
+#
+#
+#
+Your conjured &cHu&Crr&Wi&Cca&cne&n tears at $n.
+$N's conjured &cHu&Crr&Wi&Cca&cne&n tears at your skin!
+$N's conjured &cHu&Crr&Wi&Cca&cne&n tears at $n.
+awakened nightmare
+$n's &Wawakened &Lnight&wmare&n stops $p heart cold.
+Your worst fears come to life in an &Wawakened &Lnight&wmare&n stopping your heart cold!
+$n's &Wawakened &Lnight&wmare&n stops $p heart cold.
+#
+#
+#
+$n's &Wawakened &Lnight&wmare&n makes $p heart chill with fear!
+Your worst fears come to life in an &Wawakened &Lnight&wmare&n, you scream in fear!
+$n's &Wawakened &Lnight&wmare&n makes $p heart chill with fear!
+meteorswarm
+You smash $n to death with your controled &yme&Lte&yor&Lsw&yar&Lm&n.
+$N's controled &yme&Lte&yor&Lsw&yar&Lm&n smashes you to death!
+$N's smashs $n to death with $p controled &yme&Lte&yor&Lsw&yar&Lm&n.
+#
+#
+#
+You smash $n with your controled &yme&Lte&yor&Lsw&yar&Lm&n.
+$N's controled &yme&Lte&yor&Lsw&yar&Lm&n smashes into you!
+$N's controled &yme&Lte&yor&Lsw&yar&Lm&n smashes into $n.
+magic missile
+Your &rma&Rgi&Wc mis&Rsi&rle&n kills $n.
+$N's &rma&Rgi&Wc mis&Rsi&rle&n hits you!
+$N's &rma&Rgi&Wc mis&Rsi&rle&n hits $n.
+#
+#
+#
+Your &rma&Rgi&Wc mis&Rsi&rle&n hits $n, right on target.
+$N's &rma&Rgi&Wc mis&Rsi&rle&n hits you!
+$N's &rma&Rgi&Wc mis&Rsi&rle&n hits $n, right on target.
+pebble swarm
+Your &ypebble swarm&n smothers $n.
+$N's &ypebble swarm&n smothers you!
+$N's &ypebble swarm&n smothers $n.
+#
+#
+#
+Your &wpebble swarm&n knocks $n around!
+$N's &wpebble swarm&n knocks you around!
+$N's &wpebble swarm&n knocks $n around!
+sand pillar
+You send a &yp&Li&yl&Ll&ya&Lr &yo&Lf &ys&La&yn&Ld&n crashing down on $n, encasing $p in a &Ltomb&n of &ysand&n.
+$N's &yp&Li&yl&Ll&ya&Lr &yo&Lf &ys&La&yn&Ld&n crashes down on you, encasing you in a &Ltomb&n of &ysand&n!
+$N's &yp&Li&yl&Ll&ya&Lr &yo&Lf &ys&La&yn&Ld&n crashes down on $n, encasing $p in a &Ltomb&n of &ysand&n.
+#
+#
+#
+Your &yp&Li&yl&Ll&ya&Lr &yo&Lf &ys&La&yn&Ld&n rips at $n's &rflesh&n as it descends upon $p.
+$N's &yp&Li&yl&Ll&ya&Lr &yo&Lf &ys&La&yn&Ld&n at your &rflesh&n as it descends upon you!
+$N's &yp&Li&yl&Ll&ya&Lr &yo&Lf &ys&La&yn&Ld&n rips at $n's &rflesh&n as it descends upon $p.
+rock swarm
+You send a &wswarm of &Lrocks&n after $n, tearing the &rflesh&n from the &Wbone&n.
+$N's &wswarm of &Lrocks&n tears your &rflesh&n from the &Wbone&n!
+$N's &wswarm of &Lrocks&n tears $n's &rflesh&n from the &Wbone&n.
+#
+#
+#
+You send a &wswarm of &Lrocks&n after $n, knocking $p sensless!
+$N's &wswarm of &Lrocks&n knocks you sensless!
+$N's &wswarm of &Lrocks&n knocks $n sensless!
+sand storm
+You send a &ysand &Lstorm&n to $n, encasing $p in a &Ltomb&n of &ysand&n.
+$N's &ysand &Lstorm&n encases you in a &Ltomb&n of &ysand&n!
+$N's &ysand &Lstorm&n encases $n in a &Ltomb&n of &ysand&n.
+#
+#
+#
+Your &ysand &Lstorm&n rips at $n's &rflesh&n as it whirls around $p.
+$N's &ysand &Lstorm&n rips at your &rflesh&n as it whirls around you!
+$N's &ysand &Lstorm&n rips at $n's &rflesh&n as it whirls around $p.
+burning hands
+You &Rtorch&n $n to death with your &Yburning hands&n!
+$N &Rtorches&n YOU to death with $p &Yburning hands&n!
+$N &Rtorches&n $n to death with $p &Yburning hands&n!
+#
+#
+#
+You &Yb&Rur&Yn&n $n.
+$N &Yb&Rur&Yn&ns YOU!
+$N &Yb&Rur&Yn&ns $n!
+fire arrows
+Your &Rfire &Yarrows&n pierce $n's heart!
+$N's &Rfire &Yarrows&n pierce YOUR heart!
+$N's &Rfire &Yarrows&n pierce $n's heart!
+#
+#
+#
+Your &Rfire &Yarrows&n pick away at $n's flesh!
+$N's &Rfire &Yarrows&n pick away at YOUR flesh!
+$N's &Rfire &Yarrows&n pick away at $n's flesh!
+immolate
+Your &Rfirery&n conjuration burns $n to death!
+$N's &Rfirery&n conjuration burns YOU to death!
+$N's &Rfirery&n conjuration burns $n to death!
+#
+#
+#
+Your &Rfirery&n conjuration melts $n's flesh.
+$N's &Rfirery&n conjuration melts YOUR flesh!
+$N's &Rfirery&n conjuration melts $n's flesh.
+incinerate
+The &Rheat&n from your spell &Rincinerates&n $n!
+The &Rheat&n from $N's spell &Rincinerates&n YOU!
+The &Rheat&n from $N's spell &Rincinerates&n $n!
+#
+#
+#
+The &Rsearing &Yheat&n from your spell blisters $n's skin.
+The &Rsearing &Yheat&n from $N's spell blisters YOUR skin.
+The &Rsearing &Yheat&n from $N's spell blisters $n's skin.
+incendentary cloud
+Your &ccloud&n of &Yburning &Rfire&n turns $n into a smoldering corpse!
+$N's &ccloud&n of &Yburning &Rfire&n turns YOU into a smoldering corpse!
+$N's &ccloud&n of &Yburning &Rfire&n turns $n into a smoldering corpse!
+#
+#
+#
+Your &ccloud&n of &Yburning &Rfire&n blackens $n's skin.
+$N's &ccloud&n of &Yburning &Rfire&n blackens YOUR skin!
+$N's &ccloud&n of &Yburning &Rfire&n blackens $n's skin.
+pine needles
+You &Mpummel&n $n to death with a swarm of &Gpine &Cneedles&n!
+$N &Mpummels&n YOU to death with a swarm of &Gpine &Cneedles&n!
+$N &Mpummels&n $n to death with a swarm of &Gpine &Cneedles&n!
+#
+#
+#
+You pummel $n with a swarm of &Gpine &Cneedles&n.
+$N pummels YOU with a swarm of &Gpine &Cneedles&n!
+$N pummels $n with a swarm of &Gpine &Cneedles&n.
+scalding blast
+You burn &Yall&n the &rflesh&n from $n with your &Cscalding blast&n!
+$N burns &Yall&n the &rflesh&n from YOU with $P &Cscalding blast&n!
+$N burns &Yall&n the &rflesh&n from $n with $P &Cscalding blast&n!
+#
+#
+#
+You burn $n with your &Cscalding blast&n!
+$N burns YOU with $P &Cscalding blast&n!
+$N burns $n with $P &Cscalding blast&n!
+salt spray
+&WSalty &Bwater&n rips $n apart! You smile happily.
+&WSalty &Bwater&n rips YOU apart! $N smiles happily.
+&WSalty &Bwater&n rips $n apart! $N smiles happily.
+#
+#
+#
+&WSalty &Bwater&n lacerates $n's skin! You smile happily.
+&WSalty &Bwater&n lacerates YOUR skin! $N smiles happily.
+&WSalty &Bwater&n lacerates $n's skin! $N smiles happily.
+wicked rain
+You beat $n into a bloody pulp with your &Lw&Wi&Lc&Wk&Le&Wd &Brain&n!
+$N beats YOU into a bloody pulp with $P &Lw&Wi&Lc&Wk&Le&Wd &Brain&n!
+$N beats $n into a bloody pulp with $P &Lw&Wi&Lc&Wk&Le&Wd &Brain&n!
+#
+#
+#
+You beat $n with your &Lw&Wi&Lc&Wk&Le&Wd &Brain&n!
+$N beats YOU with $P &Lw&Wi&Lc&Wk&Le&Wd &Brain&n!
+$N beats $n with $P &Lw&Wi&Lc&Wk&Le&Wd &Brain&n!
+hail storm
+You beat $n into a bloody pulp with your &Whail &Cstorm&n!
+$N beats YOU into a bloody pulp with $P &Whail &Cstorm&n!
+$N beats $n into a bloody pulp with $P &Whail &Cstorm&n!
+#
+#
+#
+You beat $n with your &Whail &Cstorm&n!
+$N beats YOU with $P &Whail &Cstorm&n!
+$N beats $n with $P &Whail &Cstorm&n!
+water bash
+You hurl &Bwater&n that accelerates exponentially and blows right through $n!
+$N hurls &Bwater&n that accelerates exponentially and blows right through YOU!
+$N hurls &Bwater&n that accelerates exponentially and blows right through $n!
+#
+#
+#
+You hurl &Bwater&n that accelerates exponentially and slams into $n!
+$N hurls &Bwater&n that accelerates exponentially and slams into YOU!
+$N hurls &Bwater&n that accelerates exponentially and slams into $n!
+guks flicking finger
+Your conjured &Yfinger&n is the &Llast&n thing $n sees!
+$N's conjured &Yfinger&n is the &Llast&n thing you see!
+$N's conjured &Yfinger&n is the &Llast&n thing $n sees!
+#
+#
+#
+Your conjured &Yfinger&n flicks $n!
+$N's conjured &Yfinger&n flicks YOU!
+$N's conjured &Yfinger&n flicks $n!
+guks slapping hand
+Your &Mmagical &Yhand&n is the &Llast&n thing $n sees!
+$N's &Mmagical &Yhand&n is the &Llast&n thing you see!
+$N's &Mmagical &Yhand&n is the &Llast&n thing $n sees!
+#
+#
+#
+Your &Mmagical &Yhand&n slaps $n hard!
+$N's &Mmagical &Yhand&n slaps YOU hard!
+$N's &Mmagical &Yhand&n slaps $n hard!
+desert portal
+&yYou emerge else where...&n
+&y$N emerges from else where...&n
+&y$N emerges from else where...&n
+#
+#
+#
+You enter a &ysand &Lcolored &Yportal &nand dissapear!
+#
+$N enters a &ysand &Lcolored &Yportal &nand dissapears!
+rock to mud
+#
+#
+#
+&yYou turn the ground under $n to mud but $p manages &Bnot&y to fall.&n
+&y$N turns the ground under you but you manage &Bnot&y to fall.&n
+&y$N turns the ground under $n but $p manages &Bnot&y to fall.&n
+&yYou turn the ground under $n to mud and $p falls!&n
+&y$N turns the ground under you! &WYou fall to the ground!&n
+&y$N turns the ground under $n and $p falls to the ground!&n
+air portal
+&WYou emerge else where...&n
+&W$N emerges from else where...&n
+&W$N emerges from else where...&n
+#
+#
+#
+You enter a &Cfrosty &Wwhirlwind &nand dissapear!
+#
+$N enters a &Cfrosty &Wwhirlwind &nand dissapears!
+counter spell
+#
+#
+#
+&B$n's&B power is too much for you to counter.&n
+&BYour&B power is too much for $N&B to counter!&n
+&B$n's&w power is too much for $N&B to counter.&n
+&BYour power stops $n&W from casting!&n
+&B$N&B's power stops YOU from casting!&n
+&B$N&B's power stops $n&W from casting!&n
+dispel magic
+#
+#
+#
+&WYou try to dispel $n&W's magic with NO success.&n
+&W$N&W tries to dispel YOUR magic with NO success.&n
+&W$N&W tries to dispel $n&W's magic with NO success.&n
+&WYou dispel $n&W's magic with some success!&n
+&W$N&W dispels YOUR magic with some success!&n
+&W$N&W dispel $n&W's magic with some success!&n
+mass invisibility
+&LYour form fades from view....&n
+&L$N&L's form fades from view...&n
+&L$N&L's form fades from view...&n
+&LYour form fades from view....&n
+&L$N&L's form fades from view...&n
+&L$N&L's form fades from view...&n
+&LYour form fades from view....&n
+&L$N&L's form fades from view...&n
+&L$N&L's form fades from view...&n
+mist form
+&BYour form &Cturns to mist &Band fades from view....&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&BYour form &Cturns to mist &Band fades from view....&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&BYour form &Cturns to mist &Band fades from view....&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+enshroud mist
+&BYour form &Cturns to mist &Band fades from view....&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&BYour form &Cturns to mist &Band fades from view....&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&BYour form &Cturns to mist &Band fades from view....&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+&B$N&B's form &Cturns to mist &Band fades from view...&n
+ether travel
+&BYou emerge else where...&n
+&B$N&B emerges from else where...&n
+&B$N&B emerges from else where...&n
+#
+#
+#
+&BYou project yourself across the &bether&B!&n
+#
+&B$N&B dissapears in a bright flash of &bether&B&n
+armor
+#
+#
+#
+#
+#
+#
+#
+$N's magical bands wrap around you.
+$N's magical bands wrap around $n.
+call heart
+&rYou &Rcall &r$n&r's &Rheart &rfrom $p chest!&n
+&rYou fade to darkness as $N&r stands over you with YOUR &Rbleeding heart in $P hands.&n
+&r$n&n clutches $p dying hands over the wound as $N&r stands with $p &Rbleeding heart in $P hands.&n
+#
+#
+#
+&rYou inflict great pain trying to wrench $n&r's &Rheart&r from $p chest.&n
+&r$N&r inflicts great pain trying to wrench YOUR &Rheart&r from YOUR chest.&n
+&r$N&r inflicts great pain trying to wrench $n&r's &Rheart&r from $p chest.&n
+conjure fire elemental
+#
+#
+#
+#
+#
+#
+$n says, 'I am here to serve you, $N!'
+#
+$n says, 'I am here to serve you, $N!'
+conjure air elemental
+#
+#
+#
+#
+#
+#
+$n says, 'I am here to serve you, $N!'
+#
+$n says, 'I am here to serve you, $N!'
+conjure water elemental
+#
+#
+#
+#
+#
+#
+$n says, 'I am here to serve you, $N!'
+#
+$n says, 'I am here to serve you, $N!'
+conjure earth elemental
+#
+#
+#
+#
+#
+#
+$n says, 'I am here to serve you, $N!'
+#
+$n says, 'I am here to serve you, $N!'
+conjure blood elemental
+#
+#
+#
+#
+#
+#
+$n says, 'I am here to serve you, $N!'
+#
+$n says, 'I am here to serve you, $N!'
+conjure grave elemental
+#
+#
+#
+#
+#
+#
+$n says, 'I am here to serve you, $N!'
+#
+$n says, 'I am here to serve you, $N!'
+conjure fog elemental
+#
+#
+#
+#
+#
+#
+$n says, 'I am here to serve you, $N!'
+#
+$n says, 'I am here to serve you, $N!'
+conjure pyre elemental
+#
+#
+#
+#
+#
+#
+$n says, 'I am here to serve you, $N!'
+#
+$n says, 'I am here to serve you, $N!'
+create ice elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create slime elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create tomb elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create rock elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create coal elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create ash elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create steam elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create plasma elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create mist elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create smoke elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create mud elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+create gore elemental
+#
+#
+#
+#
+#
+#
+YOU merge elementals into $n&n!
+#
+$N&n merges elementals into $n&n!
+earthenalize
+#
+#
+#
+#
+#
+#
+&GYour form fades a little as you feel able to walk through walls.&n
+&G$N&G's form fades a little...&n
+&G$N&G's form fades a little...&n
+vulture flight
+#
+#
+#
+#
+#
+#
+#
+&LDark &rphantom&w-&Llike wings form from your back, lifting YOU into the air&n
+&LDark &rphantom&w-&Llike wings form from $n's&L back, lifting them into the air&n
+forestal armor
+#
+#
+#
+#
+#
+#
+#
+&gYou are surrounded by a very &yorganic &garmor.&n
+&g$N&g is surrounded by a very &yorganic &garmor.&n
+barkskin
+#
+#
+#
+#
+#
+#
+&yYou turn $n's skin to bark.&n
+&yYour skin turns as hard as tree bark.&n
+&y$N&y's skin turns as hard as tree bark.&n
+bloodlust
+#
+#
+#
+#
+#
+#
+#
+&RYour &rblood burns &Rand makes you battle faster!&n
+&R$N$R's &reyes &Rseems to glow &rred.&n
+cold shield
+#
+#
+#
+#
+#
+#
+#
+&BYour body is surrounded by f&wr&Weezi&wn&Bg ice!&n
+&B$N&B's body is surrounded by f&wr&Weezi&wn&Bg ice!&n
+bless
+#
+#
+#
+#
+#
+#
+#
+You feel &Wblessed&n.
+#
+curse
+#
+#
+#
+#
+#
+#
+&LA small dark cloud flies around $n&L's head and the dissapates.&n
+You are &Lcursed&n.
+&LA small dark cloud flies around $n&L's head and the dissapates.&n
+faerie fire
+#
+#
+#
+#
+#
+#
+&m$n&m is surrounded by a dull glowing flame!&n
+&mYou are surrounded by a dull glowing flame!&n
+&m$n&m is surrounded by a dull glowing flame!&n
+sand blast
+#
+#
+#
+&yYour blast of &Ysand&y hits $N&y and flies on by.&n
+&yYou shrug off the &Ysand&y shot at you by $N&y!&n
+&y$n&y shrugs off the &Ysand&y blasted at $p face by $N&y!&n
+&yYou blast &Ysand&y at the face of $n&y.&n
+&y$N&y blasts &Ysand&y right at YOUR face.&n
+&y$N&y blasts &Ysand&y right at $n&y's face.&n
+Flamestrike
+You turn $n into a pile of ash with your &RFlame&rstrike&n!
+$N turns you into a pile of ash with $P &RFlame&rstrike&n!
+$N turns $n into a pile of ash with $P &RFlame&rstrike&n!
+#
+#
+#
+You torch $n with your &RFlame&rstrike&n!
+$N torches you with $P &RFlame&rstrike&n!
+$N torches $n with $P &RFlame&rstrike&n!
+unholy word
+You annouce an &Lunholy&n word from your God and it's the last thing $n ever hears.
+$N annouces an &Lunholy&n word from $P God and it's the last thing YOU hear!
+$N annouces an &Lunholy&n word from $P God and it's the last thing $n ever hears.
+#
+#
+#
+You annouce an &Lunholy&n word from your God and it racks $n with pain!
+$N annouces an &Lunholy&n word from $P God and it racks YOU with pain!
+$N annouces an &Lunholy&n word from $P God and it racks $n with pain!
+holy word
+You annouce a &Wholy&n word from your God and it's the last thing $n ever hears.
+$N annouces a &Wholy&n word from $P God and it's the last thing YOU hear!
+$N annouces a &Wholy&n word from $P God and it's the last thing $n ever hears.
+#
+#
+#
+You annouce a &Wholy&n word from your God and it racks $n with pain!
+$N annouces a &Wholy&n word from $P God and it racks YOU with pain!
+$N annouces a &Wholy&n word from $P God and it racks $n with pain!
+feel pain
+You make $n feel so much pain that $p body gives out!
+$N makes you feel so much pain you can't bear to live with it!
+$N makes $n feel so much pain that $p body gives out!
+#
+#
+#
+You make $n feel your pain!
+$N makes you feel $P pain!
+$n makes $n feel $P pain!
+feel well
+#
+#
+#
+#
+#
+#
+You make $n feel better than they were.
+$N makes you feel better than you were.
+$N makes $n feel better than they were.
+Spirit crush
+You crush $n's &Wspirit&n so hard, it leaves $p body... permantenly.
+$N crushes YOUR &Wspirit&n so hard, it leaves YOUR body... permantely.
+$N crushes $n's &Wspirit&n so hard, it leaves $p body... permantely.
+#
+#
+#
+You crush $n's &Wspirit&n so hard $p body rattles with pain!
+$N crushes YOUR &Wspirit&n so hard YOUR body rattles with pain!
+$N crushes $n's &Wspirit&n so hard $p body rattles with pain!
+ego whip
+You whip $n to death with your overpowering ego!
+$N whips YOU to death with $P overpowering ego!
+$N whips $n to death with $P overpowering ego!
+#
+#
+#
+&MYou whip your ego at $n&M, $p body flails in agony.&n
+&M$N&M whips $P ego at YOU, YOUR body flails in agony.&n
+&M$N&M whips $P ego at $n&M, $p body flails in agony.&n
+word of recall
+&WYou snap into reality elsewhere.&n
+&WYou snap into reality elsewhere.&n
+&W$N&W snaps into reality muttering a word of thanks.&n
+#
+#
+#
+&WYou utter a single word and disappear.&n
+&WYou utter a single word and disappear.&n
+&W$N&W utters a single word and disappears.&n
+harm
+&WThe wrath of your god destroys $n&W!&n
+&W$N&W calls upon the wrath of $P god and destroys YOU with it!&n
+&W$N&W calls upon the wrath of $P god and destroys $n&W with it!&n
+#
+#
+#
+&WYou call down the wrath of your god upon $n&W.&n
+&W$N&W calls down the wrath of $P god upon YOU!&n
+&W$N&W calls down the wrath of $P god upon $n&W.&n
+full harm
+&WThe &wFULL &Wwrath of your god destroys $n&W!&n
+&W$N&W calls upon the &wFULL &Wwrath of $P god and destroys YOU with it!&n
+&W$N&W calls upon the &wFULL &Wwrath of $P god and destroys $n&W with it!&n
+#
+#
+#
+&WYou call down the &wFULL &Wwrath of your god upon $n&W.&n
+&W$N&W calls down the &wFULL &Wwrath of $P god upon YOU!&n
+&W$N&W calls down the &wFULL &Wwrath of $P god upon $n&W.&n
+full heal
+#
+#
+#
+#
+#
+#
+You &Wfull heal&n $n.
+You are &Wfull healed&n by $N!
+$n is &Wfull healed&n by $N!
+mass heal
+#
+#
+#
+#
+#
+#
+You &Wheal&n $n.
+You are &Whealed&n by $N!
+$n is &Whealed&n by $N!
+heal
+#
+#
+#
+#
+#
+#
+You &Wheal&n $n.
+You are &Whealed&n by $N!
+$n is &Whealed&n by $N!
+cure light wounds
+#
+#
+#
+#
+#
+#
+You &Wcure&n $n a little.
+You feel better!
+$n is &Wcured&n of $p wounds by $N!
+cure serious wounds
+#
+#
+#
+#
+#
+#
+You &Wcure&n $n some $n.
+You much better!
+$n is &Wcured&n of $p wounds by $N!
+cure critical wounds
+#
+#
+#
+#
+#
+#
+You &Wcure&n $n a bit.
+You MUCH better!
+$n is &Wcured&n of $p wounds by $N!
+cause light wounds
+You cause $n to die!
+$N causes YOU to die!
+$N cause $n to die!
+#
+#
+#
+You cause $n to cry out in pain!
+$N causes YOU to cry out in pain!
+$N causes $n to cry out in pain!
+cause critical wounds
+You cause $n to die!
+$N causes YOU to die!
+$N cause $n to die!
+#
+#
+#
+You cause $n to cry out in pain!
+$N causes YOU to cry out in pain!
+$N causes $n to cry out in pain!
+cause serious wounds
+You cause $n to die!
+$N causes YOU to die!
+$N cause $n to die!
+#
+#
+#
+You cause $n to cry out in pain!
+$N causes YOU to cry out in pain!
+$N causes $n to cry out in pain!
+destroy undead
+&WYou call upon the power of your god to destroy $n&W!&n
+&W$N&W calls upon the power of $P god to destroy YOU!&n
+&W$N&W calls upon the power of $P god to destroy $n&W!&n
+&WYou try to call upon your god to destroy $n&W, but $p body is not undead!&n
+&W$N&W tries to call upon $P god to destroy YOU, but you are not undead!&n
+&W$N&W tries to call upon $P god to destroy $n, but $p body is not undead!&n
+&WYou call upon the power of your god on $n&W!&n
+&W$N&W calls upon the power of $P god on YOU!&n
+&W$N&W calls upon the power of $P god on $n!&n
+turn undead
+&WYou call upon the power of your god but $n&W is not undead!&n
+&W$N&W calls upon the power of $P god but YOU are not undead!&n
+&W$N&W calls upon the power of $P god but $n&W is not undead!&n
+&WYou try to call upon your god to turn $n&W, but $n&W just ignores you!&n
+&W$N&W tries to call upon $P god to turn YOU, but you just ignore $p god!&n
+&W$N&W tries to call upon $P god to turn $n, but $n&W just ignores $N&W!&n
+&WYou call upon the power of your god to turn $n&W!&n
+&W$N&W calls upon the power of $P god to turn YOU!&n
+&W$N&W calls upon the power of $P god to turn $n!&n
+vigorize light
+#
+#
+#
+#
+#
+#
+$n looks lightly vigorized.
+You feel lightly vigorized.
+$n looks lightly vigorized.
+vigorize serious
+#
+#
+#
+#
+#
+#
+$n looks seriously vigorized.
+You feel seriously vigorized.
+$n looks seriously vigorized.
+vigorize critical
+#
+#
+#
+#
+#
+#
+$n looks extremely vigorized.
+You feel extremely vigorized.
+$n looks extremely vigorized.
+full vigorize
+#
+#
+#
+#
+#
+#
+$n looks fully vigorized!
+You feel fully vigorized!
+$n looks fully vigorized!
+mass vigorize
+#
+#
+#
+#
+#
+#
+$n looks fully vigorized!
+You feel fully vigorized!
+$n looks fully vigorized!
+fatigue light
+#
+#
+#
+#
+#
+#
+$n looks lightly fatigued.
+You feel lightly fatigued.
+$n looks lightly fatigued.
+fatigue serious
+#
+#
+#
+#
+#
+#
+$n looks seriously fatigued.
+You feel seriously fatigued.
+$n looks seriously fatigued.
+fatigue critical
+#
+#
+#
+#
+#
+#
+$n looks extremely fatigued.
+You feel extremely fatigued.
+$n looks extremely fatigued.
+full fatigue
+#
+#
+#
+#
+#
+#
+$n looks fully fatigued!
+You feel fully fatigued!
+$n looks fully fatigued!
+mass fatigue
+#
+#
+#
+#
+#
+#
+$n looks fully fatigued!
+You feel fully fatigued!
+$n looks fully fatigued!
+resurrection
+#
+#
+$N's body crumbles to dust before you.
+The have rejected your plea to release $n's spirit.
+#
+#
+The gods have granted your request and returned $n's spirit to $p body.
+By $N's holy request you have been given life.
+A warm glow surrounds $n's body, $p chest rises, and $p eyes open.
+death field
+&L$n &Lcollapses under your wave of psionic death!&n
+&L$N &Lsends out a wave of psionic death killing you!&n
+&L$n &Lcollapses under $N's&L wave of psionic death!&n
+#
+#
+#
+&LYou send out a wave of psionic death at $n!&n
+&L$N &Lsends out a wave of psionic death at you!&n
+&L$N &Lsends out a wave of psionic death at $n!&n
+life drain
+&WYou drain the &wremaining life &Lfrom $n!&n
+&W$N&W drains the &wremaining life &Lfrom YOU!&n
+&W$N&W drains the &wremaining life &Lfrom $n!&n
+#
+#
+#
+&WYou drain some &wof the life &Lfrom $n.&n
+&W$N&W drains some &wof your life &Lfrom YOU!&n
+&W$N&W drains some &wof the life &Lfrom $n.&n
+mental abuse
+&mYou mentally &Mabuse &m$n&m so much that $p brain functions stop!&n
+&m$N&m mentally &Mabuses YOU so much that your brain functions stop!&n
+&m$N&m mentally &Mabuses &m$n&m so much that $p brain functions stop!&n
+#
+#
+#
+&mYour mental abuse inflicts great pain on $n mind.&n
+&m$N&m's mental abuse inflicts great pain to YOU!&n
+&m$N&m's mental abuse inflicts great pain on $n.&n
+clear sight
+#
+#
+#
+#
+#
+#
+&MYour vision sharpens and clears.&n
+#
+#
+shards
+#
+#
+#
+#
+#
+#
+&L$n&L loses control and attacks at random!&n
+&RRed blurs your vision and you go into a battle frenzy&n
+&L$n&L loses control and attacks at random!&n
+detonate
+You create tiny &Le&yx&Ypl&Wos&Yio&yn&Ls &nthat rack $n's body to &rdeath&n!
+$N creates tiny &Le&yx&Ypl&Wos&Yio&yn&Ls &nthat rack YOUR body to &rdeath&n!
+$N creates tiny &Le&yx&Ypl&Wos&Yio&yn&Ls &nthat rack $n's body to &rdeath&n!
+#
+#
+#
+You create tiny &Le&yx&Ypl&Wos&Yio&yn&Ls &nthat rack $n's body in pain!
+$N creates tiny &Le&yx&Ypl&Wos&Yio&yn&Ls &nthat rack YOUR body in pain!
+$N creates tiny &Le&yx&Ypl&Wos&Yio&yn&Ls &nthat rack $n's body in pain!
+plane of pain
+&cYou send out a wave of psionic &Cpain&c that kills $n!&n
+&c$N &csends out a wave of psionic &Cpain&c killing you!&n
+&c$N &csends out a wave of psionic &Cpain&c that kills $n!&n
+#
+#
+#
+&cYou send out a wave of psionic &Cpain&c at $n!&n
+&c$N &csends out a wave of psionic &Cpain&c at you!&n
+&c$N &csends out a wave of psionic &Cpain&c at $n!&n
+thought whip
+&MYou whip $n's&M mind with thoughts until $p brain is non-functional!&n
+&M$N &Mmakes your brain explode in your head!&n
+&M$N&M whip $n's&M mind with thoughts until $p brain is non-functional!&n
+#
+#
+#
+&MYou whip $n's&M mind with vile thoughts!&n
+&M$N &Mmakes YOUR brain hurt with $P vile thoughts!&n
+&M$N&M whip $n's&M mind with vile thoughts!&n
+molecular agitation
+&YYou vibrate $n&Y's molecules so much $p body burns to death!&n
+&Y$N&Y vibrates YOUR molecules burning you to death!&n
+&Y$N&Y vibrate $n&Y's molecules so much $p body burns to death!&n
+#
+#
+#
+&YYou vibrate $n&Y's molecules, burning $p body horribly.&n
+&Y$N vibrates YOUR molecules to the point of pain!&n
+&Y$N vibrates $n&Y's molecules, burning $p body horribly.&n
+mental anguish
+&bYou make $n&b &Banguish &babout $p life so much, $p heart stops!&n
+&b$N&b makes YOU &Banguish &babout life so much your heart can't live through it!&n
+&b$N&b make $n&b &Banguish &babout $p life so much, $p heart stops!&n
+#
+#
+#
+&bYou make $n&b suffer from the mental images you have portayed.&n
+&b$N&b makes YOU suffer from some horrifying mental images!&n
+&b$N&b makes $n&b suffer from the mental images $P has portayed.&n
+confusion
+#
+#
+#
+&W$n's&w mental concentration is too much for you.&n
+&WYour&w mental concentration is too much for $N!&n
+&W$n's&w mental concentration is too much for $N.&n
+&WYour thoughts confuse $n&W so much $p stops casting!&n
+&W$N&W's thoughts confuse you so much YOU stop casting!&n
+&W$N&W's thoughts confuse $n&W so much $p stops casting!&n
+Psionic Blast
+#
+#
+#
+&MYour &Rpsionic blast &Mis shrugged off by $n&M!&n
+&M$N&M's &Rpsionic blast &Mis easily dismissed!&n
+&M$N&M's &Rpsionic blast &Mis shrugged off by $n&M!&n
+&MYour &Rpsionic blast &M sends $n&Y reeling&M!&n
+&M$N&M's &Rpsionic blast &Ystuns &MYOU!&n
+&M$N&M's &Rpsionic blast &M sends $n&Y reeling&M!&n
+exploding spheres
+&WYour &Yspheres &wimpact $n&W and explode, ripping $p body apart!&n
+&W$N&W's &Yspheres &wimpact YOU and explode, ripping YOUR body apart!&n
+&W$N&W's &Yspheres &wimpact $n&W and explode, ripping $p body apart!&n
+#
+#
+#
+&WYour &Yspheres &wimpact $n&W and explode, tearing at $p body!&n
+&W$N&W's &Yspheres &wimpact YOU and explode, tearing at YOUR body!&n
+&W$N&W's &Yspheres &wimpact $n&W and explode, tearing at $p body!&n
+acid missiles
+Your &gac&Gid&W mis&Gsi&gle&n kills $n.
+$N's &gac&Gid&W mis&Gsi&gle&n hits you!
+$N's &gac&Gid&W mis&Gsi&gle&n hits $n.
+#
+#
+#
+Your &gac&Gid&W mis&Gsi&gle&n hits $n, right on target.
+$N's &gac&Gid&W mis&Gsi&gle&n hits you!
+$N's &gac&Gid&W mis&Gsi&gle&n hits $n, right on target.
+mind rip
+&mYou &MRIP &m$n&m's mind apart, blood gushes from $p ears!&n
+$N&M RIPS &mYOUR mind apart!&n
+&m$N&m &MRIPS &m$n&m's mind apart, blood gushes from $p ears!&n
+#
+#
+#
+&m$n&m holds $p head in pain as you &Mtear &mat $p mind!
+&mYOUR head hurts from $N&M tearing&m at YOUR mind!
+&m$n&m holds $p head in pain as $N &Mtears &mat $p mind!
+hell fire
+&rThe &RHell Fire&r you called upon $n&r scorches $p body to a pile of ash!&n
+&rThe &RHell Fire&r called upon YOU by $N&r scorches YOUR body to a pile of ash!&n
+&rThe &RHell Fire&r called upon $n&r by $N&r scorches $p body to a pile of ash!&n
+#
+#
+#
+&rYou open up a small crevice under $n&r and call up the &RHell Fire&r to scorch $p&r's body.&n
+&r$N&r opens up a small crevice under YOU and calls up the &RHell Fire&r scorching YOUR body!&n
+&r$N&r opens up a small crevice under $n&r and calls up the &RHell Fire&r to scorch $p&r's body.&n
+fire and ice
+&RYour Fire &wand &WIce &Cfreezes &Rthen &Wshatters $n&W to pieces!&n
+&R$N&R's Fire &wand &WIce &Cfreezes &RYOU and &Wshatters YOU to pieces!&n
+&R$N&R's Fire &wand &WIce &Cfreezes &Rthen &Wshatters $n&W to pieces!&n
+#
+#
+#
+&RYou &Cfreeze $n &wwith your &Wice then &rburn $p body with your &RFire.&n
+&R$N&R &Cfreezes YOU &wwith $p &Wice then &rburns YOU with $p &RFire.&n
+&R$N&R &Cfreezes $n &wwith $p &Wice then &rburns $p body with $p &RFire.&n

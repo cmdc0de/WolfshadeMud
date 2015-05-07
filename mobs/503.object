@@ -1,0 +1,151 @@
+50301
+mask rogue~
+&mthe black mask of the &LRogue&n~
+&mA &Lblack &mmask.&n~
+&mA &Lblack &mmask lies here.&n~
+6 0 f
+12
+1 100000 5
+AFFECT
+3 11
+15 10
+ENDOBJ
+50302
+stiletto knife dagger night~
+&cthe &Lstiletto &cof the night&n~
+&cthe &Lstiletto &cof the night&n~
+&cA mean looking stiletto lies here.&n~
+10 0 mn
+4 4 5 5 2
+2 100000 4
+AFFECT
+2 9
+7 9
+ENDOBJ
+50303
+Cloak midnight black~
+&mthe cloak of midnight &Lblack&n~
+&mthe cloak of midnight &Lblack&n~
+&mA very dark cloak lies here.&n~
+6 0 hi
+8
+1 100000 6
+AFFECT
+6 4
+ENDOBJ
+50304
+Helm night helmet~
+&Rthe helm of the &Lnight&n~
+&Rthe helm of the &Lnight&n~
+&RA dark &Lhelmet&R with small sparkles lies here.&n~
+6 0 a
+15
+1 100000 4
+AFFECT
+4 9
+5 9
+15 10
+ENDOBJ
+50305
+robes sewn shadows dark~
+&rsome &Rrobes made of sewn &Lshadows&n~
+&rsome &Rrobes made of sewn &Lshadows&n~
+&rSome very dark robes lie here.&n~
+6 0 h
+12
+5 10000 2
+AFFECT
+14 9
+15 30
+ENDOBJ
+50306
+huge black claymore~
+&ma huge jet &Lblack &mclaymore&n~
+&ma huge jet &Lblack &mclaymore&n~
+&mA big &Lsword &mlies here.&n~
+5 0 o
+4 5 5 6 4
+10 100000 4
+AFFECT
+21 4
+22 4
+ENDOBJ
+50307
+symbol dented~
+&Ba &Cdented &Bholy symbol&n~
+&Ba &Cdented &Bholy symbol&n~
+&BA symbol with &Cdents &Blies here.&n~
+6 0 g
+10 
+5 1000 4
+AFFECT
+5 14
+ENDOBJ
+50308
+jet black sword~
+&mA jet &Lblack &msword&n~
+&mA jet &Lblack &msword&n~
+&mA black &Lsword&m lies here.&n~
+10 0 nm
+3 3 3 4 4
+5 10000 4
+AFFECT
+21 3
+22 3
+ENDOBJ
+50309
+jet black dagger~
+&mA jet &Lblack &mdagger&n~
+&mA jet &Lblack &mdagger&n~
+&mA black &Ldagger lies here.&n~
+10 0 nm
+3 3 3 3 2
+4 10000 4
+ENDOBJ
+50310
+elven chain mail chainmail~
+&bA dirty set of &GElven Chainmail&n~
+&bA &ychainmail&b made by &Gelves.&n~
+&bA &ychainmail&b made by &Gelves lies here.&n~
+6 0 h
+25
+5 100000 4
+AFFECT
+18 50
+ENDOBJ
+50311
+small stalagmite dagger~
+&mA small stalagmite&n~
+&mA small stalagmite lies here.&n~
+&mA piece of rock lies here.&n~
+10 0 nm
+2 2 2 4 2
+1 10000 3
+ENDOBJ
+50312
+jet black ring~ 
+&mA jet &Lblack &mring&n~
+&mA jet &Lblack &mring&n~
+&mA black &Lring &mlies here.&n~
+6 0 l
+4
+3 10000 0
+AFFECT
+2 4
+21 2
+22 2
+ENDOBJ
+50313
+jet black bracers~ 
+&mA jet &Lblack &mbracer&n~
+&mA jet &Lblack &mbracer&n~
+&mA black &Lbracer &mlies here.&n~
+6 0 k
+6
+5 10000 0
+AFFECT
+2 4
+21 2
+22 2
+ENDOBJ
+ENDFILE

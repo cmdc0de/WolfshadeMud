@@ -1,0 +1,43 @@
+26001
+glowing blue helm~
+&Wa glowing &Bblue &Whelm&n~
+&WThis is a glowing &Bblue &Whelm.&n~
+&Wa glowing &Bblue &Whelm lies here.&n~
+6 0 a
+8
+5 5555 5
+AFFECT
+4 18
+ENDOBJ
+26002
+glowing blue specs~
+&Wa glowing &Bblue &Wpair of specs&n~
+&WThis is a glowing &Bblue &Wpair of specs.&n~
+&Wa glowing &Bblue &Wpair of specs lie here.&n~
+6 0 d
+4
+1 500 5
+AFFECT
+5 4
+AFFECT
+7 4 
+ENDOBJ
+26003
+glowing blue staff~
+&Wa glowing &Bblue &Wstaff&n~
+&WThis is a glowing &Bblue &Wstaff.&n~
+&WA glowing &Bblue &Wstaff lies here.&n~
+10 0 mn
+3 2 6 3 6
+3 500 5
+ENDOBJ
+26005
+glowing blue satchel~
+&Wa glowing &Bblue &Wsatchel&n~
+&WThis is a glowing &Bblue &Wsatchel.&n~
+&WA glowing &Bblue &Wsatchel lies here.&n~
+8 0 i
+6 0 -1
+2 5 5
+ENDOBJ
+ENDFILE

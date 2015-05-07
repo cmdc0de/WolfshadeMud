@@ -1,0 +1,85 @@
+23001
+bones dwarven pouch~
+&yA pouch of &ydwarven &ybones&n~
+&yA small pouch made of bones lies here.&n~
+&yA small pouch made of bones lies here.&n~
+6 0 g
+4
+1 1000 6
+AFFECTS
+17 8
+ENDOBJ
+23002
+icy bracelet~
+&LAn &Cicy &Lbracelet&n~
+&LA large &Ccold &Lbracelet lies here&n~
+&LA large &Ccold &Lbracelet lies here&n~
+6 0 k
+5 
+1 1000 0
+AFFECTS
+21 1
+22 1
+ENDOBJ
+23003
+sleeves thick fur polar~
+&n&Lsome sleeves of thick &Lpolar&C bear&L fur&n~
+&n&LA rather warm looking pair of &Csleeves &n&L lie here.&n~
+&n&LA rather warm looking pair of &Csleeves &n&L lie here.&n~
+6 0 j
+8
+6 1000 0
+ENDOBJ
+23004
+huge ice club~
+&LA Huge &CIce &LClub&n~
+&LA large block of &Cice &Llies here.&n~
+&LA large block of &Cice &Llies here.&n~
+10 0 mn
+4 4 2 9 9
+30 100 1
+ENDOBJ
+23005
+shield elf stretched~
+&yA Shield of Stretched &cElf &yHide&n~
+&yA rather tight-skinned shield lies here.&n~
+&yA rather tight-skinned shield lies here.&n~
+6 0 p
+10
+2 100 0
+AFFECTS
+7 -2
+3 4
+ENDOBJ
+23006
+bottle beer~
+&WA &LBottle &Wof &Lbeer&n~
+&WA &LBottle &Wof &Lbeer &Wlies here, looking refreshing.&n~
+&WA &LBottle &Wof &Lbeer &Wlies here, looking refreshing.&n~
+8 0 q
+5 0 -1
+1 1 0
+ENDOBJ
+23007
+earring frozen white~
+&LA &Cfrozen &Lwhite &Cearring&n~
+&LA &Cfrozen &Lwhite &Cearring &Llies here.&n~
+&LA &Cfrozen &Lwhite &Cearring &Llies here.&n~
+6 0 c
+5
+1 5000 0
+AFFECTS
+17 10
+5 4
+6 4
+ENDOBJ
+23008
+large ice sickle~
+&La &Clarge &Lice &Csickle&n~
+&LA piece of &Cice lies here.&n~
+&LA piece of &Cice lies here.&n~
+10 0 o
+2 4 4 4 2
+1 1000 0
+ENDOBJ
+ENDFILE

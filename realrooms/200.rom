@@ -1,0 +1,122 @@
+200001
+&yKipu's Farm House&n~
+&yA quaint little abode.  This farm house is just like you would expect.  Kipu's a strong and well known farmer and his house is always stock piled with food.&n~
+200 no 0 1
+DOOR
+1
+~
+1 -1 200002
+DOOR
+2
+~
+1 -1 200003
+DOOR
+0
+~
+1 -1 200006
+ENDROOM
+200002
+&yKipu's Farm House&n~
+&yA quaint little abode.  This farm house is just like you would expect.  Kipu's a strong and well known farmer and his house is always stock piled with food.&n~
+200 no 0 1
+DOOR
+2
+~
+1 -1 200004
+DOOR
+3
+~
+1 -1 200001
+ENDROOM
+200003
+&yKipu's Farm House&n~
+&yA quaint little abode.  This farm house is just like you would expect.  Kipu's a strong and well known farmer and his house is always stock piled with food.&n~
+200 no 0 1
+DOOR
+0
+~
+1 -1 200001
+DOOR
+1
+~
+1 -1 200004
+DOOR
+5
+trapdoor basement door~
+c -1 200009
+ENDROOM
+200004
+&yKipu's Farm House&n~
+&yA quaint little abode.  This farm house is just like you would expect.  Kipu's a strong and well known farmer and his house is always stock piled with food.&n~
+200 no 0 1
+DOOR
+0
+~
+1 -1 200002
+DOOR
+3
+~
+1 -1 200003
+DOOR
+4
+~
+1 -1 200005
+ENDROOM
+200005
+&yKipu's Farm House&n~
+&yA quaint little abode.  This farm house is just like you would expect.  Kipu's a strong and well known farmer and his house is always stock piled with food.&n~
+200 no 0 1
+DOOR
+1
+door~
+c -1 200008
+DOOR
+5
+~
+1 -1 200004
+ENDROOM
+200006
+&yThe Porch to Kipu's Farm House&n~
+&yA quaint little abode stands before you.  The porch is fine quality craftsmanship, just what you would expect from the great farmer Kipu.&n~
+200 no 0 1
+DOOR
+0
+~
+1 -1 1000949
+DOOR
+2
+~
+1 -1 200001
+ENDROOM
+200007
+&yKipu's Closet&n~
+&yHere is where the great Kipu keeps all of his equipment.  Farm equipment and work clothes hang from hooks in the closet. &n~
+200 no 0 1
+DOOR
+2
+door~
+c -1 200008
+ENDROOM
+200008
+&yKipu's Bedroom&n~
+&yKipu's Bedroom is rather drab.  The walls are white and bare, the bed is just goose down with a sheet on it.  This doesn't seem to be a great bedroom for such a well known person&n~
+200 no 0 1
+DOOR
+0
+door~
+c -1 200007
+DOOR
+3
+door~
+c -1 200005
+ENDROOM
+200009
+&yThe Basement of Kipu's Farm House&n~
+&yThe walls are lined with fine wines and a lot of foods that are stored away in boxes.  It seems as if this basement is somehow larger than it looks, the clutter of food stuffs is just amazing.&n~
+200 no 0 1
+DOOR
+4
+trapdoor basement door~
+c -1 200003
+ENDROOM
+ENDFILE

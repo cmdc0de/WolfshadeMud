@@ -1,0 +1,149 @@
+12101
+&WOffice of the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n&n~
+&WThis office is neat and plush.  Defensive maps and plans hang on the walls.&n~
+121 jo 1 2
+DOOR
+2
+door~
+c -1 12103
+ENDROOM
+12102
+&WKitchen of the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n&n~
+&WKitchen is clean.  The aroma of the next meal fills the air.  Silver pots and pans hang from
+hooks on the wall and wires from the ceiling.  Makes you hungry just being in here.&n~
+121 jo 1 2
+DOOR
+2
+door~
+1 -1 12104
+ENDROOM
+12103
+&WTraining grounds for the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n&n~
+&RGnomes&W all around shoot arrows at targets, train newbies and hone their skills.
+The officers stand over the grunts and help them so that they may defend the great city with honor,
+dignity and respect.&n~
+121 jo 2 2
+DOOR
+0
+door~
+c -1 12101
+DOOR
+1
+~
+1 -1 12104
+DOOR
+2
+~
+1 -1 12106
+DOOR
+3
+~
+1 -1 12010
+ENDROOM
+12104
+&WTraining grounds for the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n&n~
+&RGnomes&W all around shoot arrows at targets, train newbies and hone their skills.
+The officers stand over the grunts and help them so that they may defend the great city with honor,
+dignity and respect.&n~
+121 jo 2 2
+DOOR
+0
+door~
+c -1 12102
+DOOR
+1
+door~
+c -1 12105
+DOOR
+2
+~
+1 -1 12107
+DOOR
+3
+~
+1 -1 12103
+ENDROOM
+12105
+&WMess Hall for the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n&n~
+&WTables are setup in long lines for the Militia to eat on.  Like every other room in the barracks this
+room is neat and tidy.  You could almost eat off the floor instead of the tables.&n~
+121 jo 1 2
+DOOR
+3
+door~
+c -1 12104
+ENDROOM
+12106
+&WTraining grounds for the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n&n~
+&RGnomes&W all around shoot arrows at targets, train newbies and hone their skills.
+The officers stand over the grunts and help them so that they may defend the great city with honor,
+dignity and respect.&n~
+121 jo 2 2
+DOOR
+0
+~
+1 -1 12103
+DOOR
+1
+~
+1 -1 12107
+ENDROOM
+12107
+&WTraining grounds for the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n&n~
+&RGnomes&W all around shoot arrows at targets, train newbies and hone their skills.
+The officers stand over the grunts and help them so that they may defend the great city with honor,
+dignity and respect.&n~
+121 jo 2 2
+DOOR
+0
+~
+1 -1 12104
+DOOR
+1
+~
+1 -1 12108
+DOOR
+2
+door~
+c -1 12110
+DOOR
+3
+~
+1 -1 12106
+ENDROOM
+12108
+&WTraining grounds for the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n Archers&n~
+&RGnomes&W all around shoot arrows at targets, train newbies and hone their skills.
+The officers stand over the grunts and help them so that they may defend the great city with honor,
+dignity and respect.&n~
+121 jo 2 2
+DOOR
+3
+~
+1 -1 12107
+ENDROOM
+12109
+&WWorkshop for the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n&n~
+&WIn the workshop &RGnomes&W of the Militia make swords, maces, axes and many other weapons to be used to defend
+their great city.  The clank of hammers and the sizzle of water being instantly vaporized is constantly heard.&n~
+121 jo 1 2
+DOOR
+1
+~
+1 -1 12110
+ENDROOM
+12110
+&WWorkshop for the &w-&cWil&Clow &wCreek &CMili&ctia&w-&n&n~
+&WIn the workshop &RGnomes&W of the Militia make swords, maces, axes and many other weapons to be used to defend
+their great city.  The clank of hammers and the sizzle of water being instantly vaporized is constantly heard.&n~
+121 jo 1 2
+DOOR
+0
+door~
+c -1 12107
+DOOR
+3
+~
+1 -1 12109
+ENDROOM
+ENDFILE

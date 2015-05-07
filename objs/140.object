@@ -1,0 +1,432 @@
+14001
+broom~
+&ya broom&n~
+&ya broom&n~
+&yA broom lies here.&n~
+10 0 o
+1 2 1 2 8
+3 20 1
+ENDOBJ
+14002
+apron~
+&Wan apron&n~
+&Wan apron&n~
+&WAn apronlies here.&n~
+6 0 y
+5
+1 10 1
+ENDOBJ
+14003
+mithril club~
+&Wa &bmithril &Wclub&n~
+&Wa &bmithril &Wclub&n~
+&WA &bmithril &Wclub lies here.&n~
+10 0 mn
+2 3 2 3 8
+1 300 1
+ENDOBJ
+14004
+gnoll fur lined mail~
+&ysome &LGn&yoll &Wfur &ylined &Lmail&n~
+&ysome &LGn&yoll &Wfur &ylined &Lmail&n~
+&ySome &LGn&yoll &Wfur &ylined &Lmail &ylies here&n~
+6 jkln h
+10
+2 2000 0
+AFFECTS
+22 2
+ENDOBJ
+14005
+gnoll fur lined boots~
+&ysome &LGn&yoll &Wfur &ylined &Lboots&n~
+&ysome &LGn&yoll &Wfur &ylined &Lboots&n~
+&ySome &LGn&yoll &Wfur &ylined &Lboots &ylies here&n~
+6 jkln u
+5
+2 3000 6
+AFFECTS
+21 2
+ENDOBJ
+14006
+gnoll fur lined sleeves~
+&ysome &LGn&yoll &Wfur &ylined &Lsleeves&n~
+&ysome &LGn&yoll &Wfur &ylined &Lsleeves&n~
+&ySome &LGn&yoll &Wfur &ylined &Lsleeves &ylies here&n~
+6 jkln j
+2
+2 300 6
+AFFECTS
+16 2
+ENDOBJ
+14007
+gnoll fur lined gloves~
+&ysome &LGn&yoll &Wfur &ylined &Lgloves&n~
+&ysome &LGn&yoll &Wfur &ylined &Lgloves&n~
+&ySome &LGn&yoll &Wfur &ylined &Lgloves &ylies here&n~
+6 0 v
+3
+2 300 6
+AFFECTS
+21 1
+22 1
+ENDOBJ
+14008
+flowing plasma ring~
+&La ring of f&mlow&Min&Wg p&Mla&msma&n~
+&La ring of f&mlow&Min&Wg p&Mla&msma&n~
+&LA ring of f&mlow&Min&Wg p&Mla&msm&La lies here.&n~
+6 fghijlmnopqr l
+2
+1 4000 1
+AFFECTS
+16 2
+17 5
+ENDOBJ
+14009
+flowing plasma earring~
+&La earring of f&clow&Cin&Wg p&Cla&csma&n~
+&La earring of f&clow&Cin&Wg p&Cla&csma&n~
+&LA earring of f&clow&Cin&Wg p&Cla&csm&La lies here.&n~
+6 0 c
+2
+1 4000 1
+AFFECTS
+17 10
+ENDOBJ
+14010
+flowing plasma orb~
+&Lan orb of f&blow&Bin&Wg p&Bla&bsm&La&n~
+&Lan orb of f&blow&Bin&Wg p&Bla&bsm&La&n~
+&LAn orb of f&blow&Bin&Wg p&Bla&bsm&La lies here.&n~
+10 fghimopqu mn
+2 2 2 2 8
+3 3000 1
+AFFECTS
+17 20
+ENDOBJ
+14011
+shortened battle axe~
+&Wa &rshortened &Wbattle axe&n~
+&Wa &rshortened &Wbattle axe&n~
+&WA &rshortened &Wbattle axe lies here.&n~
+10 gjkln mn
+2 4 2 4 4
+3 2000 1
+ENDOBJ
+14012
+sturdy war hammer~
+&La &wsturdy &rwar hammer&n~
+&La &wsturdy &rwar hammer&n~
+&LA &wsturdy &rwar hammer &Llies here.&n~
+10 jkln mn
+2 6 3 4 8
+2 2000 1
+ENDOBJ
+14013
+great horned helm~
+&wa &Wgreat &Lhorned &Whelm&n~
+&wa &Wgreat &Lhorned &Whelm&n~
+&wA &Wgreat &Lhorned &Whelm &wlies here.&n~
+6 0 a
+5
+2 3000 6
+AFFECTS
+22 2
+ENDOBJ
+14014
+gold runed bracer~
+&ma &Ygold &mruned bracer&n~
+&ma &Ygold &mruned bracer&n~
+&ma &Ygold &mruned bracer lies here.&n~
+6 0 k
+5
+2 3000 6
+AFFECT
+26 -10
+ENDOBJ
+14015
+woven copper belt~
+&ya &Lwoven &ycopper belt&n~
+&ya &Lwoven &ycopper belt&n~
+&yA &Lwoven &ycopper belt lies here.&n~
+6 0 r
+8
+2 3000 6
+AFFECTS
+3 4
+ENDOBJ
+14016
+woven silver cord~
+&Ca woven &wsilver &Ccord&n~
+&Ca woven &wsilver &Ccord&n~
+&CA woven &wsilver &Ccord lies here.&n~
+6 0 r
+3
+2 3000 6
+AFFECT
+5 4
+6 4
+9 4
+ENDOBJ
+14017
+woven silver necklace~
+&Ca woven &wsilver &Cnecklace&n~
+&Ca woven &wsilver &Cnecklace&n~
+&CA woven &wsilver &Cnecklace lies here.&n~
+6 0 g
+6
+1 3000 1
+ENDOBJ
+14018
+dolomite bracers~
+&Wsome &rdolomite &Wbracers&n~
+&Wsome &rdolomite &Wbracers&n~
+&WSome &rdolomite &Wbracers lie here.&n~
+6 0 k
+4
+1 3000 1
+AFFECTS
+21 4
+ENDOBJ
+14019
+shield large dolomite~
+&wa large &rdolomite &wshield&n~
+&wa large &rdolomite &wshield&n~
+&wa large &rdolomite &wshield lies here.&n~
+6 0 p
+4
+1 2000 1
+AFFECTS
+22 4
+ENDOBJ
+14020
+spear dolomite tipped~
+&wa &rdolomite &wtipped spear&n~
+&wa &rdolomite &wtipped spear&n~
+&wA &rdolomite &wtipped spear lies here.&n~
+10 gjkln mn
+3 4 3 4 2
+3 1000 1
+AFFECTS
+21 1
+22 3
+ENDOBJ
+14021
+sturdy dolomite armor~
+&wsome sturdy &rdolomite &warmor&n~
+&wsome sturdy &rdolomite &warmor&n~
+&wSome sturdy &rdolomite &warmor lies here.&n~
+6 jklnq h
+20
+5 20000 6
+ENDOBJ
+14022
+wicked looking claymore~
+&La wicked looking claymore&n~
+&La wicked looking claymore&n~
+&LA wicked looking claymore lies here.&n~
+10 0 o
+5 5 5 7 4
+4 3000 6
+AFFECTS
+21 2
+22 6
+ENDOBJ
+14023
+troll hide leg plates~
+&Gsome &gtroll &Ghide leg plates&n~
+&Gsome &gtroll &Ghide leg plates&n~
+&GSome &gtroll &Ghide leg plates lie here.&n~
+6 0 t
+5
+2 3000 6
+AFFECTS
+2 4
+ENDOBJ
+14024
+troll hide gloves~
+&Gsome &gtroll &Ghide gloves&n~
+&Gsome &gtroll &Ghide gloves&n~
+&GSome &gtroll &Ghide gloves lie here.&n~
+6 0 v
+4
+2 3000 6
+AFFECTS
+4 7
+ENDOBJ
+14025
+troll hide cloak~
+&Ga &gTroll &Ghide cloak&n~
+&Ga &gTroll &Ghide cloak&n~
+&GA &gTroll &Ghide cloak lies here.&n~
+6 0 y
+2
+1 4000 1
+AFFECTS
+21 1
+22 1
+ENDOBJ
+14026
+steel webbed mask~
+&Wa webbed &Lsteel &Wmask&n~
+&Wa webbed &Lsteel &Wmask&n~
+&WA webbed &Lsteel &Wmask lies here.&n~
+6 0 f
+2
+1 4000 1
+AFFECTS
+2 5
+ENDOBJ
+14027
+steel webbed visor~
+&Wa webbed &Lsteel &Wvisor&n~
+&Wa webbed &Lsteel &Wvisor&n~
+&WA webbed &Lsteel &Wvisor lies here.&n~
+6 0 d
+4
+2 3000 6
+ENDOBJ
+14028
+webbed steel vambraces~
+&Wsome webbed &Lsteel &Wvambraces&n~
+&Wsome webbed &Lsteel &Wvambraces&n~
+&Wsome webbed &Lsteel &Wvambraces lie here.&n~
+6 0 j
+12
+1 3000 1
+AFFECT
+21 1
+22 1
+ENDOBJ
+14029
+webbed steel greaves~
+&Wsome webbed &Lsteel &Wgreaves&n~
+&Wsome webbed &Lsteel &Wgreaves&n~
+&Wsome webbed &Lsteel &Wgreaves lie here.&n~
+6 0 t
+5
+1 3000 1
+AFFECTS
+17 30
+ENDOBJ
+14030
+standard dwarven armor~
+&Wsome standard &Ydwarven &Warmor&n~
+&Wsome standard &Ydwarven &Warmor&n~
+&WSome standard &Ydwarven &Warmor lies here.&n~
+6 0 h
+5
+5 3000 1
+ENDOBJ
+14031
+standard dwarven boots~
+&Wsome standard &Ydwarven &Wboots&n~
+&Wsome standard &Ydwarven &Wboots&n~
+&WSome standard &Ydwarven &Wboots lies here.&n~
+6 0 u
+5
+2 3000 1
+ENDOBJ
+14032
+standard dwarven shield~
+&Wa standard &Ydwarven &Wshield&n~
+&Wa standard &Ydwarven &Wshield&n~
+&WA standard &Ydwarven &Wshield lies here.&n~
+6 0 p
+5
+1 3000 1
+ENDOBJ
+14033
+standard dwarven short sword~
+&Wsome standard &Ydwarven &Wshort sword&n~
+&Wsome standard &Ydwarven &Warmor&n~
+&WSome standard &Ydwarven &Warmor lies here.&n~
+10 0 mn
+2 2 2 2 4
+1 3000 1
+ENDOBJ
+14034
+shortened spear~
+&La short&wened spear&n~
+&La short&wened spear&n~
+&LA short&wened spear lies here.&n~
+10 fghijklmnoqr mn
+3 3 3 3 2
+1 3000 1
+AFFECTS
+21 3
+22 3
+ENDOBJ
+14035
+thin metal shaft~
+&La thin &cmetal &Lshaft&n~
+&La thin &cmetal &Lshaft&n~
+&LA thin &cmetal &Lshaft lies here&n~
+10 fghijklmnoqr mn
+3 3 3 3 2
+1 3000 1
+AFFECTS
+21 3
+22 3
+ENDOBJ
+14036
+black leather armor~
+&wsome &Lblack leather &warmor&n~
+&wsome &Lblack leather &warmor&n~
+&wSome &Lblack leather &warmor lies here.&n~
+6 fghijklmnoqr h
+10
+2 3000 1
+AFFECTS
+3 9
+4 9
+ENDOBJ
+14037
+black leather satchel~
+&wa &Lblack leather &wsatchel&n~
+&wa &Lblack leather &wsatchel&n~
+&wA &Lblack leather &wsatchel lies here.&n~
+8 0 i
+10 a -1
+2 30 1
+ENDOBJ
+14038
+thin blue robe~
+&wa thin &Bblue &wrobe&n~
+&wa thin &Bblue &wrobe&n~
+&wA thin &Bblue &wrobe lies here&n~
+6 0 y
+1
+1 10 1
+ENDOBJ
+14039
+swamp mohr castle badge~
+&wa &LSwamp Mohr Castle&w badge&n~
+&wa &LSwamp Mohr Castle&w badge&n~
+&wA &LSwamp Mohr Castle&w badge lies here.&n~
+6 0 w
+1
+1 30 1
+ENDOBJ
+14040
+gold chain coif~
+&Ya gold chain &ccoif&n~
+&Ya gold chain &ccoif&n~
+&YA gold chain &ccoif &Ylies here&n~
+6 0 a
+6
+1 50000 1
+ENDOBJ
+14041
+diamond necklace~
+&wa &Wdiamond &wnecklace&n~
+&wa &Wdiamond &wnecklace&n~
+&wA &Wdiamond &wnecklace lies here.&n~
+6 0 g
+2
+1 50000 1
+AFFECTS
+21 1
+22 1
+ENDOBJ
+ENDFILE

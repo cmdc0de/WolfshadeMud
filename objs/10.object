@@ -1,0 +1,19 @@
+1001
+ship galleon~
+&yGalleon&n~
+&yGalleon&n~
+&yA Galleon is here floating in the water waiting to transport people.&n~
+14 a 0
+6 100 1001 -1 -1 #moves hitpoints room1 <crew vnum> <# of crew>
+2 10000 1
+ENDOBJ
+1002
+ship sloop~
+&LSloop&n~
+&LSloop&n~
+&LA Sloop is here floating in the water waiting to transport people.&n~
+14 a 0
+12 100 1001 -1 -1 #moves hitpoints room1 <crew vnum> <# of crew>
+2 15000 1
+ENDOBJ
+ENDFILE

@@ -1,0 +1,445 @@
+1
+fire elemental~
+&RA Fire Elemental&n~
+&RA Fire Elemental floats here, like a ball of living flame&n~
+&Rfloats here, like a ball of living flame&n~
+&RThis Elemental has been brought from the depths of the plane of fire.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 4 0
+0 1500 j j 1
+ENDMOB
+2
+air elemental~
+&CAn Air Elemental&n~
+&CAn Air Elemental floats here, like a transparent tornado.&n~
+&Cfloats here, like a transparent tornado.&n~
+&CThis Elemental has been brought from the depths of the plane of air.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 2 0
+0 1500 j j 1
+ENDMOB
+3
+water elemental~
+&bA Water Elemental&n~
+&bA Water Elemental stands here, like a mass of flowing current.&n~
+&bstands here, like a mass of flowing current.&n~
+&bThis Elemental has been brought from the depths of the plane of water.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 4 0
+0 1500 j j 1
+ENDMOB
+4
+earth elemental~
+&yAn Earth Elemental&n~
+&yAn Earth Elemental stands here, like a wall of living rock.&n~
+&ystands here, like a wall of living rock.&n~
+&yThis Elemental has been brought from the depths of the plane of earth.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 6 10
+0 1500 j j 1
+ENDMOB
+5
+pyre elemental~
+&rA &LP&ry&Lr&re Elemental&n~
+&rA &LP&ry&Lr&re Elemental floats here, like a ball of living flame.&n~
+&rfloats here, like a ball of living flame.&n~
+&rThis Elemental has been brought from the depths of the plane of fire.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 4 0
+0 1500 j j 1
+ENDMOB
+6
+fog elemental~
+&cA &wF&co&wg &cElemental&n~
+&cA &wF&co&wg &cElemental floats here, like a transparent tornado.&n~
+&cfloats here, like a transparent tornado.&n~
+&cThis Elemental has been brought from the depths of the plane of air.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 2 0
+0 1500 j j 1
+ENDMOB
+7
+blood elemental~
+&bA &RB&bl&Ro&bo&Rd &bElemental&n~
+&bA &RB&bl&Ro&bo&Rd &bElemental stands here, like a mass of flowing current.&n~
+&bstands here, like a mass of flowing current.&n~
+&bThis Elemental has been brought from the depths of the plane of water.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 4 0
+0 1500 j j 1
+ENDMOB
+8
+grave elemental~
+&yA &LG&yr&La&yv&Le &yElemental&n~
+&yA &LG&yr&La&yv&Le &yElemental stands here, like a wall of living rock.&n~
+&ystands here, like a wall of living rock.&n~
+&yThis Elemental has been brought from the depths of the plane of earth.&n~
+ao 0 50
+31 1 50
+0 -9 5500
+1 6 0
+0 1500 j j 1
+ENDMOB
+10
+rabid rat~
+&Lrabid rat&n~
+&LA rabit rat stands here looking to nibble on something.&n~
+&Lstands here looking to nibble on something.&n~
+&LThis rat has seen better days.&n~
+ae 0 0 
+28 1 1
+-200 100 10
+1 5 10
+0 1 j j 1
+ENDMOB
+11
+vampire bat~
+&rvampire &Lbat&n~
+&LA vampire bat flutters here looking to attack something.&n~
+&Lflutters here looking to attack something.&n~
+&LThis bat has seen better days.&n~
+ae 0 0 
+28 1 1 
+-200 100 10
+1 5 5
+0 1 j j 1
+ENDMOB
+12
+killer bee~
+&Ykiller &Lb&Ye&Le&n~
+&YA killer &Lb&Ye&Le flies here looking to attack something.&n~
+&Yflies here looking to attack something.&n~
+&YMean lookin bee.  Ain't it?&n~
+ae 0 0 
+28 1 1 
+-200 100 10
+1 5 10
+0 1 j j 1
+ENDMOB
+13
+giant spider~
+&Wgiant spider&n~
+&WA giant spider awaits it's next prey.&n~
+&Wawaits it's next prey.&n~
+&WVicious mean ol' spider.&n~
+ae 0 0 
+28 1 1 
+-200 100 10
+1 10 10
+0 1 j j 1
+ENDMOB
+14
+owl~
+&WAn owl&n~
+&WAn owl sits here next to it's master.&n~
+&Wsits here next to it's master.&n~
+&WA wise old owl.&n~
+ae 0 0 
+28 1 1 
+0 10 10
+1 1 10
+0 1 j j 1
+ENDMOB
+15
+hawk~
+&LA hawk&n~
+&LA hawk perches here overlooking the surroundings.&n~
+&Lperches here overlooking the surroundings.&n~
+&LThis hawk seems to have been summoned to it's current place.&n~
+ae 0 0 
+28 1 1 
+0 10 10
+1 1 10
+0 1 j j 1
+ENDMOB
+16
+fox~
+&RA fox&n~
+&RA fox stands here overlooking the surroundings.&n~
+&Rstands here overlooking the surroundings.&n~
+&RThis fox seems to have been summoned to it's current place.&n~
+ae 0 0 
+28 1 1 
+0 10 10
+1 1 10
+0 1 j j 1
+ENDMOB
+17
+wolf~
+&LA w&Wol&Lf&n~
+&LA w&Wol&Lf stands here overlooking the surroundings.&n~
+&Lstands here overlooking the surroundings.&n~
+&LThis w&Wol&Lf seems to have been summoned to it's current place.&n~
+ae 0 0 
+28 1 1 
+0 10 10
+1 1 10
+0 1 j j 1
+ENDMOB
+18
+north wall~
+~
+wall~
+wall~
+wall~
+ao 0 0 
+28 1 1 
+0 10 10
+1 1 10
+0 1 j j 1
+ENDMOB
+19
+east wall~
+~
+wall~
+wall~
+wall~
+ao 0 0 
+28 1 1 
+0 10 10
+1 1 10
+0 1 j j 1
+ENDMOB
+20
+south wall~
+~
+wall~
+wall~
+wall~
+ao 0 0 
+28 1 1 
+0 10 10
+1 1 10
+0 1 j j 1
+ENDMOB
+21
+west wall~
+~
+wall~
+wall~
+wall~
+ao 0 0 
+28 1 1 
+0 10 10
+1 1 10
+0 1 j j 1
+ENDMOB
+22
+mirror image hallucination~
+hallucination~
+Stands here~
+Stands here.~
+Stands here~
+ae 0 0 
+10 1 1 
+0 10 10
+1 1 10
+0 1 j j 1
+ENDMOB
+30
+coal elemental~
+&RA C&Loa&Rl &LElemental&n~
+&RA C&Loa&Rl &LElemental floats here, like a ball of molten lava.&n~
+&Lfloats here, like a ball of molten lava.&n~
+&LThis is a fire elemental merged with an earth elemental.&n~
+ao 0 50 
+31 4 50 
+0 -10 5500
+1 10 0
+0 1500 j j 1
+ENDMOB
+31
+ash elemental~
+&CAn A&Ls&Ch &LElemental&n~
+&CAn A&Ls&Ch &LElemental floats here, like a whirl of burnt rock.&n~
+&Lfloats here, like a whirl of burnt rock.&n~
+&LThis is an pyre elemental merged with a grave elemental.&n~
+ao 0 50 
+31 4 50 
+0 -10 5500
+1 10 0
+0 1500 j j 1
+ENDMOB
+32
+steam elemental~
+&bA S&Ctea&bm &CElemental&n~
+&bA S&Ctea&bm &CElemental stands here, like a mass of flowing hot air.&n~
+&Cstands here, like a mass of flowing hot air.&n~
+&CThis is an fire elemental merged with a water elemental.&n~
+ao 0 50 
+31 1 50 
+0 -10 5500
+1 10 0
+0 1500 j j 1
+ENDMOB
+33
+plasma elemental~
+&bAn P&rlasm&ba &rElemental&n~
+&bAn P&rlasm&ba &rElemental stands here, like a wall of warm blood.&n~
+&rstands here, like a wall of warm blood.&n~
+&rThis is an pyre elemental merged with a blood elemental.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 10 1
+0 1500 j j 1
+ENDMOB
+34
+mist elemental~
+&rA M&Bis&rt &BElemental&n~
+&rA M&Bis&rt &BElemental floats here, like a transparent breeze.&n~
+&Bfloats here, like a transparent breeze.&n~
+&BThis is an fire elemental merged with an air elemental.&n~
+ao 0 50 
+31 4 50 
+0 -12 5500
+1 4 0
+0 1500 j j 1
+ENDMOB
+35
+smoke elemental~
+&rA S&wmok&re &wElemental&n~
+&rA S&wmok&re &wElemental floats here, like a transparent tornado.&n~
+&wfloats here, like a transparent tornado.&n~
+&wThis is an pyre elemental merged with a fog elemental.&n~
+ao 0 50 
+31 4 50 
+0 -15 5500
+1 3 1
+0 1500 j j 1
+ENDMOB
+36
+ice elemental~
+&CAn I&Wc&Ce &WElemental&n~
+&CAn I&Wc&Ce &WElemental stands here, like a solid block of frozen water.&n~
+&Wstands here, like a solid block of frozen water.&n~
+&WThis is an air elemental merged with a water elemental.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 10 1
+0 1500 j j 1
+ENDMOB
+37
+slime elemental~
+&cA S&blim&ce &bElemental&n~
+&cA S&blim&ce &bElemental stands here, like a pile of walking goo.&n~
+&bstands here, like a pile of walking goo.&n~
+&bThis is a fog elemental merged with a blood elemental.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 10 1
+0 1500 j j 1
+ENDMOB
+38
+rock elemental~
+&WA R&Loc&Wk &LElemental&n~
+&WA R&Loc&Wk &LElemental stands here, like a wall of living stone.&n~
+&Lstands here, like a wall of living stone.&n~
+&LThis is an air elemental merged with an earth elemental.&n~
+ao 0 50 
+31 1 50 
+0 -10 5500
+1 15 1
+0 1500 j j 1
+ENDMOB
+39
+tomb elemental~
+&cA T&Lom&cb &LElemental&n~
+&LA T&Lom&cb &LElemental stands here, like a living head stone.&n~
+&Lstands here, like a living head stone.&n~
+&LThis is a fog elemental merged with a grave elemental.&n~
+ao 0 50 
+31 1 50 
+0 -10 5500
+1 15 1
+0 1500 j j 1
+ENDMOB
+40
+mud elemental~
+&bA M&Lu&bd &LElemental&n~
+&bA M&Lu&bd &LElemental stands here, like a slimy mud pile.&n~
+&Lstands here, like a slimy mud pile.&n~
+&LThis is a water elemental merged with an earth elemental.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 15 1
+0 1500 j j 1
+ENDMOB
+41
+gore elemental~
+&rA G&Lor&re &LElemental&n~
+&rA G&Lor&re &LElemental stands here, like a pile of war-devastated bodies.&n~
+&Lstands here, like a pile of war-devastated bodies.&n~
+&LThis is a blood elemental merged with an grave elemental.&n~
+ao 0 50 
+31 1 50 
+0 -9 5500
+1 15 1
+0 1500 j j 1
+ENDMOB
+42
+magic elemental~
+&WA &RM&Ya&Gg&Bi&Mc &WElemental&n~
+&WA &RM&Ya&Gg&Bi&Mc &WElemental stands here, like a glowing weave of magical energy&n~
+&Wstands here, like a glowing weave of magical energy.&n~
+&WThis is the ultimate combination of all the elementals.&n~
+ao abcdefgh 50 
+31 3 50 
+0 -2 5500
+5 5 5
+0 1500 j j 1
+ENDMOB
+50
+guard northlands~
+&WNorthlands Guard&n~
+&WA Northlands Guard stands here protecting the land.&n~
+&WA Northlands Guard stands here protecting the land.&n~
+&WA Northlands Guard stands here protecting the land.&n~
+egi abcdefghijk 1000 
+20 1 30 
+0 -50 0
+2 8 10
+50 1500 j j 1
+ENDMOB
+51
+guard northlands lieutenant~
+&WNorthlands Lieutenant&n~
+&WA Northlands Lieutenant stands here protecting the land.&n~
+&WA Northlands Lieutenant stands here protecting the land.&n~
+&WA Northlands Lieutenant stands here protecting the land.&n~
+egi abek 1000 
+20 1 45 
+0 -70 0
+4 8 10
+50 1500 j j 1
+ENDMOB
+52
+guard northlands captain~
+&WNorthlands Captain&n~
+&WA Northlands Captain stands here protecting the land.&n~
+&WA Northlands Captain stands here protecting the land.&n~
+&WA Northlands Captain stands here protecting the land.&n~
+egi abek 1000 
+20 1 50 
+0 -70 0
+4 8 10
+50 1500 j j 1
+ENDMOB
+ENDFILE

@@ -1,0 +1,109 @@
+23001
+giant frost~
+&WA &Cfrost &Wgiant&n~
+&WA &Cfrost &Wgiant is here, blending in with the snowy environment.&n~
+&Wis here, blending in with the snowy environment.&n~
+&WThis LARGE humanoid has very pale skin, that could be from the frost that seems to grow on his face and body.&n~
+e a -1000 
+2 1 35 
+10 -30 0
+5 10 10
+1000 5000 j j 1
+ENDMOB
+23002
+shaman giant frost~
+&WA frost giant &Cshaman&n~
+&WA frost giant &Cshaman is here chanting aimlessly to himself.&n~
+&Wis here chanting aimlessly to himself.&n~
+&WThis LARGE humanoid has very pale skin, that could be from the frost that seems to grown in his face and body.&n~
+a a -1000 
+2 1 45 
+0 -100 0
+3 10 15
+100 7500 j j 1
+ENDMOB
+23003
+fisherman man~
+&WAn &n&Cice &n&Wfisherman&n~
+&WAn &n&Cice &n&Wfisherman is here cowering from something.&n~
+&Wis here cowering from something.&n~
+&n&WThis fisherman is wearing warm clothes and is huddled in a corner mumbling something about beer and drooling.&n~
+a a -1000
+3 1 30 
+7 -50 0
+2 10 10
+10 3000 j j 1
+ENDMOB
+23004
+human slave~
+&yA human &n&Cslave&n~
+&yA human &n&Cslave here digging in the mine.&n~
+&yhere digging in the mine.&n~
+&yA poor wretched man is here, looking torn and overworked.&n~
+a 0 -1000
+3 1 20 
+10 0 0
+5 5 1
+0 1500 j j 1
+ENDMOB
+23005
+giant frost woman~
+&WA &Cfrost &Wgiant &Cwoman&n~
+&WA &Cfrost &Wgiant &Cwoman is here, blending in with the snowy environment.&n~
+&Wis here, blending in with the snowy environment.&n~
+&WThis LARGE humanoid has very pale skin, that could be from the frost that seems to grow on her face and body.&n~
+e a -1000
+2 1 30 
+7 -10 0
+5 10 20
+1000 4000 j j 1
+ENDMOB
+23006
+polar bear~
+&WA &Cpolar &Wbear&n~
+&WA &Cpolar &Wbear is here making tracks in the snow.&n~
+&Wis here making tracks in the snow.&n~
+&WThis large bear has a sleek white fur coat.&n~
+a 0 -1000
+2 1 38 
+2 -70 0
+3 30 11
+0 6000 j j 1
+ENDMOB
+23007
+giant frost guard~
+&WA &Cfrost &Wgiant &Cguard&n~
+&WA &Cfrost &Wgiant &Cguard is here, blending in with the snowy environment.&n~
+&Wis here, blending in with the snowy environment.&n~
+&WThis LARGE humanoid has very pale skin, that could be from the frost that seems to grow on his face and body.&n~
+a ad -1000 
+2 1 40 
+0 -80 0
+2 25 15
+2000 6500 j j 1
+ENDMOB
+23008
+giant frost child~
+&WA &Cfrost &Wgiant &Cchild&n~
+&WA &Cfrost &Wgiant &Cchild is here, blending in with the snowy environment.&n~
+&Wis here, blending in with the snowy environment.&n~
+&WThis LARGE humanoid has very pale skin, that could be from the frost that seems to grow on his face and body.&n~
+e 0 -1000
+2 1 25 
+10 50 0
+2 5 10
+10 2500 j j 1
+ENDMOB
+23009
+penguin~
+&WThe &n&LPenguin&n~
+&WThe &n&LPenguin is here, hunting his prey.&n~
+&Wis here, hunting his prey.&n~
+&WThis is the one and only feared &n&LPenguin &n&Wof the realms.  Beware of him. Beware.&n~
+0 0 -1000 
+2 1 55 
+-5 -100 5000
+20 5 10
+0 1 j j 1
+ENDMOB
+ENDFILE

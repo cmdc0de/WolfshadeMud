@@ -1,0 +1,777 @@
+23001 Y
+&WA &Cfrozen &Wpath.&n~
+&WHere the path seems to dwindle into nothingness as it is buried beneath the snow.  Large tracks seem to lead off in all directions.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23003
+DOOR
+2
+~
+a -1 1002004
+ENDROOM
+23002 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+1
+~
+a -1 23003
+DOOR
+0
+~
+a -1 23006
+ENDROOM
+23003 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23007
+DOOR
+1
+~
+a -1 23004
+DOOR
+2
+~
+a -1 23001
+DOOR
+3
+~
+a -1 23002
+ENDROOM
+23004 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23008
+DOOR
+3
+~
+a -1 23003
+ENDROOM
+23005 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23010
+DOOR
+1
+~
+a -1 23006
+DOOR
+2
+~
+a -1 23002
+ENDROOM
+23006 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23011
+DOOR
+1
+~
+a -1 23007
+DOOR
+2
+~
+a -1 23002
+DOOR
+3
+~
+a -1 23005
+ENDROOM
+23007 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23012
+DOOR
+1
+~
+a -1 23008
+DOOR
+2
+~
+a -1 23003
+DOOR
+3
+~
+a -1 23006
+ENDROOM
+23008 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23013
+DOOR
+1
+~
+a -1 23009
+DOOR
+2
+~
+a -1 23004
+DOOR
+3
+~
+a -1 23007
+ENDROOM
+23009 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n
+~
+230 0 1 3
+DOOR
+0
+~
+a -1 23014
+DOOR
+3
+~
+a -1 23008
+ENDROOM
+23010 N
+&CHolding Pens.&n~
+&WHere is the area in which the frost giants hold their bears before they are used as mounts, food, clothing or whatever else they deem fit.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23017
+DOOR
+2
+~
+a -1 23005
+ENDROOM
+23011 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23018
+DOOR
+1
+~
+a -1 23012
+DOOR
+2
+~
+a -1 23006
+ENDROOM
+23012 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23019
+DOOR
+1
+~
+a -1 23013
+DOOR
+2
+~
+a -1 23007
+DOOR
+3
+~
+a -1 23011
+ENDROOM
+23013 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23020
+DOOR
+1
+~
+a -1 23014
+DOOR
+2
+~
+a -1 23008
+DOOR
+3
+~
+a -1 23012
+ENDROOM
+23014 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23021
+DOOR
+1
+~
+a -1 23015
+DOOR
+2
+~
+a -1 23009
+DOOR
+3
+~
+a -1 23013
+ENDROOM
+23015 N
+&WAn &Cice &Wcovered lake.&n~
+&WThis small lake is frozen solid from the frigid temperature of the northlands.  Several small holes can be seen in the ice and obvious marks of ice fishing are also evident.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23022
+DOOR
+1
+~
+a -1 23016
+DOOR
+3
+~
+a -1 23014
+ENDROOM
+23016 N
+&WAn &Cice &Wcovered lake.&n~
+&WThis small lake is frozen solid from the frigid temperature of the northlands.  Several small holes can be seen in the ice and obvious marks of ice fishing are also evident.&n~
+230 0 1 3
+DOOR
+0
+~
+a -1 23023
+DOOR
+3
+~
+a -1 23015
+ENDROOM
+23017 N
+&CHolding Pens.&n~
+&WHere is the area in which the frost giants hold their bears before they are used as mounts, food, clothing or whatever else they deem fit.&n~
+230 0 1 3
+DOOR
+2
+~
+a -1 23010
+ENDROOM
+23018 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted to the north, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+0
+~
+1 -1 23024
+DOOR
+1
+~
+1 -1 23019
+DOOR
+2
+~
+1 -1 23011
+ENDROOM
+23019 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the west, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+1
+~
+1 -1 23020
+DOOR
+2
+~
+1 -1 23012
+DOOR
+3
+~
+1 -1 23018
+ENDROOM
+23020 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  A small cave can be spotted a ways off to the west, and a small lake is frozen over off to the east.&n~
+230 0 1 3
+DOOR
+1
+~
+1 -1 23021
+DOOR
+2
+~
+1 -1 23013
+DOOR
+3
+~
+1 -1 23019
+ENDROOM
+23021 N
+&WA &Csnow &Wcovered field.&n~
+&WThis wide-open field is covered in about a foot of snow.  There are large tracks that lead in all directions.  Just to the north is a small shed with it's door broken off of it's hinges.&n~
+230 0  1 3
+DOOR
+0
+~
+1 -1 23025
+DOOR
+1
+~
+1 -1 23022
+DOOR
+2
+~
+1 -1 23014
+DOOR
+3
+~
+1 -1 23020
+ENDROOM
+23022 N
+&WAn &Cice &Wcovered lake.&n~
+&WThis small lake is frozen solid from the frigid temperature of the northlands.  Several small holes can be seen in the ice and obvious marks of ice fishing are also evident.&n~
+230 0 1 3
+DOOR
+0
+~
+1 -1 23026
+DOOR
+1
+~
+1 -1 23023
+DOOR
+2
+~
+1 -1 23015
+DOOR
+3
+~
+1 -1 23021
+ENDROOM
+23023 N
+&WAn &Cice &Wcovered lake.&n~
+&WThis small lake is frozen solid from the frigid temperature of the northlands.  Several small holes can be seen in the ice and obvious marks of ice fishing are also evident.&n~
+230 0 1 3
+DOOR
+0
+~
+1 -1 23027
+DOOR
+2
+~
+1 -1 23016
+DOOR
+3
+~
+1 -1 23022
+ENDROOM
+23024 N
+&WAn entrance to a cave.&n~
+&WA huge mouth of a cave stands before you.  The shear size of its opening obviously relates to the size of the creatures that must be found inside.&n~
+230 c 0 3 
+DOOR
+0
+~
+1 -1 23028
+DOOR
+2
+~
+1 -1 23018
+ENDROOM
+23025 N
+&yA &n&Lsmall &yshed.&n~
+&yThis small shed seems to be a place for ice fishing for humans, but it is in shambles and the door on the south side seems to be torn from it's hinges.&n~
+230 c 0 3
+DOOR
+2
+~
+1 -1 23021
+ENDROOM
+23026 N
+&WAn &Cice &Wcovered lake.&n~
+&WThis small lake is frozen solid from the frigid temperature of the northlands.  Several small holes can be seen in the ice and obvious marks of ice fishing are also evident.&n~
+230 0 1 3
+DOOR
+1
+~
+1 -1 23027
+DOOR
+2
+~
+1 -1 23022
+ENDROOM
+23027 N
+&WAn &Cice &Wcovered lake.&n~
+&WThis small lake is frozen solid from the frigid temperature of the northlands.  Several small holes can be seen in the ice and obvious marks of ice fishing are also evident.&n~
+230 0 1 3
+DOOR
+2
+~
+1 -1 23023
+DOOR
+3
+~
+1 -1 23026
+ENDROOM
+23028 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23029
+DOOR
+2
+~
+1 -1 23024
+ENDROOM
+23029 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23034
+DOOR
+1
+~
+1 -1 23030
+DOOR
+2
+~
+1 -1 23028
+ENDROOM
+23030 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ad 0
+DOOR
+1
+~
+1 -1 23031
+DOOR
+3
+~
+1 -1 23029
+ENDROOM
+23031 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+1
+~
+1 -1 23032
+DOOR
+3
+~
+1 -1 23030
+ENDROOM
+23032 N
+&n&LA &yhuge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23035
+DOOR
+1
+~
+1 -1 23033
+DOOR
+3
+~
+1 -1 23031
+ENDROOM
+23033 N
+&n&LA &yhuge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23036
+DOOR
+3
+~
+1 -1 23032
+ENDROOM
+23034 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23039
+DOOR
+2
+~
+1 -1 23029
+ENDROOM
+23035 N
+&n&LA &yhuge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+1
+~
+1 -1 23036
+DOOR
+2
+~
+1 -1 23032
+ENDROOM
+23036 N
+&n&LA &yhuge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+2
+~
+1 -1 23033
+DOOR
+3
+~
+1 -1 23035
+ENDROOM
+23037 N
+&WA &Cshaman's &Wcorner.&n~
+&WWith trinkets and small spell components strewn across the corner of this cave, it is most obvious that this is the work area of the clan shaman.&n~
+230 ac 0 3
+DOOR
+1
+~
+1 -1 23038
+ENDROOM
+23038 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+1
+~
+1 -1 23039
+DOOR
+3
+~
+1 -1 23037
+ENDROOM
+23039 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23041
+DOOR
+1
+~
+1 -1 23040
+DOOR
+2
+~
+1 -1 23034
+DOOR
+3
+~
+1 -1 23038
+ENDROOM
+23040 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+3
+~
+1 -1 23039
+ENDROOM
+23041 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23043
+DOOR
+2
+~
+1 -1 23039
+ENDROOM
+23042 N
+&n&LA &yhuge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23048
+DOOR
+1
+~
+1 -1 23043
+ENDROOM
+23043 N
+&n&LA &yhuge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23049
+DOOR
+1
+~
+1 -1 23044
+DOOR
+2
+~
+1 -1 23041
+DOOR
+3
+~
+1 -1 23042
+ENDROOM
+23044 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+1
+~
+1 -1 23045
+DOOR
+3
+~
+1 -1 23043
+ENDROOM
+23045 N
+&n&LA &ylarge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+1
+~
+1 -1 23046
+DOOR
+3
+~
+1 -1 23044
+ENDROOM
+23046 N
+&WA &Cfrozen &Wmine.&n~
+&WHere human slaves are digging and picking at the ice.  Several giants can be seen frozen in the block of ice all around the huge walls of this mine.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23050
+DOOR
+1
+~
+1 -1 23047
+DOOR
+3
+~
+1 -1 23045
+ENDROOM
+23047 N
+&WA &Cfrozen &Wmine.&n~
+&WHere human slaves are digging and picking at the ice.  Several giants can be seen frozen in the block of ice all around the huge walls of this mine.&n~
+230 ac 0 3
+DOOR
+0
+~
+1 -1 23051
+DOOR
+3
+~
+1 -1 23046
+ENDROOM
+23048 N
+&n&LA &yhuge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+1
+~
+1 -1 23049
+DOOR
+2
+~
+1 -1 23042
+ENDROOM
+23049 N
+&n&LA &yhuge &n&Lcavern.&n~
+&n&LThe shear size of this cave only gives a fearsome hint of what the size of the creatures living in it are.&n~
+230 ac 0 3
+DOOR
+2
+~
+1 -1 23043
+DOOR
+3
+~
+1 -1 23048
+ENDROOM
+23050 N
+&WA &Cfrozen &Wmine.&n~
+&WHere human slaves are digging and picking at the ice.  Several giants can be seen frozen in the block of ice all around the huge walls of this mine.&n~
+230 ac 0 3
+DOOR
+1
+~
+1 -1 23051
+DOOR
+2
+~
+1 -1 23046
+ENDROOM
+23051 N
+&WA &Cfrozen &Wmine.&n~
+&WHere human slaves are digging and picking at the ice.  Several giants can be seen frozen in the block of ice all around the huge walls of this mine.&n~
+230 ac 0 3
+DOOR
+2
+~
+1 -1 23047
+DOOR
+3
+~
+1 -1 23050
+ENDROOM
+ENDFILE

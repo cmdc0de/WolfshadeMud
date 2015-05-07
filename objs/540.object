@@ -1,0 +1,63 @@
+54000
+boots bear fur~
+&ysome boots of &Lbear &yfur&n~
+&yThese boots look very warm and very comfortable, made from bear skin and fur.&n~
+&ySome boots of &Lbear &yfur lie here.&n~
+6 0 u
+7
+3 5000 6
+AFECT
+3 4
+ENDOBJ
+54001
+small spectacles~
+&wa pair of small &Yspectacles&n~
+&wa pair of small &Yspectacles&n~
+&wA small pair of glasses lies here.&n~
+6 0 d
+3
+1 1000 6
+AFECT
+4 +2
+ENDOBJ
+54002
+hawked nose hawked-nose mask~
+&wa hawked-&Lnose &wmask&n~
+&wa hawked-&Lnose &wmask&n~
+&wA strangely shaped mask sits here.&n~
+6 0 f
+6
+2 5000 0
+AFFECT
+2 9
+AFFECT
+6 -9
+ENDOBJ
+54003
+belt sewn feathers~
+&wa &Lbelt &wof sewn &Wfeathers&n~
+&wa &Lbelt &wof sewn &Wfeathers&n~
+&wA rather light looking &Lbelt &wlies here.~
+6 0 r
+4
+1 300 0
+ENDOBJ
+54004
+spear light~
+&ya &wlight &yspear&n~
+&yA long, thin spear lies here.&n~
+&ya &wlight &yspear&n~
+10 0 mn
+1 8 1 10 2
+2 500 0
+ENDOBJ
+54005
+stove~
+&La stove&n~
+&LA large wood burning stove is here glowing merrily.&n~
+&La stove&n~
+8 a 0
+200 2 -1
+200 10 0
+ENDOBJ
+ENDFILE

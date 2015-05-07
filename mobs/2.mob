@@ -1,0 +1,505 @@
+21001
+shopkeeper dock master~
+&LThe &ydock master&n~
+&LThe &ydock master &Lstands here selling boats.&n~
+&LThe &ydock master &Lstands here selling boats.&n~
+&LThe &ydock master &Lis here selling boats.&n~
+abej 0 50 
+1 1 50 
+0 -100 0
+6 8 10
+50 1500 j j 1
+ENDMOB
+21002
+Kitten~
+Kitten cat~
+A small pussy stands here~
+Here kitty kitty~
+Long description~
+e 0 30 
+1 1 2 
+0 -8 10
+3 4 5
+50 1500 j j 1
+ENDMOB
+21003
+little kitten~
+A cute little &Lki&wtt&Len&n~
+A cute little &Lki&wtt&Len&n stands here.~
+purrs in the corner here.~
+This little kitten looks like it just came off of a roof.~
+e 0 30 
+1 1 40 
+0 5 200
+2 2 2
+20 1500 j j 1
+ENDMOB
+21004
+Big Jim~
+Big Jim~
+Big Jim stands here looking at the hemenisis of the defecation, semeninsis, hug 'em.~
+stands here looking at the hemenisis of the defecation, semeninsis, hug 'em.~
+Long description of big jim~
+e ad 50 
+1 1 50 
+0 -90 7000
+6 8 10
+50 1500 j j 1
+ENDMOB
+21005
+level 10~
+Level 10~
+A Level 10 mob stands here.~
+A Level 10 mob stands here.~
+A Level 10 mob stands here.~
+abelj 0 50
+1 1 10 
+0 100 0
+1 1 1
+50 1500 j j 1
+ENDMOB
+21006
+level 20~
+Level 20~
+A Level 20 mob stands here.~
+A Level 20 mob stands here.~
+A Level 20 mob stands here.~
+aej 0 50 
+1 1 20 
+0 100 0
+1 1 1
+50 1500 j j 1
+ENDMOB
+21007
+level 30~
+Level 30~
+A Level 30 mob stands here.~
+A Level 30 mob stands here.~
+A Level 30 mob stands here.~
+aej adi 50 
+1 1 30 
+0 100 0
+1 1 1
+50 1500 j j 1
+ENDMOB
+21008
+level 40~
+Level 40~
+A Level 40 mob stands here.~
+A Level 40 mob stands here.~
+A Level 40 mob stands here.~
+aej bf 50 
+1 1 40 
+0 100 0
+1 1 1
+50 1500 j j 1
+ENDMOB
+21009
+mage Megosh Teacher~
+&WMegosh the Magus&n~
+&WMegosh the Magus&n stands here.~
+&WMegosh the Magus&n stands here.~
+&WMegosh the Magus&n stands here.~
+jq ace 1000
+11 3 70
+0 100 0
+5 5 100
+50 1500 j j 1
+ENDMOB
+21010
+warrior Knigit Teacher~
+Knigit the warrior~
+Knigit the warrior stands here.~
+Knigit the warrior stands here.~
+Knigit the warrior stands here.~
+jq abcdef -1000
+1 1 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+21011
+Druid frest Teacher~
+&gFrest the Druid&n~
+&gFrest the Druid stands here.&n~
+&gFrest the Druid stands here.&n~
+&gFrest the Druid stands here.&n~
+jq a 0
+17 5 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+21012
+paladin Thelonius Teacher~
+&WThelonius the Paladin&n~
+&WThelonius the Paladin&n stands here.~
+&WThelonius the Paladin&n stands here.~
+&WThelonius the Paladin&n stands here.~
+jq a 1000
+20 8 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+21013
+anti-paladin Crythar Teacher~
+&LCrythar the Anti-Paladin&n~
+&LCrythar the Anti-Paladin&n stands here.~
+&LCrythar the Anti-Paladin&n stands here.~
+&LCrythar the Anti-Paladin&n stands here.~
+jq a -1000
+3 9 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+21014
+cleric ElShio Teacher~
+&CElShio the Cleric&n~
+&CElShio the Cleric&n stands here.~
+&CElShio the Cleric&n stands here.~
+&CElShio the Cleric&n stands here.~
+jq a 0
+16 2 70
+0 100 0
+10 10 100
+50 1500 j j 2
+ENDMOB
+21015
+Defiler Drzet Teacher~
+&bDrzet the Defiler&n~
+&bDrzet the Defiler&n stands here.~
+&bDrzet the Defiler&n stands here.~
+&bDrzet the Defiler&n stands here.~
+jq a -1000
+6 7 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+21016
+Kythis rogue Teacher~
+&mKythis Krynshar&n~
+&mKythis Krynshar&n the great rogue stands here.~
+&mKythis Krynshar&n the great rogue stands here.~
+&mKythis Krynshar&n the great rogue stands here.~
+jq abej -1000
+3 4 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+21017
+ranger Relao Teacher~
+&gRelao the Ranger&n~
+&gRelao the Ranger&n stands here.~
+&gRelao the Ranger&n stands here.~
+&gRelao the Ranger&n stands here.~
+jq a 1000
+1 6 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+21018
+shaman Ugma Teacher~
+&cUgma the Shaman&n~
+&cUgma the Shaman&n stands here.~
+&cUgma the Shaman&n stands here.~
+&cUgma the Shaman&n stands here.~
+jq a -1000
+2 10 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+21019
+empath Proi Teacher~
+&BProi the Empath&n~
+&BProi the Empath&n stands here.~
+&BProi the Empath&n stands here.~
+&BProi the Empath&n stands here.~
+ajq a 1000
+16 12 70
+0 100 0
+10 10 100
+50 1500 j j 2
+ENDMOB
+21020
+psionicist Wrythese Teacher~
+&mWrythese the Psionicist&n~
+&mWrythese the Psionicist&n stands here.~
+&mWrythese the Psionicist&n stands here.~
+&mWrythese the Psionicist&n stands here.~
+ajq a -1000
+9 11 70
+0 100 0
+10 10 100
+50 1500 j j 2
+ENDMOB
+21021
+mindflayer illithid mind flayer Ithaqo Teacher~
+&MIthaqo the Illthid&n~
+&MIthaqo the Illthid&n stands here.~
+&MIthaqo the Illthid&n stands here.~
+&MIthaqo the Illthid&n stands here.~
+ajklmq a -1000
+27 13 70
+0 100 0
+10 10 100
+50 1500 j j 0
+ENDMOB
+21022
+gnome guardian~
+&RGnome Guardian&n~
+&RGnome Guardian&n stands here.~
+&RGnome Guardian&n stands here.~
+&RGnome Guardian&n stands here.~
+abcgj ace 1000
+11 3 50
+0 0 0
+3 50 50
+50 1500 j j 1
+ENDMOB
+21023
+pixie guardian~
+&WPixie Guardian&n~
+&WPixie Guardian&n stands here.~
+&WPixie Guardian&n stands here.~
+&WPixie Guardian&n stands here.~
+abcgj a 1000
+16 12 50
+0 0 0
+3 50 50
+50 1500 j j 2
+ENDMOB
+21024
+grey elf guardian~
+&cGrey Elf Guardian&n~
+&cGrey Elf Guardian&n stands here.~
+&cGrey Elf Guardian&n stands here.~
+&cGrey Elf Guardian&n stands here.~
+abcgj a 1000
+12 6 50
+0 -60 0
+4 50 100
+50 1500 j j 1
+ENDMOB
+21025
+kender guardian~
+&GKen&Wder Guardian&n~
+&GKen&Wder Guardian&n stands here.~
+&GKen&Wder Guardian&n stands here.~
+&GKen&Wder Guardian&n stands here.~
+abcgj abcfg 1000
+13 4 50
+0 -50 0
+4 50 100
+50 1500 j j 1
+ENDMOB
+21026
+dwarf guardian~
+&YDwarf Guardian&n~
+&YDwarf Guardian&n stands here.~
+&YDwarf Guardian&n stands here.~
+&YDwarf Guardian&n stands here.~
+abcgj abdjk 1000
+14 1 50
+0 -100 0
+5 50 150
+50 1500 j j 1
+ENDMOB
+21027
+brownie guardian~
+&yBrownie Guardian&n~
+&yBrownie Guardian&n stands here.~
+&yBrownie Guardian&n stands here.~
+&yBrownie Guardian&n stands here.~
+abcgj a 1000
+15 10 50
+0 -30 0
+2 50 100
+50 1500 j j 2
+ENDMOB
+21028
+centaur guardian~
+&yCen&gtaur Guardian&n~
+&yCen&gtaur Guardian&n stands here.~
+&yCen&gtaur Guardian&n stands here.~
+&yCen&gtaur Guardian&n stands here.~
+abcgj a 1000
+17 5 50
+0 -60 0
+3 50 100
+50 1500 j j 2
+ENDMOB
+21029
+Saurial guardian~
+&GSaurial Guardian&n~
+&GSaurial Guardian&n stands here.~
+&GSaurial Guardian&n stands here.~
+&GSaurial Guardian&n stands here.~
+abcgj a 1000
+18 8 50
+0 -60 0
+3 50 100
+50 1500 j j 2
+ENDMOB
+21030
+orc guardian~
+&LOrc Guardian&n~
+&LOrc Guardian&n stands here.~
+&LOrc Guardian&n stands here.~
+&LOrc Guardian&n stands here.~
+abchj adf -1000
+3 3 50
+0 0 0
+3 50 50
+50 1500 j j 1
+ENDMOB
+21031
+githyanki guardian~
+&cGith&Lyanki Guardian&n~
+&cGith&Lyanki Guardian&n stands here.~
+&cGith&Lyanki Guardian&n stands here.~
+&cGith&Lyanki Guardian&n stands here.~
+abchj a -1000
+8 11 50
+0 0 0
+3 50 50
+50 1500 j j 2
+ENDMOB
+21032
+drow elf guardian~
+&mDrow Elf Guardian&n~
+&mDrow Elf Guardian&n stands here.~
+&mDrow Elf Guardian&n stands here.~
+&mDrow Elf Guardian&n stands here.~
+abchj a -1000
+6 7 50
+0 -60 0
+4 50 100
+50 1500 j j 1
+ENDMOB
+21033
+imp guardian~
+&cImp Guardian&n~
+&cImp Guardian&n stands here.~
+&cImp Guardian&n stands here.~
+&cImp Guardian&n stands here.~
+abchj abejk -1000
+10 4 50
+0 -50 0
+4 50 100
+50 1500 j j 1
+ENDMOB
+21034
+duergar guardian~
+&rDuergar Guardian&n~
+&rDuergar Guardian&n stands here.~
+&rDuergar Guardian&n stands here.~
+&rDuergar Guardian&n stands here.~
+abchj abdjk -1000
+5 1 50
+0 -100 0
+5 50 150
+50 1500 j j 1
+ENDMOB
+21035
+ogre guardian~
+&bOgre Guardian&n~
+&bOgre Guardian&n stands here.~
+&bOgre Guardian&n stands here.~
+&bOgre Guardian&n stands here.~
+abchj a -1000
+2 10 50
+0 -30 0
+2 50 100
+50 1500 j j 2
+ENDMOB
+21036
+gnoll guardian~
+&LGn&yoll Guardian&n~
+&LGn&yoll Guardian&n stands here.~
+&LGn&yoll Guardian&n stands here.~
+&LGn&yoll Guardian&n stands here.~
+abchj a -1000
+4 5 50
+0 -60 0
+3 50 100
+50 1500 j j 2
+ENDMOB
+21037
+draconian guardian~
+&gDraco&rnian Guardian&n~
+&gDraco&rnian Guardian&n stands here.~
+&gDraco&rnian Guardian&n stands here.~
+&gDraco&rnian Guardian&n stands here.~
+abchj a -1000
+9 9 50
+0 -60 0
+3 50 100
+50 1500 j j 2
+ENDMOB
+21038
+mage dysart Teacher~
+&yDysart the Magus&n~
+&yDysart the Magus&n stands here.~
+&yDysart the Magus&n stands here.~
+&yDysart the Magus&n stands here.~
+jq ab 0
+20 3 70
+0 100 0
+1 1 1
+50 1500 j j 1
+ENDMOB
+21039
+mage gunkunk Teacher~
+&LGunkunk the Magus&n~
+&LGunkunk the Magus&n stands here.~
+&LGunkunk the Magus&n stands here.~
+&LGunkunk the Magus&n stands here.~
+jq adf -1000
+3 3 70
+0 100 0
+1 1 1
+50 1500 j j 1
+ENDMOB
+21040
+cleric Elysh Teacher~
+&mElysh the Cleric&n~
+&mElysh the Cleric&n stands here.~
+&mElysh the Cleric&n stands here.~
+&mElysh the Cleric&n stands here.~
+jq a -1000
+6 2 70
+0 100 0
+10 10 100
+50 1500 j j 2
+ENDMOB
+21041
+Fizzleburp rogue Teacher~
+&GFizzleburp&n~
+&GFizzleburp&n the rogue stands here.~
+&GFizzleburp&n the rogue stands here.~
+&GFizzleburp&n the rogue stands here.~
+jq abcdefghijklm 1000
+13 4 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+21042
+shaman Gnurp Teacher~
+&RGnurp the Shaman&n~
+&RGnurp the Shaman&n stands here.~
+&RGnurp the Shaman&n stands here.~
+&RGnurp the Shaman&n stands here.~
+jq a 1000
+12 10 70
+0 100 0
+10 10 100
+50 1500 j j 1
+ENDMOB
+ENDFILE

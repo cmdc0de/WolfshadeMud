@@ -1,0 +1,37 @@
+#!/bin/sh
+#
+# starts/stops wolfshade mud server
+
+MUD_HOME=/opt/wsmud
+MUD_OWNER=dcomes
+
+killproc() {            # kill the named process(es)
+        pid=`/bin/ps -e |
+             /bin/grep $1 |
+             /bin/sed -e 's/^  *//' -e 's/ .*//'`
+        [ "$pid" != "" ] && kill $pid
+}
+
+# See how we were called.
+case "$1" in
+  start)
+        # Start daemons.
+        echo -n "Starting WolfshadeMUD Server: "
+	su - "$MUD_OWNER" -c "$MUD_HOME/AutoRun.sh" > /dev/null 2>&1 &
+	touch /var/lock/subsys/wsmudd
+        echo
+        ;;
+  stop)
+        # Stop daemons.
+        echo -n "Shutting down WolfshadeMUD Server: "
+        #theirs got to be a better way!
+        killproc wolfshade
+	killproc AutoRun.sh
+	rm -f /var/lock/subsys/wsmudd
+        echo
+        ;;
+  *)
+        echo "Usage: initWS {start|stop}"
+        exit 1
+esac
+exit 0

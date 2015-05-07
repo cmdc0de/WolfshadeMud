@@ -1,0 +1,205 @@
+50201
+silver miner~
+&La &wsilver &Lminer&n~
+&LA &wsilver &Lminer mines here.&n~
+&LA &wsilver &Lminer mines here.&n~
+&LA &wsilver &Lminer mines here.&n~
+abj a 0 
+20 1 3 
+100 90 1
+1 3 0
+10 0 j j 1
+ENDMOB
+50202
+silver miner~
+&La &wsilver &Lminer&n~
+&LA &wsilver &Lminer mines here.&n~
+&LA &wsilver &Lminer mines here.&n~
+&LA &wsilver &Lminer mines here.&n~
+abj a 0 
+20 1 5 
+90 90 1
+2 2 0
+20 0 j j 1
+ENDMOB
+50203
+copper miner~
+&La &ycopper &Lminer&n~
+&LA &ycopper &Lminer mines here.&n~
+&LA &ycopper &Lminer mines here.&n~
+&LA &ycopper &Lminer mines here.&n~
+abj a 0 
+20 1 1 
+100 100 1
+1 1 0
+10 0 j j 1
+ENDMOB
+50204
+copper miner~
+&La &ycopper &Lminer&n~
+&LA &ycopper &Lminer mines here.&n~
+&LA &ycopper &Lminer mines here.&n~
+&LA &ycopper &Lminer mines here.&n~
+abj a 0 
+20 1 2 
+100 100 1
+1 2 0
+10 0 j j 1
+ENDMOB
+50205
+dolomite miner~
+&La &rdolomite &Lminer&n~
+&LA &rdolomite &Lminer mines here.&n~
+&LA &rdolomite &Lminer mines here.&n~
+&LA &rdolomite &Lminer mines here.&n~
+abj a 0
+20 1 5 
+90 90 1
+2 2 0
+50 0 j j 1
+ENDMOB
+50206
+dolomite miner~
+&La &rdolomite &Lminer&n~
+&LA &rdolomite &Lminer mines here.&n~
+&LA &rdolomite &Lminer mines here.&n~
+&LA &rdolomite &Lminer mines here.&n~
+abj a 0
+20 1 7 
+85 90 1
+2 3 0
+60 0 j j 1
+ENDMOB
+50207
+gold miner~
+&La &Ygold &Lminer&n~
+&LA &Ygold &Lminer mines here.&n~
+&LA &Ygold &Lminer mines here.&n~
+&LA &Ygold &Lminer mines here.&n~
+abj a 0
+20 1 7 
+90 80 1
+2 3 0
+70 0 j j 1
+ENDMOB
+50208
+gold miner~
+&La &Ygold &Lminer&n~
+&LA &Ygold &Lminer mines here.&n~
+&LA &Ygold &Lminer mines here.&n~
+&LA &Ygold &Lminer mines here.&n~
+abj a 0
+20 1 9 
+80 80 1
+3 3 0
+80 0 j j 1
+ENDMOB
+50209
+resting miner~
+&La resting &Lminer&n~
+&LA resting &Lminer stands here.&n~
+&LA resting &Lminer stands here.&n~
+&LA resting &Lminer stands here.&n~
+abj a 0
+20 1 15 
+70 70 1
+3 4 0
+300 0 j j 2
+ENDMOB
+50210
+resting miner~
+&La resting &Lminer&n~
+&LA resting &Lminer stands here.&n~
+&LA resting &Lminer stands here.&n~
+&LA resting &Lminer stands here.&n~
+abj a 0
+20 1 15 
+70 70 1
+3 4 0
+300 0 j j 2
+ENDMOB
+50211
+mithril miner~
+&La &bmithril &Lminer&n~
+&LA &bmithril &Lminer mines here.&n~
+&LA &bmithril &Lminer mines here.&n~
+&LA &bmithril &Lminer mines here.&n~
+abj a 0
+20 1 9 
+70 80 1
+3 3 0
+100 0 j j 1
+ENDMOB
+50212
+mithril miner~
+&La &bmithril &Lminer&n~
+&LA &bmithril &Lminer mines here.&n~
+&LA &bmithril &Lminer mines here.&n~
+&LA &bmithril &Lminer mines here.&n~
+abj a 0
+20 1 11 
+70 70 1
+3 4 0
+200 0 j j 1
+ENDMOB
+50213
+mine leader~
+&La &Wmine &Lleader&n~
+&LA &Wmine &Lleader walks around here.&n~
+&LA &Wmine &Lleader walks around here.&n~
+&LA &Wmine &Lleader walks around here.&n~
+abej a 0
+20 1 21
+30 30 1
+5 5 0
+2000 0 j j 1
+ENDMOB
+50214
+adamantite miner~
+&Lan &cadamantite &Lminer&n~
+&LAn &cadamantite &Lminer mines here.&n~
+&LAn &cadamantite &Lminer mines here.&n~
+&LAn &cadamantite &Lminer mines here.&n~
+abj a 0
+20 1 11 
+70 70 1
+3 4 0
+200 0 j j 1
+ENDMOB
+50215
+adamantite miner~
+&Lan &cadamantite &Lminer&n~
+&LAn &cadamantite &Lminer mines here.&n~
+&LAn &cadamantite &Lminer mines here.&n~
+&LAn &cadamantite &Lminer mines here.&n~
+abj a 0
+20 1 13 
+60 60 1
+3 5 0
+400 0 j j 1
+ENDMOB
+50216
+foreman mine~
+&La &Wmine &Lforeman&n~
+&LA &Wmine &Lforeman walks around here.&n~
+&LA &Wmine &Lforeman walks around here.&n~
+&LA &Wmine &Lforeman walks around here.&n~
+bej a 0
+20 1 17 
+50 50 1
+4 4 0
+1000 0 j j 1
+ENDMOB
+50217
+foreman mine~
+&La &Wmine &Lforeman&n~
+&LA &Wmine &Lforeman walks around here.&n~
+&LA &Wmine &Lforeman walks around here.&n~
+&LA &Wmine &Lforeman walks around here.&n~
+bej a 0
+20 1 19 
+40 40 1
+4 5 0
+1100 0 j j 1
+ENDMOB
+ENDFILE

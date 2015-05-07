@@ -1,0 +1,373 @@
+* Note: all lines between records which start with '*' are comments and
+* are ignored.  Comments can only be between records, not within them.
+*
+* This file is where the damage messages weapons go.  
+*
+*   We put the weapon type on the first line
+*   then the messages (one per line):
+*   Death Message (doing skill, skill being done to, onlookers)
+*   Skill didn't work (doing skill, skill being done to, onlookers)
+*   Skill did work message (doing skill, skill being done to, onlookers)
+*
+*  if no message use a #
+*
+*  $N = doing skill and $n = skill being done to
+*  $P = pronoun of doing skill (his, her)
+*  $p = pronoun of skill being done to (his,her)
+*
+*
+* by: Demetrius Comes
+* for wolfshade 1.0
+******************************************************************
+
+***************
+** DODGE
+***************
+80
+#
+#
+#
+#
+#
+#
+You dodge $n's attack.
+$N dodges your attack.
+$N dodges $n's attack.
+
+******************
+** Parry
+******************
+49
+#
+#
+#
+#
+#
+#
+You parry $n's attack.
+$N parries your attack.
+$N parries $n's attack.
+
+*********************
+** Repo
+*********************
+58
+You deflects $n's attack and strike back DEADLY!
+$N deflects your attack and strikes back ... hehe your dead!
+$N deflects $n's attack, skriking back deadly!
+#
+#
+#
+You deflect $n's attack and strike back!
+$N deflects your attack and strikes back at YOU!
+$N deflects $n's attack and strikes back at $P foe! 
+
+************************
+** BackStab
+************************
+85
+$n makes a strange sound as you stab $p in the back...not much left but a pool of blood.
+The last thing you feel is a stab in the back from $N.
+$n makes a strange sound as $N stab $p in the back...not much left but a pool of blood.
+Welp you tried.
+#
+#
+$n makes a strange sound as you stab $p in the back.
+From out of no where $N stabs you in the back!
+$n makes a strange sound as $N stab $p in the back.
+
+************************
+** Throat Slit
+************************
+70
+$n makes a strange sound as you slice a gaping hole in $p neck, letting the blood loss lead to death.
+$N reaches around you slicing your neck so badly you fade to black...
+$n makes a strange sound as $N slices a gaping hole in $n's neck, letting the blood loss lead to death.
+You try to slice $n's throat but $p too fast.
+$N tries to slice YOUR throat but you are too fast.
+$N tries to slice $n's throat but $p too fast.
+$n makes a strange sound as you slice a hole in $p neck!
+$N reaches around you slicing your neck!
+$n makes a strange sound as $N slices a hole in $n's neck!
+
+************************
+** Bash
+************************
+1
+You bash $n sending $p body flying, landing with a dull thud.
+$N bashes you so hard you land with a dull, life-taking thud.
+$N bashes $n sending $p body flying, landing with a dull thud.
+$n avoids your feeble bash and you fall to the ground!
+YOU dodge $N's bash and they fall to the ground!
+$n avoids $N's bash and $N falls to the ground!
+Your bash on $n sends $p body sprawling to the ground!
+$N sends you sprawling with a powerful bash!
+$N sends $n sprawling with a powerful bash!
+
+************************
+** Kick
+************************
+105
+You kick $n so hard you end $p life!
+$N kicks YOU so hard your life ends!
+$N kicks $n so hard $p foot goes right through $n!
+Your kick flies high over $n's head.
+$N's kick flies high over YOUR head!
+$N's kick flies high over $n's head!
+You kick hits $n solidly.
+$N's kick hits YOU solidly!
+$N's kick hits $n solidly.
+
+************************
+** Bodyslam
+************************
+89
+You slam the life out of $n!
+$N slams the life out of YOU!
+$N slams the life out of $n!
+$n avoids your full body slam and you wind up on the ground!
+Your full body slam is dodged by $n, you wind up on the ground!
+$N's full body slam is dodged by $n, $N winds up on the ground!
+You throw your weight right into $n, slamming $p ass to the ground!
+You get the full brunt of $N's wieght being slammed into you and you are sent sprawling!
+$N throws $P weight right into $n, slamming $p ass to the ground!
+
+
+************************
+** Rescue
+************************
+97
+#
+#
+#
+You are unable to rescue $n.
+$N can't seem to draw your target off you!
+$N can't seem to draw $n's target's attention $N way.
+Banzai! To the rescue!
+$N bravely jumps in front of you, taking you out of harms way.
+$N bravely jumps in front of $n, taking the brunt of the attack.
+
+************************
+** HeadButt
+************************
+33
+You smash your forehead into $n splitting $p &Wskull&n!
+$N smashes $P forehead into YOUR &Wskull&n killing you!
+$N smashes $P forehead into $n's splitting $p &Wskull&n !
+You don't quite hit $p head correctly and hurt yourself!
+Your head is so hard $N headbutts you and hurts $P own head!
+$N seems to stagger a bit from a misplaced headbutt on $n!
+You smash your forhead into $n leaving a nice &rred&n mark!
+$N smashs $P forhead into YOU leaving a nice &rred&n mark!
+$N smashs $P forhead into $n leaving a nice &rred&n mark!
+
+************************
+** Berserk
+************************
+10
+You are unable to calm yourself!
+#
+#
+You fail to invoke a battle rage.
+#
+#
+You go into a mindless &rberserk&n!
+#
+$N goes into a mindless $rbersker&n!
+
+************************
+** Battle Readiness
+************************
+7
+#
+#
+#
+#
+#
+#
+You try to attack $n, but $p battle readiness makes him aware of you!
+$n tries to attack you, but you are ready for $p attack!
+#
+
+************************
+** Dragon Punch
+************************
+28
+You bend down and hit $n in the face, smashing $p jaw and ending $p life.
+$N ends YOUR life with a strong dragon punch to the face.
+$N bends down and hits $n in the face, smashing $p jaw and ending $p life.
+You bend down and attempt to punch $n in $p face, but swing wide.
+$N tries to &Rdragon punch&n YOU, but $p poor technique makes $p fist fly wide.
+$N tries to &Rdragon punch&n $n, but $P poor technique makes $P fist fly wide.
+You bend down and launch a &Rdragon punch&n right into $n's face!
+$N launches a &Rdragon punch&n at YOU and connects with YOUR face!
+$N bends down and launches a &Rdragon punch&n up into $n's face!
+
+************************
+** Quivering Palm
+************************
+55
+Placing your hands on either side of $n's head, you vibrate $p head apart!
+$N places $P hands on your head and your head virates apart!
+$N places $P hands on either side of $n's head, vibrating $p head apart!
+You can't seem to get your hands vibrating to enough to do any damage.
+#
+#
+Your palms start to &wv&Wi&wb&Wr&wa&Wt&we&n and you place them on $n's head causing considerable pain!
+$N's palms start to &wv&Wi&wb&Wr&wa&Wt&we&n then places them on YOUR head causing considerable pain!
+$N's palms start to &wv&Wi&wb&Wr&wa&Wt&we&n then places them on $n's head causing considerable pain!
+
+************************
+** Bear Hug
+************************
+8
+You wrap your arms around $n squeezing the life from $p body!
+$N wraps $P arms around you, squeezing the life from YOU!
+$N wraps $P arms around $n, squeezing the life out of $n!
+You can't seem to get your arms around $n tight enough.
+$N tries to wrap $P arms around you but is quite unsuccessful.
+$N tries to wrap $P arms around $n but is quite unsuccessful.
+You wrap your arms around $n squeezing $p body tightly!
+$N wraps $P arms around YOU squeezing your body tightly!
+$N wraps $P arms around $n squeezing $p body tightly!
+
+************************
+** Hone Weapon
+************************
+36
+You botch the hone so bad the weapon is worse than it was!
+#
+#
+You can't seem to make the weapon any better than it was.
+#
+#
+You make the weapon more deadly than it was!
+#
+#
+
+************************
+** Shield Rush
+************************
+59
+You charge $n with your shield obliterating $p body!
+$N rushes you with $P shield so hard you fall into darkness...
+$N rushes $n with $P shield obliterating $n's body!
+$n avoids your feeble rush and you fall to the ground!
+You side step $N's feeble rush!
+$n avoids $N's feeble rush and $N falls to the ground!
+You rush your shield right into $n slamming $p body to the ground!
+$N rushes $P shield right into YOU slamming YOU to the ground!
+$N rushes $P shield right into $n slamming $p body to the ground!
+
+************************
+** Intimidate
+************************
+38
+#
+$N is already intimidated enough.
+#
+You try to intimidate $n, but they just ignore you.
+$N tries to intimidate you, but you just ignore $P comments.
+$N tries to intimidate $n, but $n just ignores $N's comments.
+You intimidate $n, $p body shakes in fear.
+$N intimidates YOU, you feel scared and cowardly.
+$N intimidates $n, $p body shakes in fear.
+
+
+************************
+** Hit All
+************************
+35
+#
+#
+#
+You faulter in your ability to hit everyone in the room.
+#
+#
+You smash the next person in the room while you are hitting eveyone.
+#
+#
+
+************************
+** Disarm
+************************
+24
+You try to disarm $n, but $n strikes at you instead!
+$N tries to disarm you, but you strike back to quickly!
+$N tries to disarm $n, but $n strikes back at $N instead!
+You are unable to disarm $n's weapon.
+$N tries to disarm your, but you are just too good.
+$N tries to disarm $n, but $p grip won't give.
+You make a nice move and manage to knock $n's weapon from $p grip!
+$N makes a nice move and manages to knock YOUR weapon from YOUR grip!
+$N makes a nice move and manages to knock $n's weapon from $p grip!
+
+************************
+** Knife Turn
+************************
+41
+#
+#
+#
+#
+#
+#
+You turn your weapon as you stab causing more damage!
+As $N stabs you, $p weapon turns causing even more pain!
+$N turns $P weapon as it bites into $n's flesh, causing even more pain!
+
+************************
+** Dirt Toss
+************************
+23
+#
+#
+#
+$n closes $p eyes, your dirt only makes $p face uglier.
+You close your eyes, $N's dirt just makes your face dirty.
+$n closes $p eyes, $N dirt falls to the ground.
+You quickly reach for the ground and toss dirt at $n's face!
+$N quickly reaches for the ground and tosses dirt in YOUR face!
+$N quickly reaches for the ground and tosses dirt in $n's face!
+
+************************
+** Lay Hands
+************************
+43
+#
+#
+#
+#
+#
+#
+&WYou lay your healing hands on $n&W.&n
+&W$N&W lays $P healing hands on you.&n
+&W$N&W lays $P healing hands on $n&W.&n
+
+************************
+** Called Shot
+************************
+13
+Your called shot ends $n's life.
+$N's called shot ends your life.
+$N's called shot ends $n's life.
+Your called shot flies wide of $n.
+$N tries to make a called shot at you, but you are too nimble.
+$N tries to make a called shot at $n, but $P attack flies wide.
+Your called shot connects!
+$N's called shot connects with you!
+$N's called shot connects with $n!
+
+************************
+** Weapon Flurry
+************************
+69
+#
+#
+#
+#
+#
+#
+Your hands go into a flurry!
+$N's hands go into a flurry!
+$N's hands go into a flurry!

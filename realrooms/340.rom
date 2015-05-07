@@ -1,0 +1,658 @@
+34001 N
+&mTop of a large &Mbrain&m stand&n~
+&mFrom up here you can see the ether twisting and swirling.&n~
+340 a 0 2
+DOOR
+5
+~
+1 -1 34003
+ENDROOM
+34002 N
+&mA large &Mbrain&n stand&n~
+&mThere are long organic stems here holding up the master brain.&n~
+340 a 0 2
+DOOR
+1
+~
+1 -1 34003
+ENDROOM
+34003 N
+&mA large &Mbrain&n stand&n~
+&mThere are long organic stems here holding up the master brain.&n~
+340 a 0 2
+DOOR
+1
+~
+1 -1 34004
+DOOR
+3
+~
+1 -1 34002
+DOOR
+4
+~
+1 -1 34001
+DOOR
+5
+~
+1 -1 34007
+ENDROOM
+34004 N
+&mA large &Mbrain&n stand&n~
+&mThere are long organic stems here holding up the master brain.&n~
+340 a 0 2
+DOOR
+3
+~
+1 -1 34003
+ENDROOM
+34005 N
+&mA large &Mbrain&n stand&n~
+&mThere are long organic stems here holding up the master brain.&n~
+340 a 0 2
+DOOR
+2
+~
+1 -1 34007
+ENDROOM
+34006 N
+&mA large &Mbrain&n stand&n~
+&mThere are long organic stems here holding up the master brain.&n~
+340 a 0 2
+DOOR
+1
+~
+1 -1 34007
+ENDROOM
+34007 N
+&mA large &Mbrain&n stand&n~
+&mThere are long organic stems here holding up the master brain.&n~
+340 a 0 2
+DOOR
+0
+~
+1 -1 34005
+DOOR
+1
+~
+1 -1 34008
+DOOR
+2
+~
+1 -1 34009
+DOOR
+3
+~
+1 -1 34006
+DOOR
+4
+~
+1 -1 34003
+DOOR
+5
+~
+1 -1 34010
+ENDROOM
+34008 N
+&mA large &Mbrain&n stand&n~
+&mThere are long organic stems here holding up the master brain.&n~
+340 a 0 2
+DOOR
+3
+~
+1 -1 34007
+ENDROOM
+34009 N
+&mA large &Mbrain&n stand&n~
+&mThere are long organic stems here holding up the master brain.&n~
+340 a 0 2
+DOOR
+0
+~
+1 -1 34007
+ENDROOM
+34010 N
+&LEntrance to a large &Mbrain&n stand&n~
+&A large wooden door made of oak blocks the entrance to this fort.&n~
+340 a 0 2
+DOOR
+4
+~
+1 -1 34007
+DOOR
+1
+~
+1 -1 34018
+ENDROOM
+34011 N
+&mA large &Mmeeting place.&n~
+&mHere there are a lot of &MIllithids&m running around selling and buying.&n~
+340 al 1 2
+DOOR
+2
+~
+1 -1 34012
+ENDROOM
+34012 N
+&mA swirling path&n~
+&mThe Ether swirls and twists here.&n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34011
+DOOR
+2
+~
+1 -1 34015
+ENDROOM
+34013 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere.&n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34033
+DOOR
+1
+~
+1 -1 34014
+DOOR
+2
+~
+1 -1 34018
+DOOR
+3
+~
+1 -1 34016
+ENDROOM
+34014 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34034
+DOOR
+1
+~
+1 -1 34015
+DOOR
+2
+~
+1 -1 34019
+DOOR
+3
+~
+1 -1 34013
+ENDROOM
+34015 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34012
+DOOR
+1
+~
+1 -1 34016
+DOOR
+2
+~
+1 -1 34020
+DOOR
+3
+~
+1 -1 34014
+ENDROOM
+34016 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34036
+DOOR
+1
+~
+1 -1 34017
+DOOR
+2
+~
+1 -1 34021
+DOOR
+3
+~
+1 -1 34015
+ENDROOM
+34017 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34037
+DOOR
+2
+~
+1 -1 34022
+DOOR
+3
+~
+1 -1 34016
+ENDROOM
+34018 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34013
+DOOR
+1
+~
+1 -1 34019
+DOOR
+2
+~
+1 -1 34023
+DOOR
+3
+~
+1 -1 34010
+ENDROOM
+34019 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34014
+DOOR
+1
+~
+1 -1 34020
+DOOR
+2
+~
+1 -1 34024
+DOOR
+3
+~
+1 -1 34018
+ENDROOM
+34020 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34015
+DOOR
+1
+~
+1 -1 34021
+DOOR
+2
+~
+1 -1 34025
+DOOR
+3
+~
+1 -1 34019
+ENDROOM
+34021 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34016
+DOOR
+1
+~
+1 -1 34022
+DOOR
+2
+~
+1 -1 34026
+DOOR
+3
+~
+1 -1 34020
+ENDROOM
+34022 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34017
+DOOR
+2
+~
+1 -1 34027
+DOOR
+3
+~
+1 -1 34021
+ENDROOM
+34023 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34018
+DOOR
+1
+~
+1 -1 34024
+DOOR
+2
+~
+1 -1 34028
+DOOR
+3
+~
+1 -1 34026
+ENDROOM
+34024 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34019
+DOOR
+1
+~
+1 -1 34025
+DOOR
+2
+~
+1 -1 34029
+DOOR
+3
+~
+1 -1 34023
+ENDROOM
+34025 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34020
+DOOR
+1
+~
+1 -1 34026
+DOOR
+2
+~
+1 -1 34030
+DOOR
+3
+~
+1 -1 34024
+ENDROOM
+34026 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34021
+DOOR
+1
+~
+1 -1 34027
+DOOR
+2
+~
+1 -1 34031
+DOOR
+3
+~
+1 -1 34025
+ENDROOM
+34027 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34022
+DOOR
+2
+~
+1 -1 34032
+DOOR
+3
+~
+1 -1 34026
+ENDROOM
+34028 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34023
+DOOR
+1
+~
+1 -1 34029
+DOOR
+2
+~
+1 -1 34033
+DOOR
+3
+~
+1 -1 34031
+ENDROOM
+34029 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34024
+DOOR
+1
+~
+1 -1 34030
+DOOR
+2
+~
+1 -1 34034
+DOOR
+3
+~
+1 -1 34028
+ENDROOM
+34030 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34025
+DOOR
+1
+~
+1 -1 34031
+DOOR
+2
+~
+1 -1 34035
+DOOR
+3
+~
+1 -1 34029
+ENDROOM
+34031 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34026
+DOOR
+1
+~
+1 -1 34032
+DOOR
+2
+~
+1 -1 34036
+DOOR
+3
+~
+1 -1 34030
+ENDROOM
+34032 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34027
+DOOR
+2
+~
+1 -1 34037
+DOOR
+3
+~
+1 -1 34031
+ENDROOM
+34033 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34028
+DOOR
+1
+~
+1 -1 34034
+DOOR
+2
+~
+1 -1 34013
+DOOR
+3
+~
+1 -1 34036
+ENDROOM
+34034 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34029
+DOOR
+1
+~
+1 -1 34035
+DOOR
+2
+~
+1 -1 34014
+DOOR
+3
+~
+1 -1 34033
+ENDROOM
+34035 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34030
+DOOR
+1
+~
+1 -1 34036
+DOOR
+2
+~
+1 -1 34014
+DOOR
+3
+~
+1 -1 34034
+ENDROOM
+34036 N
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34031
+DOOR
+1
+~
+1 -1 34037
+DOOR
+2
+~
+1 -1 34016
+DOOR
+3
+~
+1 -1 34035
+ENDROOM
+34037 Y
+&mA patch of &Mswirling &mand &Btwisting &mEther&n~
+&mA patch of &Mswirling &mand &Btwisting &mEther is here with &MIllithids&m running around everywhere. &n~
+340 a 2 2
+DOOR
+0
+~
+1 -1 34032
+DOOR
+5
+~
+1 -1 1000099
+DOOR
+2
+~
+1 -1 34017
+DOOR
+3
+~
+1 -1 34036
+ENDROOM
+ENDFILE

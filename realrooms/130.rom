@@ -1,0 +1,679 @@
+13001
+&LThe holding pens&n~
+&LHere is where the gladiators and everyone who is going to fight is kept until it's time for the show.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13005
+ENDROOM
+13002
+&LThe holding pens&n~
+&LHere is where the gladiators and everyone who is going to fight is kept until it's time for the show.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13005
+ENDROOM
+13003
+&LThe holding pens&n~
+&LHere is where the gladiators and everyone who is going to fight is kept until it's time for the show.
+A large gate bars the enterance to the arena.&n~
+130 do 0 1
+DOOR
+0
+~
+1 -1 13005
+ENDROOM
+13004
+&LStaging area&n~
+&LHere is where the gladiators and everyone who is going to fight is kept until it's time for the show.&n~
+130 do 0 1
+DOOR
+0
+~ 
+1 -1 13005
+ENDROOM
+13005
+&WThe Arena&n~
+&RBones, rotting flesh, decaying corpses and blood red sand is just part of what is strewn about the area.
+Here it's kill or be killed, it's live and let die.  The area is the amusment of the local nobels and the last
+breath for most thieves who are caught and put in here.&n~
+130 o 0 1
+DOOR
+2
+door~
+c -1 13012
+ENDROOM
+13006
+&WGround-Level seating.&n~
+&WCheering wildly this is where all the upper class visitors come to watch the area.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13007
+DOOR
+2
+~
+1 -1 13009
+ENDROOM
+13007
+&WGround-Level seating.&n~
+&WCheering wildly this is where all the upper class visitors come to watch the area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13016
+DOOR
+1
+~
+1 -1 13008
+DOOR
+3
+~
+1 -1 13006
+ENDROOM
+13008
+&WGround-Level seating.&n~
+&WCheering wildly this is where all the upper class visitors come to watch the area.&n~
+130 o 0 1
+DOOR
+2
+~
+1 -1 13010
+DOOR
+3
+~
+1 -1 13007
+ENDROOM
+13009
+&WGround-Level seating.&n~
+&WCheering wildly this is where all the upper class visitors come to watch the area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13006
+DOOR
+2
+~
+1 -1 13011
+ENDROOM
+13010
+&WGround-Level seating.&n~
+&WCheering wildly this is where all the upper class visitors come to watch the area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13008
+DOOR
+2
+~
+1 -1 13013
+ENDROOM
+13011
+&WGround-Level seating.&n~
+&WCheering wildly this is where all the upper class visitors come to watch the area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13009
+DOOR
+1
+~
+1 -1 13012
+ENDROOM
+13012
+&WEnterance to the Arena.&n~
+&WCheering wildly this is where all the upper class visitors come to watch the area.&n~
+130 o 0 1
+DOOR
+0
+door gate~
+c -1 13005
+DOOR
+1
+~
+1 -1 13013
+DOOR
+3
+~
+1 -1 13011
+ENDROOM
+13013
+&WGround-Level Seating.&n~
+&WCheering wildly this is where all the upper class visitors come to watch the area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13010
+DOOR
+3
+~
+1 -1 13012
+ENDROOM
+13014
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13015
+DOOR
+2
+~
+1 -1 13019
+DOOR
+4
+~
+1 -1 13030
+ENDROOM
+13015
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13016
+DOOR
+3
+~
+1 -1 13014
+ENDROOM
+13016
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 1006006
+DOOR
+1
+~
+1 -1 13017
+DOOR
+2
+~
+1 -1 13007
+DOOR
+3
+~
+1 -1 13015
+ENDROOM
+13017
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13018
+DOOR
+3
+~
+1 -1 13016
+ENDROOM
+13018
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+2
+~
+1 -1 13027
+DOOR
+3
+~
+1 -1 13017
+DOOR
+4
+~
+1 -1 13034
+ENDROOM
+13019
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13014
+DOOR
+2
+~
+1 -1 13020
+ENDROOM
+13020
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13019
+DOOR
+2
+~
+1 -1 13021
+DOOR
+3
+~
+1 -1 1006105
+ENDROOM
+13021
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13020
+DOOR
+2
+~
+1 -1 13022
+ENDROOM
+13022
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13021
+DOOR
+1
+~
+1 -1 13023
+DOOR
+4
+~
+1 -1 13041
+ENDROOM
+13023
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13024
+DOOR
+3
+~
+1 -1 13022
+ENDROOM
+13024
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13025
+DOOR
+2
+~
+1 -1 1006206
+DOOR
+3
+~
+1 -1 13023
+ENDROOM
+13025
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13026
+DOOR
+3
+~
+1 -1 13024
+ENDROOM
+13026
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13029
+DOOR
+3
+~
+1 -1 13025
+DOOR
+4
+~
+1 -1 13045
+ENDROOM
+13027
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13018
+DOOR
+2
+~
+1 -1 13028
+ENDROOM
+13028
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13027
+DOOR
+1
+~
+1 -1 1006107
+DOOR
+2
+~
+1 -1 13029
+ENDROOM
+13029
+&WOuter rim of the Coliseum.&n~
+&WAround the outside of the seating area are a bunch of food stands selling everything
+from peanuts to Pickeled Imp's Wings.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13028
+DOOR
+2
+~
+1 -1 13026
+ENDROOM
+13030
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13031
+DOOR
+2
+~
+1 -1 13035
+DOOR
+5
+~
+1 -1 13014
+ENDROOM
+13031
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13032
+DOOR
+3
+~
+1 -1 13030
+ENDROOM
+13032
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13033
+DOOR
+3
+~
+1 -1 13031
+ENDROOM
+13033
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13034
+DOOR
+3
+~
+1 -1 13032
+ENDROOM
+13034
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+2
+~
+1 -1 13036
+DOOR
+3
+~
+1 -1 13033
+DOOR
+5
+~
+1 -1 13036
+ENDROOM
+13035
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13030
+DOOR
+2
+~
+1 -1 13037
+ENDROOM
+13036
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13034
+DOOR
+2
+~
+1 -1 13038
+ENDROOM
+13037
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13035
+DOOR
+2
+~
+1 -1 13039
+ENDROOM
+13038
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13036
+DOOR
+2
+~
+1 -1 13040
+ENDROOM
+13039
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13037
+DOOR
+2
+~
+1 -1 13041
+ENDROOM
+13040
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13038
+DOOR
+2
+~
+1 -1 13045
+ENDROOM
+13041
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13039
+DOOR
+1
+~
+1 -1 13042
+DOOR
+5
+~
+1 -1 13022
+ENDROOM
+13042
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13043
+DOOR
+3
+~
+1 -1 13041
+ENDROOM
+13043
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13044
+DOOR
+3
+~
+1 -1 13042
+ENDROOM
+13044
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+1
+~
+1 -1 13045
+DOOR
+3
+~
+1 -1 13043
+ENDROOM
+13045
+&WUpper level seating.&n~
+&WUp here is a long view of the action in the arena.  The stench given away by the crowd lets
+you know that this is more of the peasant area.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13040
+DOOR
+3
+~
+1 -1 13044
+DOOR
+5
+~
+1 -1 13026
+ENDROOM
+13046
+&LThe holding pens&n~
+&LHere is where the gladiators and everyone who is going to fight is kept until it's time for the show.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13005
+ENDROOM
+13047
+&LThe holding pens&n~
+&LHere is where the gladiators and everyone who is going to fight is kept until it's time for the show.&n~
+130 o 0 1
+DOOR
+0
+~
+1 -1 13005
+ENDROOM
+ENDFILE

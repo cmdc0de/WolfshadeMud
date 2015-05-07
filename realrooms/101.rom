@@ -1,0 +1,43 @@
+10101
+&rThe Fugue Plane&n~
+&rHere you can see and hear all the moaning and praying from the souls waiting to be received by their god.&n~
+101 dgno 1 6
+DOOR
+0
+door~
+c -1 10102
+DOOR
+1
+~
+a -1 10102
+DOOR
+2
+~
+a -1 10102
+DOOR
+3
+~
+a -1 10102
+ENDROOM
+10102
+&rThe Fugue Plane&n~
+&rHere you can see and hear all the moaning and praying from the souls waiting to be received by their god.&n~
+101 dgno 1 6
+DOOR
+0
+door~
+c -1 10101
+DOOR
+1
+~
+a -1 10101
+DOOR
+2
+~
+a -1 10101
+DOOR
+3
+~
+a -1 10101
+ENDROOM
+ENDFILE

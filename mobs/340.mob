@@ -1,0 +1,85 @@
+34001
+illithid commoner~
+&MIllithid Commoner&n~
+&MAn Illithid Commoner is here.&n~
+&MAn Illithid Commoner is here.&n~
+&MThis Illithid Commoner walks around here.&n~
+eklm a 0 
+27 13 25
+7 -50 700
+2 6 10
+0 0 j j 0
+ENDMOB
+34002
+Illithid worker~
+&MIllithid Worker&n~
+&MAn Illithid Worker is here.&n~
+&MAn Illithid Worker is here.&n~
+&MThis Illithid Worker walks around here.&n~
+eklm a 0 
+27 13 30 
+6 -60 800
+2 6 10
+0 0 j j 0
+ENDMOB
+34003
+illithid worshiper~
+&MIllithid Worshiper&n~
+&MAn Illithid Worshiper is here.&n~
+&MAn Illithid Worshiper is here.&n~
+&MThis Illithid Worshiper walks around here.&n~
+eklm a 0 
+27 13 35 
+5 -70 900
+2 8 10
+0 0 j j 0
+ENDMOB
+34004
+illithid merchant~
+&MIllithid Merchant&n~
+&MAn Illithid Merchant is here.&n~
+&MAn Illithid Merchant is here.&n~
+&MThis Illithid Merchant walks around here.&n~
+abcklm a 0 
+27 13 50 
+1 -100 2000
+4 5 20
+5000 50 j j 0
+ENDMOB
+34005
+illithid noble~
+&MIllithid Noble&n~
+&MAn Illithid Noble is here.&n~
+&MAn Illithid Noble is here.&n~
+&MThis Illithid Noble walks around here.&n~
+abcklm 0 0 
+27 13 28 
+8 -40 700
+2 5 10
+200 0 j j 0
+ENDMOB
+34006
+illithid high noble~
+&MIllithid High Noble&n~
+&MAn Illithid High Noble is here.&n~
+&MAn Illithid High Noble is here.&n~
+&MThis Illithid High Noble walks around here.&n~
+abcklm 0 0 
+27 13 32 
+8 -30 900
+3 5 10
+400 0 j j 0
+ENDMOB
+34007
+illithid master flayer~
+&MIllithid Master Flayer&n~
+&MAn Illithid Master Flayer is here.&n~
+&MAn Illithid Master Flayer is here.&n~
+&MThis Illithid Master Flayer walks around here.&n~
+abcklmq 0 0 
+27 13 50 
+3 -70 1100
+4 5 10
+500 0 j j 0
+ENDMOB
+ENDFILE

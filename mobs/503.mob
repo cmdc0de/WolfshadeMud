@@ -1,0 +1,109 @@
+50301
+thief kyshar rogue~
+&rKyshar &Lthe Black Rogue&n~
+&rKyshar &Lthe Black Rogue &ris here making plans for tomorrow night.&n~
+&ris here making plans for tomorrow night.&n~
+&g Here is a man, dressed in black, medium hight and build and sports a thin mustache.&n~
+abcde abej -1000 
+20 4 55 
+0 -100 5000
+2 50 10
+20000 10000 j j 1
+ENDMOB
+50302
+woman Noalie~
+&mNoalie &cthe Dark&n~
+&mNoalie &rthe Dark &mis here helping her man.&n~
+&gis here helping her man.&n~
+&cThis woman is beautiful, gorgeous and and powerful.&n~
+abcde abe -1000
+20 4 55 
+0 -100 5000
+2 50 10
+20000 10000 j j 2
+ENDMOB
+50303
+weapons master human~
+&rThe Den's &yWeapon &rMaster&n~
+&rThe Den's &yWeapon &rMaster stands here counting his weapons.&n~
+&rMaster stands here counting his weapons.&n~
+This large human warrior is buried in his work and does not like to be disturbed.~
+abcdle abgk -1000 
+20 4 50 
+0 -100 4000
+10 5 10
+50000 0 j j 1
+ENDMOB
+50304
+cleric human~
+&bA small &ccleric&n~
+&bA small human &ccleric &bsits here all ragged and malnourished.&n~
+&bsits here all ragged and malnourished.&n~
+This small human looks like he hasn't eaten in days.  His face is dirty and his eyes show much abuse.~
+abcd ab 0 
+20 2 5 
+0 -100 4000
+10 5 50
+0 0 j j 1
+ENDMOB
+50305
+guard human~
+&mA Den &g Guard&n~
+&mThe Den's &gGuard &mis here keeping an eye out for you.&n~
+&mis here keeping an eye out for you.&n~
+This human stands here looking for trouble and looking really..... ugly.~
+ecedjp ab -1000 
+20 1 50 
+0 -100 4000
+8 5 5
+5000 0 j j 1
+ENDMOB
+50306
+thief human~
+&mA Den &rThief&n~
+&mThe Den's &rthief &mslides in and out of the shadows.&n~
+&mslides in and out of the shadows.&n~
+This human stands here looking for trouble and looking really..... ugly.~
+acdejp ab -1000
+20 4 50 
+0 -100 4200
+8 5 5
+1000 0 j j 1
+ENDMOB
+50307
+elf old grey~
+&cAn Old &bElf&n~
+&cAn old &bElf &cis chained to the wall here.&n~
+&cis chained to the wall here.&n~
+This old elf has a long beard and seems to have been here for ages.~
+abce acd 1000 
+12 1 45 
+0 -100 3500
+5 5 2
+0 0 j j 1
+ENDMOB
+50308
+strategist strategy human den~
+&gThe &wStrategist&n~
+&gThe Den's &wstrategy &g maker stands here.&n~
+&gstands here.&n~
+This human stands here looking for trouble and looking really..... ugly.~
+abcde abc -1000 
+20 3 50 
+0 -100 4000
+8 5 5
+10000 0 j j 1
+ENDMOB
+50309
+blacksmith human~
+&gThe &mblacksmith&n~
+&gThe &mblacksmith &g is here looking dirty and tired.&n~
+&gis here looking dirty and tired.&n~
+This man is tired of work.~
+abcde abc -1000 
+20 1 45 
+0 -100 3000
+5 5 2
+5000 0 j j 1
+ENDMOB
+ENDFILE

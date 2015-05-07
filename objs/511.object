@@ -1,0 +1,51 @@
+51101
+smelly burlap pants~
+&ysome smelly burlap pants&n~
+&ysome smelly burlap pants&n~
+&ySome smelly burlap pants lies here.&n~
+6 0 t
+6
+3 10 6
+ENDOBJ
+51102
+petrified wooden club~
+&ya &Wpetrified &ywooden club&n~
+&ya &Wpetrified &ywooden club&n~
+&yA &Wpetrified &ywooden club lies here.&n~
+10 0 o
+2 2 2 9
+2 2 1
+ENDOBJ
+51103
+patch grass~
+&Ga patch of grass&n~
+&Ga patch of grass&n~
+&GA patch of grass grows up out of the bog here.&n~
+10 a 0
+0
+1000 5 5
+ENDOBJ
+51104
+smelly ragged cloak~
+&ya smelly &gragged &ycloak&n~
+&ya smelly &gragged &ycloak&n~
+&yA smelly &gragged &ycloak lies here.&n~
+6 0 y
+3
+1 100 4
+AFFECT
+18 20
+8 -5
+ENDOBJ
+51105
+battered pendant~
+&wa &mbattered &rpendant&n~
+&wa &mbattered &rpendant&n~
+&wA &mbattered &rpendant lies here.&n~
+6 0 g
+2
+2 1000 4
+AFFECT
+22 1
+ENDOBJ
+ENDFILE

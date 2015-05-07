@@ -1,0 +1,132 @@
+205001
+thick brown potion~
+&ya think brown potion&n~
+&ya think brown potion&n~
+&yA think brown potion lies here.&n~
+11 0 q
+5 5 -1 -1 -1
+1 20000 1
+ENDOBJ
+205002
+thick blue potion~
+&Ba think blue potion&n~
+&Ba think blue potion&n~
+&BA think blue potion lies here.&n~
+11 0 q
+6 4 -1 -1 -1
+1 10000 1
+ENDOBJ
+205003
+ice cold death shroud~
+&Lan &Wice &Ccold &rdeath &Lshroud&n~
+&Lan &Wice &Ccold &rdeath &Lshroud&n~
+&LAn &Wice &Ccold &rdeath &Lshroud lies here.&n~
+6 cd y
+15
+1 30000 1
+AFFECTS
+16 10
+17 40
+ENDOBJ
+205004
+ice cold orb~
+&Lan &Wice &Ccold &rorb&n~
+&Lan &Wice &Ccold &rorb&n~
+&LAn &Wice &Ccold &rorb &Llies here.~
+10 cd o
+2 2 3 3 8
+2 2050 0
+AFFECTS
+17 20
+ENDOBJ
+205005
+gold stud~
+&ya &Ygold &ystud&n~
+&ya &Ygold &ystud&n~
+&yA &Ygold &ystud lies here.~
+6 0 c
+4
+2 3000 6
+AFFECTS
+22 4
+ENDOBJ
+205006
+gold ring etched tick~
+&ya &Ygold &yring etched with tick marks&n~
+&ya &Ygold &yring etched with tick marks&n~
+&yA &Ygold &yring etched with tick marks lies here.&n~
+6 0 l
+3
+2 300 6
+AFFECTS
+22 3
+ENDOBJ
+205007
+thin long sword~
+&wa &Bthin &Wlong sword&n~
+&wa &Bthin &Wlong sword&n~
+&wA &Bthin &Wlong sword lies here.&n~
+10 gjkln mn
+3 3 3 4 4
+2 30000 6
+AFFECTS
+18 10
+23 -10
+24 -10
+25 -10
+ENDOBJ
+205008
+runed tunic~
+&ma &Mruned &mtunic&n~
+&ma &Mruned &mtunic&n~
+&mA &Mruned &mtunic lies here.&n~
+6 0 h
+8
+1 4000 1
+AFFECTS
+16 2
+17 10
+ENDOBJ
+205009
+moss covered helmet~
+&ga &Gmoss &gcovered helmet&n~
+&ga &Gmoss &gcovered helmet&n~
+&gA &Gmoss &gcovered helmet lies here.&n~
+6 0 a
+3
+1 4000 1
+AFFECTS
+2 4
+ENDOBJ
+205010
+blue dagger~
+&La &Bblue &Ldagger&n~
+&La &Bblue &Ldagger&n~
+&LA &Bblue &Ldagger lies here.&n~
+10 0 mn
+2 2 2 3 2
+1 3000 1
+AFFECTS
+21 1
+ENDOBJ
+205011
+red dagger~
+&La &Rred &Ldagger&n~
+&La &Rred &Ldagger&n~
+&LA &Rred &Ldagger lies here.&n~
+10 0 mn
+2 2 2 2 2
+3 2050 1
+AFFECTS
+22 1
+ENDOBJ
+205012
+steel pipe~
+&La &wsteel &Lpipe&n~
+&La &wsteel &Lpipe&n~
+&LA &wsteel &Lpipe lies here.&n~
+10 0 mn
+2 2 3 2 8
+2 2050 1
+ENDOBJ
+ENDFILE

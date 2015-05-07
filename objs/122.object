@@ -1,0 +1,230 @@
+12201
+serving tray~
+&ya serving tray&n~
+&ya serving tray&n~
+&yA serving tray lies here.&n~
+10 0 o
+1 2 1 2 8
+3 20 1
+ENDOBJ
+12202
+apron~
+&yan apron&n~
+&yan apron&n~
+&yAn apron lies here.&n~
+6 0 y
+5
+1 10 1
+ENDOBJ
+12203
+small sceptre~
+&Wa &Csmall sceptre&n~
+&Wa &Csmall sceptre&n~
+&WA &Csmall sceptre lies here.&n~
+10 0 mn
+2 3 2 3 8
+1 300 1
+ENDOBJ
+12204
+strong diamond studded steel mail~
+&wsome strong &Wdiamond &Lstudded &wsteel mail&n~
+&wsome strong &Wdiamond &Lstudded &wsteel mail&n~
+&wSome strong &Wdiamond &Lstudded &wsteel mail lies here.&n~
+6 0 h
+20
+2 2000 0
+AFFECTS
+17 10
+18 30
+21 1
+22 1
+ENDOBJ
+12205
+strong diamond studded steel boots~
+&wsome strong &Wdiamond &Lstudded &wsteel boots&n~
+&wsome strong &Wdiamond &Lstudded &wsteel boots&n~
+&wSome strong &Wdiamond &Lstudded &wsteel boots lies here.&n~
+6 0 u
+7
+2 3000 6
+AFFECTS
+2 5
+3 5
+4 5
+5 5
+ENDOBJ
+12206
+strong diamond studded steel armplates~
+&wsome strong &Wdiamond &Lstudded &wsteel arm plates&n~
+&wsome strong &Wdiamond &Lstudded &wsteel arm plates&n~
+&wSome strong &Wdiamond &Lstudded &wsteel arm plates lie here.&n~
+6 0 j
+2
+2 300 6
+AFFECTS
+16 2
+17 20
+ENDOBJ
+12207
+strong diamond studded steel gauntlets~
+&wsome strong &Wdiamond &Lstudded &wsteel gauntlets&n~
+&wsome strong &Wdiamond &Lstudded &wsteel gauntlets&n~
+&wSome strong &Wdiamond &Lstudded &wsteel gauntlets lie here.&n~
+6 0 v
+5
+2 300 6
+AFFECTS
+21 2
+22 1
+ENDOBJ
+12208
+small wedding band~
+&Ya wedding band&n~
+&Ya wedding band&n~
+&YA wedding band lies here.&n~
+6 0 l
+2
+1 4000 1
+AFFECTS
+16 2
+17 5
+18 -40
+ENDOBJ
+12209
+red skull shaped earring~
+&La &Rred &Wskull &Lshaped earring&n~
+&La &Rred &Wskull &Lshaped earring&n~
+&LA &Rred &Wskull &Lshaped earring lies here.&n~
+6 0 c
+0
+1 4000 1
+AFFECTS
+21 2
+22 2
+ENDOBJ
+12210
+nut hammer~
+&ya nut hammer&n~
+&ya nut hammer&n~
+&yA nut hammer lies here.&n~
+10 0 mn
+2 2 2 2 8
+3 3000 1
+ENDOBJ
+12211
+poorly crafted katana~
+&Wa &wpoorly &Wcrafted katana&n~
+&Wa &wpoorly &Wcrafted katana&n~
+&WA &wpoorly &Wcrafted katana lies here.&n~
+10 0 mn
+2 2 2 2 4
+3 200 1
+ENDOBJ
+12212
+poorly crafted war hammer~
+&Wa &wpoorly &W crafted war hammer&n~
+&Wa &wpoorly &W crafted war hammer&n~
+&WA &wpoorly &W crafted war hammer lies here.&n~
+10 0 mn
+2 2 3 2 8
+2 2000 1
+ENDOBJ
+12213
+glowing purple hat~
+&ma &Mglowing &mpurple hat&n~
+&ma &Mglowing &mpurple hat&n~
+&mA &Mglowing &mpurple hat lies here.&n~
+6 0 a
+0
+2 3000 6
+AFFECTS
+5 6
+6 3
+ENDOBJ
+12214
+wristband fuzzy wool~
+&ma &Wfuzzy &wwool &mwristband&n~
+&ma &Wfuzzy &wwool &mwristband&n~
+&mA &Wfuzzy &wwool &mwristband lies here.&n~
+6 0 k
+2
+2 3000 6
+ENDOBJ
+12215
+wristband fuzzy belt~
+&ma &Wfuzzy &wwool &mbelt&n~
+&ma &Wfuzzy &wwool &mbelt&n~
+&mA &Wfuzzy &wwool &mbelt lies here.&n~
+6 0 r
+4
+2 3000 6
+ENDOBJ
+12216
+chain choker~
+&Ca &wchain &Lchoker&n~
+&Ca &wchain &Lchoker&n~
+&CA &wchain &Lchoker lies here.&n~
+6 0 g
+1
+1 3000 1
+ENDOBJ
+12217
+small buckler~
+&wa &Lsmall buckler&n~
+&wa &Lsmall buckler&n~
+&wA &Lsmall buckler lies here.&n~
+6 0 p
+5
+1 2000 1
+ENDOBJ
+12218
+small stick dagger~
+&wa &ystick &wnamed '&ydagger&w'&n~
+&wa &ystick &wnamed '&ydagger&w'&n~
+&wA &ystick &wlies here.&n~
+10 0 mn
+1 4 1 4 2
+3 10 1
+ENDOBJ
+12219
+matte grey leather armor~
+&wsome &Lmatte grey &yleather armor&n~
+&wsome &Lmatte grey &yleather armor&n~
+&wSome &Lmatte grey &yleather armor lies here.&n~
+6 0 h
+10
+5 2000 6
+ENDOBJ
+12220
+matte grey leather pants~
+&wsome &Lmatte grey &yleather pants&n~
+&wsome &Lmatte grey &yleather pants&n~
+&wSome &Lmatte grey &yleather pants lie here.&n~
+6 0 t
+2
+2 3000 6
+AFFECTS
+2 4
+ENDOBJ
+12221
+matte grey leather gloves~
+&wsome &Lmatte grey &yleather gloves&n~
+&wsome &Lmatte grey &yleather gloves&n~
+&wSome &Lmatte grey &yleather gloves lie here.&n~
+6 0 v
+1
+2 3000 6
+AFFECTS
+21 1
+22 -1
+ENDOBJ
+12222
+matte grey leather cloak~
+&wa &Lmatte grey &yleather cloak&n~
+&wa &Lmatte grey &yleather cloak&n~
+&wA &Lmatte grey &yleather cloak lies here.&n~
+6 0 y
+2
+1 4000 1
+ENDOBJ
+ENDFILE

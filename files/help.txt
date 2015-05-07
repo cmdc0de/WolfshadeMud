@@ -1,0 +1,2176 @@
+#
+CLASS
+
+There are twelve races to choose from in Wolfshade.  The following is a
+list:
+
+	Anti-Paladin, Cleric, Defiler, Druid, Empath, Mage, Paladin,
+	Psionicist, Ranger, Rogue, Shaman, Warrior.
+
+See also: RACE, help <class>
+#
+RACE
+
+Wolfshade's race system is divided into four catagories: good, neutral,
+evil, and alien.  The following is a list of each catagory and its races.
+
+Good 	-	Gnome, Grey Elf, Kender, Dwarf, Brownie, Pixie, Centaur,
+		Saurial, and Half-Grey Elf.
+
+Neutral -	Human, Minotaur, Half-Orc, Barbarian, Kenku, and Mul.
+
+Evil	-	Troll, Ogre, Orc, Gnoll, Duergar, Drow Elf, Half-Drow Elf,
+		Githyanki, Draconian, and Imp.
+
+Alien	-	Thri-Kreen, Illithid.
+
+See also: help <race>
+#
+BASH
+
+The success of a bash depends upon how well you are learned.  To bash
+someone is to attempt to 'knock' that person over.  If you succeed you
+will inflict minor damage, and cause the victim to fall on it's rear.
+The victim will be unable to issue any commands for a time.  If you
+miss you loose your balance and fall.  A bash makes you unable to
+type commands for a time.  Note that hitting a person who is
+resting/sitting will inflict more damage.
+
+See also: KICK, RESCUE
+#
+FRAG
+
+Wolfshade's frag system is a 4 sided race war.  Basically if you can't see 
+the other
+players name you have a frag.  Unless they are below level 20 or they are 
+more than 15
+level below you.
+How is score kept?  Well if you are solo (ie not grouped) and you are the 
+killer you get
+1.5 frags.  If you are grouped you get 1 frag and all members of your group 
+get 1/# of members
+in group.  If you get fragged you always lose one.
+
+type 'fraglist' to see the score board
+PC vs PC damage is based on the current year:
+"Year of the bunny",		45 % of damage done to another PC
+"Year of the lamb",		50 %
+"Year of the snake",		55 %
+"Year of the badger",		60 %
+"Year of the tiger",		65 %
+"Year of the wounded",		70 %
+"Year of the massacre",		75 %
+"Year of the &rbloody&n",	80 %
+
+#
+search
+
+Search allows you to find hidden objects, doors, and characters.
+Syntax:
+search
+search <Object Name>
+
+if you use search <object name> you will search a container for a hidden 
+object...this includes corpses
+if you just use search then you will search for hidden characters and doors
+
+#
+LIGHT
+Concept:
+See chart below.  Room brightness is determined by size of room and number 
+of light sources.
+
+	vision type    |     LIGHT LEVEL  | Can See
+	ULTRAVISION    |      DARK        | YES
+	INTRAVISION    |      Dark        | RED dots
+	day sight      |      dark        | no
+	ultravision    |      lit         | % chance to see characters in the room 
+and room name
+	intravision    |      lit         | red dots
+	day sight      |      lit         | % chance to see characters in the room 
+and room name
+	ultravision    |      bright      | no
+	infravision    |      bright      | no (it's all hot)
+	day sight      |      bright      | yes
+   day and ultravision |      lit         | yes
+
+#
+ENTER
+
+Usage: enter [place]
+
+If you type 'enter' while you are outdoors, you'll enter any nearby shelter.
+You can also follow 'enter' with an argument; for example, 'enter window'.
+
+#
+EQUIPMENT
+
+Usage: equipment
+Gives you a list of all the equipment you're wearing, holding, and wielding.
+See also: INVENTORY, REMOVE, WEAR
+
+#
+EXAMINE
+
+Usage: examine <thing to examine>
+May give you some valuable information about an item or monster.
+See also: LOOK
+#
+GET
+
+Usage: get <object>
+       get all [object]
+       get all all.<object>
+       get all.<object> all.<object>
+
+If you find something interesting on the ground, you may use 'get' to pick 
+it up.
+'get' can also be used to extract items from containers.
+Examples:
+  > get sword
+  > get all pack
+  > get all all.bag
+  > get all.bread all.bag
+
+See also: DROP, PUT
+#
+GIVE
+Usage: give <object> <victim>
+       give <number> coins <victim>
+
+If you feel benevolent, you may give some stuff to someone in need.
+  > give all ras
+  > give bread doctor
+  > give all.bronze mirlen
+  > give 40000 coins nia
+
+#
+INVENTORY
+
+Usage: inventory
+
+If you're uncertain about what you're carrying, or simply want to check
+that no thieves have got to your backpack.
+
+See also: EQUIPMENT, GRAB, HOLD, REMOVE, WEAR
+#
+Anti-Paladin
+
+The Anti-Paladins in Wolfshade are the good holy warriors.
+These warriors must worship a God of Wolfshade and will receive
+the same benefits to their spells as clerics do. Anti-Paladins
+must remain in good standing with their God.  A God may choose
+not have Anti-Paladins of his ethos, for example, Duth the
+Barbarian God of Healing may not want Anti-Paladins for he is an
+Good God.  Anti-Paladins do not receive a bash loss when wielding
+a 2 handed weapon and have innate abilities to detect alignment,
+protection from good and summon a mount.  There is no subclass
+for the Anti-Paladin like there is with the Warrior, a Anti-Paladin
+is a Holy Warrior and may receive benefits from their God for being
+one of their chosen.  Keep in mind though that the Anti-Paladin must
+be in good standing with their God for harsh punishments may come as
+quickly and easily as good rewards from their God.  Anti-Paladins also
+entertain a number of Spells, mostly clerical spells.  Lastly the
+Anti-Paladin has the vampiric touch ability, which can restore a
+fair amount of hps to him/herself every time he/she hits an enemy
+with his/her hands.
+
+These spells are:
+
+Level		Name
+Level 1: 	Curse
+
+Level 6:	Spirit Armor
+
+Level 11:	Cause Light Wounds
+
+Level 16:	Cause Serious Wounds
+
+Level 21:	Turn Undead
+
+Level 26:	Divine Armor
+
+Level 31:	Harm
+
+Level 36:	Destroy Undead
+
+Level 41:	Full Harm
+
+Level 46:	Unholy Word
+		Arkan's Battle Cry
+#
+CLERIC
+
+The Clerics of Wolfshade are the most powerful healers.
+The are strong in their spells because of the presence of their god.
+The cleric casts his/her spells after they have prayed for them to
+their god.  A cleric's choice of God greatly affects the spell
+outcome.  A Cleric must choose his/her god upon character creation.
+The cleric can change gods but at a cost.  Whenever a new god comes
+into the realm a "profile" will be created for that new god.
+
+If a cleric chooses:	He/She gains:			He/She Loses:
+Arkan			Better Offensive Spells		Worse Defensive Spells
+Duth			Better Healing Spells		Worse Offensive Spells
+Guk			Better Defensive Spells		Worse Offensive Spells
+
+Example:  Gundledorf is a Gnome Cleric.  He's a cleric of Guk.
+Flimberstein is also a Gnome Cleric but he decided to be a cleric
+of Arkan.  Gundledorf casts armor on himself, it gives him at -30
+to his ac, however Flimberstein casts it and only recieves a -10 to
+his ac.  On the other hand, Flimberstein casts full harm on a mob and
+does between 400 and 600 points of damage, where Gundledorf's full
+harm only does between 200 and 400.
+
+The Spells:
+Level 1:		Name			Effect
+		Spirit Armor		Reduces Target's AC
+		Create Food		Creates food in the room
+		Create Water		Creates water in a container
+		Cure Light Wounds	Restores a few hp to target
+		Cause Light Wounds	Causes a little damage to target
+		Cure poison		Cures target from poison
+
+Level 6:	Cure Serious Wounds	Restores a bit of hps to target
+		Cause Serious Wounds	Causes a bit of damage to target
+		Vigorize Light		Restores a few mps to target
+		Fatigue Light		Removes a few mps from target
+		Bless			Gives target +'s to hit and dam
+		Curse			Reduces target +'s to hit and dam
+
+Level 11:	Cure Critical Wounds	Restores a lot of hps to target
+		Cause Critical Wounds	Causes a lot of damage to target
+		Turn Undead		Can turn/hurt/destroy undead
+		Vigorize Serious	restores a bit of mps to target
+		Fatigue serious		Removes a bit mps from target
+
+Level 16:	Dispel Magic		Dispel's Magic
+		Vigorize Critical	restores a lot of mps to target
+		Fatigue Cricitcal	Removes a lot mps from target
+
+Level 21:	Heal			restores a good amount of hp's to target
+		Harm			Medium Offensive
+		Destroy Undead		High Dmg to Undead
+
+Level 26:	Cure			Cures target from poison/disease/etc.
+		Divine armor		More powerful armor spell
+		Full Vigorize		Restores all mps to target
+
+Level 31:	Full Heal		Restores a very good amount to hp's to target
+		Full Harm		Major Offensive
+		Full Fatigue		Removes all mps from target
+
+Level 36:	Holy Word		Area Damage to Evils
+		Unholy Word		Area Damage to Goods
+		Mass Heal		Area Heal
+		Mass Vigorize		restores all mps to people in room
+
+Level 41:	Flamestrike		Major Offensive
+		Word of Recall		Returns caster to home
+		Arkan's Battle Cry	Gives +hit and +dam to group
+
+Level 46:	Resurrection		Returns a corpse to a pc , giving back most hp lost 
+from death
+		Divine Intervention	Gives room invisibility/di/fly only if god is on
+		Guk's Mantle		Gives Divine armor to group
+		Duth's Warmth		Gives full heal to group
+#
+Defiler
+
+The Defilers in Wolfshade are much like a ranger in any other mud,
+except they are evil.  The defiler is a cave-dweller, weapons master
+and master hitter.  The defiler can be evil only.  The defiler also
+has the ability to a few select mage-type spells to add to his/her
+abilities.  Defilers have an innate ability to sneak in any
+underground area and can summon animals at higher levels.
+
+Defilers have these abilities added to that of a warrior:
+	Awareness
+	Track
+
+The Defiler spells are:
+
+Level		Name
+Level 1: 	Armor
+
+Level 6:	Magic Missile
+
+Level 11:	Minor Creation
+		Curse
+
+Level 16:	Dispel Magic
+
+Level 21:	Lighting Bolt
+
+Level 26:	Haste
+
+Level 31:	Barkskin
+		Coldshield
+
+Level 36:	Faerie Fire
+
+Level 41:	Faerie Flight
+
+Level 46:	Camouflage
+#
+Druid
+
+The Druid of Wolfshade is a basically a neutral warrior, a neutral
+Ranger if you will.  The druid is a warrior who knows that evil and
+good will always exist and does everything he can to balance the
+power.  The Druid's spells are a culmination of clerical and mage
+spells, but all have to deal with the preservation of nature.  A
+Druid must always stay neutral, if his/her alignment slips too much
+to one side, serious retribution can be made be that player's God.
+A Druid must pray for his/her spells just like a cleric even though
+some of the Druid spells may be a bit more mage-like.  Mana is
+used the same way as clerics and mages.  Druids have the innate
+ability to shape shift into other animals and to see evil and good.
+
+The Druid Spell list:
+Level		Name
+Level 1:	Spirit Armor
+
+Level 6:	Find Familiar
+
+Level 11:	Dispel Magic
+
+Level 16:	Summon Beast
+
+Level 21:	Lightning Bolt
+
+Level 26:	Wall of Brambles
+
+Level 31:	Polymorph Other
+
+Level 36:	Heal
+		Harm
+
+Level 41:	Forestal Armor
+		Chain Lighting
+
+Level 46:	Moonwell
+		Creeping Doom
+#
+Empath
+
+The Empath of Wolfshade uses his/her will to bend the magic weave
+to his/her wishes.  The empath is very much like a mage except that
+there are no sub-classes for the empath and the empath does not
+need to prepare his/her spells.  The empath uses mana on the fly,
+willing the spells they need.  When their mana runs out the empath
+must wait until the mana is restored to him/her.  Restoration can
+come faster by sitting/meditating, but no preparation is needed.
+Empaths "will" their spells instead of casting them.
+
+These are the psionicist spells:
+Level		Name			Affect
+Level 1:	Battle Readiness	Small +to ac and hit
+		Feel Pain		Small Offensive
+		Feel Wellness		Small heal
+
+Level 6:	Instill Strength
+		Instill Agility
+		Instill Dexterity
+
+Level 11:	Pheromone Blast		Charm Person
+		Purify Body		Cure blindness/poison/disease
+		Instill Sleep		Sleep
+
+Level 16:	Elemental Endurance 	Protection from cold/fire
+		Fatigue			Minor Damage
+
+Level 21:	Instill Fear		-hit,ac
+		Instill Anger		berserk
+		Instill Health		Heal
+		Instill Poison		Poison
+
+Level 26:	Body Cramp		Minor Para
+		Adrenaline Rush		Haste
+		Flesh Armor		Stone Skin
+		Ego Whip		Medium Offensive
+
+Level 31:	Heroism			+to dmg,hit,ac
+		Spirit Crush		Large Offensive
+		Instill Good Health	Full Heal
+
+Level 36: 	Persuasion		Invisibility
+		Stench			Target possibly loses pets
+		Mind Meld		Scrye
+
+Level 41:	Sense Presence		Detect Invis
+		Body Rise		Flight
+
+Level 46:	Morale			Mass Heroism
+		Mind and Body		Heal for Mana, Hits, Movement
+#
+Mage
+
+As a mage on Wolfshade mud you have a lot of choices in the
+direction you may wish to direct your expertise.  All sorcerers
+start out the same, all the spells for any type of sorcerer are
+the same up until level 15.  At level 16 the sorcerer must make a
+decision for his future.  The magik of Wolfshade is split up among
+the regions of the world.  This magik is known as Spheres, and they
+are the following: ***see web page***
+
+At level 16 the sorcerer must travel to the teacher who's teachings
+are what the sorcerer desires.  With the aggressive nature of the
+evil races the Mountain and Swamp Sphere teachers are rather easily
+accessible to them, but it takes away the defensive side of magik.
+Good races being kind in nature have easy access to the  protective
+and defensive spells of the Tundra and Forest Sphere Teachers.
+The Desert and Ocean Sphere Teachers are accessible by all, but require
+more travel to reach them.
+
+Choosing Spheres:
+	When the sorcerer reaches level 16 and sits down to learn
+his/her first spell from a teacher, he/she becomes a member of that
+sphere.  If a sorcerer so chooses at a later date to add another sphere
+to his/her spell list he/she must then travel to a teacher of that
+sphere and learn a spell.  The amount of spheres one learns after one
+hinders the effectiveness of all the spells that can be cast.  The
+effectiveness of the spell is calculated by this equation: 100%/number
+of spheres.  So this way if you have two sphere's known all your
+spells will only be 50% effective as a sorcerer with only 1 sphere.
+With 3 sphere's your effectiveness is only 33%, 4 sphere's it's
+only 25%, 5 is 20% and 6 is 17%.  For Example, if a mage becomes a
+Desert/Mountain Mage, the fireball spell will only do 50% of the full
+damage and stone skin will last only 50% as long, but he/she gains
+the benefit of using spells from both spheres.  If a sorcerer chooses
+to become a Gray Mage, which is knowing all six sphere's he may seek
+out the teacher of the gray magiks.  Gray Magik is the most powerful
+magik known on Wolfshade.
+
+Mana:
+	When a sorcerer prepares for a spell, he/she uses up the mana
+for that spell.  The higher the spell level the more mana used in
+preparation, the circle of the spell is how many mana it requires to
+prepare.  When the spell is cast the mana used in preparation is
+re-released to the caster for preparation again.  Thus if a mage has
+20 mana points he/she can prepare 20 1st circle spells, or
+10 2nd circle spells, or 10 1st and 5 2nd circle spells or any
+combination of spells he/she desires as long as there is mana to
+support the preparation.
+
+***see web site***
+#
+Paladin
+
+The Paladins in Wolfshade are the good holy warriors.  These warriors
+must worship a God of Wolfshade and will receive the same benefits to
+their spells as clerics do.  Paladins must kill evil to gain
+experience.  Paladins must remain in good standing with their God.
+A God may choose not have Paladins of his ethos, for example,
+Guk the Orcish God of Magic may not want Paladins for he is an evil
+God.  Paladins do not receive a bash loss when wielding a 2 handed
+weapon and have innate abilities to detect alignment, protection from
+evil and summon a mount.  There is no subclass for the Paladin like
+there is with the Warrior, a Paladin is a Holy Warrior and may
+receive benefits from their God for being one of their chose.
+Keep in mind though that the Paladin must be in good standing with
+their God for harsh punishments may come as quickly and easily as
+good rewards from their God.  Paladins also entertain a number of
+Spells, mostly clerical spells.  Lastly the Paladin has the ability
+to lay hands , which can restore a fair amount of hps to the target.
+These spells are:
+
+Level		Name
+Level 1: 	Bless
+
+Level 6:	Spirit Armor
+
+Level 11:	Cure Serious Wounds
+
+Level 16:	Cure Light Wounds
+
+Level 21:	Turn Undead
+
+Level 26:	Divine Armor
+
+Level 31:	Heal
+
+Level 36:	Destroy Undead
+
+Level 41:	Full Heal
+
+Level 46:	Holy Word
+		Arkan's Battle Cry
+#
+Psionicist
+
+The Psionicist of Wolfshade uses his/her mind to bend the magic
+weave to his/her thoughts.  The psionicist is very much like a mage
+except that there is no sub-classes for the psionicist and the
+psionicist does not need to prepare his/her spells.  The psionicist
+uses mana on the fly, thinking the spells they need.  When their mana
+runs out the psionicist must wait until the mana is restored to
+him/her.  Restoration can come faster by sitting/meditating, but no
+preparation is needed.  Psionicists "think" their spells instead of
+casting them.
+
+These are the psionicist spells:
+Level		Name				Affect
+Level 1:	Thought Whip			Small offensive
+		Battle Ready			+hit/dmg
+		False image			Emote to the room
+
+Level 6:	Hallucination			Like mirror image
+		Molecular Agitation		Minor Offensive
+
+Level 11:	Self Sacrifice			Changes hp to mana
+		Mental Anguish			Minor Offensive
+
+Level 16:	Life Drain			Smallish offensive
+		Physical Enhancement		+'s to str/dex/agi
+
+Level 21:	Biofeedback			Spell like fireshield/coldshield
+		Mental Abuse			Medium Offensive
+
+Level 26:	Mana Drain			Takes mana from target and gives to you
+		Confusion			Can cause spell to stop casting
+		Psionic Blast			Can stun target
+
+Level 31:	Detonate			Large offensive
+		Transparent Form			Invisibility
+		Air Walk			Flight
+
+Level 36: 	Plane of Pain			Medium Area Offensive
+		Inertial Barrier			Stone skin type spell
+		Mind Control			Charm person
+
+Level 41:	Clear Sight			Detect Invis
+		Mind Whip			fireshield with spells
+		Telekinesis			The ability to throw things and people around
+
+Level 46:	Death Field			Large Area Offensive
+		Wormhole			Portal Spell
+#
+The Ranger
+
+The Rangers in Wolfshade are much like a ranger in any other mud.
+The ranger is a woodsman, weapons master and master hitter.  The
+ranger can be good only.  The ranger also has the ability to a few
+select mage-type spells to add to his/her abilities.  Rangers have
+an innate ability to sneak in any forest area and can summon animals
+at higher levels.
+
+Rangers have these abilities added to that of a warrior:
+	Awareness
+	Track
+
+
+The Ranger spells are:
+
+Level		Name
+Level 1: 	Armor
+
+Level 6:	Magic Missile
+
+Level 11:	Minor Creation
+		Bless
+
+Level 16:	Dispel Magic
+
+Level 21:	Lighting Bolt
+
+Level 26:	Haste
+
+Level 31:	Barkskin
+		Fireshield
+
+Level 36:	Faerie Fire
+
+Level 41:	Faerie Flight
+
+Level 46:	Camouflage
+#
+ROGUE
+
+The Rogue is a very versatile class on Wolfshade. The class is a
+three tiered system.
+
+Choosing to play a Rogue gets the rogue a set of base abilities.
+When a Second Tier is chosen he/she gains abilities assigned to that
+group.  The Rogue gets additional +'s to each ability in that group.
+  With the first Second Tier ability the rogue gets a +2 to all of
+those abilities.  With the first Tier 3 ability the rogue gains an
+additional +1.  With each new group of abilities added a + is taken away.
+
+Example: Lokke is a Rogue.  He decided to be a swindler.  His Thief
+abilities in Disguise and Pick Lock gains him +2 and his swindler
+abilities in Beg, Con, Intimidate etc gain a +1.  Later he decided
+he wants to do some killing so he learns to be an assassin, tracking,
+wield 2h and shadow subtract 1 from the bonuses for the brigand tier,
+then he also loses 1 for becoming the assassin.  So Lokke has gained
+all the abilities from being a swindler and an assassin, but he only
+receives a +1 to those abilities and his thief swindler abilities.
+(+2 for being a thief, +1 for swindler, -1 for Brigand, -1 for Assassin
+  = +1 to abilities) If he would add any other ability profile he
+would lose the +'s.
+
+The First Tier: Rogue.
+The Second Tier:  Entertainer, Cutpurse, Brigand
+The Third Tier:	Entertainer:	Bard
+				Acrobat
+
+		Thief:		Cutpurse
+				Swindler
+
+		Brigand:	Assassin
+				Ninja
+				Mercenary
+				Scout
+
+Rogue Abilities:	Backstab
+			Trip
+			Dirt Toss
+			Dual Wield
+			Throw Weapon
+			Looting
+			Hide
+			Sneak
+			Circle
+			Forage
+			Bandage
+			Offense
+			Dodge
+			Double Backstab
+
+Entertainer Abilities:	Sing
+			Dancing
+			Instrument Playing
+
+		 	Bard:		Song of Healing
+					Song of Charming
+					Song of Hurting
+					Song of Heroism
+					Song of Revelation
+					Song of Flight
+
+			Acrobat:	Juggling
+					Tumbling
+					Jumping
+					Climb Walls
+
+Thief Abilities:	Disguise
+			Pick Locks
+
+			Cutpurse:	Steal
+					Beg
+					Forgery
+					Counterfeit
+					Appraise
+
+
+			Swindler:	Con
+					Subterfuge
+					Blither
+					Intimidate
+					Charm
+					Bribe
+
+
+Brigand Abilities:	Wield 2h
+			Shadow
+			Tracking
+
+			Assassin:	Knife Turn
+					Apply Poison
+					Throat Slit
+					Camoflauge
+					Instant Kill
+
+			Ninja:		Barehand Fighting
+					Chant
+					Quick Strike
+					Double Attack
+					Kick
+
+			Mercenary:	Bash
+					Head Butt
+					Capture
+					Parry
+					Riposte
+
+			Scout:		Trap Setting
+					Observation
+					Far Sight
+					Listen
+					Diversion
+#
+Shaman
+
+The Shaman of Wolfshade are the spiritual casters of the realm.  A
+shaman's spells are based upon known magic much like that of a mage,
+but there are no sub-classes for the Shaman so every spell a shaman
+gets can be expected to work the same every time.  A shaman must
+memorize his spells, much like practicing from a mage.  The shaman
+must have a totem to memorize his/her spells.  The Shaman has the
+battle skills of a cleric and the spells of a mage but neither are
+as powerful as the cleric or mage. The Shaman have 3 Sphere's of
+influence, Animal, Nature and Body/Spirit, but they may not choose
+to specialize in any of them.  Every spell circle will attempt to
+have 1 spell from each sphere.
+
+The Shaman spells are:
+Level		Name			Sphere		Affect
+Level 1:	Spirit Armor		Body/Spirit
+		Ice Arrows		Nature		Minor Offensive
+		Deer Sense		Animal		+to agi and dex
+
+Level 6:	Spirit Sense		Body/Spirit	Detect evil/good
+		Fists of Stone		Nature
+		Find Familiar		Animal
+
+Level 11:	Soul Shake		Body/Spirit	Minor Offensive
+		Nature's Gift		Nature		+str/dex/agi
+		Animal Instinct		Animal		+hit/dam
+
+Level 16:	Body Mending		Body/Spirit	Small heal
+		Flaming Burst		Nature		Medium Offensive
+		Summon Beast		Animal
+
+Level 21:	Spirit Sight		Body/Spirit	Farsee
+		Wall of Brambles	Nature
+		Gator Skin		Animal		Armor
+
+Level 26:	Spirit Link		Body/Spirit	Scrye
+		Stream of Life		Nature		Reduces age
+		Cheeta speed		Animal		Haste
+
+Level 31:	Greater Mending		Body/Spirit	Heal
+		Force of Nature		Nature		Major Offensive
+		Eagle Flight		Animal		Fly
+
+Level 36:	Soul Sense		Body/Spirit	Ability to know opposite races are in area
+		Camouflage		Nature		Invisibility
+		Regeneration		Animal		Speeds up healing
+
+Level 41:	Group Mending		Body/Spirit	Group heal
+		Ether Blast		Nature		Area Offensive
+		Dragon Roar		Animal 		Possibly flee
+
+Level 46:	Divine Intervention	Body/Spirit
+		Ether Portal		Nature		Portal Spell
+		Call of the Wild	Animal 		Like summon swarm
+#
+Warrior
+
+The Warrior of Wolfshade is the heart and soul of any group.  The
+warrior is the one in the group that will take the damage, deal the
+damage and anchor a party.  The warrior, like the rogue, has options
+open to him to where he/she wishes to go.  Choosing to play a Warrior
+gets the rogue a set of base abilities.  When a Second Tier is chosen
+he/she gains abilities assigned to that group.  The Warrior gets
+additional +'s to each ability in that group.  With the first Second
+Tier ability the warrior gets a +2 to all of those abilities.  With
+the first Tier 3 ability the warrior gains an additional +1.  With
+each new group of abilities added a + is taken away.  See Rogue for
+example.
+
+The First Tier: 	Warrior
+The Second Tier: 	Martial Artist, Swordsman, Fighter
+The Third Tier:		Martial Artist:	Samurai
+					Monk
+
+			Swordsman:	Weapons Master
+					Swashbuckler
+
+			Fighter:	Knight
+					Thug
+
+Warrior Abilities:	Dual Wield
+			Throw Weapon
+			Forage
+			Bandage
+			Offense
+			Dodge
+			Parry
+
+Martial Artist Abilities:	Chant
+				Battle Readiness
+				Quick Strike
+
+		 	Samurai:	Chant Defense
+					Chant Honor
+					Sword Flurry
+
+			Acrobat:		Dragon Punch
+					Chant Regeneration
+					Quivering Palm
+
+Swordsman Abilities:	Weapon Knowledge
+			Riposte
+			Called Shot
+
+			Weapons Master:	Appraise
+					Weapon Repair
+					Hone Weapon
+
+			Swashbuckler:	Disarm
+					Gamble
+
+Fighter Abilities:	Wield 2h
+			Shield Rush
+			Hit All
+
+			Knight:		Mounted Combat
+					Armor Repair
+					Knight Code
+					Heroism
+
+			Thug:		Head Butt
+					Intimidate
+					Wrestling
+					Bear Hug
+#
+
+MANA
+When a spellcaster (non-psionicist/empath) prepares for a spell,
+he/she uses up the mana for that spell.
+The higher the spell level the more mana used in
+preparation, the circle of the spell is how many mana it requires to
+prepare.  When the spell is cast the mana used in preparation is
+re-released to the caster for preparation again.  Thus if a mage has
+20 mana points he/she can prepare 20 1st circle spells, or
+10 2nd circle spells, or 10 1st and 5 2nd circle spells or any
+combination of spells he/she desires as long as there is mana to
+support the preparation.
+The spellcaster can "fastcast" or "fcast" without preparing the spell
+but it will cost 4 times the normal amount of mana and will regenerate 
+slowly.
+#
+
+newbie
+Welcome to Wolfshade Mud Newbie! (New Person)
+Now that you are in our realm.  Check out the help files.
+Typing "Help" will give you the help options.
+You may want to start by typing "Help <Your class>".
+If you are a mage type "Help Mage"
+We have a unique system for mages, warriors and rogues.
+You may want to review all those help files.
+You'll want to check the "tog" command for interface customizations.
+You will want to find the nearest teacher and learn your skills and equip 
+yourself
+before you venture out in the world of Wolfshade.
+Sit down at your teacher and type "Practice <skillname> <teacher>"
+"Skills" will give you the list of skills you currently have
+"Spells" will give you the list of spells you currently have
+"Spelllist" will give you the list of spells you can get
+"ask <teacher> price spell" will tell you what spells the teacher can teach 
+and how much.
+"ask <teacher> price skill" will tell you what skills the teacher can teach 
+and how much.
+'rent' at an inn to leave or 'camp' outside
+
+#
+hone
+Usage: hone <weapon>
+Honing a weapon is a skill for warriors that may increase a weapon's ability 
+to hit and do damage.
+The better you get at honing a weapon, but more vicious it can become.
+
+#
+hitall
+Usage: hitall <all>
+hitall <all> with the 'all' added after it you will attempt to hit 
+everything in the room.
+without the 'all' you will attempt to hit everything that is fighting you in 
+the room.
+
+#
+headbutt
+Usage: headbutt <target>
+Warriors and rogues can use this skill to smash their forehead into thier 
+target doing damage
+and possibly stunning their target, a poor headbutt could result in some 
+adverse affects as well.
+
+#
+hide
+Usage: hide
+A rogue can try to hide him/herself so that they can't be seen.
+
+#
+inventory
+Usage: inventory
+Your inventory weighs you down but is also everything you are carrying that 
+you are not wearing.
+
+#
+intimidate
+Usage: intimidate <target>
+Warriors and Rogues can attempt to intimidate their target and reduce their 
+chance to hit and do damage.
+
+#
+identify
+Usage: identify <item>
+Some people can attempt to use their knowledge to identify an item's 
+statistics.
+
+#
+kick
+Usage: kick <target>
+Most characters can kick their opponents, doing a little bit of damage.
+
+#
+loot
+Usage: loot corpse
+Looting a corpse will take everything on the corpse and put it in your 
+inventory, most classes will
+get a lag after they loot, however, a rogue can get the ability to loot a 
+corpse fast enough
+as to not recieve a lag.
+
+#
+list
+Usage: list
+Use the list command in a shop to get a list of things that are for sale the 
+prices.
+
+#
+layhands
+Usage: layhands <target>
+Only Paladins can layhands on a target, depending on the paladin's skill a 
+different amount of
+hitpoints will be restored to the target.
+
+#
+meditate
+Usage: meditate
+Meditating for spellcasters will give the opportunity to cut their prep time 
+in half, for psionicists
+Mindflayers and Empaths, their mana will regen faster with a better meditate
+
+#
+news
+Usage: news
+News will give you the recent changes and bug fixes to the mud.
+
+#
+order
+Usage: order <target> <followers>
+Using just a target will issue an order to that target, that target will 
+respond if it is a pet of
+the order issuer.  If you use the keyword "followers" your order will goto 
+all your followers in the room.
+
+#
+open
+Usage: open <door> <direction>
+open will open a closed door, a closed door will be denoted with a pound 
+sign next to the exit and
+a open door is denoted with a pipe next to it.
+
+#
+put
+Usage: put <object> <target>
+Putting an object in another object, the target must be a container object.
+
+#
+practice
+Usage: practice '<skill>' <teacher>
+In order to gain certain abilities and all spells you must learn them from a 
+teacher.
+You can find out what a teacher can teach by asking, ie ask <teacher> price 
+spell <or skill>
+
+#
+prepare
+Usage: prepare <spell>
+In order to cast a spell it must be prepared.  When prepare the mana for the 
+spell is used up and returned to you when it's casted.  You can bypass 
+preparing a spell by using the fcast or fastcast command but it uses 4x the 
+amount of mana and you have to wait till the mana returns.
+
+#
+petition
+Usage: petition <message>
+Use this command only when needing to talk to a god, please petition before 
+you issue a tell.
+
+#
+quiveringpalm
+Usage: quiveringpalm <target>
+Warriors that choose the monk track of skills can use the ability to quiver 
+his/her palm and inflict serious damage on his/her target.
+
+#
+rest
+Usage: rest
+Resting will return hit points, movement points and mana faster than just 
+standing around but not as fast as sleeping.
+
+#
+recline
+Usage: recline
+Reclining will return hit points, movement points and mana faster then 
+standing or sitting, but not as much as sleeping.
+
+#
+shield rush
+Usage: rush <target>
+Warriors have the ability to start a battle by bum-rushing a target with 
+his/her
+shield and possibly stunning and/or knocking him to the ground.  Warriors 
+with good ability to shield rush can gain some extra attacks to start a 
+battle.
+
+#
+rescue
+Usage: rescue <target>
+Rescuing is a way to draw an opponent off someone and make you the tank, or 
+the opponent's target.  You rescue the person you want to save.
+
+#
+report
+Usage: report
+Reporting will automatically say your hit points, mana points and movement 
+points, both current and max.
+
+#
+rent
+Usage: rent
+Only used in a room marked as an inn.  This will allow you to leave the game 
+and have your character saved and unable to be attacked by anyone.
+
+#
+remove
+Usage: remove <object>
+This will remove a piece of equipment that you are currently wearing.
+
+#
+sneak
+Usage: sneak
+Rogue have the ability to sneak around rooms, with sneak, your room entering 
+and leaving messages will not be displayed.
+
+#
+score
+Usage: score
+The score screen will tell you personal information about your character, 
+amount of money currently holding, etc.  It goes along with the Attributes 
+command
+
+#
+quick strike
+Usage: strike
+A quick strike is a warrior/rogue ability.  A quick strike can give the 
+person an extra attack and can sometimes be so fast that it goes undetected 
+and will not cause the mob to attack you.
+
+#
+spells
+Usage: spells
+The spells command will give you the spells you currently know and your 
+ability in those spells.
+
+#
+spelllist
+Usage: spelllist
+The spelllist command will give you a list of spells and what level you need 
+to be to learn them.
+
+#
+skills
+Usage: skills
+The skills command will give you a list of your current skills and your 
+ability in them.
+
+#
+skilllist
+Usage: skilllist
+The skilllist command will give you a list of tiers and what your current 
+bonus is compared to the skills you have learned.
+
+#
+say
+Usage: say <message> or ' <message>
+The message will be displayed to everyone in the room.
+
+#
+sail
+Usage: sail <direction>
+This command only works inside of a boat, the sail command will move the 
+boat in water.  Most boats can only travel so fast, so you may have to wait 
+before the sail command will move the boat the next time.
+
+#
+sell
+Usage: sell <item>
+Selling only works inside a shop.  The shop will give you the money that the 
+shopkeeper feels it's worth.
+
+#
+sleep
+Usage: sleep
+Sleeping will restore hit points, mana points and movement points at the 
+fastest rate possible.  Becareful not to fall asleep on your feet or you 
+might fall.
+
+#
+shout
+Usage: shout <message>
+Shouting will send your message out to a certain radius of rooms around you.
+
+#
+split
+Usage: split <coins>
+Spliting coins will divide the coins you specify equally between the members 
+of your group.
+
+#
+tell
+Usage: tell <target> <message>
+A tell will send a message to the person you specify and only that person.
+
+#
+trip
+Usage: trip <target>
+The trip skill will allow you to trip the target and possibly make him/her 
+fall.  A failed trip could result in you falling.
+
+#
+track
+Usage: track <target>
+The track command will make you attempt to find tracks of your target and 
+hunt them down.
+
+#
+throat slit
+Usage: throatslit <target>
+The throat slit ability can only be initiated after you are hidden.  It is 
+similar to a backstab but it does more damage and can only be used when you 
+are not in battle.
+
+#
+think
+Usage: think '<spell>' <target>
+The think command is similar to the cast command but only Psionicists and 
+Mind Flayers think their spells.
+
+#
+worship
+Usage: worship <god>
+Worshipping a god declares your obedience to that god worshipping certain 
+gods can give you certain benefits.  Only your god can choose how much time 
+you are in the Fugue plain after a death.
+
+#
+attribute
+Usage: attribute
+The attribute screen will give you personal information about your 
+character.
+
+#
+will
+Usage: will '<spell>' <target>
+Will is similar to the cast command but only the Empath wills their spells 
+forth.
+
+#
+wear
+Usage: wear <item|all>
+In order to equip any items you have you must wear it.  Use the wear command 
+to do this.
+
+#
+assist
+Usage: assist <target>
+Assisting a person or mob will make you join his/her side of the battle and 
+fight his/her primary target.
+
+#
+ask
+Usage: ask <target> <question>
+Asking a mob or person will send a message just to that person or mob just 
+for the sole purpose of asking a question.
+You can use the ask command to find out what a teacher can teach by using:
+Ask <teacher> price <spell|skill>
+
+#
+appraise
+Usage: appraise <item>
+Appraising an item will give you the value of that item, the better your 
+skill is at appraising the more accurate your appraisal will be.
+
+#
+wield
+Usage: wield <weapon>
+You need to wield a weapon to use it.
+
+#
+beg
+Usage: beg <target>
+Rogues have the ability to beg someone.  Begging is based on your skill and 
+a poorly failed beg can result in a rather unhappy mob.
+
+#
+berserk
+Usage: berserk
+Warriors have the ability to berserk.  Berserking will make you temporarily 
+stronger and tougher except you will be less intelligent and possibly attack 
+a random person in a room.  A highly skilled berserker can turn it off at 
+will by inputting the command 'berserk' again.
+
+#
+bearhug
+Usage: bearhug <target>
+Warriors have the ability to bearhug a target, basically wrapping his/her 
+arms around the target causing considerable damage.
+
+#
+bandage
+Usage: bandage <target>
+When a target is mortally wounded, a couple of bandaging sessions can bring 
+them back to 1 hp.
+
+#
+backstab
+Usage: backstab <target>
+Anyone can backstab a target, but no one can backstab quite like a rogue 
+can.  In order to backstab you must be wielding a piercing weapon.
+
+#
+bash
+Usage: bash <target>
+Bashing a target is an attempt to knock the target on the ground, resulting 
+in a stoppage of spell casting or things of such nature.
+
+#
+bodyslam
+Usage: bodyslam <target>
+If you are large enough you can throw your weight into a target knocking 
+him/her to the ground roughly causing damage and possibly stun.
+
+#
+buy
+Usage: buy <number>
+Buy can only be used in a store, the number of the item you want to buy can 
+be found out by the list command.
+
+#
+bug
+Usage: bug <message>
+Use bug when you find a bug in the MUD and want to report it.
+Please be as complete as possible with this command.  Make sure the bug can 
+be duplicated.
+Please don't use phrases like 'should be this way', 'this is wrong', 'on 
+(so-n-so mud) it's like this', etc...
+because it is entirely possible that we have it correct, we strive to be 
+unlike other muds so it's possible
+the 'bug' you found is exactly the way we want it.
+&WGood bug report: &n
+If I wield my first weapon (A bronze sword), then wield a second (a wrench), 
+I'm getting 2 'wielded weapons' not
+a 'wielded' and a 'dual wielded', is this correct?
+&RBad bug reports: &n
+Regen is buggy.
+My spells only lasts half as long as X, this is wrong.
+Headbutt doesn't knock anyone unconcience, it shouldn't be like that.
+
+
+#
+call
+Usage: call <head|leg|other>
+A called shot can result in an extra attack or a more vicious attack.
+
+#
+cast
+Usage: cast '<spell>' <target>
+Mages, Cleric, Defilers, Rangers, Paladins, Druids, Anti-Paladins and Shaman 
+must use the cast command to cast their spells.  The cast command will only 
+work
+With prepared spells.
+
+#
+circle
+Usage: circle
+A rogue in battle can circle it's opponent can try to hit them with a 
+backstab in mid battle but only if they are not the tank.
+
+#
+chant
+Usage: chant <chant>
+A rogue and warrior have different chant abilities that will enhance their 
+fighting capabilities.
+The chants are: regeneration, defense and honor
+
+#
+charm
+Usage: charm <target>
+A rogue can try to charm a mob and make it one of his followers.
+
+#
+consider
+Usage: consider <target>
+Considering a target will give you a rough idea of how strong it is compared 
+to your level.
+
+#
+consent
+Usage: consent <target>
+Consenting a target gives them the ability to group you and other things 
+that a player would need consent for.
+
+#
+camp
+Usage: camp
+Camping will allow you to leave the game at any point outside a city.  You 
+can't move after you issue the camp command.
+
+#
+disengage
+Usage: disengage
+Disengaging will remove you from a battle, however, if you are the tank you 
+will continue to be attacked and rejoin the battle.
+
+#
+disembark
+Usage: disembark
+>From a ship room disembarking will allow you to leave the boat only if the 
+boat is on a shore.
+
+#
+dirttoss
+Usage: dirttoss <target>
+A rogue has the ability to toss dirt from the ground into the eyes of an 
+opponent, possibly rendering that opponent temporarily blind.
+
+#
+disband
+Usage: disband
+Use the disband to disband the group you are currently the head of.
+
+#
+drop
+Usage: drop <item>
+Dropping an item will take it from your inventory and put it in the room.
+
+#
+dragonpunch
+Usage: dragonpunch <target>
+The dragonpunch is a monk type warrior skill that can only be done if you 
+were not wielding a weapon.
+
+#
+enter
+Usage: enter <object>
+Entering an object such as a portal or a ship will allow you to goto the 
+room it leads to
+
+#
+emote
+Usage: emote <message>
+Use emote to have your character to a social. The message will be preceded 
+by your name.
+
+#
+equipment
+Usage: equipment
+The equipment will show you a list of everything you are currently wearing.
+
+#
+examine
+Usage: examine <target>
+Examining an object will allow you to tell what's inside and more 
+information about it.
+
+#
+experience
+Usage: experience
+Experience is what determines what level you are.  The experience command 
+allows you to tell how close you are to the next level.
+
+#
+flee
+Usage: flee
+Fleeing will make you attempt to run out of the room in a random direction
+
+#
+flurry
+Usage: flurry
+In battle a Ranger/Defiler can issue forth a flurry from his/her weapon that 
+will result in much damage.
+
+#
+fcast
+Usage: fcast '<spell>' target
+Forcecasting or fcasting is a way to cast a spell without preparing it but 
+it will cost you 4x the normal amount of mana and you have to wait till it 
+comes back.
+
+#
+forget
+Usage: forget <spellname>
+Forgetting a spell will remove it from your prep list and then from your 
+prepared list.
+
+#
+follow
+Usage: follow <target>
+The follow command will make you move to the room of the target person you 
+are following.
+
+#
+get
+Usage: get <object>
+The get command will take an object from a room and add it to your 
+inventory.
+
+#
+give
+Usage: give <object> <target>
+The give command will take an object and put it in the inventory of the 
+target you specify.
+
+#
+glance
+Usage: glance <target>
+Glancing will give you a brief description and condition of the target.
+
+#
+group
+Usage: group <target>
+With the target's consent you can have him/her join your group, groups share 
+experience gained when fighting a mob and do not get hit in area effect 
+spells.
+
+#
+gsay
+Usage: gsay <message>
+The message will be sent out only to your group members.
+
+#
+quit
+You must 'rent' at an inn or 'camp' to leave the game... or die, although we 
+don't recommend that way.
+
+#
+exit
+You must 'rent' at an inn or 'camp' to leave the game... or die, although we 
+don't recommend that way.
+
+#
+rules
+1. We are a p-kill MUD. That means you should expect to be killed by your 
+fellow players, whether they are on your side of the racewar or not.
+2. Multi-playing is a serious offense here and is most definitely NOT 
+allowed. For clarification of multi-playing, see "help multi-playing."
+3. Players are to report any bugs found via the BUG command. If there is a 
+god visible, notify him or her as well. See the BUG POLICY below for further 
+information.
+4. Players should settle their own disputes. If you have a problem with 
+another player, talk it out or kill them. The gods do not want to be 
+involved with your petty squabbles!!
+5. Running BOTS in any way shape or form is considered illegal. Any BOT 
+characters will be deleted. For more information BOTS see HELP BOTS.
+WOLFSHADE BUG POLICY
+Players must report all bugs they find on Wolfshade MUD using the BUG
+command (see HELP BUG) and PETITION. Once a player has reported a BUG, he or
+she may use that bug until told otherwise by a god. Any bug that CRASHES or
+FREEZES the MUD must be reported and never used again.
+If a player is found to be abusing a bug without reporting it, he or she 
+will be
+dealt with at our discretion. The punishment will fit the crime as the Gods 
+see
+fit.
+
+#
+backstab
+usage: backstab <victim>
+If you are wielding a piercing weapon you may choose to initiate combat by 
+plunging the weapon into your targets back.
+
+#
+dodge
+Dodge is a skill you use automatically to avoid or "dodge" around enemy 
+attacks.
+
+#
+Instant Kill
+Instant Kill is a skill an assassin will use automatically to kill his 
+victim instantly.  The chances of success are slime at best, but you may get 
+lucky.
+
+#
+parry
+You use this skill automatically to avoid or "parry" enemy attacks.  This 
+skill is very similar to dodge.
+
+#
+dual wield
+usage: wield <weapon>
+This skill allows you to wield two weapons at once.  It will not work if you 
+are holding something on one hand, or wielding a two handed weapon.  To use 
+dual wield simply wield two weapons using "wield <weapon>" twice.
+
+#
+looting
+usage: loot corpse
+This skill is used to remove items and money from a corpse.
+
+#
+throw weapon
+usage: throw <weapon> <target> <direction>
+This skill allows you to throw a weapon at a person or mob that is in a room 
+connected to the one you are in.  **WARNING THIS SKILL HAS NOT BEEN 
+IMPLEMENTED YET**
+
+#
+offense
+Offense is a skill that you use automatically.  The higher the offense, the 
+more often you will hit your enemies.
+
+#
+double backstab
+usage: backstab <enemy>
+This skill is just like backstab, only it uses two weapons.  For this to 
+work you must have two piercing weapons wielded.
+
+#
+sing
+Sing is an skill a Entertainer uses to sing.  This skill will evolve into 
+various Bard songs. **WARNING THIS SKILL HAS NOT BEEN IMPLEMENTED YET**
+
+#
+dancing
+An Entertainer uses this skill to dance. This skill will evolve into various 
+Bard songs. **WARNING THIS SKILL HAS NOT BEEN IMPLEMENTED YET**
+
+#
+instrument playing
+An Entertainer may learn to play instruments to assist his singing and 
+dancing.  This skill will evolve into various Bard songs. **WARNING THIS 
+SKILL HAS NOT BEEN IMPLEMENTED YET**
+
+#
+song of healing
+This Bard skill allows a Bard to sing a song that heals. **WARNING THIS 
+SKILL HAS NOT BEEN IMPLEMENTED YET**
+
+#
+song of hurting
+This Bard skill allows a Bard to sing a song that hurts his enemy. **WARNING 
+THIS SKILL HAS NOT BEEN IMPLEMENTED YET**
+
+#
+song of charming
+This Bard skill allows a Bard to sing a song that charms a creature. 
+**WARNING THIS SKILL HAS NOT BEEN IMPLEMENTED YET**
+
+#
+song of heroism
+This Bard skill allows a Bard to sing a song of heroism. **WARNING THIS 
+SKILL HAS NOT BEEN IMPLEMENTED YET**
+
+#
+multi-playing
+Multi-playing is the playing of more than one character at the same time by
+one person.
+
+Our rules on Multiplaying:
+
+1. You may not have more than one character logged in at any given time.
+Yes, this includes LINK-DEAD characters as well.  You must log your
+character out via RENT or CAMP before you bring on a different character.
+The only exception being if both characters are logged in at the same INN.
+(INN meaning the same room where you rent, not rooms immediately adjacent or
+otherwise.)
+
+2. You may not bring on another character for the sake of retrieving
+equipment for a character that has died.
+
+3. You may not use a second character to help another one of your 
+characters, no matter
+what the purpose.  This includes spell casting, hurting a mob, etc.
+
+4. You absolutely may NOT bring on a character from an opposing side of the
+racewars and use it to pass information to another of your characters or
+other people on your side of the racewars.  EXAMPLE:  Say Multiboy is a
+Pixie and nearly dies to an Illithid who happened to be raiding.  Multiboy
+camps and then logs in as an Illithid to learn the whereabouts of the
+Illithid who nearly killed him and waits until said Illithid has left the
+area where his Pixie camped.  When the coast is clear, he then rents his
+Illithid and essentially "passes the info" on to his Pixie and/or other
+members of his side of the    racewars.  This also goes for people who log
+on other side chars just to see who is on.
+
+5. You may not log on another character to take revenge for another of your
+character that was just killed, nor may you use another character to assist
+in any way in taking revenge until at least 30 RL minutes have passed.
+
+   Example1:  Multiboytoo is Multiboy's secondary character.  Multiboytoo is
+minding his own business when Multikiller walks in and kills him.  Shortly
+after Multiboytoo is killed, Multiboy logs in and attacks Multikiller.  BAD
+BAD Multiboy!  Even if Multikiller doesn't    die as a result of Multiboy's
+attack, Multiboy is still doing something very illegal in the lands of
+Wolfshade.
+
+   Example2:  Multiboy, who is normally a Pixie on the Good side, has a
+secondary, Multimul, who is a Mul on the Neutral side.  Multimul runs into
+an Orc from the Evil side and the Orc kills him.  Multiboy then logs in and
+tells other members of the Good side of the racewar the whereabouts of the
+Orc, thus assisting them in getting revenge, and also passing info from one
+side to another.  Will he never learn?!
+
+6. You MUST wait at least 30 minutes between the time you log out a
+character and log in another from an opposing side of the racewars.
+
+We realize some of these rules may be hard to enforce, and we may not be
+able to catch everyone who breaks them, but when we DO catch you, you will
+regret it.  As an example, you may lose half of the levels on all the
+characters involved, or you may just be deleted. It depends on the God who
+catches you.
+
+NOTE:  ANYONE WHO KNOWINGLY ACCEPTS INFORMATION FROM SOMEONE WHO IS
+MULTIPLAYING AND DOES NOT REPORT THE OFFENDER WILL FACE PUNISHMENT AS WELL.
+
+If you require clarification on these rules, ask a God.  Do NOT take
+chances!  Ignorance is NOT an excuse.
+
+#
+multi
+Multi-playing is the playing of more than one character at the same time by
+one person.
+
+Our rules on Multiplaying:
+
+1. You may not have more than one character logged in at any given time.
+Yes, this includes LINK-DEAD characters as well.  You must log your
+character out via RENT or CAMP before you bring on a different character.
+The only exception being if both characters are logged in at the same INN.
+(INN meaning the same room where you rent, not rooms immediately adjacent or
+otherwise.)
+
+2. You may not bring on another character for the sake of retrieving
+equipment for a character that has died.
+
+3. You may not use a second character to cast spells on another, no matter
+what the purpose.
+
+4. You absolutely may NOT bring on a character from an opposing side of the
+racewars and use it to pass information to another of your characters or
+other people on your side of the racewars.  EXAMPLE:  Say Multiboy is a
+Pixie and nearly dies to an Illithid who happened to be raiding.  Multiboy
+camps and then logs in as an Illithid to learn the whereabouts of the
+Illithid who nearly killed him and waits until said Illithid has left the
+area where his Pixie camped.  When the coast is clear, he then rents his
+Illithid and essentially "passes the info" on to his Pixie and/or other
+members of his side of the    racewars.  This also goes for people who log
+on other side chars just to see who is on.
+
+5. You may not log on another character to take revenge for another of your
+character that was just killed, nor may you use another character to assist
+in any way in taking revenge until at least 30 RL minutes have passed.
+
+   Example1:  Multiboytoo is Multiboy's secondary character.  Multiboytoo is
+minding his own business when Multikiller walks in and kills him.  Shortly
+after Multiboytoo is killed, Multiboy logs in and attacks Multikiller.  BAD
+BAD Multiboy!  Even if Multikiller doesn't    die as a result of Multiboy's
+attack, Multiboy is still doing something very illegal in the lands of
+Wolfshade.
+
+   Example2:  Multiboy, who is normally a Pixie on the Good side, has a
+secondary, Multimul, who is a Mul on the Neutral side.  Multimul runs into
+an Orc from the Evil side and the Orc kills him.  Multiboy then logs in and
+tells other members of the Good side of the racewar the whereabouts of the
+Orc, thus assisting them in getting revenge, and also passing info from one
+side to another.  Will he never learn?!
+
+6. You MUST wait at least 30 minutes between the time you log out a
+character and log in another from an opposing side of the racewars.
+
+We realize some of these rules may be hard to enforce, and we may not be
+able to catch everyone who breaks them, but when we DO catch you, you will
+regret it.  As an example, you may lose half of the levels on all the
+characters involved, or you may just be deleted. It depends on the God who
+catches you.
+
+NOTE:  ANYONE WHO KNOWINGLY ACCEPTS INFORMATION FROM SOMEONE WHO IS
+MULTIPLAYING AND DOES NOT REPORT THE OFFENDER WILL FACE PUNISHMENT AS WELL.
+
+If you require clarification on these rules, ask a God.  Do NOT take
+chances!  Ignorance is NOT an excuse.
+
+#
+Illithid
+&MIllithid&n
+Allowed Classes: 	Mind Flayer
+Starting Race War Side:	Alien
+Difficulty: 		Very High
+Main Stat Bonuses: 	Power
+Innates: 		Infravision, Ultravision
+Pros: 			Extremely powerful spells, mana bonuses
+Cons: 			Little hit points, hard to level, can not see undead at all.
+Size:			Medium
+Synopsis:
+Illithids are extremply powerful but extremely difficult to play.
+Having the most powerful minds, the Illithids, or Mind Flayers, have the 
+most powerful
+spells in the game.  This, however, does not come easily.  Being Aliens they 
+are only
+able to group with and see other Illithids and Thri-kreen.
+
+
+#
+Thri-Kreen
+&GThri&w-&YKreen&n
+Allowed Classes: 	Warrior, Druid
+Starting Race War Side:	Alien
+Difficulty: 		Medium
+Main Stat Bonuses:	None
+Innates: 		Bite, Day Sight, Ultravision
+Pros: 			Can wield 4 weapons, upto 12 attacks per round with haste
+Cons: 			Little hit points
+Size:			Medium
+Synopsis:
+Along with Illithids, Thri-kreen are aliens to Wolfshade.  With 4 arms they 
+are capable of
+delivering staggering amounts of damage, but their lower hit points and 
+inablilty to group
+with a cleric (only healing comming from druids) limits them a bit.  Their 
+other alien counter
+parts, Illithids, make them extremely good frag hunters and a tough force to 
+be dealt with.
+
+#
+Ogre
+&bOgre&n
+Allowed Classes: 	Warrior, Rogue, Shaman
+Starting Race War Side:	Evil
+Difficulty: 		Medium
+Main Stat Bonuses: 	Strength
+Innates: 		Ultravision
+Pros: 			Massive hit points, higher damage, single wield 2h weapons
+Cons: 			little ac help from agility
+Size:			Huge
+Synopsis:
+A warrior stand by for the Evils.  Ogres are huge, smelly and extremly 
+strong.  Not very intelligent race:
+an Ogre with 100 int = smark rock.  They are also the largest race on 
+Wolfshade, earning the most hit points and
+having the most damage bonuses for strength.  Because of their size they can 
+single wield 2 handed weapons.
+
+#
+troll
+&gTroll&n
+Allowed Classes: 	Warrior, Rogue, Shaman
+Starting Race War Side:	Evil
+Difficulty: 		Medium
+Main Stat Bonuses: 	None
+Innates: 		Ultravision, Day sight, Regeneration
+Pros: 			Troll regen hit points the fastest
+Cons: 			bad spell saving throws
+Size:			Large
+Synopsis:
+Trolls are large, smelly, hairy beasts that live in the swamps of Wolfshade. 
+  Trolls are not very good with magic,
+only capable of being shaman and also having low saving throws for spells.  
+The strong point of trolls are that they
+have an innate regeration ability.  This makes them gain hit points back 
+much faster than any other race.
+
+#
+gnoll
+&LGn&yoll&n
+Allowed Classes: 	Warrior, Rogue, Shaman, Anti-Paladin, Defiler
+Starting Race War Side:	Evil
+Difficulty: 		Medium
+Main Stat Bonuses: 	None
+Innates: 		Ultravision, Day sight, Bite
+Pros: 			Innate bite, better agility than bigger races
+Cons: 			Not the largest race on the evil side
+Size:			Medium
+Synopsis:
+Gnolls are basically humanoid dogs.  Their face is a dog's face, thus giving 
+them the ability to bite their opponents.
+The Gnolls live in caves near the swamps of Wolfshade.  Vicious beings, they 
+tend to hunt in packs.
+
+#
+duergar
+&rDuergar&n
+Allowed Classes: 	Warrior, Rogue, Cleric, Anti-Paladin
+Starting Race War Side:	Evil
+Difficulty: 		Medium
+Main Stat Bonuses: 	Wisdom
+Innates: 		Strength, Large, Ultravision, Day Sight, Invisibility
+Pros: 			good cleric mana
+Cons: 			Small in size
+Size:			Small
+Synopsis:
+Duergar Dwarves are also known as 'Dark Dwarves'.  Being basically like a 
+normal Mountain Dwarf but a bit meaner.
+Duergars have the ability to change their size, strengthen themselves and 
+even go invisible.  They are sturdy small
+biengs and have a very good devotion with any of their gods, allowing them 
+to be better clerics.
+
+#
+drow elf
+&mDrow Elf&n
+Allowed Classes: 	Warrior, Rogue, Cleric, Mage, Anti-Paladin, Defiler
+Starting Race War Side:	Evil
+Difficulty: 		High
+Main Stat Bonuses: 	Intelligence
+Innates: 		Fly, Ultravision, Day Sight, Spell Resistance
+Pros: 			Good Mage Mana
+Cons: 			Low hit points
+Size:			Medium
+Synopsis:
+The Drow Elf, or Dark Elf, is are a highly intelligent race.  A very magical 
+race, these Elves make great mages.  Although their
+bodies are quite frail, thus the low hitpoints, they can resist spells and 
+have an innate ability to fly.
+
+
+#
+half-drow elf
+&wHalf-&mDrow Elf&n
+Allowed Classes: 	Warrior, Rogue, Cleric, Mage, Anti-Paladin, Defiler
+Starting Race War Side:	Evil
+Difficulty: 		Medium
+Main Stat Bonuses: 	Intelligence
+Innates: 		Ultravision, Day Sight
+Pros: 			Decent Mage Mana
+Cons: 			Low hit points
+Size:			Medium
+Synopsis
+Half Human and half Drow Elf, these beings were made from the union of a 
+Drow and a Human, weather the father was Drow and the mother was
+Human or vice versa it doesn't matter.  The strengths of the Drow race are 
+apparent but not as strong, then again, some of the weaknesses
+are apparent as well, but not as strong.
+
+#
+githyanki
+&cGith&Lyanki&n
+Allowed Classes: 	Warrior, Rogue, Cleric, Mage, Anti-Paladin, Defiler, 
+Psionicist
+Starting Race War Side:	Evil
+Difficulty: 		High
+Main Stat Bonuses: 	Power
+Innates: 		Ultravision, Day Sight
+Pros: 			Can be Psionicists
+Cons: 			Middle of the Road in abilities
+Size:			Medium
+Synopsis:
+A very Human like race, Githyanki were once imprisoned by the Illithids.  
+They have a sever hatred of the Illithid race, but they did
+manage to learn some of the abilities of the Illithid race.  One of only 2 
+races in Wolfshade to be able to be the mighty Psionicist
+class.  They are also very intelligent making them good mages.
+
+#
+draconian
+&gDraco&rnian&n
+Allowed Classes: 	Warrior, Rogue, Mage, Anti-Paladin, Defiler, Psionicist
+Starting Race War Side:	Evil
+Difficulty: 		High
+Main Stat Bonuses: 	Power
+Innates: 		Ultravision, Day Sight
+Pros: 			Good mage/psionicist
+Cons: 			Can't wear all armor because of body shape
+Size:			Medium
+Synopsis:
+A humanoid Dragon, that's what a Draconian is.  They have wings and tails, 
+but lack other areas to wear equipment on.  They are only one
+of two possible races to be a Psionicist.
+
+#
+imp
+&cImp&n
+Allowed Classes: 	Warrior, Rogue, Mage
+Starting Race War Side:	Evil
+Difficulty: 		High
+Main Stat Bonuses: 	Intelligence
+Innates: 		Fly, Ultravision, Day Sight, Bite
+Pros: 			Good Mage mana
+Cons: 			small in size and hit points
+Size:			Tiny
+Synopsis:
+Imps are small winged creature resembling tiny gargoyles.  They strive on 
+mischief and strife.  They are a very magical creature and make
+good mages, but they have small frail bodies leading up to low hit points.
+
+#
+orc
+&LOrc&n
+Allowed Classes: 	Warrior, Rogue, Mage, Cleric, Defiler, Anti-Paladin
+Starting Race War Side:	Evil
+Difficulty: 		Medium
+Main Stat Bonuses: 	None
+Innates: 		Ultravision, Day Sight
+Pros: 			No Cons
+Cons: 			No Pros
+Size:			Medium
+Synopsis:
+Smelly, Odd, Semi-Intelligent humanoids, that's what an orc is.  Orcs are 
+similar to Humans in many ways.  They have no real strong
+abilities, nor do they have any large drawbacks.  They are best in large 
+hordes and usually think in a vicious, pack hunting mentality.
+
+
+#
+gnome
+&RGnome&n
+Allowed Classes: 	Warrior, Rogue, Mage
+Starting Race War Side:	Good
+Difficulty: 		Medium
+Main Stat Bonuses: 	Intelligence
+Innates: 		Day Sight, Infravision
+Pros: 			Good mage mana
+Cons: 			Low hit points
+Size:			Small
+Synopsis:
+Small magical creatures, gnomes only stand maybe 3 feet tall.  They love to 
+tinker with things and invent.  They are also very intelligent.
+
+#
+dwarf
+&YDwarf&n
+Allowed Classes: 	Warrior, Rogue, Cleric, Paladin
+Starting Race War Side:	Good
+Difficulty: 		Easy
+Main Stat Bonuses: 	Wisdom
+Innates: 		Strength, Large, Day Sight, Infravision
+Pros: 			Good cleric mana, good hitpoints
+Cons: 			small in size
+Size:			Small
+Synopsis:
+A Mountain Dwarf is a small sturdy being who can often hold his/her own in a 
+battle.  They have a strong wisdom which enables them
+to be sturdy clerics and paladins.  They are much like their evil 
+counterparts the Duergar Dwarf.
+
+#
+grey elf
+&GGrey Elf&n
+Allowed Classes: 	Warrior, Rogue, Mage, Cleric, Paladin, Ranger
+Starting Race War Side:	Good
+Difficulty: 		Easy
+Main Stat Bonuses: 	Intelligence
+Innates: 		Infravision, Day Sight
+Pros: 			Good Mage Mana
+Cons: 			Low hit points
+Size:			Medium
+Synopsis:
+Elves are slender beautiful people.  Standing slightly smaller than an 
+average human, these Elves live for hundreds of years.
+Elves have frail bodies and often exhibit lower hit points because of their 
+frailness.
+
+#
+kender
+&GKen&Wder&n
+Allowed Classes: 	Warrior, Rogue, Shaman
+Starting Race War Side:	Good
+Difficulty: 		Easy
+Main Stat Bonuses: 	Dexterity
+Innates: 		Infravision, Day Sight
+Pros: 			Good dex makes rogue skills very good
+Cons: 			Small and low hit points
+Size:			Small
+Synopsis:
+Kender are very small, very curious beings.  They often resemble 
+kleptomaniacs in their abiltiy to 'lift' item of interest off unsuspecting
+generous folk.
+
+#
+brownie
+&yBrownie&n
+Allowed Classes: 	Warrior, Rogue, Shaman, Mage, Cleric, Empath
+Starting Race War Side:	Good
+Difficulty: 		Easy
+Main Stat Bonuses: 	Dexterity, Intelligence
+Innates: 		Infravision, Day Sight
+Pros: 			Very dexterious and intelligent, good for rogues/mages
+Cons: 			Small and low hit points
+Size:			Tiny
+Synopsis:
+Brownies are very small humanoids.  Standing only about six to ten inches 
+tall, these creatures are very magical but
+very mischevious as well.  They have a great ability to lift items from 
+people because of their size.  Because of their magical
+nature they make good mages as well.
+
+#
+pixie
+&WPixie&n
+Allowed Classes: 	Warrior, Rogue, Mage, Cleric, Empath
+Starting Race War Side:	Good
+Difficulty: 		Medium
+Main Stat Bonuses: 	Intelligence, Agility
+Innates: 		Fly, Invisibility, Infravision, Day Sight
+Pros: 			High mana, great agility
+Cons: 			Low hit points
+Size:			Tiny
+Synopsis:
+Pixies are tiny, flying, magical, winged humanoids.  Often seen glowing 
+white, Pixies stand only about 4-8 inches tall.  They have
+the ability to make themselves invisible and because of their wings they can 
+fly.  Pixies' size and flying makes them extremely agile
+giving them great AC bonuses, and they need them too, Pixie hitpoints are 
+one of the lowest in the game.  Pixies are also extremely magical
+they can ave the most mana for a mage in the game.
+
+#
+centaur
+&yCen&ctaur&n
+Allowed Classes: 	Warrior, Rogue, Cleric, Shaman
+Starting Race War Side:	Good
+Difficulty: 		Easy
+Main Stat Bonuses: 	Strength
+Innates: 		Infravision, Day Sight
+Pros: 			Many Movement points, Strongest good
+Cons: 			Can't wear all armor
+Size:			Large
+Synopsis:
+Centaur are half horse, half human.  Because of their horse size and build 
+they can travel across large distances pretty easily and also
+have good strength.  The Centaur can not wear certain equipment because of 
+their shape, but they can wear 2 sets of boots and leggings.
+
+#
+saurial
+&GSaurial&n
+Allowed Classes: 	Warrior, Paladin, Cleric
+Starting Race War Side:	Good
+Difficulty: 		Easy
+Main Stat Bonuses: 	Wisdom
+Innates: 		Infravision, Day Sight
+Pros: 			Large and Good Clerical mana
+Cons: 			Limited Classes
+Size:			Large
+Synopsis:
+Saurial are large humaniods who are very good natured.  They look much like 
+humanoid rhino's or dinosaurs, although they are bit smaller.
+Most Saurials have a large bones surrounding their heads and their faces 
+sometimes resemble that of dragons.  Saurials are good hearted and
+make excellent Paladins.
+
+#
+half-grey elf
+&wHalf-&cGrey Elf&n
+Allowed Classes: 	Warrior, Rogue, Cleric, Mage, Paladin, Ranger
+Starting Race War Side:	Good
+Difficulty: 		Medium
+Main Stat Bonuses: 	Intelligence
+Innates: 		Ultravision, Day Sight
+Pros: 			Decent Mage Mana
+Cons: 			Low hit points
+Size:			Medium
+Synopsis
+Half Human and half Grey Elf, these beings were made from the union of a 
+Grey Elf and a Human, weather the father was Grey Elf and the mother was
+Human or vice versa it doesn't matter.  The strengths of the Grey Elf race 
+are apparent but not as strong, then again, some of the weaknesses
+are apparent as well, but not as strong.
+
+#
+barbarian
+&bBarb&Larian&n
+Allowed Classes: 	Warrior, Rogue, Shaman
+Starting Race War Side:	Neutral
+Difficulty: 		Easy
+Main Stat Bonuses: 	Strength
+Innates: 		Day Sight
+Pros: 			Large and strong
+Cons: 			only able to see in day, little magic ability
+Size:			Large
+Synopsis:
+Barbarians are very large humans.  They are like Humans in most ways except 
+they are much taller, stronger and bigger.  They are only able
+to see naturally in the day light.
+
+#
+minotaur
+&LMino&rtaur&n
+Allowed Classes: 	Warrior, Rogue, Mage
+Starting Race War Side:	Neutral
+Difficulty: 		Medium
+Main Stat Bonuses: 	Strength
+Innates: 		Day Sight, Infravision
+Pros: 			Large and strong
+Cons: 			Different equipment wear positions
+Size:			Large
+Synopsis:
+Minotaurs are large humanoids with a bull-like head and lower body.  Their 
+arms an torso are much like a hairy human.  Minotaurs can not
+wear much of the equipment that normal races can wear because of their 
+strange shape.  Minotuars can, however, wear equipment on their horns
+and tail.
+
+#
+mul
+&BMul&n
+Allowed Classes: 	Warrior, Rogue, Shaman
+Starting Race War Side:	Neutral
+Difficulty: 		Easy
+Main Stat Bonuses: 	Strength
+Innates: 		Day Sight, Infravision
+Pros: 			Strong for a medium
+Cons: 			only Medium in size
+Size:			Medium
+Synopsis:
+Muls are a hybrid of Dwarves and Humans.  A Mul stands around six feet high 
+but has the muscle build and the sturdyness of a Dwarf.
+Muls are not quite as gifted in the arts of magic and prayer that Dwarves 
+are but they do have their own strengths.
+
+#
+kenku
+&wK&Lenk&wu&n
+Allowed Classes: 	Warrior, Rogue, Shaman
+Starting Race War Side:	Neutral
+Difficulty: 		Easy
+Main Stat Bonuses: 	Agility
+Innates: 		Fly, Day Sight, Infravision
+Pros: 			Innate Fly helps
+Cons: 			Middle of the road in most cases
+Size:			Medium
+Synopsis:
+Kenku are bird people.  A Kenku stands about 5-6 feet tall and have the 
+ability to fly whenever he/she feels the need.  The Kenku do
+not have any special strengths but they also have no special weaknesses.
+
+#
+human
+&wHuman&n
+Allowed Classes: 	Warrior, Rogue, Mage, Cleric, Paladin, Anti-Paladin, 
+Ranger, Defiler
+Starting Race War Side:	Neutral
+Difficulty: 		Easy
+Main Stat Bonuses: 	None
+Innates: 		Day Sight
+Pros: 			Can be almost any class
+Cons: 			Can only see during the day
+Size:			Medium
+Synopsis:
+You are a Human, you need a synopsis on that?  Humans can be almost any 
+class, this being their strongest point.  Keep in mind that even though
+they are a neutral race, choosing to play a Paladin, Anti-Paladin, Ranger or 
+Defiler will automatically start your alignment in line with your
+class.
+
+#
+half-orc
+&wHalf-&LOrc&n
+Allowed Classes: 	Warrior, Rogue, Mage, Cleric, Anti-Paladin, Defiler
+Starting Race War Side:	Neutral
+Difficulty: 		Medium
+Main Stat Bonuses: 	None
+Innates: 		Day Sight, Ultravision
+Pros: 			Can be most classes
+Cons: 			No major stat bonuses
+Size:			Medium
+Synopsis:
+A hybrid of Human and Orc, a Half-Orc has the ability to easily go good if 
+he/she chooses so because he/she is neutral, unlike a full orc.
+Half-Orcs are not quite as blood thirsty as normal Orcs, but cannot learn 
+the ways of complete goodness to become a Paladin or Ranger.
+

@@ -1,0 +1,146 @@
+&MNews as of 1/6/2000&n
+	- res is fixed - duth forgot how to do simple math
+	- res bug with hitpoints etc getting screwed is fixed
+	- guk tweaked some spell times for mindflayers and psi.
+&MNews as of 1/5/2000&n
+	- made track a bit easier
+	- god switch changed it will now check the room your in first for a alias match
+ before checking global link list of all characters.
+	- mob flag perm di added
+	- Changed offensive spells so that if your target is already fighting you do not
+ get pulled into battle.  BUT the 'con' to this is that if you start a battle with an
+offensive your target will have first attack each meele round.
+	- Frequency mobs check for aggro has been increased.
+	- The hide affect can no longer be added to a character that is fighting
+	- You should start to get invis type spell out messages again.
+&MNews as of 1/3/2000&n
+	- You should never lose eq b/c of un-equiping it
+	- You can now create followers on boats
+	- A ton of error checking code has been added
+	- illithids can no longer see undead
+	- become lich now drops all your eq to the room after you are transformed.
+	- disembarking sends message to room that you are leaving now
+	- all drink containers have been removed from the game...wolfshademud doesn't make you drink!
+&MNews as of 1/1/2000&n
+	- A initialize and a clean up function have been added to the character class, these functions should be used
+to clean up pointers, and send stop messages.  
+	- This means that the "A none stops following you" is fixed.
+	- mobs that don't leave corpses now leave there eq when they die.
+	- pets will no longer do non combat ai
+	- mana regen slowed down
+	- spell messages added for new spells
+	- using two objects that give DI will no longer spam you with "Invis things fade from your view".
+	- offensive psi, empath, and mindflayer spells marked as such...you will snap from invis now when used
+	- pets will no longer autoflee
+	- if you try flee while casting you will abort your cast
+	- shows now shop object names instead of thier description
+	- god res and cleric res no longer allow characters over 50 to level from res
+	- potions are in
+	- 51 and 52 level potions in
+	- Quaff and use commands added use <object name> quaff <object name>
+	- all food items have been removed from the game...wolfshademud doesn't force you to eat!
+	- Res and God Res will no longer allow you to keep eq that you worn before res.
+	- Pets now have a Time to live... It is based on your skill at the spell.  Undead may go bezerk on you ...they
+will go randomly aggro when you lose control of them.  Elements have a very very small chance of going aggro on you, other
+wise they just die.
+&MNews as of 12/30/1999&n
+	- Many of the Mage spell damages have been changed
+	- Mountain Sphere spell "Hell Fire" added
+	- Grey Mage "Prismatic Shield" added
+	- New Zone AI Added, Swamp Mohr Castle, Kipu's Farm house
+	- Holy/Unholy Word will no longer aggro things it doesn't hit
+	- Mountain/Tundra spell "Fire and Ice" added
+	- Some typo's were fixed, 'flys', 'lighting bold'
+	- Rogue Mercs can now learn Riposte and Parry
+	- The second 'mass vigorize' changed to 'mass fatigue' what it should be
+	- Some ANSI changes have been made to chat channels
+	- Mage Undead now are affects by the number of spheres you have
+	- Guks Wicked Glance is now level 16 instead of 6
+	- Intimidate actually makes the target worse instead of better now.
+	- Mobs will cast 'faerie fire' offensively now instead of 'faerie flight'
+	- boats are fixed
+News as of 12/29/1999
+	- Up for a challenge?  How far can you go up the ladder?  Find out somewhere in the mountains in the south east corner of the world
+News as of 12/23/1999
+	- Kipu's Farm House has been found.  Something seems a foot in that place.. find it near the river on the goodie continent.
+News as of 12/22/1999
+	- DISEMBARK IS CURRENTLY BROKE, I WILL TRY TO FIX IT ASAP, IT WILL CRASH THE MUD
+		If you need to get to another continent ask a god, please don't use a boat.
+	- A few good races have established a castle, Swamp Mohr Castle, to the west side of the evil continent.
+	- Tunser's Ale house has opened in Willow Creek!
+	- Thieves under Sibrene Cove have decided to upgrade the equipment they are wearing.
+&MNews as of 12/18/1999&n
+	- ok mob ai will stop attacking you if your not in room
+	- help fix is in...but help will only work on a single word again...I'll fix that when I get back
+	- reduced the amt of ai
+&MNews as of 12/17/1999&n
+	- This is it for code releases until the new year.  Why?  Because Duth will be out of country
+The mud will be left in Guk's hands.  Guk will continue to &Yzone releases&n.
+	- One Point of interest. THERE ARE NOT BOTS ALLOWED!
+	- God Freeze is in, if you get out of line, disrespectful etc, you will be frozen.
+If you are frozen you will be able to use 'say' command only.  I hated to have to do this.
+Please report any abuse of this by the gods directly to Duth or Guk.  Not that the
+gods we have now would abuse it...it is a note for the future.
+	- help can now use more than 1 word as key
+	- basic rogue ai is in
+	- basic warrior ai is in
+	- you can track other side of race wars again.
+	- mage ai increased a bit they will haste themselves if they can
+	- It will be much harder for mage types to get a quick chant if you are in meele combat now.
+	- Made some big changes to psi, empath's and mindflayers they won't be getting as much mana anymore, but 
+each spell won't cost you as much either.  We may be re-leveling ppl to re-adjust mana points.  It's either that or a pwipe.
+	- dwarfs can be paladins
+	- duegar can be anti's
+	- many races had mana adjustments to them that will only be seen in new characters.
+	- REMEMBER WE ARE STILL IN BETA
+	- defenders actually get a chance to side step bash, bodyslam, trip, and backstab now
+	- you shouldn't get You follow ... if your casting anymore
+	- Fixed to room kill messages
+	- mobs should stop scavenging when they are asleep.
+	- mobs stop being aggro if they are hurt too bad.
+&MNews as of 12/15/1999&n
+	- clerics, anti's, and paladins now have blindness...but no one in the game casts blindness
+better than clerics
+	- mage sand blast and dirttoss still cause blindness but not for as long
+	- skill blind fighting has become important =)
+	- if you are blind your hitroll is cut in half, your dodge, parry, kick, ripo, circle
+bash...skills are reduced
+	- chance for critical hits have been doubled. =)
+&MNews as of 12/14/1999&n
+	- The extra attacks while wield 2h should be gone.
+	- ok mage AI updated again ...they should stop casting farie fire etc now
+	- even more explict messages for movement
+	- clear sight is fixed
+	- you can now wake others up
+	- a few typos corrected
+	- decreased time between track attempts
+	- increased area you can track it is now skill/2 so max of a 50 room sphere.
+	- increased the % chance to skill up in track
+&MNews as of 12/13/1999&n
+	- search is in read help file for syntax
+	- gods you can now just spy "off"
+	- frag list layout out changed slightly
+	- you now lose hide when following someone into a room.
+	- group exp has been re-worked, Is better now, but there are big exp minus to group with someone 10 lvls above you.
+	- Lay hands has been re-worked, Now gives you Skill*10 hitpoints but you can only do it twice a day.
+	- lay hands skill up rate has been increased
+	- paladin spells cure light and cure serious will stop being cause spells
+	- Shops should load with stuff again
+&MNews as of 12/12/1999&n
+	- enhancements list is fixed
+	- paladins and antis really get +1/+1 for each 12 levels
+	- no longer get room messages while sleeping
+&MNews as of 12/11/1999&n
+	- imps hitpoints lowered a bit
+	- gods can now transport <char name> here
+	- followers stop being your follower if you cast at them
+	- NNGH SAYS "&Y&Fread help rules and help multiplaying&n"
+	- innate fly and str time increased
+	- % for innate bite to work has been increased
+	- vis command added
+	- moving from room to room while !standing will cost you more move points, and you get a new message
+	- draging something will now cost you more move points
+	- can now hear someone even if you can't see them.
+	- paladin and anti's now have a +1/+1 when wielding a 2h weapon
+	- vstat for objects in much more inclusive
+	- stone skin, air shield and inertial barrier down graded (still good but not crazy anymore)

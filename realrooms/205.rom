@@ -1,0 +1,88 @@
+205001
+&LOpening of a long thin tunnel&n~
+&LThe pit of challenge lies before you, you know as you go down things will be more and more difficult, are you ready for the challenge?&n~
+205 no 0 1
+DOOR
+4
+door trapdoor~
+c -1 205002
+DOOR
+0
+~
+1 -1 1009596
+ENDROOM
+205002
+&LA long, thin tunnel&n~
+&LThis long tunnel has carvings on the walls, looks like it's keeping score.  This well known place knows how to make the challenge... you wonder, are you ready?&n~
+205 no 0 1
+DOOR
+4
+door trapdoor~
+c -1 205003
+DOOR
+5
+door trapdoor~
+c -1 205001
+ENDROOM
+205003
+&LA long, thin tunnel&n~
+&LThis long tunnel has carvings on the walls, looks like it's keeping score.  This well known place knows how to make the challenge... you wonder, are you ready?&n~
+205 no 0 1
+DOOR
+4
+door trapdoor~
+c -1 205004
+DOOR
+5
+door trapdoor~
+c -1 205002
+ENDROOM
+205004
+&LA long, thin tunnel&n~
+&LThis long tunnel has carvings on the walls, looks like it's keeping score.  This well known place knows how to make the challenge... you wonder, are you ready?&n~
+205 no 0 1
+DOOR
+4
+door trapdoor~
+c -1 205005
+DOOR
+5
+door trapdoor~
+c -1 205003
+ENDROOM
+205005
+&LA long, thin tunnel&n~
+&LThis long tunnel has carvings on the walls, looks like it's keeping score.  This well known place knows how to make the challenge... you wonder, are you ready?&n~
+205 no 0 1
+DOOR
+4
+door trapdoor~
+c -1 205006
+DOOR
+5
+door trapdoor~
+c -1 205003
+ENDROOM
+205006
+&LA long, thin tunnel&n~
+&LThis long tunnel has carvings on the walls, looks like it's keeping score.  This well known place knows how to make the challenge... you wonder, are you ready?&n~
+205 no 0 1
+DOOR
+4
+door trapdoor~
+c -1 205007
+DOOR
+5
+door trapdoor~
+c -1 205005
+ENDROOM
+205007
+&LA long, thin tunnel&n~
+&LThis long tunnel has carvings on the walls, looks like it's keeping score.  This well known place knows how to make the challenge... you wonder, are you ready?&n~
+205 no 0 1
+DOOR
+5
+door trapdoor~
+c -1 205006
+ENDROOM
+ENDFILE

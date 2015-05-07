@@ -1,0 +1,205 @@
+51601
+bone club~
+&Wa bone club&n~
+&Wa bone club&n~
+&WA bone club lies here.&n~
+10 0 mn
+2 4 2 4 8
+3 2000 1
+ENDOBJ
+51602
+bone sword~
+&Wa bone sword&n~
+&Wa bone sword&n~
+&WA bone sword lies here.&n~
+10 gjklnq mn
+2 4 2 4 4
+3 2000 1
+ENDOBJ
+51603
+falchion bone~
+&Wa bone falchion&n~
+&Wa bone falchion&n~
+&wA bone falchion lies here.&n~
+10 gjklnq o
+2 6 3 4 4
+5 3000 1
+ENDOBJ
+51604
+bone breast plate~
+&Wa bone breast plate&n~
+&Wa bone breast plate&n~
+&WA bone breast plate lies here.&n~
+6 jklnq h
+7
+2 2000 6
+ENDOBJ
+51605
+skull cap~
+&Wa skull cap&n~
+&Wa skull cap&n~
+&WA skull cap lies here.&n~
+6 0 a
+3
+2 3000 6
+AFFECTS
+21 1
+ENDOBJ
+51606
+bone plated boots~
+&Wsome &wbone &Wplated &wboots&n~
+&Wsome &wbone &Wplated &wboots&n~
+&Wsome &wbone &Wplated &wboots lie here.&n~
+6 0 u
+2
+2 3000 6
+AFFECTS
+22 1
+ENDOBJ
+51607
+bone plated gloves~
+&Wsome bone plated gloves&n~
+&Wsome bone plated gloves&n~
+&WSome bone plated gloves lie here.&n~
+6 0 v
+3
+2 3000 6
+AFFECTS
+2 4
+10 4
+ENDOBJ
+51608
+small bone ring~
+&Wa small bone ring&n~
+&Wa small bone ring&n~
+&Wa small bone ring lies here.&n~
+6 0 l
+1
+1 4000 1
+AFFECTS
+21 1
+22 1
+ENDOBJ
+51609
+small bone earring~
+&Wa small bone earring&n~
+&Wa small bone earring&n~
+&WA small bone earring lies here.&n~
+6 0 c
+2
+1 4000 1
+AFFECTS
+5 3
+6 3
+ENDOBJ
+51610
+ebony orb~
+&Lan ebony orb&n~
+&Lan ebony orb&n~
+&Lan ebony orb lies here.&n~
+10 0 mn
+2 2 2 2 8
+3 3000 1
+AFFECTS
+16 1
+ENDOBJ
+51611
+rapier rusty~
+&Wa &yrusty &Wrapier&n~
+&Wa &yrusty &Wrapier&n~
+&WA &yrusty &Wrapier lies here.&n~
+10 gjklnq mn
+2 4 2 4 4
+3 2000 1
+ENDOBJ
+51612
+large gnarled staff~
+&ya large gnarled staff&n~
+&ya large gnarled staff&n~
+&yA large gnarled staff lies here.&n~
+10 0 o
+2 6 3 4 8
+5 2000 1
+ENDOBJ
+51613
+eye patch~
+&Wa bone framed &Leyepatch&n~
+&Wa bone framed &Leyepatch&n~
+&WA bone framed &Leyepatch lies here.&n~
+6 0 d
+2
+2 3000 6
+AFFECTS
+26 -10
+ENDOBJ
+51614
+dolomite horn caps~
+&Lsome &rdolomite &Lhorn caps&n~
+&Lsome &rdolomite &Lhorn caps&n~
+&LSome &rdolomite &Lhorn caps lie here.&n~
+6 0 b
+3
+2 3000 6
+AFFECTS
+21 1
+ENDOBJ
+51615
+leather wing covers~
+&ysome torn &Lwing covers&n~
+&ysome torn &Lwing covers&n~
+&ySome torn &Lwing covers lie here.&n~
+6 0 x
+8
+2 3000 6
+AFFECTS
+3 6
+ENDOBJ
+51616
+braided tail attachment~
+&ca braided &rtail &mattachment&n~
+&cA braided &rtail &mattachment&n~
+&ca braided &rtail &mattachment &clie here.&n~
+6 0 s
+3
+2 3000 6
+ENDOBJ
+51617
+mithril arm guards~
+&Wsome &bmithril &Warm guards&n~
+&Wsome &bmithril &Warm guards&n~
+&WSome &bmithril &Warm guards lie here.&n~
+6 0 j
+8
+1 3000 1
+ENDOBJ
+51618
+adamantite bracers~
+&Wsome &cadamantite &Wbracers&n~
+&Wsome &cadamantite &Wbracers&n~
+&WSome &cadamantite &Wbracers lie here.&n~
+6 0 k
+4
+1 3000 1
+AFFECTS
+5 3
+6 3
+ENDOBJ
+51619
+shield shoulder blade~
+&Wa &Lshield &Wmade from a &wlarge shoulder blade&n~
+&Wa &Lshield &Wmade from a &wlarge shoulder blade&n~
+&WA &Lshield &Wmade from a &wlarge shoulder blade lies here.&n~
+6 0 p
+4
+1 2000 1
+ENDOBJ
+51620
+bone dagger~
+&Wa bone dagger&n~
+&Wa bone dagger&n~
+&WA bone dagger lies here.&n~
+10 0 mn
+2 4 2 4 2
+3 1000 1
+ENDOBJ
+ENDFILE

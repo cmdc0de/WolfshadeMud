@@ -1,0 +1,272 @@
+51501
+&YAn &GOasis&n~
+&GHere in the middle of the desert is a pool of water and life teems all around the area.&n~
+515 0 9 2~
+DOOR
+0
+~
+1 -1 1002075
+DOOR
+2
+~
+1 -1 51502
+ENDROOM
+51502
+&YAn &GOasis&n~
+&GHere in the middle of the desert is a pool of water and life teems all around the area.&n~
+515 0 9 2~
+DOOR
+0
+~
+1 -1 51501
+DOOR
+2
+~
+1 -1 51504
+ENDROOM
+51503
+&YThe &WShiek's &YTent&n~
+&WLavishly adorned with gold and silk this tent obviously belongs to the Shiek himself.&n~
+515 c 9 2~
+DOOR
+2
+canvas door~
+c -1 51509
+ENDROOM
+51504
+&YAn &GOasis&n~
+&GHere in the middle of the desert is a pool of water and life teems all around the area.&n~
+515 0 9 2~
+DOOR
+0
+~
+1 -1 51502
+DOOR
+2
+~
+1 -1 51510
+ENDROOM
+51505
+&YA large gathering tent&n~
+&WThis tent has a bunch of desert dwelling people feasting and living out their lives.&n~
+515 c 9 2~
+DOOR
+1
+canvas door~
+c -1 51506
+DOOR
+2
+canvas door~
+c -1 51509
+ENDROOM
+51506
+&YA large gathering tent&n~
+&WThis tent has a bunch of desert dwelling people feasting and living out their lives.&n~
+515 c 9 2~
+DOOR
+3
+canvas door~
+c -1 51505
+ENDROOM
+51507
+&YAn &GOasis&n~
+&GHere in the middle of the desert is a pool of water and life teems all around the area.&n~
+515 0 9 2~
+DOOR
+3
+~
+1 -1 1002174
+DOOR
+1
+~
+1 -1 51508
+ENDROOM
+51508
+&YAn &GOasis&n~
+&GHere in the middle of the desert is a pool of water and life teems all around the area.&n~
+515 0 9 2~
+DOOR
+1
+~
+1 -1 51509
+DOOR
+2
+canvas door~
+c -1 51514
+DOOR
+3
+~
+1 -1 51507
+ENDROOM
+51509
+&YAround an &GOasis&n~
+&GHere in the middle of the oasis is a large pool of water.&n~
+515 0 9 2~
+DOOR
+0
+canvas door~
+c -1 51503
+DOOR
+1
+~
+1 -1 51510
+DOOR
+2
+~
+1 -1 51515
+DOOR
+3
+~
+1 -1 51508
+ENDROOM
+51510
+&BThe &Wwatering&B hole&n~
+&GHere in the middle of the oasis is a large pool of water.&n~
+515 0 9 2~
+DOOR
+0
+~
+1 -1 51504
+DOOR
+1
+~
+1 -1 51511
+DOOR
+2
+~
+1 -1 51516
+DOOR
+3
+~
+1 -1 51509
+ENDROOM
+51511
+&YAround an &GOasis&n~
+&GHere in the middle of the oasis is a large pool of water.&n~
+515 0 9 2~
+DOOR
+0
+canvas door~
+c -1 51505
+DOOR
+1
+~
+1 -1 51512
+DOOR
+2
+~
+1 -1 51517
+DOOR
+3
+~
+1 -1 51510
+ENDROOM
+51512
+&YAn &GOasis&n~
+&GHere in the middle of the desert is a pool of water and life teems all around the area.&n~
+515 0 9 2~
+DOOR
+1
+~
+1 -1 51513
+DOOR
+3
+~
+1 -1 51511
+ENDROOM
+51513
+&YAn &GOasis&n~
+&GHere in the middle of the desert is a pool of water and life teems all around the area.&n~
+515 0 9 2~
+DOOR
+1
+~
+1 -1 1002176
+DOOR
+3
+~
+1 -1 51512
+ENDROOM
+51514
+&YA gathering tent&n~
+&WThis tent has a family of desert dwelling people's property and well being.&n~
+515 c 9 2~
+DOOR
+0
+canvas door~
+c -1 51508
+ENDROOM
+51515
+&YAround an &GOasis&n~
+&GHere in the middle of the oasis is a large pool of water.&n~
+515 0 9 2~
+DOOR
+0
+~
+1 -1 51509
+DOOR
+1
+~
+1 -1 51516
+ENDROOM
+51516
+&YAround an &GOasis&n~
+&GHere in the middle of the oasis is a large pool of water.&n~
+515 0 9 2~
+DOOR
+0
+~
+1 -1 51510
+DOOR
+1
+~
+1 -1 51517
+DOOR
+2
+~
+1 -1 51518
+DOOR
+3
+~
+1 -1 51515
+ENDROOM
+51517
+&YAround an &GOasis&n~
+&GHere in the middle of the oasis is a large pool of water.&n~
+515 0 9 2~
+DOOR
+0
+~
+1 -1 51511
+DOOR
+3
+~
+1 -1 51516
+ENDROOM
+51518
+&YAn &GOasis&n~
+&GHere in the middle of the desert is a pool of water and life teems all around the area.&n~
+515 0 9 2~
+DOOR
+0
+~
+1 -1 51516
+DOOR
+2
+~
+1 -1 51519
+ENDROOM
+51519
+&YAn &GOasis&n~
+&GHere in the middle of the desert is a pool of water and life teems all around the area.&n~
+515 0 9 2~
+DOOR
+0
+~
+1 -1 51518
+DOOR
+2
+~
+1 -1 1002275
+ENDROOM
+ENDFILE

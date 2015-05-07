@@ -1,0 +1,397 @@
+13001
+peasant drunken~
+&Wa &cdrunken &Wpeasant&n~
+&WA &cdrunken &Wpeasant stands here.&n~
+&WA &cdrunken &Wpeasant stands here.&n~
+&WA &cdrunken &Wpeasant stands here.&n~
+abe ab -200 
+20 1 12 
+80 80 1
+1 6 0
+40 0 j j 1
+ENDMOB
+13002
+peasant smelly~
+&Wa &ysmelly &Wpeasant&n~
+&WA &ysmelly &Wpeasant stands here.&n~
+&WA &ysmelly &Wpeasant stands here.&n~
+&WA &ysmelly &Wpeasant stands here.&n~
+abe ab 100
+20 1 15
+75 70 1
+2 5 0
+60 0 j j 2
+ENDMOB
+13003
+peasant ornery~
+&Wan &Cornery &Wpeasant&n~
+&WAn &Cornery &Wpeasant stands here.&n~
+&WAn &Cornery &Wpeasant stands here.&n~
+&WAn &Cornery &Wpeasant stands here.&n~
+abe ab -400
+20 1 17
+70 70 1
+2 6 0
+100 0 j j 2
+ENDMOB
+13004
+peasant vendor snack~
+&Wa peasant snack vendor&n~
+&WA peasant snack vendor stands here.&n~
+&WA peasant snack vendor stands here.&n~
+&WA peasant snack vendor stands here.&n~
+abe ab 300
+20 1 10
+85 80 1
+1 5 0
+100 0 j j 1
+ENDMOB
+13005
+peasant calm~
+&Wa &wcalm &Wpeasant&n~
+&WA &wcalm &Wpeasant stands here.&n~
+&WA &wcalm &Wpeasant stands here.&n~
+&WA &wcalm &Wpeasant stands here.&n~
+abe ab 100
+20 1 20
+70 70 1
+2 7 0
+200 0 j j 1
+ENDMOB
+13006
+peasant young~
+&Wa &Yyoung &Wpeasant&n~
+&WA &Yyoung &Wpeasant stands here in awe of the whole spectacle.&n~
+&WA &Yyoung &Wpeasant stands here in awe of the whole spectacle.&n~
+&WA &Yyoung &Wpeasant stands here in awe of the whole spectacle.&n~
+abe ab 500
+20 1 5
+90 90 1
+1 4 0
+10 0 j j 1
+ENDMOB
+13007
+peasant old~
+&Wan &Lold &Wpeasant&n~
+&WAn &Lold &Wpeasant stands here cheering wildly.&n~
+&WAn &Lold &Wpeasant stands here cheering wildly.&n~
+&WAn &Lold &Wpeasant stands here cheering wildly.&n~
+abe ab 0
+20 1 2
+100 100 100
+1 2 0
+10 0 j j 1
+ENDMOB
+13008
+peasant crippled~
+&Wa crippled peasant&n~
+&WA crippled peasant stands leaning on his cane.&n~
+&WA crippled peasant stands leaning on his cane.&n~
+&WA crippled peasant stands leaning on his cane.&n~
+abe ab 0
+20 1 1
+100 100 100
+1 2 0
+5 0 j j 1
+ENDMOB
+13009
+wealthy patron~
+&Wa wealthy patron&n~
+&WA wealthy patron stands here.&n~
+&WA wealthy patron stands here.&n~
+&WA wealthy patron stands here.&n~
+abe ab -200 
+20 1 22 
+60 60 1
+2 6 0
+2200 0 j j 1
+ENDMOB
+13010
+arrogant noble~
+&MAn &marrogant &Mnoble&n~
+&MAn &marrogant &Mnoble stands here scoffing at his losses.&n~
+&MAn &marrogant &Mnoble stands here scoffing at his losses.&n~
+&MAn &marrogant &Mnoble stands here scoffing at his losses.&n~
+abe ae -400
+20 3 25
+75 70 1
+2 5 0
+6000 0 j j 2
+ENDMOB
+13011
+priest patron~
+&WA &Cpriest &Wpatron&n~
+&WA &Cpriest &Wpatron prays for the warriors.&n~
+&WA &Cpriest &Wpatron prays for the warriors.&n~
+&WA &Cpriest &Wpatron prays for the warriors.&n~
+abe ab 700
+20 2 26
+50 50 1
+2 10 10
+1000 0 j j 2
+ENDMOB
+13012
+noble woman~
+&Wa &Bnoble &Wwoman&n~
+&Wa &Bnoble &Wwoman stands here.&n~
+&Wa &Bnoble &Wwoman stands here.&n~
+&Wa &Bnoble &Wwoman stands here.&n~
+abe ab 0
+20 1 21
+70 70 1
+2 5 10
+5000 0 j j 2
+ENDMOB
+13013
+richly dressed~
+&Wa &Mrichly dressed &RGnome&n~
+&WA &Mrichly dressed &RGnome stands here.&n~
+&WA &Mrichly dressed &RGnome stands here.&n~
+&WA &Mrichly dressed &RGnome stands here.&n~
+abe ac 800
+11 3 30
+50 40 1
+2 7 10
+6000 0 j j 1
+ENDMOB
+13014
+betting nervous~
+&Wa &Cnervous &WPixie&n~
+&WA &Cnervous &WPixie floats around here thinking about betting.&n~
+&WA &Cnervous &WPixie floats around here thinking about betting.&n~
+&WA &Cnervous &WPixie floats around here thinking about betting.&n~
+abe ac 500
+16 3 35
+50 50 1
+3 4 10
+4000 0 j j 2
+ENDMOB
+13015
+devious brownie~
+&La devious &ybrownie&n~
+&LA devious looking &ybrownie cheering right along with the crowd.&n~
+&LA devious looking &ybrownie cheering right along with the crowd.&n~
+&LA devious looking &ybrownie cheering right along with the crowd.&n~
+abe abdhi 0
+15 4 32
+40 40 100
+3 4 10
+10000 0 j j 1
+ENDMOB
+13016
+well dressed vendor~
+&Wa well dressed vendor&n~
+&WA well dressed vendor walks around selling snacks.&n~
+&WA well dressed vendor walks around selling snacks.&n~
+&WA well dressed vendor walks around selling snacks.&n~
+abe ab 0
+20 1 8
+90 80 0
+1 5 10
+100 0 j j 1
+ENDMOB
+13017
+arena master~
+&Wthe arena master&n~
+&WThe arena master stands here waiting to give the word to release start the games&n~
+&WThe arena master stands here waiting to give the word to release start the games&n~
+&WThe arena master stands here waiting to give the word to release start the games&n~
+abe abejk 0
+20 1 40
+30 -50 0
+5 5 25
+11110 0 j j 1
+ENDMOB
+13018
+arena guard~
+&Wa guard of the arena&n~
+&WA guard of the arena stands here looking rigid.&n~
+&WA guard of the arena stands here looking rigid.&n~
+&WA guard of the arena stands here looking rigid.&n~
+abe abehi 0
+20 1 37
+20 -50 0
+2 5 5
+10510 0 j j 1
+ENDMOB
+13019
+arena guard~
+&Wa guard of the arena&n~
+&WA guard of the arena stands here looking rigid.&n~
+&WA guard of the arena stands here looking rigid.&n~
+&WA guard of the arena stands here looking rigid.&n~
+abe a 1000
+20 8 33
+20 -50 0
+2 2 5
+8510 0 j j 1
+ENDMOB
+13020
+gate guard arena~
+&Wthe arena gate guard&n~
+&WThe arena gate guard stands here looking rigid.&n~
+&WThe arena gate guard stands here looking rigid.&n~
+&WThe arena gate guard stands here looking rigid.&n~
+abe a 0
+20 9 50
+0 -80 0
+5 6 10
+13510 0 j j 1
+ENDMOB
+13021
+peasant drunken~
+&Wa &cdrunken &Wpeasant&n~
+&WA &cdrunken &Wpeasant stands here.&n~
+&WA &cdrunken &Wpeasant stands here.&n~
+&WA &cdrunken &Wpeasant stands here.&n~
+be ab -200 
+20 1 12 
+80 80 1
+1 6 0
+40 0 j j 1
+ENDMOB
+13022
+peasant smelly~
+&Wa &ysmelly &Wpeasant&n~
+&WA &ysmelly &Wpeasant stands here.&n~
+&WA &ysmelly &Wpeasant stands here.&n~
+&WA &ysmelly &Wpeasant stands here.&n~
+be ab 100
+20 1 15
+75 70 1
+2 5 0
+60 0 j j 2
+ENDMOB
+13023
+peasant ornery~
+&Wan &Cornery &Wpeasant&n~
+&WAn &Cornery &Wpeasant stands here.&n~
+&WAn &Cornery &Wpeasant stands here.&n~
+&WAn &Cornery &Wpeasant stands here.&n~
+be ab -400
+20 1 17
+70 70 1
+2 6 0
+100 0 j j 2
+ENDMOB
+13024
+peasant calm~
+&Wa &wcalm &Wpeasant&n~
+&WA &wcalm &Wpeasant stands here.&n~
+&WA &wcalm &Wpeasant stands here.&n~
+&WA &wcalm &Wpeasant stands here.&n~
+be ab 100
+20 1 20
+70 70 1
+2 7 0
+200 0 j j 1
+ENDMOB
+13025
+peasant young~
+&Wa &Yyoung &Wpeasant&n~
+&WA &Yyoung &Wpeasant stands here in awe of the whole spectacle.&n~
+&WA &Yyoung &Wpeasant stands here in awe of the whole spectacle.&n~
+&WA &Yyoung &Wpeasant stands here in awe of the whole spectacle.&n~
+be ab 500
+20 1 5
+90 90 1
+1 4 0
+10 0 j j 1
+ENDMOB
+13026
+peasant old~
+&Wan &Lold &Wpeasant&n~
+&WAn &Lold &Wpeasant stands here cheering wildly.&n~
+&WAn &Lold &Wpeasant stands here cheering wildly.&n~
+&WAn &Lold &Wpeasant stands here cheering wildly.&n~
+abe ab 0
+20 1 2
+100 100 100
+1 2 0
+10 0 j j 1
+ENDMOB
+13027
+peasant crippled~
+&Wa crippled peasant&n~
+&WA crippled peasant stands leaning on his cane.&n~
+&WA crippled peasant stands leaning on his cane.&n~
+&WA crippled peasant stands leaning on his cane.&n~
+abe ab 0
+20 1 1
+100 100 100
+1 2 0
+5 0 j j 1
+ENDMOB
+13028
+champion gladiator~
+&Rthe gladiator champion&n~
+&RThe gladiator champion stands here ready to do battle.&n~
+&RThe gladiator champion stands here ready to do battle.&n~
+&RThe gladiator champion stands here ready to do battle.&n~
+abd abejk 0
+20 1 40
+20 -50 1000
+2 20 15
+2000 0 j j 1
+ENDMOB
+13029
+gladiator~
+&wa &BMul &wgladiator&n~
+&wA &BMul &wgladiator stands here ready to do battle.&n~
+&wA &BMul &wgladiator stands here ready to do battle.&n~
+&wA &BMul &wgladiator stands here ready to do battle.&n~
+abd abejk 0
+26 1 35
+30 -10 1
+2 10 5
+1111 0 j j 1
+ENDMOB
+13030
+scared gladiator~
+&wa &Lscared gladiator&n~
+&wA &Lscared gladiator stands here looking nervous.&n~
+&wA &Lscared gladiator stands here looking nervous.&n~
+&wA &Lscared gladiator stands here looking nervous.&n~
+abd abejk 0
+20 1 30
+40 10 1
+2 5 5
+1100 0 j j 1
+ENDMOB
+13031
+thug large~
+&wa large thug&n~
+&wA large thug stands here.&n~
+&wA large thug stands here.&n~
+&wA large thug stands here.&n~
+abd abejk 0
+20 1 30
+40 10 1
+2 5 5
+1100 0 j j 1
+ENDMOB
+13032
+antipaladin anti-paladin anti captured~
+&Ra captured Anti-Paladin&n~
+&RA captured Anti-Paladin stands here ready to battle his way to freedom.&n~
+&RA captured Anti-Paladin stands here ready to battle his way to freedom.&n~
+&RA captured Anti-Paladin stands here ready to battle his way to freedom.&n~
+abd a 0
+20 9 38
+30 -10 1
+2 5 10
+1100 0 j j 1
+ENDMOB
+13033
+monk captured~
+&wa captured monk&n~
+&wA captured monk stands here ready to battle his way to freedom.&n~
+&wA captured monk stands here ready to battle his way to freedom.&n~
+&wA captured monk stands here ready to battle his way to freedom.&n~
+abd abcg 0
+20 1 38
+30 -10 1
+2 5 10
+1100 0 j j 1
+ENDMOB
+ENDFILE

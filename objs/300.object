@@ -1,0 +1,140 @@
+30001
+bag burlap~
+&ya large burlap bag&n~
+&yThis is a large burlap bag&n~
+&yA large burlap bag lies here.&n~
+8 0 q
+300 a -1
+2 0 0
+ENDOBJ
+30002
+hard wooden club~
+&ya hard wooden club&n~
+&yThis is a simple hard wooden club.&n~
+&yA hard wooden club lies here.&n~
+10 0 mn
+2 5 2 5 8
+5 0 1
+ENDOBJ
+30003
+small tree~
+&ya small tree&n~
+&yThis small tree looks like it has been ripped from it's roots to be used as a weapon&n~
+&yA small uprooted tree lies here.&n~
+10 0 o
+2 6 3 4 9
+300 0 1
+ENDOBJ
+30004
+cave bear hide jerkin~
+&ya &ccave &Lbear hide&y jerkin&n~
+&yThis is a &ccave &Lbear hide&y jerkin&n~
+&yA &ccave &Lbear hide&y jerkin lies here.&n~
+6 0 h
+7
+2 0 6
+ENDOBJ
+30005
+cave bear hide pants~
+&ya pair of &ccave &Lbear hide&y pants&n~
+&yThis is a pair of &ccave &Lbear hide&y panTs&n~
+&yA pair of &ccave &Lbear hide&y pants lie here.&n~
+6 0 t
+6
+2 0 6
+ENDOBJ
+30006
+cave bear hide boots~
+&ya pair of &ccave &Lbear hide&y boots&n~
+&yThis is a pair of &ccave &Lbear hide&y boots&n~
+&yA pair of &ccave &Lbear hide&y boots lie here.&n~
+6 0 u
+4
+2 0 6
+ENDOBJ
+30007
+cave bear hide gloves~
+&ya pair of &ccave &Lbear hide&y gloves&n~
+&yThis is a pair of &ccave &Lbear hide&y gloves&n~
+&yA pair of &ccave &Lbear hide&y gloves lie here.&n~
+6 b v
+3
+2 0 6
+ENDOBJ
+30008
+cave bear hide backpack bp~
+&ya &ccave &Lbear hide&y backpack&n~
+&yThis is a &ccave &Lbear hide&y backpack&n~
+&yA &ccave &Lbear hide&y backpack lies here.&n~
+8 0 i
+300 a -1
+2 0 0
+ENDOBJ
+30009
+large metal cleaver~
+&La large metal &wcleaver&n~
+&LThis is a large metal &wcleaver &Lwith little bits of Gnome, Dwarf and Elf hide still stuck to it.&n~
+&LA large metal &wcleaver &Llies here.&n~
+10 ckgijlns mn
+3 3 3 4 4
+5 10000 2
+AFFECTS
+21 3
+22 3
+ENDOBJ
+30010
+blood streaked bracer~
+&ra &Rblood&r streaked bracer&n~
+&rthis bracer is stained and streaked with &Rblood.&n~
+&ra &Rblood&r streaked bracer lies here.&n~
+6 0 k
+8
+2 20000 6
+AFFECTS
+2 4
+7 4
+ENDOBJ
+30011
+chain linked cloak~
+&La &Wchain &wlinked &Lcloak&n~
+&wThis cloak is made of strong steel chains&n~
+&LA &Wchain &wlinked &Lcloak lies here.&n~
+6 0 y
+13
+2 20000 6
+ENDOBJ
+30012
+gnome hide band~
+&ya &RGnome &yhide band&n~
+&yThis small band of Gnome hide is small enough to fit on a finger.&n~
+&yA &RGnome &yhide band lies here.&n~
+6 0 l
+1
+2 20000 6
+AFFECTS
+21 2
+ENDOBJ
+30013
+dwarf hide band~
+&ya &YDwarf &yhide band&n~
+&yThis small band of dwarf hide is small enough to fit on a finger.&n~
+&yA &YDwarf &yhide band lies here.&n~
+6 0 l
+1
+2 20000 6
+AFFECTS
+22 2
+ENDOBJ
+30014
+elf hide belt~
+&ya &cElf &yhide belt&n~
+&yThis small band of elf hide is used as a belt.&n~
+&yA &cElf &yhide belt lies here.&n~
+6 0 r
+3
+2 20000 6
+AFFECTS
+17 2
+18 20
+ENDOBJ
+ENDFILE

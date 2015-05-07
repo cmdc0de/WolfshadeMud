@@ -1,0 +1,131 @@
+11001
+glowing purple pendant~
+&Wa glowing &Mpurple &Wpendant&n~
+&Wa glowing &Mpurple &Wpendant&n~
+&Wa glowing &Mpurple &Wpendant lies here.&n~
+6 0 g
+8
+2 5000 5
+AFFECT
+2 8
+ENDOBJ
+11002
+glowing purple earring~
+&Wa glowing &Mpurple &Wearring&n~
+&Wa glowing &Mpurple &Wearring&n~
+&Wa glowing &Mpurple &Wearring lie here.&n~
+6 0 c
+4
+1 500 5
+AFFECT
+3 8
+ENDOBJ
+11003
+fountain statue guk~
+&Wa fountain with a statue of &LGuk&n~
+&Wa fountain with a statue of &LGuk&n~
+&Wa fountain with a statue of &LGuk &Wsits here in all it's glory.&n~
+9 a 0
+10000 10000 1
+5000 0 5
+ENDOBJ
+11004
+orcish blade~
+&Lan Orcish blade&n~
+&Lan Orcish blade&n~
+&Lan Orcish blade lies here. &n~
+10 0 mn
+4 6 2 6 4
+10 50 2
+ENDOBJ
+11005
+orcish chainmail~
+&Lsome Orcish chainmail&n~
+&Lsome Orcish chainmail&n~
+&Lsome Orcish chainmail lies here.&n~
+6 0 h
+10
+20 45 2
+ENDOBJ
+11006
+goat hide cowl~
+&Wa goat &Lhide &Wcowl&n~
+&Wa goat &Lhide &Wcowl&n~
+&WA goat &Lhide &Wcowl lies here.&n~
+6 0 h
+5
+10 20 6
+ENDOBJ
+11007
+goat leggings~
+&Wsome goat leggings&n~
+&Wsome goat leggings&n~
+&Wsome goat leggings lie here.&n~
+6 0 t
+2
+8 1 6
+ENDOBJ
+11008
+goat hide sleeves~
+&Wsome goat &Lhide &Wsleeves&n~
+&Wsome goat &Lhide &Wsleeves&n~
+&Wsome goat &Lhide &Wsleeves lie here.&n~
+6 0 j
+2
+8 1 6
+ENDOBJ
+11009
+goat hide boots~
+&Wsome goat &Lhide &Wboots&n~
+&Wsome goat &Lhide &Wboots&n~
+&Wsome goat &Lhide &Wboots lie here.&n~
+6 0 u
+2
+8 1 6
+ENDOBJ
+11010
+goat hide cloak~
+&Wa goat &Lhide &Wcloak&n~
+&Wa goat &Lhide &Wcloak&n~
+&WA goat &Lhide &Wcloak lies here.&n~
+6 0 i
+3
+8 3 6
+ENDOBJ
+11013
+steel unholy symbol~
+&La &wsteel &Lunholy &Wsymbol&n~
+&La &wsteel &Lunholy &Wsymbol&n~
+&LA &wsteel &Lunholy &Wsymbol&L lies here.&n~
+6 0 q
+0
+2 5 2
+ENDOBJ
+11014
+thin orcish blade~
+&La thin Orcish blade&n~
+&La thin Orcish blade&n~
+&LA thin Orcish blade lies here. &n~
+10 0 mn
+1 6 2 6 2
+4 50 2
+ENDOBJ
+11015
+orcish club~
+&Lan Orcish club&n~
+&Lan Orcish club&n~
+&Lan Orcish club lies here. &n~
+10 0 mn
+2 2 2 3 1
+6 10 2
+ENDOBJ
+11016
+glowing orb~
+&Ma &WGlowing &MOrb&n~
+&MA &WGlowing &MOrb&n~
+&MA &WGlowing &MOrb lies here.&n~
+2 0 q
+-1
+1 100 7
+ENDOBJ
+ENDFILE

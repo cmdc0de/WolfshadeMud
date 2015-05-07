@@ -1,0 +1,131 @@
+12001
+leather tinker collar~
+&ya &Lleather &ytinker collar&n~
+&ya &Lleather &ytinker collar&n~
+&ya &Lleather &ytinker collar lies here.&n~
+6 0 g
+8
+2 5000 5
+AFFECT
+5 8
+ENDOBJ
+12002
+steel chain~
+&Wa &wsteel &Wchain&n~
+&Wa &wsteel &Wchain&n~
+&&Wa &wsteel &Wchain lies here.&n~
+6 0 c
+4
+1 500 5
+AFFECT
+6 8
+ENDOBJ
+12003
+fountain sparkling marble~
+&Wa marble fountain filled with &Bsparkling water&n~
+&Wa marble fountain filled with &Bsparkling water&n~
+&Wa marble fountain filled with &Bsparkling water &Wsits here.&n~
+9 a 0
+10000 10000 1
+5000 0 5
+ENDOBJ
+12004
+Gnomish blade~
+&Lan Gnomish blade&n~
+&Lan Gnomish blade&n~
+&Lan Gnomish blade lies here. &n~
+10 0 mn
+4 6 2 6 4
+10 50 2
+ENDOBJ
+12005
+Gnomish ringmail~
+&wsome &RGnomish &wringmail&n~
+&wsome &RGnomish &wringmail&n~
+&wsome &RGnomish &wringmail lies here.&n~
+6 0 h
+10
+20 45 2
+ENDOBJ
+12006
+tree bark cowl~
+&Wa tree &ybark &Wcowl&n~
+&Wa tree &ybark &Wcowl&n~
+&WA tree &ybark &Wcowl lies here.&n~
+6 0 h
+5
+10 20 6
+ENDOBJ
+12007
+tree leggings~
+&Wsome tree leggings&n~
+&Wsome tree leggings&n~
+&Wsome tree leggings lie here.&n~
+6 0 t
+2
+8 1 6
+ENDOBJ
+12008
+tree bark sleeves~
+&Wsome tree &ybark &Wsleeves&n~
+&Wsome tree &ybark &Wsleeves&n~
+&Wsome tree &ybark &Wsleeves lie here.&n~
+6 0 j
+2
+8 1 6
+ENDOBJ
+12009
+tree bark boots~
+&Wsome tree &ybark &Wboots&n~
+&Wsome tree &ybark &Wboots&n~
+&Wsome tree &ybark &Wboots lie here.&n~
+6 0 u
+2
+8 1 6
+ENDOBJ
+12010
+tree bark cloak~
+&Wa tree &ybark &Wcloak&n~
+&Wa tree &ybark &Wcloak&n~
+&WA tree &ybark &Wcloak lies here.&n~
+6 0 i
+3
+8 3 6
+ENDOBJ
+12013
+steel holy symbol~
+&Wa &wsteel &Lholy &Wsymbol&n~
+&Wa &wsteel &Lholy &Wsymbol&n~
+&WA &wsteel &Lholy &Wsymbol lies here.&n~
+6 0 q
+0
+2 5 2
+ENDOBJ
+12014
+thin Gnomish blade~
+&La thin Gnomish blade&n~
+&La thin Gnomish blade&n~
+&LA thin Gnomish blade lies here. &n~
+10 0 mn
+1 6 2 6 2
+4 50 2
+ENDOBJ
+12015
+Gnomish club~
+&Lan Gnomish club&n~
+&Lan Gnomish club&n~
+&Lan Gnomish club lies here. &n~
+10 0 mn
+2 2 2 3 1
+6 10 2
+ENDOBJ
+12016
+glowing orb~
+&Ma &WGlowing &MOrb&n~
+&MA &WGlowing &MOrb&n~
+&MA &WGlowing &MOrb lies here.&n~
+2 0 q
+-1
+1 100 7
+ENDOBJ
+ENDFILE

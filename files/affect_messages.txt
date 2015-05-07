@@ -1,0 +1,370 @@
+********************************
+* Affect messages
+*  	Format
+*	<Affect Name>
+*	Apply affect message to player
+*	Apply Affect message to room
+*	end affect message to player
+*	end affect message to room
+*	'N' player
+*	'P' Player pronoun
+******************************
+chanting defense
+You feel your defensive skill grow.
+#
+You feel defensive abilities decrease.
+#
+
+chanting honor
+You feel your heart swell with pride.
+$N has a prideful look in $P eye.
+Your heart beats normal.
+#
+
+chanting regeneration
+You feel yourself regenerating.
+#
+You feel more normal.
+#
+
+innate fly
+With brief concentration you float up in the air.
+$N concentrates and floats up in the air.
+#
+#
+
+innate invis
+You fade into your surroundings.
+$N fades into $P surroundings.
+#
+#
+
+first aid
+You bandage your wounds.
+$N bandage's $P wounds.
+#
+#
+
+Setting up camp
+You begin to set up camp.
+$N begins to set up camp.
+You camp is complete you curl up into a ball and shut the world out.
+$N's camp is complete $P curls up into a ball and shuts the world out.
+
+stone skin
+&LYour skin hardens and turns to stone.&n
+&L$N&L's skin harderns and turns to stone.&n
+&LYour skin softens and returns to normal.&n
+&L$N&L's skin softens and returns to normal.&n
+
+Hidden
+#
+#
+&LYou abandon your hiding spot.&n
+&L$N abandons $P hiding spot.&n
+
+Inertial Barrier
+&WThe air around you solidifies into a strong physical shield.&n
+#
+&WThe air around you dissapates.&n
+#
+
+Cold Shield
+&BKilling Ice forms around you.&n
+&BKilling Ice forms around $N.&n
+The &Bice melts&n around you.
+The ice melts around $N.
+
+Heat Shield
+&yA shield of &Rheat&y form around you!&n
+&yA shield of &Rheat &yforms around $N.&n
+&yYour &Rheat&y shield fades away.&n
+#
+
+Blindness
+&LYou are blinded!&n
+&L$N&L is blind!&n
+&LYou can see again.&n
+#
+
+Meditating
+#
+#
+You stop meditating.
+#
+
+Fists of Stone
+&yYour hands seem to turn to stone.&n
+&y$N's hands seem to turn to stone.&n
+&yYour hands return to normal.&n
+#
+
+Detect Magic
+&bYour eyes start to tingle.&n
+#
+&bYour eyes stop tingling.&n
+#
+
+Biofeedback
+&GYour body is surrounded by a glowing green mist!&n
+&G$N&G's body is surrounded by a glowing green mist!&n
+&GThe &Wglowing &Ggreen mist around you dissapates.&n
+#
+
+Transparent Form
+&LYour form &Wshimmers&L fades from view...&n
+&L$N&L's form &Wshimmers&L fades from view...&n
+&LYour form fades back into &wvisibility&L.&n
+&L$N&L's form fades back into &wvisibility&L.&n
+
+Air Walk
+&CThe &Wair &Cbelow your feet solidifies, allowing you to walk on it.&n
+&C$N begins walking on &Wair&C.&n
+&CThe &Wair &Cbelow your feet dissapates and you drop back to the ground.&n
+#
+
+Camouflage
+&gYou &Gblend &yinto &gthe &Gsurroundings....&n
+&g$N &Gblends &yinto &gthe &Gsurroundings...&n
+&GYour form is now &Wvisible.&n
+#
+
+Air Shield
+&WThe &Cair &Waround you thickens forming an impenetrable barrier.&n
+&WThe &Cair &Waround $N&W thickens forming an impenetrable barrier.&n
+&WThe thick &Cair &Waround you disperses.&n
+#
+
+Air Cushion
+&WThe &Cair around you begins to &Rpulsate&w.&n
+&WThe &Cair around $N begins to &Rpulsate&w.&n
+&WThe &Cair &Waround you stops &Rpulsating&W.&n
+#
+
+Vulture Flight
+&LDark &rphantom&L-like wings form from your back and you lift into the air.&n
+&LDark &rphantom&L-like wings form from $N&L's back and &P body lifts into the air.&n
+&LYou &Rcircle &Lyour way back to the earth.&n
+#
+
+Detect Invisibility
+&WYour eyes tingle.&n
+#
+&WInvisible thi&wngs fade from yo&Lur view.&n
+#
+
+Invisibility
+&LYour form fades from view....&n
+&L$N&L's form fades from view...&n
+&LYour form fades back into visibility.&n
+&L$N&L form fades back into visibility.&n
+
+Mist Form
+&BYour form becomes invisible...&n
+&B$N&B's form becomes invisible...&n
+&BYour form &Csolidifies &Band fades back into visibility.&n
+#
+
+Mist Walk
+&BYou find yourself able to walk on the &Wmist &Bin the air.&n
+&B$N is able to walk on the &Wmist &Bin the air.&n
+&BThe &Wmist &Bin the air no longer supports you.&n
+#
+
+Mist Shield
+&CThe &Wmist &Cin the air circles around you.&n
+&CThe &Wmist &Cin the air circles around $N.&n
+&CThe &Wmist &Caround you departs.&n
+#
+
+Mist Barrier
+&CThe &Wmist &Cin the air harrases YOU!&n
+&CThe &Wmist &Cin the air harrases $N&C's fighting ability!&n
+&CThe &Wmist &Caround you stops harrasing you.&n
+#
+
+Armor
+&WMagical bands of armor form around you.&n
+&WMagical bands of armor form around $N&W.&n
+The magical bands around you fade.
+#
+
+Barkskin
+&yYour skin gains the texture and toughness of bark.&n
+&y$N&y's skin gains the texture and toughness of bark.&n
+&yYour skin softens and returns to normal.&n
+#
+
+Dexterity
+&wYou feel more dexterious.&n
+#
+&WYou feel less dexterious.&n
+#
+
+Strength
+&wYou feel stronger.&n
+#
+&LYour strength returns to normal.&n
+#
+
+Agility
+&wYou feel more agile.&n
+#
+&rYou are less agile.&n
+#
+
+Battle Ready
+&MYou feel ready for battle.&n
+#
+&rYour readiness for battle fades.&n
+#
+
+Physical Enhancement
+&RYour body becomes physically enhanced.&n
+#
+&RYour physical enhancement fade.&n
+#
+
+Major Paralaysis
+&YYou are unable to move.&n
+#
+You can move again.
+#
+
+Earthenalize
+&GYour body atoms becomes loose and you feel able to walk through anything.&n
+&G$N&G's body vibrates a little.&n
+&GYour form recondenses making in impossible to walk through walls again.&n
+#
+
+Faerie Flight
+&GLight &Wtranslucent &Gwings form from your back, lifting YOU into the air&n
+&GLight &Wtranslucent &Gwings form from $N's&G back, lifting them into the air&n
+&GYou gently float back to earth.&n
+&G$N&G gently floats back to earth.&n
+
+Fire Shield
+&RFire dances around YOU in a spherical shield.&n
+&RFire dances around $N&R in a spherical shield.&n
+&RThe fire globe around you dies out.&n
+#
+
+Guks Glowing Globes
+#
+#
+&RYour last globe disappears!&n
+#
+
+Haste
+&GYou start to move REALLY FAST!&n
+&G$N&G starts to move REALLY FAST!&n
+&GThe world speeds up around you...&n
+#
+
+Bloodlust
+&RYour &rblood&R warms and you feel your &rbattle&R abilities hasten!&n
+&R$N&R's eyes turn &rred&R.&n
+&RYour blood &Bcools&R and your &rbloodlust&R slows down.&n
+#
+
+Bless
+&wYou are &Wblessed&w!&n
+#
+You are less &WBlessed&n.
+#
+
+Curse
+&wYou are &Lcursed&w!&n
+#
+You are less &LCursed&n.
+#
+
+Faerie Fire
+&mA dull purple flame surrounds your form!&n
+&mA dull purple flame surrounds $N&m's form!&n
+&mThe glowing flame around you dissapates.&n
+#
+
+death
+&WYou have died, you must stay in the &rFugue Plane&W until your God returns you.&n
+#
+&WYou are returned to the realm of the living...&n
+&W$N&W is returned to the realm of the living.&n
+
+intimidate
+You feel intimidated.
+#
+You regain your courage.
+#
+
+age death
+You find it hard to breathe, your life starts flashing before your eyes.
+$N is looking very pale.
+Your life has ended at a ripe old age.
+$N has fallen to the floor lifeless.
+
+audible glamour
+&WYour throat tightens as your feel your voice box strengthen.&n
+#
+&WYour throat loosens&n
+#
+
+invisible
+#
+#
+&LYou &Wsnap &Linto &wvisibility&n
+&L$N&L &wsnaps &Linto visibility&n
+
+spirit armor
+&WStrong bands of &wspirit &Warmor surround you.&n
+&WStrong bands of &wspirit &Warmor surround $N.&n
+&WThe &wspirits&W stop protecting you.&n
+&WThe &wspirits&W stop protecting $N.&n
+
+divine armor
+&WStrong bands of &Ydivine &Warmor surround you.&n
+&WStrong bands of &Ydivine &Warmor surround $N.&n
+&WThe &Ydivine powers&W stop protecting you.&n
+&WThe &Ydivine powers&W stop protecting $N.&n
+
+flight
+&WYou start flying.&n
+&W$N&W starts flying.&n
+&WYou end your flying.&n
+#
+
+spirit
+#
+#
+#
+#
+
+berserking
+&rYour &Rblood boils&r and you go into a rage!&n
+&r$N&r's goes into a battle &Rfrenzy&r!&n
+&rYour &Rblood &Bcools &rand your battle frenzy disperses.&n
+&r$N&r's calms $P battle frenzy.&n
+
+vampiric touch
+&rYour hands grow &Bcold&r.&n
+#
+&rYour hands &Rwarm&r up again.&n
+#
+
+arkans battle cry
+&WYou cry out for battle in the name of Arkan!&n
+&W$N&W unleashes an inspired cry for battle, all in the name of Arkan!&n
+&WArkan's battle lust dissolves in you.&n
+#
+
+psionic leech
+&mYour hands glow &Mpurple&m.&n
+&m$N&m's hands glow &Mpurple&m.&n
+&mYour hands stop glowing.&n
+&m$N&m's hands stop glowing.&n
+
+clear sight
+&WYour eyesight sharpens.&n
+#
+&WYour eyesight loses it's sharpness.&n
+$

@@ -1,0 +1,361 @@
+24001 Y
+&LA &RP&Gr&Bi&Ws&Ym&La&Rt&Gt&Bi&Wc &LEntryway&n~
+&LThis &RP&Gr&Bi&Ws&Ym&La&Rt&Gt&Bi&Wc &LEntryway is much grander than most in the realm.  Something of importance must lurk behind its walls.&n~
+240 1 12 2
+DOOR
+2
+~
+1 -1 24002
+DOOR
+0
+~
+1 -1 1003651
+ENDROOM
+24002 N
+&LA dark room at the base of a &Wma&Lrb&Wle &Lstairway.&n~
+&LAn expensive &Wma&Lrb&Wle &Lstairway extends upwards.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24001
+DOOR
+4
+~
+1 -1 24003
+ENDROOM
+24003 N
+&LAn exquisite &Wma&Lrb&Wle &Lstairway.&n~
+&LAn expensive &Wma&Lrb&Wle &Lstairway extends upwards.&n~
+240 1 0 1
+DOOR
+4
+~
+1 -1 24004
+DOOR
+5
+~
+1 -1 24002
+ENDROOM
+24004 N
+&LAn exquisite &Wma&Lrb&Wle &Lstairway.&n~
+&LAn expensive &Wma&Lrb&Wle &Lstairway extends upwards.&n~
+240 1 0 1
+DOOR
+4
+~
+1 -1 24005
+DOOR
+5
+~
+1 -1 24003
+ENDROOM
+24005 N
+&LAn exquisite &Wma&Lrb&Wle &Lstairway.&n~
+&LAn expensive &Wma&Lrb&Wle &Lstairway extends upwards.&n~
+240 1 0 1
+DOOR
+4
+~
+1 -1 24006
+DOOR
+5
+~
+1 -1 24004
+ENDROOM
+24006 N
+&LAn exquisite &Wma&Lrb&Wle &Lstairway.&n~
+&LAn expensive &Wma&Lrb&Wle &Lstairway extends upwards.&n~
+240 1 0 1
+DOOR
+4
+~
+1 -1 24007
+DOOR
+5
+~
+1 -1 24005
+ENDROOM
+24007 N
+&LAn exquisite &Wma&Lrb&Wle &Lstairway.&n~
+&LAn expensive &Wma&Lrb&Wle &Lstairway extends upwards.&n~
+240 1 0 1
+DOOR
+4
+~
+1 -1 24015
+DOOR
+5
+~
+1 -1 24006
+ENDROOM
+24008 N
+&WA &Cchamber &Wof Ice.&n~
+&WThis small chamber reminds you of the frigid Tundra of Wolfshade.&n~
+240 1 0 1
+DOOR
+2
+~
+1 -1 24010
+ENDROOM
+24009 N
+&RA &Lchamber &Rof fire and lava&n~
+&RThis small chamber reminds you of the lava filled mountains of Wolfshade.&n~
+240 1 0 1
+DOOR
+2
+~
+1 -1 24012
+ENDROOM
+24010 N
+&WA &Cfrigid &Wpassageway&n~
+&WThe air around you is freezing cold, &Cice &Wmakes up the outside coating of the wall.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24008
+DOOR
+2
+~
+1 -1 24013
+ENDROOM
+24011 N
+&LBelow a gray staircase&n~
+&LA dull gray staircase extends here, upwards.&n~
+240 1 0 1
+DOOR
+2
+~
+1 -1 24015
+DOOR
+4
+~
+1 -1 24028
+ENDROOM
+24012 N
+&RAn extremely hot passageway&n~
+&RThe air around you is almost unbearably hot, &Lmolten &Rrock makes up the walls of this passageway.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24009
+DOOR
+2
+~
+1 -1 24029
+ENDROOM
+24013 N
+&WA &Cfrozen &Gforestal &Wroom&n~
+&WThis room seems to have an &Govergrowth of trees and plants, &Wbut they are covered in snow.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24010
+DOOR
+1
+~
+1 -1 24014
+DOOR
+2
+~
+1 -1 24018
+ENDROOM
+24014 N
+&LA dark hallway&n~
+&LNot much can be discerned in this dark hallway.&n~
+240 1 0 1
+DOOR
+1
+~
+1 -1 24015
+DOOR
+3
+~
+1 -1 24013
+ENDROOM
+24015 N
+&LA dark hallway&n~
+&LNot much can be discerned in this dark hallway.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24011
+DOOR
+1
+~
+1 -1 24016
+DOOR
+2
+~
+1 -1 24019
+DOOR
+3
+~
+1 -1 24014
+DOOR
+5
+~
+1 -1 24007
+ENDROOM
+24016 N
+&LA dark hallway&n~
+&LNot much can be discerned in this dark hallway.&n~
+240 1 0 1
+DOOR
+1
+~
+1 -1 24029
+DOOR
+3
+~
+1 -1 24015
+ENDROOM
+24029 N
+&RA hot and &Lwet &Rroom&n~
+&RThis room is very hot but &Ldark, milky water lines the floor.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24012
+DOOR
+2
+~
+1 -1 24020
+DOOR
+3
+~
+1 -1 24016
+ENDROOM
+24018 N
+&GA forestal passageway&n~
+&GThis passageway is covered in moss and various plants.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24013
+DOOR
+2
+~
+1 -1 24021
+ENDROOM
+24019 N
+&LA dark hallway&n~
+&LNot much can be discerned in this dark hallway.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24015
+DOOR
+2
+~
+1 -1 24025
+ENDROOM
+24020 N
+&LA swamp invaded passageway&n~
+&LThis passageway has about an inch of dark dirty water.  Tree roots seem to be growing out of the floor and walls.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24029
+DOOR
+2
+~
+1 -1 24022
+ENDROOM
+24021 N
+&GA chamber of plants and greenery&n~
+&GThis chamber is filled with moss and green plants that seem to grow from everywhere.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24018
+ENDROOM
+24022 N
+&LA swamp filled chamber&n~
+&LThis chamber is filled with dark milky water.  Tree roots seem to grow from everywhere.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24020
+ENDROOM
+24023 N
+&BA chamber of fresh &Wsalt &Bwater&n~
+&BThis room is filled about a quarter of the way with a clear &Wsalt &Bwater.&n~
+240 1 0 1
+DOOR
+1
+~
+1 -1 24024
+ENDROOM
+24024 N
+&BA cavern with streams of water&n~
+&BSmall streams of water run under your feet coming from the room to the west.&n~
+240 1 0 1 
+DOOR
+1
+~
+1 -1 24025
+DOOR
+3
+~
+1 -1 24023
+ENDROOM
+24025 N
+&BA water and &ydirt filled room&n~
+&YAlmost looking like a beach, this room is filled with dirt and &Bsome clean sparkling salt water.&n~
+240 1 0 1
+DOOR
+0
+~
+1 -1 24019
+DOOR
+1
+~
+1 -1 24026
+DOOR
+3
+~
+1 -1 24024
+ENDROOM
+24026 N
+&yA dirt and sand filled room&n~
+&yThis room has a few small dunes made from the sand blown in from the east.&n~
+240 1 0 1
+DOOR
+1
+~
+1 -1 24027
+DOOR
+3
+~
+1 -1 24025
+ENDROOM
+24027 N
+&yA chamber of sand&n~
+&yThis chamber looks like a desert, small sand dunes cover the floor and a small oasis stands in the middle.&n~
+240 1 0 1
+DOOR
+3
+~
+1 -1 24026
+ENDROOM
+24028 N
+&LA &RP&Gr&Bi&Ws&Ym&La&Rt&Gt&Bi&Wc &LRoom&n~
+&LThis room is immense, &Yglimmering&L in all colors, this must be the dwelling of a great sorcerer.&n~
+240 1 0 3
+DOOR
+5
+~
+1 -1 24011
+ENDROOM
+ENDFILE

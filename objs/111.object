@@ -1,0 +1,91 @@
+11101
+shield large beetle scales~
+&ya small &Yshield &ymade from &Llarge beetle scales&n~
+&yA small &Yshield &ymade from &Llarge beetle scales&n~
+&yA small &Yshield &ymade from &Llarge beetle scales&y lies here.&n~
+6 0 p
+10
+10 50 5
+ENDOBJ
+11102
+tough leather sash~
+&La tough &yleather&L sash&n~
+&LA tough &yleather&L sash&n~
+&LA tough &yleather&L sash lies here&n~
+6 0 r
+4
+1 500 5
+ENDOBJ
+11103
+hard stone sword~
+&La hard stone sword&n~
+&LA hard stone sword&n~
+&LA hard stone sword lies here.&n~
+10 0 mn
+2 8 3 8 4
+5 10 5
+ENDOBJ
+11104
+diamond studded sleeves~
+&wa pair of &Wdiamond &wstudded arm sleeves&n~
+&wA pair of &Wdiamond &wstudded arm sleeves&n~
+&wA pair of &Wdiamond &wstudded arm sleeves lies here.&n~
+6 0 j
+5
+10 5000 2
+AFFECTS
+21 3
+22 3
+ENDOBJ
+11105
+ball of mud~
+&ya ball of mud&n~
+&yA ball of mud&n~
+&yA ball of mud lies here.&n~
+6 0 q
+1
+2 0 2
+ENDOBJ
+11106
+highly polished steel scimitar~
+&La &whighly &Wpolished &Csteel &Lscimitar&n~
+&LA &whighly &Wpolished &Csteel &Lscimitar&n~
+&LA &whighly &Wpolished &Csteel &Lscimitar lies here&n~
+10 0 mn
+6 6 6 6 4
+10 2000 6
+AFFECTS
+21 2
+ENDOBJ
+11107
+leggings cactus spikes~
+&csome leggings embedded with &ycactus spikes&n~
+&csome leggings embedded with &ycactus spikes&n~
+&cSome leggings embedded with &ycactus spikes lie here&n~
+6 0 t
+10
+20 1000 4
+AFFECTS
+22 4
+ENDOBJ
+11108
+huge shell water~
+&yA huge &Yshell&y filled with &Bwater&n~
+&yA huge &Yshell&y filled with &Bwater&n~
+&yA huge &Yshell&y filled with &Bwater&y sits here underneath a magical condenser.&n~
+9 a 0
+100 100 1
+100 1 1
+ENDOBJ
+11109
+blue hued diamond skull cap~
+&wa &bblue hued&W diamond skull&w cap&n~
+&wa &bblue hued&W diamond skull&w cap&n~
+&wa &bblue hued&W diamond skull&w cap lies here.&n~
+6 0 a
+5
+10 5000 2
+AFFECTS
+16 10
+ENDOBJ
+ENDFILE

@@ -1,0 +1,1576 @@
+12001 Y
+&WGates to &cWil&Clow &wCreek.&n~
+&WBefore you lies some large gates that protect the only entrance to &cWil&Clow &wCreek.&n~
+120 jo 1 2
+DOOR
+2
+~
+1 -1 1001109
+DOOR
+0
+~
+1 -1 12006
+ENDROOM
+12002 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12003
+DOOR
+0
+~
+1 -1 12011
+ENDROOM
+12003 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12004
+DOOR
+0
+~
+1 -1 12012
+DOOR
+3
+~
+1 -1 12002
+ENDROOM
+12004 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12005
+DOOR
+0
+~
+1 -1 12013
+DOOR
+3
+~
+1 -1 12003
+ENDROOM
+12005 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12006
+DOOR
+0
+~
+1 -1 12014
+DOOR
+3
+~
+1 -1 12004
+ENDROOM
+12006 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12001
+DOOR
+1
+~
+1 -1 12007
+DOOR
+0
+~
+1 -1 12015
+DOOR
+3
+~
+1 -1 12005
+ENDROOM
+12007 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12008
+DOOR
+0
+~
+1 -1 12016
+DOOR
+3
+~
+1 -1 12006
+ENDROOM
+12008 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12009
+DOOR
+0
+~
+1 -1 12017
+DOOR
+3
+~
+1 -1 12007
+ENDROOM
+12009 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12010
+DOOR
+0
+~
+1 -1 12018
+DOOR
+3
+~
+1 -1 12008
+ENDROOM
+12010 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+0
+~
+1 -1 12019
+DOOR
+1
+~
+1 -1 12103
+DOOR
+3
+~
+1 -1 12009
+ENDROOM
+12011 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12002
+DOOR
+1
+~
+1 -1 12012
+DOOR
+0
+~
+1 -1 12020
+ENDROOM
+12012 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12003
+DOOR
+1
+~
+1 -1 12013
+DOOR
+0
+~
+1 -1 12021
+DOOR
+3
+~
+1 -1 12011
+ENDROOM
+12013 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12004
+DOOR
+1
+~
+1 -1 12014
+DOOR
+0
+~
+1 -1 12022
+DOOR
+3
+~
+1 -1 12012
+ENDROOM
+12014 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12005
+DOOR
+3
+~
+1 -1 12013
+ENDROOM
+12015 N
+&wEntrance to the Town Center&n~
+Opening to the south is the center of the town, where most of the important works occur.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12006
+DOOR
+0
+~
+1 -1 12024
+ENDROOM
+12016 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12007
+DOOR
+1
+~
+1 -1 12017
+ENDROOM
+12017 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12008
+DOOR
+1
+~
+1 -1 12018
+DOOR
+0
+~
+1 -1 12026
+DOOR
+3
+~
+1 -1 12016
+ENDROOM
+12018 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12009
+DOOR
+1
+~
+1 -1 12019
+DOOR
+0
+~
+1 -1 12027
+DOOR
+3
+~
+1 -1 12017
+ENDROOM
+12019 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12010
+DOOR
+0
+~
+1 -1 12028
+DOOR
+3
+~
+1 -1 12018
+ENDROOM
+12020 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12011
+DOOR
+1
+~
+1 -1 12021
+DOOR
+0
+~
+1 -1 12029
+ENDROOM
+12021 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12012
+DOOR
+1
+~
+1 -1 12022
+DOOR
+0
+~
+1 -1 12030
+DOOR
+3
+~
+1 -1 12020
+ENDROOM
+12022 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12013
+DOOR
+0
+~
+1 -1 12031
+DOOR
+3
+~
+1 -1 12021
+ENDROOM
+12023 N
+&YWar &YMaster's &Yroom&n~
+Here the War Master Gnome delegates the work of the Gnomish military.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12024
+ENDROOM
+12024 N
+&yPath to the Center of the Town&n~
+This is the main path to the center of the town.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12015
+DOOR
+1
+~
+1 -1 12025
+DOOR
+0
+~
+1 -1 12033
+DOOR
+3
+~
+1 -1 12023
+ENDROOM
+12025 N
+&RGnomish Bank.&n~
+This is the bank.~
+120 0 17 2
+DOOR
+3
+~
+1 -1 12024
+ENDROOM
+12026 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12017
+DOOR
+1
+~
+1 -1 12027
+DOOR
+0
+~
+1 -1 12035
+ENDROOM
+12027 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12018
+DOOR
+1
+~
+1 -1 12028
+DOOR
+0
+~
+1 -1 12036
+DOOR
+3
+~
+1 -1 12026
+ENDROOM
+12028 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12019
+DOOR
+0
+~
+1 -1 12037
+DOOR
+3
+~
+1 -1 12027
+ENDROOM
+12029 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12020
+DOOR
+1
+~
+1 -1 12030
+DOOR
+0
+~
+1 -1 12038
+ENDROOM
+12030 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12021
+DOOR
+1
+~
+1 -1 12031
+DOOR
+0
+~
+1 -1 12039
+DOOR
+3
+~
+1 -1 12031
+ENDROOM
+12031 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12022
+DOOR
+0
+~
+1 -1 12040
+DOOR
+3
+~
+1 -1 12030
+ENDROOM
+12032 N
+&CAn &RGnomish &CMage Meeting Place&n~
+Here is where many Gnomish mages come to learn spells and gather needed components~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12033
+ENDROOM
+12033 N
+&yPath to the Center of the Town&n~
+This is the main path to the center of the town.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12024
+DOOR
+1
+~
+1 -1 12034
+DOOR
+0
+~
+1 -1 12042
+DOOR
+3
+~
+1 -1 12032
+ENDROOM
+12034 N
+&WAn &RGnomish &Wshrine&n~
+&WThis shrine is dedicated to one of the &RGnomish &WGods.~
+120 o 1 2
+DOOR
+3
+~
+1 -1 12033
+ENDROOM
+12035 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12026
+DOOR
+1
+~
+1 -1 12036
+DOOR
+0
+~
+1 -1 12044
+ENDROOM
+12036 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12027
+DOOR
+1
+~
+1 -1 12037
+DOOR
+0
+~
+1 -1 12045
+DOOR
+3
+~
+1 -1 12035
+ENDROOM
+12037 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12028
+DOOR
+0
+~
+1 -1 12046
+DOOR
+3
+~
+1 -1 12036
+ENDROOM
+12038 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12029
+DOOR
+1
+~
+1 -1 12039
+DOOR
+0
+~
+1 -1 12047
+ENDROOM
+12039 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12030
+DOOR
+1
+~
+1 -1 12040
+DOOR
+0
+~
+1 -1 12048
+DOOR
+3
+~
+1 -1 12038
+ENDROOM
+12040 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12031
+DOOR
+1
+~
+1 -1 12041
+DOOR
+0
+~
+1 -1 12049
+DOOR
+3
+~
+1 -1 12039
+ENDROOM
+12041 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+3
+~
+1 -1 12040
+ENDROOM
+12042 N
+&yPath to the Center of the Town&n~
+This is the main path to the center of the town.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12033
+DOOR
+0
+~
+1 -1 12051
+ENDROOM
+12043 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12044
+ENDROOM
+12044 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12035
+DOOR
+1
+~
+1 -1 12045
+DOOR
+0
+~
+1 -1 12053
+DOOR
+3
+~
+1 -1 12043
+ENDROOM
+12045 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12036
+DOOR
+1
+~
+1 -1 12046
+DOOR
+0
+~
+1 -1 12054
+DOOR
+3
+~
+1 -1 12044
+ENDROOM
+12046 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12037
+DOOR
+0
+~
+1 -1 12055
+DOOR
+3
+~
+1 -1 12045
+ENDROOM
+12047 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12038
+DOOR
+1
+~
+1 -1 12048
+DOOR
+0
+~
+1 -1 12056
+ENDROOM
+12048 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12049
+DOOR
+1
+~
+1 -1 12039
+DOOR
+0
+~
+1 -1 12057
+DOOR
+3
+~
+1 -1 12047
+ENDROOM
+12049 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12040
+DOOR
+0
+~
+1 -1 12058
+DOOR
+3
+~
+1 -1 12048
+ENDROOM
+12050 N
+&wThe square of &cWil&Clow &wCreek.&n~
+This is the square of the town.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12051
+DOOR
+0
+~
+1 -1 12059
+ENDROOM
+12051 N
+&wThe square of &cWil&Clow &wCreek.&n~
+This is the square of the town.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12042
+DOOR
+1
+~
+1 -1 12052
+DOOR
+0
+~
+1 -1 12060
+DOOR
+3
+~
+1 -1 12050
+ENDROOM
+12052 N
+&wThe square of &cWil&Clow &wCreek.&n~
+This is the square of the town.~
+120 o 1 2
+DOOR
+0
+~
+1 -1 12061
+DOOR
+3
+~
+1 -1 12051
+ENDROOM
+12053 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12044
+DOOR
+1
+~
+1 -1 12054
+DOOR
+0
+~
+1 -1 12062
+ENDROOM
+12054 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12045
+DOOR
+1
+~
+1 -1 12055
+DOOR
+0
+~
+1 -1 12063
+DOOR
+3
+~
+1 -1 12053
+ENDROOM
+12055 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12046
+DOOR
+0
+~
+1 -1 12064
+DOOR
+3
+~
+1 -1 12054
+ENDROOM
+12056 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12047
+DOOR
+1
+~
+1 -1 12057
+DOOR
+0
+~
+1 -1 12065
+ENDROOM
+12057 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12048
+DOOR
+1
+~
+1 -1 12058
+DOOR
+0
+~
+1 -1 12066
+DOOR
+3
+~
+1 -1 12056
+ENDROOM
+12058 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12049
+DOOR
+0
+~
+1 -1 12057
+DOOR
+3
+~
+1 -1 12067
+ENDROOM
+12059 N
+&wThe square of &cWil&Clow &wCreek.&n~
+This is the square of the town.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12050
+DOOR
+1
+~
+1 -1 12060
+DOOR
+0
+~
+1 -1 12069
+ENDROOM
+12060 N
+&wThe square of &cWil&Clow &wCreek.&n~
+This is the square of the town.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12051
+DOOR
+1
+~
+1 -1 12061
+DOOR
+0
+~
+1 -1 12069
+DOOR
+3
+~
+1 -1 12059
+ENDROOM
+12061 N
+&wThe square of &cWil&Clow &wCreek.&n~
+This is the square of the town.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12052
+DOOR
+3
+~
+1 -1 12060
+ENDROOM
+12062 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12053
+DOOR
+1
+~
+1 -1 12063
+DOOR
+0
+~
+1 -1 12071
+ENDROOM
+12063 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12054
+DOOR
+1
+~
+1 -1 12064
+DOOR
+0
+~
+1 -1 12072
+DOOR
+3
+~
+1 -1 12062
+ENDROOM
+12064 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12055
+DOOR
+0
+~
+1 -1 12073
+DOOR
+3
+~
+1 -1 12063
+ENDROOM
+12065 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12056
+DOOR
+1
+~
+1 -1 12066
+DOOR
+0
+~
+1 -1 12074
+ENDROOM
+12066 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12057
+DOOR
+1
+~
+1 -1 12067
+DOOR
+0
+~
+1 -1 12075
+DOOR
+3
+~
+1 -1 12065
+ENDROOM
+12067 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12058
+DOOR
+0
+~
+1 -1 12076
+DOOR
+3
+~
+1 -1 12066
+ENDROOM
+12068 N
+&wThe square of &cWil&Clow &wCreek.&n~
+This is the square of the town.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12059
+DOOR
+1
+~
+1 -1 12069
+ENDROOM
+12069 N
+&wThe square of &cWil&Clow &wCreek.&n~
+This is the square of the town.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12060
+DOOR
+1
+~
+1 -1 12070
+DOOR
+3
+~
+1 -1 12068
+DOOR
+4
+~
+1 -1 12083
+ENDROOM
+12070 N
+&wThe Olde &RGnomish &wInn.&n~
+This is a place of rest.~
+120 jl 1 2
+DOOR
+3
+~
+1 -1 12069
+DOOR
+4
+~
+1 -1 12201
+ENDROOM
+12071 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12062
+DOOR
+1
+~
+1 -1 12072
+DOOR
+0
+~
+1 -1 12080
+ENDROOM
+12072 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12063
+DOOR
+1
+~
+1 -1 12073
+DOOR
+0
+~
+1 -1 12081
+DOOR
+3
+~
+1 -1 12071
+ENDROOM
+12073 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12064
+DOOR
+0
+~
+1 -1 12082
+DOOR
+3
+~
+1 -1 12072
+ENDROOM
+12074 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12065
+DOOR
+1
+~
+1 -1 12075
+ENDROOM
+12075 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12066
+DOOR
+1
+~
+1 -1 12076
+DOOR
+3
+~
+1 -1 12074
+ENDROOM
+12076 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12067
+DOOR
+1
+~
+1 -1 12077
+DOOR
+3
+~
+1 -1 12075
+ENDROOM
+12077 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12078
+DOOR
+3
+~
+1 -1 12076
+ENDROOM
+12078 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12079
+DOOR
+3
+~
+1 -1 12077
+ENDROOM
+12079 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12080
+DOOR
+3
+~
+1 -1 12078
+ENDROOM
+12080 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12071
+DOOR
+1
+~
+1 -1 12081
+DOOR
+3
+~
+1 -1 12079
+ENDROOM
+12081 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12072
+DOOR
+1
+~
+1 -1 12082
+DOOR
+3
+~
+1 -1 12080
+ENDROOM
+12082 N
+&wInside &cWil&Clow &wCreek.&n~
+Inside this town many Gnomes work and tinker, keeping the town running.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12073
+DOOR
+3
+~
+1 -1 12081
+ENDROOM
+12083 N
+&RPath to the &YCouncil Meeting Room&n~
+This path leads down to the Council Meeting room.~
+120 o 1 2
+DOOR
+0
+~
+1 -1 12084
+DOOR
+5
+~
+1 -1 12069
+ENDROOM
+12084 N
+&RPath to the &YCouncil Meeting Room&n~
+This path leads down to the Council Meeting room.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12083
+DOOR
+0
+~
+1 -1 12085
+ENDROOM
+12085 N
+&RPath to the &YCouncil Meeting Room&n~
+This path leads down to the Council Meeting room.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12084
+DOOR
+0
+~
+1 -1 12086
+ENDROOM
+12086 N
+&RPath to the &YCouncil Meeting Room&n~
+This path leads down to the Council Meeting room.~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12085
+DOOR
+0
+~
+1 -1 12090
+ENDROOM
+12087 N
+&YThe Council Meeting Room&n~
+&YThis is the lavish Council Meeting room of the &RGnomes.&n~
+120 o 1 2
+DOOR
+0
+~
+1 -1 12088
+DOOR
+3
+~
+1 -1 12090
+ENDROOM
+12088 N
+&YThe Council Meeting Room&n~
+&YThis is the lavish Council Meeting room of the &RGnomes.&n~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12087
+DOOR
+0
+~
+1 -1 12089
+DOOR
+3
+~
+1 -1 12091
+ENDROOM
+12089 N
+&YThe Council Meeting Room&n~
+&YThis is the lavish Council Meeting room of the &RGnomes.&n~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12088
+DOOR
+3
+~
+1 -1 12092
+ENDROOM
+12090 N
+&YThe Council Meeting Room&n~
+&YThis is the lavish Council Meeting room of the &RGnomes.&n~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12086
+DOOR
+1
+~
+1 -1 12087
+DOOR
+0
+~
+1 -1 12091
+DOOR
+3
+~
+1 -1 12093
+ENDROOM
+12091 N
+&YThe Council Meeting Room&n~
+&YThis is the lavish Council Meeting room of the &RGnomes.&n~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12090
+DOOR
+1
+~
+1 -1 12087
+DOOR
+0
+~
+1 -1 12092
+DOOR
+3
+~
+1 -1 12094
+ENDROOM
+12092 N
+&YThe Council Meeting Room&n~
+&YThis is the lavish Council Meeting room of the &RGnomes.&n~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12091
+DOOR
+1
+~
+1 -1 12089
+DOOR
+3
+~
+1 -1 12095
+ENDROOM
+12093 N
+&YThe Council Meeting Room&n~
+&YThis is the lavish Council Meeting room of the &RGnomes.&n~
+120 o 1 2
+DOOR
+1
+~
+1 -1 12090
+DOOR
+0
+~
+1 -1 12094
+ENDROOM
+12094 N
+&YThe Council Meeting Room&n~
+&YThis is the lavish Council Meeting room of the &RGnomes.&n~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12093
+DOOR
+1
+~
+1 -1 12091
+DOOR
+0
+~
+1 -1 12095
+ENDROOM
+12095 N
+&YThe Council Meeting Room&n~
+&YThis is the lavish Council Meeting room of the &RGnomes.&n~
+120 o 1 2
+DOOR
+2
+~
+1 -1 12094
+DOOR
+1
+~
+1 -1 12092
+ENDROOM
+ENDFILE

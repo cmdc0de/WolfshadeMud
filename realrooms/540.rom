@@ -1,0 +1,658 @@
+54001 N
+&gTop of a tree &Lfort&n~
+&gFrom up here you can see the tree line far away in all directions.&n~
+540 1 0 2
+DOOR
+5
+~
+1 -1 54003
+ENDROOM
+54002 N
+&gA tree &Lfort&n~
+&gThis small fort has small beds lined in the corners.&n~
+540 1 0 2
+DOOR
+1
+~
+1 -1 54003
+ENDROOM
+54003 N
+&gA tree &Lfort&n~
+&gThis small fort has small beds lined in the corners.&n~
+540 1 0 2
+DOOR
+1
+~
+1 -1 54004
+DOOR
+3
+~
+1 -1 54002
+DOOR
+4
+~
+1 -1 54001
+DOOR
+5
+~
+1 -1 54007
+ENDROOM
+54004 N
+&gA tree &Lfort&n~
+&gThis small fort has small beds lined in the corners.&n~
+540 1 0 2
+DOOR
+3
+~
+1 -1 54003
+ENDROOM
+54005 N
+&gA tree &Lfort&n~
+&gThis small fort has small beds lined in the corners.&n~
+540 1 0 2
+DOOR
+2
+~
+1 -1 54007
+ENDROOM
+54006 N
+&gA tree &Lfort&n~
+&gThis small fort has small beds lined in the corners.&n~
+540 1 0 2
+DOOR
+1
+~
+1 -1 54007
+ENDROOM
+54007 N
+&gA tree &Lfort&n~
+&gThis small fort has small beds lined in the corners.&n~
+540 1 0 2
+DOOR
+0
+~
+1 -1 54005
+DOOR
+1
+~
+1 -1 54008
+DOOR
+2
+~
+1 -1 54009
+DOOR
+3
+~
+1 -1 54006
+DOOR
+4
+~
+1 -1 54003
+DOOR
+5
+~
+1 -1 54010
+ENDROOM
+54008 N
+&gA tree &Lfort&n~
+&gThis small fort has small beds lined in the corners.&n~
+540 1 0 2
+DOOR
+3
+~
+1 -1 54007
+ENDROOM
+54009 N
+&gA tree &Lfort&n~
+&gThis small fort has small beds lined in the corners.&n~
+540 1 0 2
+DOOR
+0
+~
+1 -1 54007
+ENDROOM
+54010 N
+&LEnterance to a tree &Lfort&n~
+&A large wooden door made of oak blocks the entrance to this fort.&n~
+540 1 0 2
+DOOR
+4
+~
+1 -1 54007
+DOOR
+1
+~
+1 -1 54018
+ENDROOM
+54011 N
+&gA small &Lhut&n~
+&gThis quaint little hovel represents that of a hermit.&n~
+540 0 0
+DOOR
+2
+~
+1 -1 54012
+ENDROOM
+54012 N
+&gA hidden path&n~
+&gThis small hidden path is well covered with brush and tall grass.&n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54011
+DOOR
+2
+~
+1 -1 54015
+ENDROOM
+54013 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54033
+DOOR
+1
+~
+1 -1 54014
+DOOR
+2
+~
+1 -1 54018
+DOOR
+3
+~
+1 -1 54016
+ENDROOM
+54014 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54034
+DOOR
+1
+~
+1 -1 54015
+DOOR
+2
+~
+1 -1 54019
+DOOR
+3
+~
+1 -1 54013
+ENDROOM
+54015 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54012
+DOOR
+1
+~
+1 -1 54016
+DOOR
+2
+~
+1 -1 54020
+DOOR
+3
+~
+1 -1 54014
+ENDROOM
+54016 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54036
+DOOR
+1
+~
+1 -1 54017
+DOOR
+2
+~
+1 -1 54021
+DOOR
+3
+~
+1 -1 54015
+ENDROOM
+54017 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54037
+DOOR
+2
+~
+1 -1 54022
+DOOR
+3
+~
+1 -1 54016
+ENDROOM
+54018 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54013
+DOOR
+1
+~
+1 -1 54019
+DOOR
+2
+~
+1 -1 54023
+DOOR
+3
+~
+1 -1 54010
+ENDROOM
+54019 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54014
+DOOR
+1
+~
+1 -1 54020
+DOOR
+2
+~
+1 -1 54024
+DOOR
+3
+~
+1 -1 54018
+ENDROOM
+54020 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54015
+DOOR
+1
+~
+1 -1 54021
+DOOR
+2
+~
+1 -1 54025
+DOOR
+3
+~
+1 -1 54019
+ENDROOM
+54021 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54016
+DOOR
+1
+~
+1 -1 54022
+DOOR
+2
+~
+1 -1 54026
+DOOR
+3
+~
+1 -1 54020
+ENDROOM
+54022 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54017
+DOOR
+2
+~
+1 -1 54027
+DOOR
+3
+~
+1 -1 54021
+ENDROOM
+54023 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54018
+DOOR
+1
+~
+1 -1 54024
+DOOR
+2
+~
+1 -1 54028
+DOOR
+3
+~
+1 -1 54026
+ENDROOM
+54024 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54019
+DOOR
+1
+~
+1 -1 54025
+DOOR
+2
+~
+1 -1 54029
+DOOR
+3
+~
+1 -1 54023
+ENDROOM
+54025 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54020
+DOOR
+1
+~
+1 -1 54026
+DOOR
+2
+~
+1 -1 54030
+DOOR
+3
+~
+1 -1 54024
+ENDROOM
+54026 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54021
+DOOR
+1
+~
+1 -1 54027
+DOOR
+2
+~
+1 -1 54031
+DOOR
+3
+~
+1 -1 54025
+ENDROOM
+54027 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54022
+DOOR
+2
+~
+1 -1 54032
+DOOR
+3
+~
+1 -1 54026
+ENDROOM
+54028 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54023
+DOOR
+1
+~
+1 -1 54029
+DOOR
+2
+~
+1 -1 54033
+DOOR
+3
+~
+1 -1 54031
+ENDROOM
+54029 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54024
+DOOR
+1
+~
+1 -1 54030
+DOOR
+2
+~
+1 -1 54034
+DOOR
+3
+~
+1 -1 54028
+ENDROOM
+54030 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54025
+DOOR
+1
+~
+1 -1 54031
+DOOR
+2
+~
+1 -1 54035
+DOOR
+3
+~
+1 -1 54029
+ENDROOM
+54031 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54026
+DOOR
+1
+~
+1 -1 54032
+DOOR
+2
+~
+1 -1 54036
+DOOR
+3
+~
+1 -1 54030
+ENDROOM
+54032 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54027
+DOOR
+2
+~
+1 -1 54037
+DOOR
+3
+~
+1 -1 54031
+ENDROOM
+54033 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54028
+DOOR
+1
+~
+1 -1 54034
+DOOR
+2
+~
+1 -1 54013
+DOOR
+3
+~
+1 -1 54036
+ENDROOM
+54034 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54029
+DOOR
+1
+~
+1 -1 54035
+DOOR
+2
+~
+1 -1 54014
+DOOR
+3
+~
+1 -1 54033
+ENDROOM
+54035 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54030
+DOOR
+1
+~
+1 -1 54036
+DOOR
+2
+~
+1 -1 54014
+DOOR
+3
+~
+1 -1 54034
+ENDROOM
+54036 N
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54031
+DOOR
+1
+~
+1 -1 54037
+DOOR
+2
+~
+1 -1 54016
+DOOR
+3
+~
+1 -1 54035
+ENDROOM
+54037 Y
+&gA &Ldark &gforest&n~
+&gThe trees of this forest are very tall and very large. &n~
+540 1 2 2
+DOOR
+0
+~
+1 -1 54032
+DOOR
+1
+~
+1 -1 1004734
+DOOR
+2
+~
+1 -1 54017
+DOOR
+3
+~
+1 -1 54036
+ENDROOM
+ENDFILE

@@ -1,0 +1,92 @@
+25101 Y
+&yA small pathway in a large &gforest&n~
+&yThis is a small dirt path in a large forest.&n~
+251 0 2 2
+DOOR
+1
+~
+1 -1 25102
+DOOR
+3
+~
+1 -1 1005055
+ENDROOM
+25102 N
+&yA small pathway in a large &gforest&n~
+&yThis is a small dirt path in a large forest.&n~
+251 0 2 2
+DOOR
+1
+~
+1 -1 25103
+DOOR
+3
+~
+1 -1 25101
+ENDROOM
+25103 N
+&yA small pathway in a large &gforest&n~
+&yThis is a small dirt path in a large forest.&n~
+251 0 2 2
+DOOR
+1
+~
+1 -1 25104
+DOOR
+3
+~
+1 -1 25102
+ENDROOM
+25104 N
+&yA small pathway in a large &gforest&n~
+&yThis is a small dirt path in a large forest.&n~
+251 0 2 2
+DOOR
+1
+~
+1 -1 25105
+DOOR
+3
+~
+1 -1 25103
+ENDROOM
+25105 N
+&yA small pathway in a large &gforest&n~
+&yThis is a small dirt path in a large forest.&n~
+251 0 2 2
+DOOR
+1
+~
+1 -1 25106
+DOOR
+3
+~
+1 -1 25103
+ENDROOM
+25106 N
+&yA small pathway in a large &gforest&n~
+&yThis is a small dirt path in a large forest.&n~
+251 0 2 2
+DOOR
+1
+~
+1 -1 25107
+DOOR
+3
+~
+1 -1 25105
+ENDROOM
+25107 Y
+&yA small pathway in a large &gforest&n~
+&yThis is a small dirt path in a large forest.&n~
+251 0 2 2
+DOOR
+1
+~
+1 -1 1005057
+DOOR
+3
+~
+1 -1 25106
+ENDROOM
+ENDFILE

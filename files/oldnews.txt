@@ -1,0 +1,211 @@
+&MNews as of 12/10/1999&n
+	- Goodies will be a little more protected now... northland guards implemented on the map
+	- Coliseum eq is now loaded only on boot.
+	- Drow elfs will get slightly lower hitpoints now.
+	- dual message for bless is fixed
+	- Exp lowered for mobs lower than you. Now each level the mob is lower than you, you lose 10% exp.
+&MNews as of 12/9/1999&n
+	- minor bug fixed with god change name
+	- innate strength should now work
+	- no backstab damage for rogue has been fixed
+&MNews as of 12/8/1999 &n
+	- many bug fixes such as
+		following bug fixed
+		npc mages cast correctly in low light situations
+		increase skill up chance for spells
+		Will no longer get sun rise messages while sleeping
+		Invis affects will snap off again when you attach something
+	- Affect Messages for Arkans battle cry added... again
+	- Affect Messages for Psionic Leech Added
+	- Spell Message for Molecular Agitation fixed
+	- Spell Message for Detonate changed
+	- New Swamp Sphere mage spell added... level 16 offensive "Awakened Nightmare"
+&MNews as of 12/7/1999 &n
+	- you can now change your password
+	- elemental damage has been reduced
+	- gods can now change players names
+	- gods have a GOD invis tog
+	- players have 2 new togs extra returns, and paging
+		extra returns puts a return at the end of each line
+		paging turns off and on paging
+&MNews as of 12/6/1999 &n
+	- A first draft of all the races are added to the help file.
+	- Psionic Leech a new spell for psi and mindflayers
+	- dodge, ripo, and parry should stop disappearing...no really I think I found the bug this time =)
+	- mage ai changed just a bit...they won't just cast faerie fire at you anymore =)
+&MNews as of 12/5/1999&n
+	- exp has been reworked let me know what you all think now
+	- no exp is given for killing walls by the way
+	- Orc town: some mobs were tagged AGGRO_NEUTRAL_RACE, changed to AGGRO_NEUTRAL
+	- Thri-Kreen weaponsmith desc fixed
+	- Thri-kreen hometown set as twilight because thier friends the Illithids asked them to.
+	- Battle ready and Physical Enhancement bettered for Mindflayers
+&MNews as of 12/5/1999 &n
+	- wield/wear bug fixed...the 5 or 3 arm one anyway.
+	- sailing bug fixed
+	- comming soon: +1/+1 per 12 levels for anti's and paladins
+	- Changed &MMindflayer&n affect functions, put them all in 1 just like every other class
+	- 'Mind Rip' added for &MMindFlayers&n
+	- 'Domination' added for &MMindflayers&n
+&MNews as of 12/3/1999 &n
+	- Weapon Flurry has been changed, you no longer drop your weapon, you hit yourself on a bad swing
+	- Chant has been fixed, everything is working.
+	- Arkans battle cry affect message added, didn't get added for some reason
+	- Instant kill can only happen when target has at least 90% of it's hp's
+	- small bug with god change race is fixed
+	- mana regen for psi, empaths, and mindflayers is now a bit faster
+	- wieght bug killed
+	- a bunch or typo's fixed
+&MNews as of 12/2/1999 &n
+	- Help multi-playing and help multi added, please read it
+	- Help bug has been modified, please read it
+	- Affect messages for 'Arkans Battle Cry' have been added
+	- resurrect has been fixed
+	- a locate object function has been added for the gods
+	- gods can now change your sex, attributes, frags, class, and race. Lauric plz see me =)
+	- elementals no longer leave corpses
+	- god void time has been put back to an hour ...players are still 10 minutes
+	- object shadow armor has been changed...it will no longer give you stone when you where it instead it uses a timer.
+	- the game now has the concept of a critical hit
+	- builders you can now have a zone command for only loading an object on a mob once per boot. =)
+&MNews as of 12/1/1999 - LATER&n
+	- you can't save, or wear while fighting any more
+	- ripped out about 500 lines of un-needed code ...smaller exe is nice
+	- reduced void time from 1 hour to 10 minutes
+&MNews as of 12/1/1999&n
+	- TO ANSWER A FEW BUG REPORTS...LISTEN UP
+	- Not all skills  that put a player on their ass keeps them on thier ass...ie they allow the player to stand right back up.  IE they stop casters from casting...and that's it
+	- mentals will get hit will spells if you don't group them
+	- disconnections... if your isp uses a fire wall and you get disconnected the mud will still think you are connected.  I'm looking into things I could do about this.  Right now the only thing I know is to lower the void time from 1 hour to like 5 minutes...YOu all tell me.
+	- EXP and being grouped.  Grouped exp is not just exp / # in group.  It takes into account level, so we don't get any power leveled twinks =)
+	- HOPE ALL THIS HELPS!
+	- torches will will actually stop (Lit) when they are no longer lit.
+&MNews as of 11/30/1999&n
+	- strength bug is fix
+	- ripo's now take protection spell into account
+	- size in now in attributes
+	- followers will no longer be your friends if you attack them
+	- follower code moved around abit ...hopefully makes more sense this way..players should not see a difference
+	- you now need trip skill to trip =)
+	- worked out a bunch of affect problems 
+	- some lighting bugs
+&MNews as of 11/29/1999&n
+	- innate str now actually works
+	- moved some object code around to try and catch this mystery crash we have every once and a while.
+	- Can shout while fighting now
+	- AI changes to the Coliseum
+	- New Zone: Willow Creek Militia added, located in south east corner of the gnome town
+	- Gnome town changed a little
+&MNews as of 11/26/1999&n
+	- casting str, dex, agi, etc will not let you go above 100
+	- spells that have an addative affect will no longer give you twice the affect.IE if you cast str 2ce you get just another 5 not another 10.
+	- mage spell mirage is currently broke...sorry
+	- socials now get but in last command buffer so you can use !
+	- camp is fixed...autosave will no longer give you bogus message
+&MNews as of 11/25/1999&n
+	- fixed crash bug in chant
+	- fixed god res giving alot more exp back to players
+	- gave mountain dwarfs a bit more of a mana bonus
+	- reduced the mana bonus for drow elfs just a bit
+&MNews as of 11/24/1999&n
+	- Ok skills are set where they should be again.
+	- I think version control nightmare is over
+	- a ton of small wording bugs are fixed
+	- and innates for races are semi-finalized
+&MNews as of 11/23/1999&n
+	- I think I got the casting bug that crashes the mud when you cast at a dead char
+	- skill ups have been reduced...this is a temporary situation
+	- spells like armor, spirit armor, invis, etc has addative times but not affects. IE you get
+more time for each time you cast it on yourself but your ac only drops once.
+	- Innates are in...they are not correct for every race but most.
+	- saving throws actually help save spell damage...hehe opps
+	- tracking mobs no longer track if they are in really bad condition ...they just wait till they feel better then come kick your ass. =)
+	- npc casters will actually stay on their butt if you bash them now, instead of standing right back up.
+&MNews as of 11/22/1999&n
+	- hometown is in ...see help file
+	- more error messages for me to figure out the casting bug
+	- beginings of innates are in 
+&MNews as of 11/20/1999&n
+	- followers have been limited...we weren't sure how to limit them...so this may change 
+over time...give us your options as you experience the new code.
+	- I think I have worked out the mindflayer bug...I hope anyway.
+&MNews as of 11/19/1999&n
+	- auto flee has been changed...you now will only auto flee if your hitpoints are 
+less than your wimpy, at the end of a battle round.  IE if someone double backstabs you will
+won't auto flee until meele combat has started.  I know this is very different but that's what
+we are about =)
+	- skills punch, shield rush, 2h fighting, have been removed from the game...they were
+not implemented anyway.
+	- the GUKster has added another zone for your enjoyment.
+	- portals are now a separate object
+	- goodie life has been made a little easier while evil life has been made slightly harder
+	- physical enhancement has been fixed
+&MNews as of 11/17/1999&n
+	- motd command is in
+	- first aid is in
+	- gods can refresh the motd and news on the fly now
+	- wear bug related to shields and objects being held are gone
+	- Innates are next =)
+&MNews as of 11/16/1999&n
+	- Ok yes healing has been slowed down a bit, races with regen still heal faster but I did slow it down.
+	- Bwadi please check to see if position bug is fixed now. I think I killed it this time =)
+	- we will be setting your dodge skills to something reason-able. NO WHINNING!
+	- You can no longer camp on boats ...it did work anyway =)
+	- you get a message now if you try to use kill command while lying down
+	- pets can no longer petition
+	- code now has GPL on all source
+&MNews as of 11/15/1999&n
+	- god message command in
+	- dodge bug fixed YEAH!
+	- god res is in
+	- show stats in for gods
+	- gods you now have a force command plz because with this
+&MNews as of 11/11/1999&n
+	- frag system is in...type help frag for more info
+	- Shadow armor no longer give stone skin if not worn
+	- if you can't see a character then you don't get movement messages
+	- just a crap load more bug fixes
+&MNews as of 11/7/1999&n
+	- Damn where to start.  Well I think we have all the wear bugs finally worked out
+...yes all those where you wear, remove, wear and you get extra hit points, or mana points,etc
+	- We are now useing a sep. c++ class for armor...a very good thing. =)
+	- You should be able to have two identical objects...2 little boxes remove one and not
+remove all your affects that the object gives you. CHEER!
+	- Your pets cant cast become lich any more.
+	- Mirror images and the like no longer do 700 pts of dam.
+	- mirror images and the like no longer are counted on the who list
+	- Just a ton of little bugs
+&MNews as of 11/6/1999&n
+	- Fixed Disarm bug
+&MNews as of 11/5/1999&n
+	- You can just worm hole and portal spells again!
+	- 34 bug fixes in all
+&MNews as of 11/3/1999&n
+	- affects can now be additive in time or value or both
+	- all new practice code...does the same logic just more logical
+	- can no long scan through doors
+	- ordering followers to return no longer crashes the mud
+	- god tog connection log now gives players entering the mud as well as connecting to the mud
+	- socials no longer have to be the whole word to be reconized.
+	- Rewrote the wear and remove logic to be more logical
+&MNews as of 10/31/1999&n
+	- if you can't see in a room because of light conditions you now get a better message.
+	- When looking into a room a god's name is always shown.
+	- Walls now have a time to live
+	- Walls no longer leave corpses
+	- mirror images are no longer saved
+	- defilers will start with an alignment of -1000
+	- rangers will start with an alignment of 1000 (for new players only)
+	- I believe you can no longer portal, relocate, etc to other side of race war.
+	- new illithids have no sex. =)
+	- mob followers can no longer create followers (at least mage's anyway)
+&MNews as of 10/29/1999&n
+	- title fixed
+	- new who
+	- gods have more togs
+	- tog compact in
+	- portal spells no longer allow players to portal to gods. =)
+	- shout distance increased
+	- P doesn't not show up on map if player can see the person Rep. 'P'
+	- wall are in for create wall spells
+	- mages have more intelligent ai

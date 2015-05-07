@@ -1,0 +1,61 @@
+1 n
+&yMountains&n~
+&yLarge Mountains&n~
+1 0 4 3
+ENDROOM
+2 n
+&BOcean&n~
+&BThe waters of the ocean&n~
+1 0 6 2
+ENDROOM
+3 n
+&GRoad&n~
+&GA hard traveled road&n~
+1 0 12 3
+ENDROOM
+4 n
+&GGrassLand&n~
+&GA field of grass&n~
+1 0 1 4
+ENDROOM
+5 n
+&BRiver&n~
+&BA Flowing blue river&n~
+1 0 5 4
+ENDROOM
+6 n
+&WTundra&n~
+&WThe frozen tundra&n~
+1 0 14 4
+ENDROOM
+7 n 
+&GLight Forest&n~
+&GA lightly forested area&n~
+1 0 2 4
+ENDROOM
+8 n
+&gDark Forest&n~
+&gA dark damp forest&n~
+1 0 15 4
+ENDROOM
+9 n
+&WSnow Covered Mountain&n~
+&WA Cold Snow Covered Mountain&n~
+1 0 13 4
+ENDROOM
+10 n
+&YA Hot Desert&n~
+&YThe hot desert sands&n~
+1 0 9 4
+ENDROOM
+11 n
+&yRolling Hills&n~
+&yThese are small rolling hills&n~
+1 0 3 4
+ENDROOM
+12 n
+&LSwamp Land&n~
+&LThe Smelly bog water.&n~
+1 0 16 4
+ENDROOM
+ENDFILE

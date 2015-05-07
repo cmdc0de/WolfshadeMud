@@ -1,0 +1,85 @@
+54001
+lion~
+&yThe lion&n~
+&yThe lion, the &wking of the beasts, is here.&n~
+&y, the &wking of the beasts, is here.&n~
+&yWalking about the forest, this lion is surely the king of beasts&n~
+e 0 0 
+17 1 25 
+7 -50 700
+2 6 1
+0 0 j j 1
+ENDMOB
+54002
+tiger~
+&yA &Ytiger&n~
+&yA &Ytiger is hear looking for it's prey.&n~
+&yis hear looking for it's prey.&n~
+&Tiger, tiger, burning bright...&n~
+e 0 0 
+17 1 30 
+6 -60 800
+2 6 1
+0 0 j j 1
+ENDMOB
+54003
+bear~
+&yA &Lbear&n~
+&yA &Lbear lumbers around looking for food.&n~
+&ylumbers around looking for food.&n~
+&yWalking about the forest, this bear is huge.&n~
+e 0 0 
+17 1 35 
+5 -70 900
+2 8 1
+0 0 j j 1
+ENDMOB
+54004
+karg hermit~
+&GKarg &gthe Hermit&n~
+&GKarg &gthe Hermit is here tending to his cooking food.&n~
+&gis here tending to his cooking food.&n~
+&gThis well known hermit is friendly and welcomes company.&n~
+abck 0 0 
+1 1 50 
+1 -100 2000
+4 5 2
+5000 50 j j 1
+ENDMOB
+54005
+hawkman hawk man~
+&wthe hawk&Lman&n~
+&wthe hawk&Lman &Wis here standing at his post.&n~
+&Wis here standing at his post.&n~
+&wThis humanoid has wings and a beaked nose, closely resembling a hawk.&n~
+abck 0 0 
+25 1 28 
+8 -40 700
+2 5 1
+200 0 j j 1
+ENDMOB
+54006
+hawkman hawk man shaman~
+&wthe hawk&Lman &Wshaman&n~
+&wthe hawk&Lman &Wshaman is here ready to help the wounded.&n~
+&Wshaman is here ready to help the wounded.&n~
+&wThis humanoid looks out around the fort making sure everyone is healthy.&n~
+abck 0 0 
+25 2 32 
+8 -30 900
+3 5 1
+400 0 j j 1
+ENDMOB
+54007
+hawkman hawk man lookout~
+&wthe hawk&Lman &Wlookout&n~
+&wthe hawk&Lman &Wlookout is here looking out over the forest.&n~
+&Wlookout is here looking out over the forest.&n~
+&wThis humanoid looks out over the forest to watch for invaders.&n~
+abck 0 0 
+25 1 40 
+3 -70 1100
+4 5 1
+500 0 j j 1
+ENDMOB
+ENDFILE

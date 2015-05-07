@@ -1,0 +1,260 @@
+210001
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+~
+1 -1 1005052
+DOOR
+2
+~
+1 -1 210002
+ENDROOM
+210002
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+~
+1 -1 210001
+DOOR
+2
+~
+1 -1 210004
+ENDROOM
+210003
+&yBay Master's Quarters&n~
+&yA warm humble little cabin, the Bay Master has it very tidy and very livable.&n~
+210 c 9 2~
+DOOR
+2
+door~
+c -1 210009
+ENDROOM
+210004
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+~
+1 -1 210002
+DOOR
+2
+~
+1 -1 210010
+ENDROOM
+210005
+&yA large registration cabin&n~
+&yHere all the boats coming and going get registered with the dock master.&n~
+210 c 9 2~
+DOOR
+1
+door~
+c -1 210006
+DOOR
+2
+door~
+c -1 210009
+ENDROOM
+210006
+&yA large registration cabin&n~
+&yHere all the boats coming and going get registered with the dock master.&n~
+210 c 9 2~
+DOOR
+3
+door~
+c -1 210005
+ENDROOM
+210007
+&yA large registration cabin&n~
+&yHere all the boats coming and going get registered with the dock master.&n~
+210 no 9 2~
+DOOR
+1
+~
+1 -1 210008
+ENDROOM
+210008
+&yA large registration cabin&n~
+&yHere all the boats coming and going get registered with the dock master.&n~
+210 no 9 2~
+DOOR
+1
+~
+1 -1 210009
+DOOR
+2
+door~
+c -1 210014
+DOOR
+3
+~
+1 -1 210007
+ENDROOM
+210009
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+door~
+c -1 210003
+DOOR
+1
+~
+1 -1 210010
+DOOR
+2
+~
+1 -1 210015
+DOOR
+3
+~
+1 -1 210008
+ENDROOM
+210010
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+~
+1 -1 210004
+DOOR
+1
+~
+1 -1 210011
+DOOR
+2
+~
+1 -1 210016
+DOOR
+3
+~
+1 -1 210009
+ENDROOM
+210011
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+door~
+c -1 210005
+DOOR
+1
+~
+1 -1 210012
+DOOR
+2
+~
+1 -1 210017
+DOOR
+3
+~
+1 -1 210010
+ENDROOM
+210012
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+1
+~
+1 -1 210013
+DOOR
+3
+~
+1 -1 210011
+ENDROOM
+210013
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+3
+~
+1 -1 210012
+ENDROOM
+210014
+&ySmall lookout cabin&n~
+&yHere is where a dock person looks out for incomming ship and helps direct traffice.&n~
+210 no 9 2~
+DOOR
+0
+door~
+c -1 210008
+ENDROOM
+210015
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+~
+1 -1 210009
+DOOR
+1
+~
+1 -1 210016
+ENDROOM
+210016
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+~
+1 -1 210010
+DOOR
+1
+~
+1 -1 210017
+DOOR
+2
+~
+1 -1 210018
+DOOR
+3
+~
+1 -1 210015
+ENDROOM
+210017
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+~
+1 -1 210011
+DOOR
+3
+~
+1 -1 210016
+ENDROOM
+210018
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+~
+1 -1 210016
+DOOR
+2
+~
+1 -1 210019
+ENDROOM
+210019
+&yA large docking bay&n~
+&yThis large dock houses all kinds of water craft for commerce and other stuff.&n~
+210 no 9 2~
+DOOR
+0
+~
+1 -1 210018
+ENDROOM
+ENDFILE

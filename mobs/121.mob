@@ -1,0 +1,122 @@
+12101
+dari trollbane~
+&YDari &gTroll&GBane&n~
+&YDari &gTroll&GBane &Ystands here.&n~
+&YDari &gTroll&GBane &Ystands here.&n~
+&YDari is here to help the &RGnomes&Y prepare for any attacks.&n~
+aje a 700 
+14 1 10 
+80 80 0
+1 6 1
+20 90 j j 1
+ENDMOB
+12102
+chef~
+&Wthe Chef&n~
+&WThe Chef stands here cutting up a chicken.&n~
+&WThe Chef stands here cutting up a chicken.&n~
+&WThis small &RGnome&W works hard at feeding all the new recruits.&n~
+ae a 800
+11 1 6
+90 90 1
+1 3 1
+15 50 j j 1
+ENDMOB
+12103
+apprentice rogue~
+&Lan &Gapprentice &Lrogue&n~
+&LAn &Gapprentice &Lrogue practices his art.&n~
+&LAn &Gapprentice &Lrogue practices his art.&n~
+&LThis rogue is learning the ways of stealing and backstabbing.&n~
+ae 0 500
+11 4 5 
+95 95 2
+1 3 1
+10 50 j j 1
+ENDMOB
+12104
+neophyte mercenary~
+&La &Yneophyte &Lmercenary&n~
+&LA &Yneophyte &Lmercenary stands here.&n~
+&LA &Yneophyte &Lmercenary stands here.&n~
+&LThis mercenary is just learning the ways of combat.&n~
+ae 0 500
+11 1 5 
+100 100 1
+1 3 1
+9 40 j j 1
+ENDMOB
+12105
+adept archer~
+&Ban &Radept &Barcher&n~
+&Ban &Radept &Barcher practices his shot to make it even better.&n~
+&Ban &Radept &Barcher practices his shot to make it even better.&n~
+&BThis archer looks to have a good, deadly shot.&n~
+ae a 800
+11 1 8 
+80 90 5
+1 4 1
+30 0 j j 1
+ENDMOB
+12106
+novice archer~
+&Ban &rnovice &Barcher&n~
+&Ban &rnovice &Barcher practices his shot.&n~
+&Ban &rnovice &Barcher practices his shot.&n~
+&BThis archer looks to have a good shot, but it still needs work.&n~
+ae a 800
+11 1 2 
+100 100 1
+1 2 1
+5 0 j j 1
+ENDMOB
+12107
+daft inventor~
+&Ca &Wdaft&C inventor&n~
+&CA &Wdaft&C inventor stands here looking over his latest work.&n~
+&CA &Wdaft&C inventor stands here looking over his latest work.&n~
+&CThis gnome helps come up with some of the unique items for the militia.&n~
+ae a 800
+11 1 4 
+100 100 1
+1 3 1
+5 0 j j 1
+ENDMOB
+12108
+bronze golem~
+&ya &Ybronze &ygolem&n~
+&yA &Ybronze &ygolem stands here protecting the workshop.&n~
+&yA &Ybronze &ygolem stands here protecting the workshop.&n~
+&YThis golem is rather large and ready to stop anyone from seeing the 
+secret work inside.&n~
+ae a 800
+11 1 9
+80 80 1
+1 5 1
+50 0 j j 1
+ENDMOB
+12109
+hungry recruit~
+&wa &Whungry &wrecruit&n~
+&wA &Whungry &wrecruit stands here waiting to get his food.&n~
+&wA &Whungry &wrecruit stands here waiting to get his food.&n~
+&wOne of the many new recruits is here waiting to eat.&n~
+ae a 800
+11 3 2
+100 100 2
+1 1 1
+0 0 j j 1
+ENDMOB
+12110
+recruit~
+&wa recruit&n~
+&wA recruit stands here learning the ways of defense.&n~
+&wA recruit stands here learning the ways of defense.&n~
+&wOne of the many new recruits is here paying attention and in nervous anticipation.&n~
+ae a 800
+11 1 2
+100 100 1
+1 1 0
+0 0 j j 1
+ENDMOB
+ENDFILE

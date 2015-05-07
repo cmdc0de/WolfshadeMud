@@ -1,0 +1,83 @@
+51501
+jibiaya jeweled~
+&Wa &Mjeweled &Wjibiaya&n~
+&Wa &Mjeweled &Wjibiaya&n~
+&WA &Mjeweled &Wjibiaya lies here.&n~
+10 g nm
+3 3 3 4 2
+2 20000 4
+ENDOBJ
+51502
+thin steel scimitar~
+&Wa thin &wsteel &Wscimitar&n~
+&Wa thin &wsteel &Wscimitar&n~
+&WA thin &wsteel &Wscimitar lies here.&n~
+10 g nm
+3 4 3 4 4
+2 20000 4
+ENDOBJ
+51503
+robe thin silk ~
+&Wa &wthin &Wwhite silk robe&n~
+&Wa &wthin &Wwhite silk robe&n~
+&WA &wthin &Wwhite silk robe lies here.&n~
+6 fghimopr hy
+8
+1 10000 6
+AFFECTS
+17 20
+ENDOBJ
+51504
+robe thin mask white~
+&Wa &wthin &Wwhite silk mask&n~
+&Wa &wthin &Wwhite silk mask&n~
+&WA &wthin &Wwhite silk mask lies here.&n~
+6 fghimop f
+2
+1 1000 6
+AFFECTS
+16 2
+18 10
+ENDOBJ
+51505
+fire cooking~
+&RA &Ycooking &Rfire&n~
+&RA &Ycooking &Rfire&n~
+&RA &Ycooking &Rfire sits here burning some flesh off a cooking stick.&n~
+2 a 0
+6 -1
+10 0 0
+ENDOBJ
+51507
+jeweled hammer~
+&Wa &Mjeweled &Whammer&n~
+&Wa &Mjeweled &Whammer&n~
+&WA &Mjeweled &Whammer lies here.&n~
+10 g nm
+2 2 3 3 9
+2 20000 4
+ENDOBJ
+51508
+thin silk gloves~
+&Wsome thin &Wsilk &wgloves&n~
+&wsome thin &Wsilk &wgloves&n~
+&wSome thin &Wsilk &wgloves lie here almost invisible.&n~
+6 0 v
+4
+1 20000 4
+AFFECTS
+25 -10
+26 -10
+ENDOBJ
+51509
+leather walking sandles~
+&Wsome &yleather &Wwalking sandles&n~
+&Wsome &yleather &Wwalking sandles&n~
+&WSome &yleather &Wwalking sandles lie here.&n~
+6 0 u
+2
+1 20000 4
+AFFECTS
+18 30
+ENDOBJ
+ENDFILE

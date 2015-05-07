@@ -1,0 +1,459 @@
+50301 N
+&mDark Entryway&n~
+&LYou are standing in a small 
+entryway built from pure marble.  
+deep shadows seem to bleed from 
+the corners of the room.  The air is very 
+stale and it is deathly quiet.&n~
+503 abco 0 2
+DOOR
+0
+~
+1 -1 50302
+DOOR
+1
+secret~
+1 -1 50126
+ENDROOM
+50302 N
+&mDark Hallway&n~
+&LThe hallway extends here from the entryway towards a Dark den.  The shadows are pitch blacok, they seem to absorb all light.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50303
+DOOR
+2
+~
+1 -1 50301
+ENDROOM
+50303 N
+&mA Dark Intersection&n~
+&LThis room seems to be the central junction point of the den.  Hallways branch off in all directions.&n~
+503 aco 0 2
+DOOR
+2
+~
+1 -1 50302
+DOOR
+0
+~
+1 -1 50323
+DOOR
+1
+~
+1 -1 50315
+DOOR
+3
+~
+1 -1 50304
+ENDROOM
+50304 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle.&n~
+503 aco 0 2
+DOOR
+2
+~
+1 -1 50305
+DOOR
+1
+~
+1 -1 50303
+DOOR
+3
+~
+1 -1 50307
+ENDROOM
+50305 N
+&mDark Quarters.&n~
+&LA small, almost unseen, bed lies in the corner of this room.  There is a small desk and a lit candle sitting in a corner.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50304
+ENDROOM
+50306 N
+&mDark Quarters.&n~
+&LA small, almost unseen, bed lies in the corner of this room.  There is a small desk and a lit candle sitting in a corner.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50307
+ENDROOM
+50307 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle.&n~
+503 aco 0 2
+DOOR
+2
+~
+1 -1 50306
+DOOR
+1
+~
+1 -1 50304
+DOOR
+3
+~
+1 -1 50309
+ENDROOM
+50308 N
+&mDark Quarters.&n~
+&LA small, almost unseen, bed lies in the corner of this room.  There is a small desk and a lit candle sitting in a corner.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50309
+ENDROOM
+50309 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle.&n~
+503 aco 0 2
+DOOR
+2
+~
+1 -1 50308
+DOOR
+1
+~
+1 -1 50307
+DOOR
+3
+~
+1 -1 50310
+DOOR
+0
+~
+1 -1 50311
+ENDROOM
+50310 N
+&mA Dark &BCloset.&n~
+&LA small, almost unseen, closet. Here you seem to be out of sight to the rest of the den.&n~
+503 abc 0 2
+DOOR
+1
+~
+1 -1 50309
+ENDROOM
+50311 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle.&n~
+503 aco 0 2
+DOOR
+2
+~
+1 -1 50309
+DOOR
+0
+~
+1 -1 50312
+ENDROOM
+50312 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle.&n~
+503 aco 0 2
+DOOR
+1
+~
+1 -1 50313
+DOOR
+2
+~
+1 -1 50311
+ENDROOM
+50313 N
+&mA Small Lounge.&n~
+&LThis small lounge is a little lighter than the rest of the hallways.  There is a small love seat and end table.  The solid oak door to the south marks the entrance of some kind of planning room.&n~
+503 aco 0 2
+DOOR
+2
+door oak solid~
+1 -1 50314
+DOOR
+3
+~
+1 -1 50312
+ENDROOM
+50314 N
+&bThe &mStrategy&B Room.&n~
+&LMaps and papers are strewn around this conference room.  Candles have this room well lighted.  A map of the City hangs from the wall with small tacoks marking positions.  A solid oak door shuts off this room from the outside lounge.&n~
+503 aco 0 2
+DOOR
+0
+door oak solid~
+1 -1 50313
+ENDROOM
+50315 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle.&n~
+503 aco 0 2
+DOOR
+1
+~
+1 -1 50316
+DOOR
+3
+~
+1 -1 50303
+ENDROOM
+50316 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle. A solid metal door is to the east.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50319
+DOOR
+1
+door solid metal~
+1 -1 50321
+DOOR
+2
+~
+1 -1 50318
+DOOR
+3
+~
+1 -1 50315
+ENDROOM
+50317 N
+&mA Smithy's Station.&n~
+&LA small workshop is here. All the comforts that a blacoksmith could ask for is here.   Newly fashioned weapons hang from the walls.  The placoe is covered with soot and dirt.&n~
+503 aco 0 2
+DOOR
+1
+~
+1 -1 50318
+ENDROOM
+50318 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle. &n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50316
+DOOR
+3
+~
+1 -1 50317
+ENDROOM
+50319 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle. &n~
+503 aco 0 2
+DOOR
+2
+~
+1 -1 50316
+DOOR
+3
+~
+1 -1 50320
+ENDROOM
+50320 N
+&mA &MStorage &mArea.&n~
+&LHere is where all the newly fashioned weapons are kept, and all the old ones stored in preparation for the den's attacoks on the city.&n~
+503 aco 0 2
+DOOR
+1
+~
+1 -1 50319
+ENDROOM
+50321 N
+&bA Cell.&n~
+&LA putrid smell of death and decay surrounds you in this dark and dirty cell.  Many old bones and rags lay on the floor.  A solid metal door closes the cell to the west.&n~
+503 aco 0 2
+DOOR
+1
+~
+1 -1 50322
+DOOR
+3
+door metal solid~
+1 -1 50316
+ENDROOM
+50322 N
+&bA Cell.&n~
+&LA putrid smell of death and decay surrounds you in this dark and dirty cell.  Many old bones and rags lay on the floor.  A solid metal door closes the cell to the west.&n~
+503 aco 0 2
+DOOR
+3
+~
+1 -1 50321
+ENDROOM
+50323 N
+&mA Shadow's Path.&n~
+&LA small hallway with a shadow running down the middle. A Old Creaky door is to the west.&n~
+503 aco 0 2
+DOOR
+2
+~
+1 -1 50303
+DOOR
+3
+door creaky old~
+1 -1 50324
+DOOR
+0
+~
+1 -1 50325
+ENDROOM
+50324 N
+&mA Small Enclosure.&n~
+&LA Small shadowy room, only the creaking of the door inwards tells you there is open area here.  &n~
+503 aco 0 2
+DOOR
+1
+door old creaky~
+1 -1 50323
+ENDROOM
+50325 N
+&mEntrance to a Large Chamber.&n~
+&LHere is an entrance to what seems to be some kind of massive meeting room.  The door is ornately decorated with markings of a stiletto and lighting bolt symbol.&n~
+503 aco 0 2
+DOOR
+0
+door ornately~
+1 -1 50326
+DOOR
+2
+~
+1 -1 50323
+ENDROOM
+50326 N
+&mThe Large Chamber.&n~
+&LThis chamber is elegantly decorated with tapestries lined in gold.  Large tables run along the length of the chamber and at the northern most end is a set of solid gold chairs.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50331
+DOOR
+2
+door ornately~
+1 -1 50325
+ENDROOM
+50327 N
+&mThe Large Chamber.&n~
+&LThis chamber is elegantly decorated with tapestries lined in gold.  Large tables run along the length of the chamber and at the northern most end is a set of solid gold chairs.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50331
+DOOR
+1
+~
+1 -1 50329
+DOOR
+2
+~
+1 -1 50326
+DOOR
+3
+~
+1 -1 50328
+ENDROOM
+50328 N
+&mThe Large Chamber.&n~
+&LThis chamber is elegantly decorated with tapestries lined in gold.  Large tables run along the length of the chamber and at the northern most end is a set of solid gold chairs.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50332
+DOOR
+1
+~
+1 -1 50327
+ENDROOM
+50329 N
+&mThe Large Chamber.&n~
+&LThis chamber is elegantly decorated with tapestries lined in gold.  Large tables run along the length of the chamber and at the northern most end is a set of solid gold chairs.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50330
+DOOR
+3
+~
+1 -1 50327
+ENDROOM
+50330 N
+&mThe Large Chamber.&n~
+&LThis chamber is elegantly decorated with tapestries lined in gold.  Large tables run along the length of the chamber and at the northern most end is a set of solid gold chairs.&n~
+503 aco 0 2
+DOOR
+2
+~
+1 -1 50329
+DOOR
+3
+~
+1 -1 50331
+ENDROOM
+50331 N
+&mThe Large Chamber.&n~
+&LThis chamber is elegantly decorated with tapestries lined in gold.  Large tables run along the length of the chamber and at the northern most end is a set of solid gold chairs.&n~
+503 aco 0 2
+DOOR
+0
+~
+1 -1 50333
+DOOR
+1
+~
+1 -1 50330
+DOOR
+2
+~
+1 -1 50327
+DOOR
+3
+~
+1 -1 50332
+ENDROOM
+50332 N
+&mThe Large Chamber.&n~
+&LThis chamber is elegantly decorated with tapestries lined in gold.  Large tables run along the length of the chamber and at the northern most end is a set of solid gold chairs.&n~
+503 aco 0 2
+DOOR
+1
+~
+1 -1 50331
+DOOR
+2
+~
+1 -1 50328
+ENDROOM
+50333 N
+&bThe Stage.&n~
+&yHere lie 2 solid gold chairs.  A large rug lies under feet and an expensive table sits on the rug.&n~
+503 aco 0 2
+DOOR
+0
+chair gold~
+1 -1 50334
+DOOR
+2
+~
+1 -1 50331
+ENDROOM
+50334 N
+&mSmall Hide Away.&n~
+&LThis room seems to be a small placoe for Kyshar and Noalie to spend their time together.&n~
+503 aco 0 2
+DOOR
+2
+chair gold~
+1 -1 50333
+ENDROOM
+ENDFILE

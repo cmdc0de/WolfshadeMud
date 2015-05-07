@@ -1,0 +1,43 @@
+Arkan reports the following bug would be nice to be able to review the bug log while online
+Arkan reports the following bug Do we want a tog vicsiuos. command like duris had?  i liked it
+Zerx reports the following bug need group all
+getidentifiy string should be virtual
+Nngh reports the following bug Some ideas:  Gods should be able to stat players (ie vstat mob), should be able to cast a few universal god spells like resurrect, light, darkness and portal spells.  Also, show players should show what zone and what room a player is in I think
+remove function addchar affects use more OO approach
+Arkan reports the following bug are we going to have mobs that eat corpses?
+Kamatz reports the following bug okay wear bug here... I am wearing the miners cap, i also have 11 in my inventory. i go to the shop and sell  the 11 caps in my inventory.  i then have to remove and rewear my cap in order to have light
+Kamatz reports the following bug I am trying to buy this "(4) a studded leather jacket Cost: Platium: 0 Gold: 12 Silver: 5 Copper: 0"
+Kamatz reports the following bug I have this "Cash On Hand: Platium: 1 Gold: 2 Silver: 8 Copper: 5 "
+Kamatz reports the following bug it says "You don't have enought to purchase that!"
+Nngh reports the following bug Suggestion: Make a suggst or idea command similar to Bug but obviously for suggestions
+Nngh reports the following bug Prompt should show up after mob/player entrances/casts/gsays/says/tells/etc
+Kamatz reports the following bug should you see the players name when you examine their corpse, if they are not on your side of the race war
+gdelete
+Laz reports the following bug Is this correct message for a wall when it dissapepears ? "A Wall of Bones is dead! R.I.P. - "Your spine tingles as you hear the death cry of A Wall of Bones." I'LL FIX THIS
+Arkan reports the following bug When a god gres's a person, if they are wearing eq, should it remain on them after the ress?  and will this happen with the cleric spell?
+Arkan reports the following bug should we have it so if you have the berserk skill and yer hp drops below, say 10% of your total hp there is a chance you berserk?
+Mon Dec 13 18:26:42 1999:Kamatz reports the following bug I am not attacking things when berzerked and walk into a room, john said i should, do we need to check this? | CODE IS NOT IN TO DO THAT BUT WILL PUT IT ON LIST
+Tue Dec 14 01:40:06 1999:Yinz reports the following bug no mount command
+Tue Dec 14 23:11:39 1999:Nngh reports the following bug Talk to me about my ideas for Bodyslam
+Wed Dec 15 11:50:31 1999:Kvetch reports the following bug How about making weapon knowledge akin to identify in that you can see not only xDy but +hit +dam and stat adjustments?
+Wed Dec 15 12:02:01 1999:Kvetch reports the following bug Divine Fate's Air shield effect should work same as stoneskin effect of shadow armor, imho | I KNOW BUT I HAVE TO MAKE WEAPONS THIER OWN C++ CLASS YET...THEY ARE THE LAST OBJECT TYPE I HAVE TO MAKE THIER OWN C++ CLASS..WILL DO THIS WHEN I GET BACK
+Fri Dec 17 00:21:51 1999:Nngh reports the following bug How about letting Gods set a player's hometown and rent point somewhere other than an inn
+CRITICAL ERROR: Radic was not in saved player list through they tried to change password
+Sun Dec 19 13:00:57 1999:Nngh reports the following bug Shops don't seem to be taking into account charisma adjustment when you list...but when you buy it still makes a difference
+Sun Dec 19 18:40:29 1999:Arkan reports the following bug how about a retreat command, synatx "retreat <direction>" and make it a skill?  for use instead of flee?
+Sun Dec 19 22:05:06 1999:Kamatz reports the following bug followup to earlier bug, ALL warrior (at least) mob AI instances go through Stoneskin, i.e. headbutt, trip, bash, etc... Is this right?
+Mon Dec 27 16:53:29 1999:Nngh reports the following bug when you dominate a player, they still have control of themselves
+Fri Dec 31 17:25:04 1999:Symbir reports the following bug u can't see outside with a light if your sailing
+Fri Dec 31 17:38:10 1999:Symbir reports the following bug hmm forestal armor doesn't seem to do anything
+Sat Jan  1 15:31:57 2000:Lapsaren reports the following bug u should have a toggle autosave notification to cut down on spam a little
+Sat Jan  1 22:21:57 2000:Lapsaren reports the following bug when u practice a skill w/ a teacher it says 'You learn the skill of...' instead of 'You get better at...' or something
+Sun Jan  2 02:07:25 2000:Latis reports the following bug When I'm following but too weighted down, it says I follow, but then it says I'm too wieghted down
+Sun Jan  2 13:54:25 2000:Khacha reports the following bug mistwalk doesn't let me walk on water
+Mon Jan  3 16:49:23 2000:Serev reports the following bug psionic leech seems to cancel out vampiric touch.
+Mon Jan  3 23:25:24 2000:Muk reports the following bug need the sidestep code for riposte
+Wed Jan  5 19:55:27 2000:Khacha reports the following bug hmm i cast divine intervention, which is at expert, by the time i finish prepping it and type score detect invis is gone
+Wed Jan  5 20:50:16 2000:Arkan reports the following bug gsilence would be a useful command, just removes say,gsay,ooc,pet,shout leaves everything else alone
+Wed Jan  5 23:56:37 2000:Lapsaren reports the following bug when you type 'sleep' standing up, it says that person falls asleep standing up, hits the ground, and awakens, but they stay sleeping
+Thu Jan  6 23:50:36 2000:Scathis reports the following bug can enter portals while fighting
+Fri Jan  7 10:13:50 2000:Mytzle reports the following bug merditate STILL only gives me two mana when resting and I doubt I'm missing checks, it's master and I never get more
+Fri Jan  7 16:16:28 2000:Nngh reports the following bug When you rent or otherwise log out with a combination of coins, you re-enter with them converted to the highest coin type available.  eg:  I rent with 17 gold 32 silver, I come back with 2 plat 2 silver.

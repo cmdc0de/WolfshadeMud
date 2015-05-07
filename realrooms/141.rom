@@ -1,0 +1,426 @@
+14100
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 noc 0 1
+DOOR
+1
+~
+1 -1 14101
+DOOR
+3
+~
+1 -1 14099
+ENDROOM
+14101
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 noc 0 1
+DOOR
+1
+~
+1 -1 14102
+DOOR
+3
+~
+1 -1 14100
+ENDROOM
+14102
+&WThe Outer Guard walk&n~
+&WThe outer entrance pass runs all around the castle.  Many guards walk around, using these passages to get around easily.&n~
+140 noc 0 1
+DOOR
+0
+~
+1 -1 14095
+DOOR
+3
+~
+1 -1 14101
+DOOR
+4
+~
+1 -1 14106
+ENDROOM
+14103
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 noc 0 1
+DOOR
+4
+~
+1 -1 14104
+DOOR
+5
+~
+1 -1 14096
+ENDROOM
+14104
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 noc 0 1
+DOOR
+4
+~
+1 -1 14105
+DOOR
+5
+~ 
+1 -1 14103
+ENDROOM
+14105
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 0 1 2
+DOOR
+5
+~
+1 -1 14104
+ENDROOM
+14106
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 noc 0 1
+DOOR
+4
+~
+1 -1 14107
+DOOR
+5
+~
+1 -1 14102
+ENDROOM
+14107
+&WA Tower&n~
+&WFrom up here you can see all around the area.  The hard marble floor under is very strong, the castle seems even larger from up here.&n~
+140 0 1 2
+DOOR
+5
+~
+1 -1 14106
+ENDROOM
+14108
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+1
+~
+1 -1 14109
+DOOR
+2
+~
+1 -1 14113
+ENDROOM
+14109
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+1
+~
+1 -1 14110
+DOOR
+2
+door~
+c -1 14114
+DOOR
+3
+~
+1 -1 14108
+ENDROOM
+14110
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+1
+~
+1 -1 14111
+DOOR
+2
+door~
+c -1 14115
+DOOR
+3
+~
+1 -1 14109
+ENDROOM
+14111
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 1 2
+DOOR
+1
+~
+1 -1 14112
+DOOR
+2
+door~
+c -1 14116
+DOOR
+3
+~
+1 -1 14110
+ENDROOM
+14112
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 1 2
+DOOR
+2
+~
+1 -1 14117
+DOOR
+3
+~
+1 -1 14111
+ENDROOM
+14113
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 1 2
+DOOR
+0
+~
+1 -1 14108
+DOOR
+2
+~
+1 -1 14118
+ENDROOM
+14114
+&WGuest Room&n~
+&WA very well decorated room is laid out here.  Rich flatware on some tables and the very best linen&n~
+140 noc 0 1
+DOOR
+0
+door~
+c -1 14109
+ENDROOM
+14115
+&WGuest Room&n~
+&WA very well decorated room is laid out here.  Rich flatware on some tables and the very best linen&n~
+140 noc 0 1
+DOOR
+0
+door~
+c -1 14110
+ENDROOM
+14116
+&WGuest Room&n~
+&WA very well decorated room is laid out here.  Rich flatware on some tables and the very best linen&n~
+140 noc 0 1
+DOOR
+0
+door~
+c -1 14111
+ENDROOM
+14117
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+~
+1 -1 14112
+DOOR
+2
+door~
+c -1 14033
+ENDROOM
+14118
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+~
+1 -1 14113
+DOOR
+2
+~
+1 -1 14119
+ENDROOM
+14119
+&WRoyal Hallway before the king's room&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+~
+1 -1 14118
+DOOR
+2
+door~
+c -1 14120
+ENDROOM
+14120
+&WKing's Room&n~
+&WThe nicest room in the castle. A lavishly decorated room, filled with gold trinkets and trimmings everywhere.&n~
+140 noc 0 1
+DOOR
+0
+door~
+c -1 14119
+DOOR
+2
+door~
+c -1 14121
+ENDROOM
+14121
+&WRoyal Hallway before the king's room&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+door~
+c -1 14120
+DOOR
+2
+~
+1 -1 14122
+ENDROOM
+14122
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+~
+1 -1 14121
+DOOR
+2
+~
+1 -1 14123
+ENDROOM
+14123
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+~
+1 -1 14122
+DOOR
+2
+~
+1 -1 14128
+ENDROOM
+14124
+&WGuest Room&n~
+&WA very well decorated room is laid out here.  Rich flatware on some tables and the very best linen&n~
+140 noc 0 1
+DOOR
+2
+door~
+c -1 14129
+ENDROOM
+14125
+&WGuest Room&n~
+&WA very well decorated room is laid out here.  Rich flatware on some tables and the very best linen&n~
+140 noc 0 1
+DOOR
+2
+door~
+c -1 14130
+ENDROOM
+14126
+&WGuest Room&n~
+&WA very well decorated room is laid out here.  Rich flatware on some tables and the very best linen&n~
+140 noc 0 1
+DOOR
+2
+door~
+c -1 14131
+ENDROOM
+14127
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+door~
+c -1 14044
+DOOR
+2
+~
+1 -1 14132
+ENDROOM
+14128
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+~
+1 -1 14123
+DOOR
+1
+~
+1 -1 14129
+ENDROOM
+14129
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+door~
+c -1 14124
+DOOR
+1
+~
+1 -1 14130
+DOOR
+3
+~
+1 -1 14128
+ENDROOM
+14130
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+door~
+c -1 14125
+DOOR
+1
+~
+1 -1 14131
+DOOR
+3
+~
+1 -1 14129
+ENDROOM
+14131
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+door~
+c -1 14126
+DOOR
+1
+~
+1 -1 14132
+DOOR
+3
+~
+1 -1 14130
+ENDROOM
+14132
+&WRoyal Hallway&n~
+&WThe finest tapestries in the castle line these walls.  Haughty nobles walk around chatting about their affairs.&n~
+140 noc 0 1
+DOOR
+0
+~
+1 -1 14127
+DOOR
+3
+~
+1 -1 14131
+ENDROOM
+ENDFILE

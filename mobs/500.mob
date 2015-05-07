@@ -1,0 +1,433 @@
+50001
+guard elite human~
+&Mthe &Welite &Mguard&n~
+&MAn &Welite &Mguard of the Cove is here in gleaming armor&n~
+&Mof the Cove is here in gleaming armor&n~
+&MThis man before you is strong and competent.  His armor bears the insignia of &WSibrene &MCove.&n~
+abcjp ad 0 
+20 1 50 
+0 -100 5000 
+10 10 100
+1000 1200 j j 1
+ENDMOB
+50002
+shopkeeper Habeeb~
+&LHabeeb &wthe &Lweaponsmith&n~
+&LHabeeb &wthe &Lweaponsmith waits behind the counter for you.&n~
+&Lwaits behind the counter for you.&n~
+&wHabeeb is a big strong man, ready to build your most needed weapon.&n~
+abcjp a 0 
+20 1 50 
+0 -100 5000
+10 10 100
+200 15 j j 1
+ENDMOB
+50003
+shopkeeper tizza~
+&CTizza &Bthe shopkeeper&n~
+&CTizza &Bthe shopkeeper smiles at you as you browse her wares.&n~
+&Csmiles at you as you browse her wares.&n~
+&CTizza &Bis a beautiful woman, here supply shop is neatly kept and her wares are a gorgeous as she is.&n~
+abcjp a 0 
+20 2 50 
+0 -100 5000
+10 10 100
+100 15 j j 2
+ENDMOB
+50004
+shopkeeper Azeem~
+&LAzeem &wthe &Larmorer&n~
+&LAzeem &wthe &Larmorer waits behind the counter for you.&n~
+&Lwaits behind the counter for you.&n~
+&wAzeem is a small thin man, constantly showing off his artistic works of armor.&n~
+abcjp a 0 
+20 1 50 
+0 -100 5000
+10 10 100
+1 15 j j 1
+ENDMOB
+50005
+innkeeper receptionist~
+&CThe receptionist&n~
+&CThe receptionist waits behind the counter for you.&n~
+&Cwaits behind the counter for you.&n~
+&wA tired and weary look hangs on this woman, she has lead many to a room within the last day.&n~
+abcjp a 0 
+20 1 50 
+0 -100 5000
+10 10 100
+1 15 j j 2
+ENDMOB
+50006
+baker~
+&WThe Baker&n~
+&WA chubby &ybaker &Wwaits behind a mound of bread for you.&n~
+&Wwaits behind a mound of bread for you.&n~
+&WThis chubby man is known for his wonderful bread and pastries.&n~
+abcjp 0 0 
+20 1 50 
+0 -100 5000
+10 10 100
+1 15 j j 1
+ENDMOB
+50007
+kitten~
+&LA kitten&n~
+&LA small black kitten is here.&n~
+&Lis here.&n~
+&LThe kitten looks like a cute, little, fierce fighter.&n~
+e 0 0 
+28 1 1 
+20 90 11
+1 4 0
+0 5 j j 2
+ENDMOB
+50008
+puppy~
+&yA puppy&n~
+&yA small brown puppy is here.&n~
+&yis here.&n~
+&yThe puppy looks like a cute, little, fierce fighter.&n~
+e 0 0 
+28 1 1 
+20 90 13
+1 4 0
+0 5 j j 1
+ENDMOB
+50009
+beagle~
+&yA &Wbeagle&n~
+&yA small, hyper, &Wbeagle &yis here.&n~
+&yis here.&n~
+&yThe &Wbeagle &ylooks like a fierce fighter.&n~
+e 0 0 
+10 1 2 
+19 80 22
+1 6 0
+0 200 j j 1
+ENDMOB
+50010
+rottweiler~
+&LA rottweiler&n~
+&LA large, loyal rottweiler is here.&n~
+&Lis here.&n~
+&LThe rottweiler looks like a strong, fierce fighter.&n~
+e 0 0 
+10 1 3 
+18 70 35
+1 7 0
+0 0 j j 1
+ENDMOB
+50011
+wolf~
+&LA &wtimber &Lwolf&n~
+&LA large, &wtrained &Lwolf is here.&n~
+&Lis here.&n~
+&LThe &wtimber &Lwolf looks like a strong, fearless fighter.&n~
+e 0 0 
+10 1 4 
+17 60 47
+1 8 0
+0 16 j j 1
+ENDMOB
+50012
+pet shop owner~
+&wThe pet shop owner&n~
+&wThe pet shop owner walks around and feeds the pets.&n~
+&wwalks around and feeds the pets.&n~
+&wAn elegantly dressed man is here, holding small puppies and kittens, feeding and taking care of all that is for sale.&n~
+abcjp a 0 
+20 2 50 
+0 -100 5000
+10 10 100
+1 15 j j 1
+ENDMOB
+50013
+mage shopkeeper~
+&MThe mage&n~
+&MA thin mage stands behind a counter waiting to sell his wares.&n~
+&Mstands behind a counter waiting to sell his wares.&n~
+&MThis man is tall and thin, wearing a thick red robe.  Small spectacles cover his eyes.&n~
+abcjp acd 0 
+20 3 50 
+0 -100 5000
+10 10 100
+1 15 j j 1
+ENDMOB
+50014
+shopkeeper Aram~
+&BAram &Rthe &Bbrewmaster&n~
+&BAram &Rthe &Bbrewmaster &Rsips a vintage wine.&n~
+&Rsips a vintage wine.&n~
+&BAram is a short, plump man.  Alcohol hangs on his breath and clothes.&n~
+abcjp ad 0 
+20 1 50 
+0 -100 5000
+10 10 100
+1 15 j j 1
+ENDMOB
+50015
+dog~
+&ya &Lstray &ydog&n~
+&yA &Lstray &ydog is here looking for food.&n~
+&yis here looking for food.&n~
+&wThis ragged dog looks like it hasn't ate in days&n~
+e 0 0 
+10 1 2 
+20 90 10
+1 4 0
+0 125 j j 1
+ENDMOB
+50016
+rogue guildmaster~
+&Lthe rogue guildmaster&n~
+&LThe rogue guildmaster stands here milling over some papers.&n~
+&Lstands here milling over some papers.&n~
+&LDressed in dark garb, this man is ready to train anyone.&n~
+abcjpq ahi 0 
+20 4 50 
+0 -100 5000
+10 10 100
+1 15 j j 1
+ENDMOB
+50017
+high priestess guildmaster~
+&Wthe high priestess&n~
+&WThe high priestess of &WSibrene &MCove &Wis here praying to the gods.&n~
+&of &WSibrene &MCove &Wis here praying to the gods.&n~
+&WDressed in bright whites, this woman has an aura of holiness around her.&n~
+abcjpq a 0 
+20 2 50 
+0 -100 5000
+10 10 100
+1 15 j j 2
+ENDMOB
+50018
+arch mage arch mage cove~
+&WThe &March Mage&n~
+&WThe &March Mage &Wof the cove is here chanting quietly.&n~
+&Wof the cove is here chanting quietly.&n~
+&WDressed in bright colors, this mage is ready to share his knowledge with anyone.&n~
+abcjpq ag 0 
+20 3 50 
+0 -100 5000
+10 10 100
+1 15 j j 1
+ENDMOB
+50019
+warrior knight guildmaster~
+&wthe grand knight&n~
+&wThe grand knight of the cove is here.&n~
+&wof the cove is here.&n~
+&wThis man is strong and dressed in warrior armor.  His eyes tell of many experiences and much wisdom.&n~
+abcjpq abcdefghijk 0 
+20 1 50 
+0 -100 5000
+10 10 100
+1 15 j j 1
+ENDMOB
+50020
+warrior powerful~
+&wthe powerful warrior&n~
+&wA powerful warrior stands here in front of the door.&n~
+&wstands here in front of the door.&n~
+&wThis man is strong and dressed in warrior armor.  Many scars and nicks on his skin mark signs of many battles.&n~
+abcjp ad 0 
+20 1 50 
+0 -100 5000
+10 10 10
+1 15 j j 1
+ENDMOB
+50021
+black rogue~
+&La rogue&n~
+&LA &wrogue &Ldressed in black leans against a wall.&n~
+&Ldressed in black leans against a wall.&n~
+&LThis rogue stands back near the wall, almost unseen.&n~
+abcjp abcdefghijklm 0 
+20 4 50 
+0 -100 5000
+10 10 10
+1 15 j j 1
+ENDMOB
+50022
+ghostly figure~
+&Wa ghostly figure&n~
+&WA ghostly figure stands here in front of the entrance.&n~
+&Wstands here in front of the entrance.&n~
+&WThis milky white figure seems to radiate holiness and protectiveness.&n~
+abcjpq a 0 
+20 1 50 
+0 -100 5000
+10 10 10
+1 15 j j 1
+ENDMOB
+50023
+golem iron~
+&Lan iron golem&n~
+&LA magically created iron golem stands here.&n~
+&Lstands here.&n~
+&LThis golem is obviously a creation of magic alone.  Some parts of it's body are rusted, but it is mostly intact.&n~
+abcjp a 0 
+20 1 50 
+0 -100 5000
+10 10 10
+1 15 j j 1
+ENDMOB
+50024
+cat~
+&La &ystray &Lcat&n~
+&La &ystray &Lcat is here looking for food.&n~
+&Lis here looking for food.&n~
+&LThis ragged cat looks like it hasn't eaten in days&n~
+e 0 0 
+10 1 2 
+20 90 10
+1 4 0
+0 125 j j 1
+ENDMOB
+50025
+male commoner~
+&Wa &Bmale &Wcommoner&n~
+&WA &Bmale &Wcommoner &Wof the &MCove &Wis here.&n~
+&Wof the &MCove &Wis here.&n~
+&LThis man walks around the town on his normal daily routine.&n~
+ce 0 0 
+20 1 10 
+15 90 100
+1 4 1
+100 0 j j 1
+ENDMOB
+50026
+female commoner~
+&Wa &Bfemale &Wcommoner&n~
+&WA &Bfemale &Wcommoner of the &MCove &Wis here.&n~
+&Wof the &MCove &Wis here.&n~
+&LThis woman walks around the town on his normal daily routine.&n~
+ce 0 0 
+20 1 1 
+15 90 100
+1 4 10
+10 0 j j 2
+ENDMOB
+50027
+merchant~
+&Wa &Ymerchant&n~
+&WA &Ymerchant &Wof the &MCove &Wis here.&n~
+&Wof the &MCove &Wis here.&n~
+&WThis man walks around the town selling his wares.&n~
+ce 0 0 
+20 1 15 
+12 90 200
+2 4 1
+220 0 j j 1
+ENDMOB
+50028
+sailor~
+&wa &btired &wsailor&n~
+&wA &btired &wsailor &bwalks along the docks.&n~
+&bwalks along the docks.&n~
+&wFreshly off a boat, this man looks very sea-weary.&n~
+ce 0 0 
+20 1 25 
+10 90 500
+3 4 2
+2000 0 j j 1
+ENDMOB
+50029
+pier master~
+&Lthe &bpier &Lmaster&n~
+&LThe &bpier &Lmaster is here looking out into the sea.&n~
+&Lis here looking out into the sea.&n~
+&LThis man helps all the boats dock at the pier.  He looks well built and well worn.&n~
+abcjp ad 0 
+20 1 45 
+-2 -100 2000
+4 5 3
+8000 0 j j 1
+ENDMOB
+50030
+dock master~
+&Lthe &ydock &Lmaster&n~
+&LThe &ydock &Lmaster is here looking out into the sea.&n~
+&Lis here looking out into the sea.&n~
+&LThis man controls all the incoming and outgoing works of the docks.  He looks well built and well worn.&n~
+abcjp abdi 0 
+20 1 55 
+-5 -100 6000
+6 5 5
+10000 0 j j 1
+ENDMOB
+50031
+cargo lifter~
+&La &bcargo &Llifter&n~
+&LA &bcargo &Llifter &bwalks along the docks.&n~
+&bwalks along the docks.&n~
+&LMoving all kinds of goods, this man walks along the docks with crates and boxes galore.&n~
+ce 0 0 
+20 1 25 
+10 90 500
+3 4 2
+1000 0 j j 1
+ENDMOB
+50032
+noble man~
+&Wa &Rnoble&Wman&n~
+&WA &Rnoble&Wman walks along the streets humming to himself.&n~
+&Wwalks along the streets humming to himself.&n~
+&WDressing in all kinds of colorful garb, this man holds his head up high, and his nose.&n~
+ce a 0 
+20 1 45 
+3 -100 5000
+3 4 2
+11000 0 j j 1
+ENDMOB
+50033
+noble woman~
+&Wa &Rnoble&Wwoman&n~
+&WA &Rnoble&Wwoman walks along the streets humming to herself.&n~
+&Wwalks along the streets humming to herself.&n~
+&WDressing in all kinds of colorful garb, this woman holds her head up high, and her nose.&n~
+ce ce 0 
+20 1 45 
+3 -10 5000
+3 4 2
+11000 0 j j 1
+ENDMOB
+50034
+strong mercenary~
+&La &wstrong &Lmercenary&n~
+&LA &wstrong &Lmercenary stands here looking mean.&n~
+&Lstands here looking mean.&n~
+&LThis mercenary is scarred from battle and well muscled.&n~
+ce c 0 
+20 4 33 
+5 -50 1100
+3 4 2
+3000 0 j j 1
+ENDMOB
+50035
+nimble thief~
+&La &wnimble &Lthief&n~
+&LA &wnimble &Lthief seems to disappear and reappear.&n~
+&Lseems to disappear and reappear.&n~
+&LThis small man just seems to dissolve and fade from view, then appear again elsewhere.&n~
+ce c 0 
+20 4 30 
+6 -40 1000
+3 3 2
+3000 0 j j 1
+ENDMOB
+50036
+militia guard~
+&wa &mmilitia &wguard&n~
+&wa &mmilitia &wguard walks along the area scanning for trouble.&n~
+&wwalks along the area scanning for trouble.&n~
+&mThis young man walks along the area looking for trouble.  Wearing the insignia of &WSibrene &mCove on him.&n~
+ec a 0 
+20 1 20 
+10 -20 800
+3 3 1
+600 0 j j 1
+ENDMOB
+ENDFILE
