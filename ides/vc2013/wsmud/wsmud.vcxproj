@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{26B46C3B-E79F-463F-B342-07E2D7402B50}</ProjectGuid>
+    <RootNamespace>wsmud</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_WOLFSHADE_WINDOWS_;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\affect.cpp" />
+    <ClCompile Include="..\..\..\src\affectedby.cpp" />
+    <ClCompile Include="..\..\..\src\anti.paladin.cpp" />
+    <ClCompile Include="..\..\..\src\armor.cpp" />
+    <ClCompile Include="..\..\..\src\ascii.stream.cpp" />
+    <ClCompile Include="..\..\..\src\attributes.cpp" />
+    <ClCompile Include="..\..\..\src\bank.room.cpp" />
+    <ClCompile Include="..\..\..\src\barbarian.reference.cpp" />
+    <ClCompile Include="..\..\..\src\brownie.reference.cpp" />
+    <ClCompile Include="..\..\..\src\centaur.reference.cpp" />
+    <ClCompile Include="..\..\..\src\char.intermediate.cpp" />
+    <ClCompile Include="..\..\..\src\character.attributes.cpp" />
+    <ClCompile Include="..\..\..\src\character.cpp" />
+    <ClCompile Include="..\..\..\src\cleric.cpp" />
+    <ClCompile Include="..\..\..\src\container.cpp" />
+    <ClCompile Include="..\..\..\src\corpse.cpp" />
+    <ClCompile Include="..\..\..\src\defiler.cpp" />
+    <ClCompile Include="..\..\..\src\draconian.reference.cpp" />
+    <ClCompile Include="..\..\..\src\drow.elf.reference.cpp" />
+    <ClCompile Include="..\..\..\src\druid.cpp" />
+    <ClCompile Include="..\..\..\src\duergar.dwarf.reference.cpp" />
+    <ClCompile Include="..\..\..\src\elemental.reference.cpp" />
+    <ClCompile Include="..\..\..\src\empath.cpp" />
+    <ClCompile Include="..\..\..\src\error.cpp" />
+    <ClCompile Include="..\..\..\src\game.cpp" />
+    <ClCompile Include="..\..\..\src\githyanki.reference.cpp" />
+    <ClCompile Include="..\..\..\src\global.management.cpp" />
+    <ClCompile Include="..\..\..\src\gnoll.reference.cpp" />
+    <ClCompile Include="..\..\..\src\gnome.reference.cpp" />
+    <ClCompile Include="..\..\..\src\grey.elf.reference.cpp" />
+    <ClCompile Include="..\..\..\src\group.cpp" />
+    <ClCompile Include="..\..\..\src\half.drow.elf.reference.cpp" />
+    <ClCompile Include="..\..\..\src\half.grey.elf.reference.cpp" />
+    <ClCompile Include="..\..\..\src\half.orc.reference.cpp" />
+    <ClCompile Include="..\..\..\src\human.reference.cpp" />
+    <ClCompile Include="..\..\..\src\illithid.reference.cpp" />
+    <ClCompile Include="..\..\..\src\imp.reference.cpp" />
+    <ClCompile Include="..\..\..\src\interpetor.cpp" />
+    <ClCompile Include="..\..\..\src\kender.reference.cpp" />
+    <ClCompile Include="..\..\..\src\kenku.reference.cpp" />
+    <ClCompile Include="..\..\..\src\lich.reference.cpp" />
+    <ClCompile Include="..\..\..\src\light.cpp" />
+    <ClCompile Include="..\..\..\src\list.cpp" />
+    <ClCompile Include="..\..\..\src\mage.cpp" />
+    <ClCompile Include="..\..\..\src\main.cpp" />
+    <ClCompile Include="..\..\..\src\message.manager.cpp" />
+    <ClCompile Include="..\..\..\src\mindflayer.cpp" />
+    <ClCompile Include="..\..\..\src\minotaur.reference.cpp" />
+    <ClCompile Include="..\..\..\src\mob.manager.cpp" />
+    <ClCompile Include="..\..\..\src\mob.prototype.cpp" />
+    <ClCompile Include="..\..\..\src\money.cpp" />
+    <ClCompile Include="..\..\..\src\mountain.dwarf.reference.cpp" />
+    <ClCompile Include="..\..\..\src\mudtime.cpp" />
+    <ClCompile Include="..\..\..\src\mul.reference.cpp" />
+    <ClCompile Include="..\..\..\src\none.reference.cpp" />
+    <ClCompile Include="..\..\..\src\npc.antipaladin.cpp" />
+    <ClCompile Include="..\..\..\src\npc.classless.ai.cpp" />
+    <ClCompile Include="..\..\..\src\npc.cleric.cpp" />
+    <ClCompile Include="..\..\..\src\npc.cpp" />
+    <ClCompile Include="..\..\..\src\npc.defiler.cpp" />
+    <ClCompile Include="..\..\..\src\npc.druid.cpp" />
+    <ClCompile Include="..\..\..\src\npc.empath.cpp" />
+    <ClCompile Include="..\..\..\src\npc.mage.cpp" />
+    <ClCompile Include="..\..\..\src\npc.mindflayer.cpp" />
+    <ClCompile Include="..\..\..\src\npc.paladin.cpp" />
+    <ClCompile Include="..\..\..\src\npc.psionicist.cpp" />
+    <ClCompile Include="..\..\..\src\npc.ranger.cpp" />
+    <ClCompile Include="..\..\..\src\npc.rogue.cpp" />
+    <ClCompile Include="..\..\..\src\npc.shaman.cpp" />
+    <ClCompile Include="..\..\..\src\npc.warrior.cpp" />
+    <ClCompile Include="..\..\..\src\object.cpp" />
+    <ClCompile Include="..\..\..\src\object.manager.cpp" />
+    <ClCompile Include="..\..\..\src\object.misc.cpp" />
+    <ClCompile Include="..\..\..\src\object.prototype.cpp" />
+    <ClCompile Include="..\..\..\src\object.save.cpp" />
+    <ClCompile Include="..\..\..\src\ogre.reference.cpp" />
+    <ClCompile Include="..\..\..\src\orc.reference.cpp" />
+    <ClCompile Include="..\..\..\src\paladin.cpp" />
+    <ClCompile Include="..\..\..\src\pixie.reference.cpp" />
+    <ClCompile Include="..\..\..\src\portal.cpp" />
+    <ClCompile Include="..\..\..\src\psionicist.cpp" />
+    <ClCompile Include="..\..\..\src\racial.reference.cpp" />
+    <ClCompile Include="..\..\..\src\ranger.cpp" />
+    <ClCompile Include="..\..\..\src\rogue.cpp" />
+    <ClCompile Include="..\..\..\src\room.cpp" />
+    <ClCompile Include="..\..\..\src\saurial.reference.cpp" />
+    <ClCompile Include="..\..\..\src\save.char.cpp" />
+    <ClCompile Include="..\..\..\src\shaman.cpp" />
+    <ClCompile Include="..\..\..\src\shop.room.cpp" />
+    <ClCompile Include="..\..\..\src\socket.cpp" />
+    <ClCompile Include="..\..\..\src\stdinclude.cpp" />
+    <ClCompile Include="..\..\..\src\thrikreen.reference.cpp" />
+    <ClCompile Include="..\..\..\src\trackinfo.cpp" />
+    <ClCompile Include="..\..\..\src\transport.cpp" />
+    <ClCompile Include="..\..\..\src\transportroom.cpp" />
+    <ClCompile Include="..\..\..\src\troll.reference.cpp" />
+    <ClCompile Include="..\..\..\src\undead.reference.cpp" />
+    <ClCompile Include="..\..\..\src\warrior.cpp" />
+    <ClCompile Include="..\..\..\src\wolfshade.string.cpp" />
+    <ClCompile Include="..\..\..\src\world.cpp" />
+    <ClCompile Include="..\..\..\src\zone.cpp" />
+    <ClCompile Include="..\..\..\src\zone.manager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\src\affect.h" />
+    <ClInclude Include="..\..\..\src\anti.paladin.h" />
+    <ClInclude Include="..\..\..\src\armor.h" />
+    <ClInclude Include="..\..\..\src\ascii.stream.h" />
+    <ClInclude Include="..\..\..\src\attributes.h" />
+    <ClInclude Include="..\..\..\src\bank.room.h" />
+    <ClInclude Include="..\..\..\src\barbarian.reference.h" />
+    <ClInclude Include="..\..\..\src\brownie.reference.h" />
+    <ClInclude Include="..\..\..\src\caster.h" />
+    <ClInclude Include="..\..\..\src\centaur.reference.h" />
+    <ClInclude Include="..\..\..\src\char.intermediate.h" />
+    <ClInclude Include="..\..\..\src\character.attributes.h" />
+    <ClInclude Include="..\..\..\src\character.h" />
+    <ClInclude Include="..\..\..\src\cleric.h" />
+    <ClInclude Include="..\..\..\src\color.h" />
+    <ClInclude Include="..\..\..\src\constants.h" />
+    <ClInclude Include="..\..\..\src\container.h" />
+    <ClInclude Include="..\..\..\src\corpse.h" />
+    <ClInclude Include="..\..\..\src\defiler.h" />
+    <ClInclude Include="..\..\..\src\descriptor.h" />
+    <ClInclude Include="..\..\..\src\draconian.reference.h" />
+    <ClInclude Include="..\..\..\src\drow.elf.reference.h" />
+    <ClInclude Include="..\..\..\src\druid.h" />
+    <ClInclude Include="..\..\..\src\duergar.dwarf.reference.h" />
+    <ClInclude Include="..\..\..\src\elemental.reference.h" />
+    <ClInclude Include="..\..\..\src\empath.h" />
+    <ClInclude Include="..\..\..\src\error.h" />
+    <ClInclude Include="..\..\..\src\game.h" />
+    <ClInclude Include="..\..\..\src\githyanki.reference.h" />
+    <ClInclude Include="..\..\..\src\global.functions.h" />
+    <ClInclude Include="..\..\..\src\global.management.h" />
+    <ClInclude Include="..\..\..\src\global.race.reference.h" />
+    <ClInclude Include="..\..\..\src\gnoll.reference.h" />
+    <ClInclude Include="..\..\..\src\gnome.reference.h" />
+    <ClInclude Include="..\..\..\src\grey.elf.reference.h" />
+    <ClInclude Include="..\..\..\src\half.drow.elf.reference.h" />
+    <ClInclude Include="..\..\..\src\half.grey.elf.reference.h" />
+    <ClInclude Include="..\..\..\src\half.orc.reference.h" />
+    <ClInclude Include="..\..\..\src\hash.h" />
+    <ClInclude Include="..\..\..\src\human.reference.h" />
+    <ClInclude Include="..\..\..\src\illithid.reference.h" />
+    <ClInclude Include="..\..\..\src\imp.reference.h" />
+    <ClInclude Include="..\..\..\src\interpetor.h" />
+    <ClInclude Include="..\..\..\src\kender.reference.h" />
+    <ClInclude Include="..\..\..\src\kenku.reference.h" />
+    <ClInclude Include="..\..\..\src\lich.reference.h" />
+    <ClInclude Include="..\..\..\src\light.h" />
+    <ClInclude Include="..\..\..\src\linklist.h" />
+    <ClInclude Include="..\..\..\src\list.h" />
+    <ClInclude Include="..\..\..\src\log.h" />
+    <ClInclude Include="..\..\..\src\mage.h" />
+    <ClInclude Include="..\..\..\src\memory.allocator.h" />
+    <ClInclude Include="..\..\..\src\message.manager.h" />
+    <ClInclude Include="..\..\..\src\mindflayer.h" />
+    <ClInclude Include="..\..\..\src\minotaur.reference.h" />
+    <ClInclude Include="..\..\..\src\mob.manager.h" />
+    <ClInclude Include="..\..\..\src\mob.prototype.h" />
+    <ClInclude Include="..\..\..\src\mobai.h" />
+    <ClInclude Include="..\..\..\src\money.h" />
+    <ClInclude Include="..\..\..\src\mountain.dwarf.reference.h" />
+    <ClInclude Include="..\..\..\src\mudtime.h" />
+    <ClInclude Include="..\..\..\src\mul.reference.h" />
+    <ClInclude Include="..\..\..\src\none.reference.h" />
+    <ClInclude Include="..\..\..\src\npc.classes.h" />
+    <ClInclude Include="..\..\..\src\npc.h" />
+    <ClInclude Include="..\..\..\src\object.h" />
+    <ClInclude Include="..\..\..\src\object.manager.h" />
+    <ClInclude Include="..\..\..\src\object.misc.h" />
+    <ClInclude Include="..\..\..\src\object.prototype.h" />
+    <ClInclude Include="..\..\..\src\object.save.h" />
+    <ClInclude Include="..\..\..\src\ogre.reference.h" />
+    <ClInclude Include="..\..\..\src\orc.reference.h" />
+    <ClInclude Include="..\..\..\src\paladin.h" />
+    <ClInclude Include="..\..\..\src\pixie.reference.h" />
+    <ClInclude Include="..\..\..\src\portal.h" />
+    <ClInclude Include="..\..\..\src\proficiency.h" />
+    <ClInclude Include="..\..\..\src\psionicist.h" />
+    <ClInclude Include="..\..\..\src\racial.reference.h" />
+    <ClInclude Include="..\..\..\src\random.h" />
+    <ClInclude Include="..\..\..\src\ranger.h" />
+    <ClInclude Include="..\..\..\src\rogue.h" />
+    <ClInclude Include="..\..\..\src\room.h" />
+    <ClInclude Include="..\..\..\src\saurial.reference.h" />
+    <ClInclude Include="..\..\..\src\save.char.h" />
+    <ClInclude Include="..\..\..\src\shaman.h" />
+    <ClInclude Include="..\..\..\src\shop.room.h" />
+    <ClInclude Include="..\..\..\src\socket.h" />
+    <ClInclude Include="..\..\..\src\spell.h" />
+    <ClInclude Include="..\..\..\src\spell.save.h" />
+    <ClInclude Include="..\..\..\src\stdinclude.h" />
+    <ClInclude Include="..\..\..\src\telnet.h" />
+    <ClInclude Include="..\..\..\src\template.functions.h" />
+    <ClInclude Include="..\..\..\src\thinker.h" />
+    <ClInclude Include="..\..\..\src\thrikreen.reference.h" />
+    <ClInclude Include="..\..\..\src\trackinfo.h" />
+    <ClInclude Include="..\..\..\src\transport.h" />
+    <ClInclude Include="..\..\..\src\transportroom.h" />
+    <ClInclude Include="..\..\..\src\troll.reference.h" />
+    <ClInclude Include="..\..\..\src\undead.reference.h" />
+    <ClInclude Include="..\..\..\src\wall.h" />
+    <ClInclude Include="..\..\..\src\warrior.h" />
+    <ClInclude Include="..\..\..\src\wolfshade.string.h" />
+    <ClInclude Include="..\..\..\src\world.h" />
+    <ClInclude Include="..\..\..\src\zone.h" />
+    <ClInclude Include="..\..\..\src\zone.manager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\src\zone.helpers.inc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
