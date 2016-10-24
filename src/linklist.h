@@ -130,7 +130,7 @@ void CLinkList<BaseClass>::Add(BaseClass *ptr)
 {
 	if(!ptr)
 	{
-		CError Err(CRITICAL_ERROR,"NULL pointer pass to add in LL class\n");
+		CError Err(CRITICAL_ERROR,(char *)"NULL pointer pass to add in LL class\n");
 		throw &Err;
 	}
 
@@ -153,7 +153,7 @@ void CLinkList<BaseClass>::AddBegining(BaseClass *ptr)
 {
 	if(!ptr)
 	{
-		CError Err(CRITICAL_ERROR,"NULL pointer pass to add in LL class\n");
+		CError Err(CRITICAL_ERROR,(char *)"NULL pointer pass to add in LL class\n");
 		throw &Err;
 	}
 	Node *tmp = m_pFirst;

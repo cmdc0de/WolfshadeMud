@@ -32,6 +32,7 @@
 #include "constants.h"
 #include "affect.h"
 #include "attributes.h"
+#include "wolfshade.string.h"
 #include <vector>
 
 class CCharIntermediate; //forward def
@@ -206,7 +207,7 @@ protected:
 protected:
 	bool SaveToFile(bool bAllowNew);
 	CCharacterAttributes(CCharacter *pCh);
-	char *SkillWording(short nSkilled);
+	const char *SkillWording(short nSkilled);
 	bool IsPlayerSaved();
 	CCharacterAttributes &operator=(sSaveChar &Char);
 	void CheckFrags(sSaveChar &s);

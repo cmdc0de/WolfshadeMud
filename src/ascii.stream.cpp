@@ -17,12 +17,12 @@
 //Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 //////////////////////////////////////////////////////////////
 /*
-*
-* Cascii implementation
-*
-*
-*
-*/
+ *
+ * Cascii implementation
+ *
+ *
+ *
+ */
 
 #include "ascii.stream.h"
 #include "constants.h"
@@ -32,6 +32,10 @@
 #include <ctype.h>
 #include <sstream>
 #include <stdarg.h>
+
+CAscii::CAscii(CString file, long bits) : std::ifstream() {
+    open(file.cptr(), (std::ios_base::openmode)bits);
+}
 
 ///////////////////////////////////////////
 //  function name: Numeric
@@ -43,113 +47,100 @@
 //		but focus to what we are trying to accomplish
 ///////////////////////////////////////////// 
 
-void CAscii::Numeric(const char *pFormat, ...)
-{
-	CString strFormat(pFormat);
-	char Temp[MAX_FILE_STRING_SIZE] = {'\0'};
-	char tempchar;
-	char strTemp[MAX_FILE_STRING_SIZE] = {'\0'};
-	va_list vaList;
-	float tempfloat;
-	long templong;
-	int pos, tempint;
-	short int tempshort;
+void CAscii::Numeric(const char *pFormat, ...) {
+    CString strFormat(pFormat);
+    char Temp[MAX_FILE_STRING_SIZE] = {'\0'};
+    char tempchar;
+    char strTemp[MAX_FILE_STRING_SIZE] = {'\0'};
+    va_list vaList;
+    float tempfloat;
+    long templong;
+    int pos, tempint;
+    short int tempshort;
 
-	getline(Temp,MAX_FILE_STRING_SIZE);
-	std::istringstream Values(Temp,MAX_FILE_STRING_SIZE);
+    getline(Temp, MAX_FILE_STRING_SIZE);
+    std::string strBuf(&Temp[0], MAX_FILE_STRING_SIZE);
+    std::istringstream Values(strBuf);
 
-	// init variable list
-	va_start(vaList,pFormat);
-	while((pos = strFormat.Find('%'))!= -1)
-	{
-		try
-		{
-			switch(strFormat[pos + 1])
-			{
-			case '%':
-				ErrorLog << "Error can't have 2 % in a row in format string" << endl;
-				break;
-			case 'd': case 'D':
-				Values >> tempint;
-				(*va_arg(vaList,int *)) = tempint;			
-				break;
-			case 'b': case 'B':
-				Values >> tempshort;
-				(*va_arg(vaList,short int *)) = tempshort;
-				break;
-			case 'l': case 'L':
-				Values >> templong;
-				(*va_arg(vaList,long *)) = templong;
-				break;
-			case 'c': case 'C':
-				Values >> tempchar;
-				(*va_arg(vaList,char *)) = tempchar;
-				break;
-			case 'f': case 'F':
-				Values >> tempfloat;
-				(*va_arg(vaList,float *)) = tempfloat;
-				break;
-			case 's': case 'S':
-				Values >> strTemp;
-				strcpy(va_arg(vaList,char *),strTemp);
-				break;
-			default:
-				ErrorLog << "Numeric doesn't support %" << strFormat[pos+1] << endl;
-				break;
-			}
-		// reset format string
-		strFormat = strFormat.Right(pos + 1);
-		}
-		catch(...)
-		{
-			ErrorLog << "Error in numeric line : " << Temp << endl;
-			return;
-		}
-	}
-	va_end(vaList);
+    // init variable list
+    va_start(vaList, pFormat);
+    while ((pos = strFormat.Find('%')) != -1) {
+        try {
+            switch (strFormat[pos + 1]) {
+                case '%':
+                    ErrorLog << "Error can't have 2 % in a row in format string" << endl;
+                    break;
+                case 'd': case 'D':
+                    Values >> tempint;
+                    (*va_arg(vaList, int *)) = tempint;
+                    break;
+                case 'b': case 'B':
+                    Values >> tempshort;
+                    (*va_arg(vaList, short int *)) = tempshort;
+                    break;
+                case 'l': case 'L':
+                    Values >> templong;
+                    (*va_arg(vaList, long *)) = templong;
+                    break;
+                case 'c': case 'C':
+                    Values >> tempchar;
+                    (*va_arg(vaList, char *)) = tempchar;
+                    break;
+                case 'f': case 'F':
+                    Values >> tempfloat;
+                    (*va_arg(vaList, float *)) = tempfloat;
+                    break;
+                case 's': case 'S':
+                    Values >> strTemp;
+                    strcpy(va_arg(vaList, char *), strTemp);
+                    break;
+                default:
+                    ErrorLog << "Numeric doesn't support %" << strFormat[pos + 1] << endl;
+                    break;
+            }
+            // reset format string
+            strFormat = strFormat.Right(pos + 1);
+        } catch (...) {
+            ErrorLog << "Error in numeric line : " << Temp << endl;
+            return;
+        }
+    }
+    va_end(vaList);
 }
 
 ////////////////////////////////////////////////////
 //	Name:  ReadFileString
 //
 //	Reads in a string from a file until the delim is hit
-void CAscii::ReadFileString(CString &strValue, char delim)
-{
-	CString Temp(MAX_FILE_STRING_SIZE);
-	if(delim != EOF)
-	{
-		bool bEnd = false;
-		while(!bEnd && good())
-		{
-			//get everything until the \n
-			getline(Temp,MAX_FILE_STRING_SIZE);
-			int nPos;
-			//do we find the delim?
-			if((nPos = Temp.Find((char)delim))!=-1)
-			{
-				//yes
-				strValue += Temp.Left(nPos);
-				bEnd = true;
-			}
-			else
-			{
-				strValue.Format("%s%s\r\n",
-					(char *)strValue,
-					(char *)Temp);
-			}
-		}
-	}
-	else
-	{
-		strValue.Empty();
-		while(good())
-		{
-			getline(Temp,MAX_FILE_STRING_SIZE);
-			strValue.Format("%s%s\r\n",
-					(char *)strValue,
-					(char *)Temp);
-		}
-	}
+
+void CAscii::ReadFileString(CString &strValue, char delim) {
+    CString Temp(MAX_FILE_STRING_SIZE);
+    if (delim != EOF) {
+        bool bEnd = false;
+        while (!bEnd && good()) {
+            //get everything until the \n
+            getline(Temp.ptr(), MAX_FILE_STRING_SIZE);
+            int nPos;
+            //do we find the delim?
+            if ((nPos = Temp.Find((char) delim)) != -1) {
+                //yes
+                strValue += Temp.Left(nPos);
+                bEnd = true;
+            } else {
+                strValue.Format("%s%s\r\n",
+                        strValue.cptr(),
+                        Temp.cptr());
+            }
+        }
+    } else {
+        strValue.Empty();
+        while (good()) {
+            getline(Temp.ptr(), MAX_FILE_STRING_SIZE);
+            strValue.Format("%s%s\r\n",
+                    strValue.cptr(),
+                    Temp.cptr());
+        }
+    }
 }
 
 //////////////////////////////////////
@@ -157,27 +148,26 @@ void CAscii::ReadFileString(CString &strValue, char delim)
 //	This takes a string of letters and converts
 //	them to bit vectors
 ///////////////////////////////////////
-int CAscii::AsciiConvert(char *flag)
-{
-	long flags = 0;
-	bool is_number = true;
-	register char *p=NULL;
 
-	for (p = flag; *p; p++) 
-	{
-		if (islower(*p))
-			flags |= 1 << (*p - 'a');
-		else if (isupper(*p))
-			flags |= 1 << (25 + (*p - 'A'));
+int CAscii::AsciiConvert(char *flag) {
+    long flags = 0;
+    bool is_number = true;
+    char *p = NULL;
 
-		if (!isdigit(*p))
-			is_number = false;
-	}
+    for (p = flag; *p; p++) {
+        if (islower(*p))
+            flags |= 1 << (*p - 'a');
+        else if (isupper(*p))
+            flags |= 1 << (25 + (*p - 'A'));
 
-  if (is_number)
-    flags = atol(flag);
+        if (!isdigit(*p))
+            is_number = false;
+    }
 
-  return flags;
+    if (is_number)
+        flags = atol(flag);
+
+    return flags;
 }
 
 ////////////////////////////////////////////////
@@ -185,38 +175,35 @@ int CAscii::AsciiConvert(char *flag)
 //	This function counts the number of 'delim' in
 //	a file
 ///////////////////////////////////////////////
-int CAscii::Count(CString delim, CString prefix)
-{
-	CString temp(256), temp1(256), file1(256);
-	int count=0;
-	CString Error;
-		
-	while(good())
-	{		
-		*this >> temp1;
-		temp=prefix;
-		temp+=temp1;
-		//std::ifstream CurrentFile(temp,std::ios::in|ios::nocreate);
-		std::ifstream CurrentFile(temp,std::ios::in);
-		if(!CurrentFile)
-		{
-			Error.Format("File will not open: %s ",(char *)temp);
-			CError Err(CRITICAL_ERROR,Error);
-			throw &Err;
-		}
-		while(CurrentFile.good())
-		{
-			CurrentFile.getline(file1,MAX_FILE_STRING_SIZE);
-			if(file1==delim)
-				count++;
-		}
-		if(!CurrentFile.eof())
-			ErrorLog << "Stoped before end of file:" << temp << endl;
-		CurrentFile.close();
-	}
-	clear();
-	seekg(0);		
-	return count;
+
+int CAscii::Count(CString delim, CString prefix) {
+    CString temp(256), temp1(256), file1(256);
+    int count = 0;
+    CString Error;
+
+    while (good()) {
+        *this >> temp1;
+        temp = prefix;
+        temp += temp1;
+        //std::ifstream CurrentFile(temp,std::ios::in|ios::nocreate);
+        std::ifstream CurrentFile(temp.cptr(), std::ios::in);
+        if (!CurrentFile) {
+            Error.Format("File will not open: %s ", temp.cptr());
+            CError Err(CRITICAL_ERROR, Error.cptr());
+            throw &Err;
+        }
+        while (CurrentFile.good()) {
+            CurrentFile.getline(file1.ptr(), MAX_FILE_STRING_SIZE);
+            if (file1 == delim)
+                count++;
+        }
+        if (!CurrentFile.eof())
+            ErrorLog << "Stoped before end of file:" << temp << endl;
+        CurrentFile.close();
+    }
+    clear();
+    seekg(0);
+    return count;
 }
 
 ///////////////////////////////////
@@ -227,40 +214,37 @@ int CAscii::Count(CString delim, CString prefix)
 //	an error happens, we use readtill to read to the next one
 //	without so that we can skip the one with the error
 /////////////////////////////////////
-bool CAscii::ReadTill(CString delim)
-{
-	CString Line(MAX_FILE_STRING_SIZE);
-	
-	while(good())
-	{
-		getline(Line,MAX_FILE_STRING_SIZE);
-		if(Line==delim)
-			return true;
-	}
 
-	if(!eof())
-	{
-		ErrorLog << "Error in ReadTill waiting for delim->" << delim << endl;
-		return false;
-	}
-	return true;
+bool CAscii::ReadTill(CString delim) {
+    CString Line(MAX_FILE_STRING_SIZE);
+
+    while (good()) {
+        getline(Line.ptr(), MAX_FILE_STRING_SIZE);
+        if (Line == delim)
+            return true;
+    }
+
+    if (!eof()) {
+        ErrorLog << "Error in ReadTill waiting for delim->" << delim << endl;
+        return false;
+    }
+    return true;
 }
 
 //counts the number of delim in the file
-int CAscii::Count(CString delim)
-{
-	CString temp(256);
-	int count = 0;
-	
-	while(good())
-	{
-		getline(temp,256);
-		if(temp==delim)
-			count++;
-	}
-	clear();
-	seekg(0);
-	return count;
+
+int CAscii::Count(CString delim) {
+    CString temp(256);
+    int count = 0;
+
+    while (good()) {
+        getline(temp.ptr(), 256);
+        if (temp == delim)
+            count++;
+    }
+    clear();
+    seekg(0);
+    return count;
 }
 
 ////////////////////////////////
@@ -268,68 +252,64 @@ int CAscii::Count(CString delim)
 //	constructs an istrstream and 
 //	reads in all variables
 ///////////////////////////////
-void CAscii::NumericFromBuf(CString &strBuf, const char *pFormat, ...)
-{
-	CString strFormat(pFormat);
-	char tempchar;
-	char strTemp[MAX_FILE_STRING_SIZE] = {'\0'};
-	va_list vaList;
-	float tempfloat;
-	long templong;
-	int pos, tempint;
-	short int tempshort;
 
-	std::istringstream Values(strBuf,strBuf.GetLength());
+void CAscii::NumericFromBuf(CString &strBuf, const char *pFormat, ...) {
+    CString strFormat(pFormat);
+    char tempchar;
+    char strTemp[MAX_FILE_STRING_SIZE] = {'\0'};
+    va_list vaList;
+    float tempfloat;
+    long templong;
+    int pos, tempint;
+    short int tempshort;
 
-	// init variable list
-	va_start(vaList,pFormat);
-	while((pos = strFormat.Find('%'))!= -1)
-	{
-		try
-		{
-			switch(strFormat[pos + 1])
-			{
-			case '%':
-				ErrorLog << "Error can't have 2 % in a row in format string" << endl;
-				break;
-			case 'd': case 'D':
-				Values >> tempint;
-				(*va_arg(vaList,int *)) = tempint;			
-				break;
-			case 'b': case 'B':
-				Values >> tempshort;
-				(*va_arg(vaList,short int *)) = tempshort;
-				break;
-			case 'l': case 'L':
-				Values >> templong;
-				(*va_arg(vaList,long *)) = templong;
-				break;
-			case 'c': case 'C':
-				Values >> tempchar;
-				(*va_arg(vaList,char *)) = tempchar;
-				break;
-			case 'f': case 'F':
-				Values >> tempfloat;
-				(*va_arg(vaList,float *)) = tempfloat;
-				break;
-			case 's': case 'S':
-				Values >> strTemp;
-				strcpy(va_arg(vaList,char *),strTemp);
-				break;
-			default:
-				ErrorLog << "Numeric doesn't support %" << strFormat[pos+1] << endl;
-				break;
-			}
-		// reset format string
-		strFormat = strFormat.Right(pos + 1);
-		}
-		catch(...)
-		{
-			ErrorLog << "Error in numeric line : " << strBuf << endl;
-			return;
-		}
-	}
-	va_end(vaList);
+    std::string strBuf1(strBuf.cptr(), strBuf.GetLength());
+    std::istringstream Values(strBuf1);
+
+    // init variable list
+    va_start(vaList, pFormat);
+    while ((pos = strFormat.Find('%')) != -1) {
+        try {
+            switch (strFormat[pos + 1]) {
+                case '%':
+                    ErrorLog << "Error can't have 2 % in a row in format string" << endl;
+                    break;
+                case 'd': case 'D':
+                    Values >> tempint;
+                    (*va_arg(vaList, int *)) = tempint;
+                    break;
+                case 'b': case 'B':
+                    Values >> tempshort;
+                    (*va_arg(vaList, short int *)) = tempshort;
+                    break;
+                case 'l': case 'L':
+                    Values >> templong;
+                    (*va_arg(vaList, long *)) = templong;
+                    break;
+                case 'c': case 'C':
+                    Values >> tempchar;
+                    (*va_arg(vaList, char *)) = tempchar;
+                    break;
+                case 'f': case 'F':
+                    Values >> tempfloat;
+                    (*va_arg(vaList, float *)) = tempfloat;
+                    break;
+                case 's': case 'S':
+                    Values >> strTemp;
+                    strcpy(va_arg(vaList, char *), strTemp);
+                    break;
+                default:
+                    ErrorLog << "Numeric doesn't support %" << strFormat[pos + 1] << endl;
+                    break;
+            }
+            // reset format string
+            strFormat = strFormat.Right(pos + 1);
+        } catch (...) {
+            ErrorLog << "Error in numeric line : " << strBuf << endl;
+            return;
+        }
+    }
+    va_end(vaList);
 }
 
 
@@ -342,13 +322,12 @@ void CAscii::NumericFromBuf(CString &strBuf, const char *pFormat, ...)
 //	ENDROOM and you get ENDROOM\r so we will always strip off
 //	\r\n if the \r exists
 //	written by: Demetrius Comes
-CAscii & CAscii::getline(char *buf, int nLength, char delim)
-{
-	std::ifstream::getline(buf,nLength,delim);
-	int nLen = strlen(buf);
-	if(buf[nLen-1]=='\r')
-	{
-		buf[nLen-1] = '\0';
-	}
-	return *this;
+
+CAscii & CAscii::getline(char *buf, int nLength, char delim) {
+    std::ifstream::getline(buf, nLength, delim);
+    int nLen = strlen(buf);
+    if (buf[nLen - 1] == '\r') {
+        buf[nLen - 1] = '\0';
+    }
+    return *this;
 }

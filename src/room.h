@@ -96,9 +96,9 @@ protected:
 	public:
 		bool IsUnrestricted() {return ((DoorType&UNRESTRICTED_DOOR)==UNRESTRICTED_DOOR && !IsWall());}
 		bool IsWall() {return (DoorType&DOOR_WALL)==DOOR_WALL;}
-		bool CanWalkThrough() {return ((IsUnrestricted() || (DoorType & DOOR_OPEN) && !IsWall()));}
+		bool CanWalkThrough() {return ((IsUnrestricted() || ((DoorType & DOOR_OPEN) && !IsWall())));}
 		bool IsSecret() {return ((DoorType & DOOR_SECRET)==DOOR_SECRET);}
-		bool IsOpen() {return ((IsUnrestricted() || (DOOR_OPEN & DoorType) && !IsWall()));}
+		bool IsOpen() {return ((IsUnrestricted() || ((DOOR_OPEN & DoorType) && !IsWall())));}
 		bool IsClosed() {return !IsOpen();}
 		bool CanBeOpened() {return (((DOOR_SECRET & DoorType) || (DOOR_LOCKED & DoorType) || (DoorType & DOOR_WALL)) ? false : true);}
 		bool CanBeClosed() {return (CanBeOpened() && !IsUnrestricted());}
@@ -166,7 +166,7 @@ public:
 	long GetVnum() {return m_lVnum;}
 	void AddCash(long lBaseAmt) {m_CashInRoom = lBaseAmt;}
 	short GetRoomType() {return m_nRoomType;}
-	const char *GetName() {return m_strRoomName;}
+	const char *GetName() {return m_strRoomName.cptr();}
 	bool IsWaterRoom() {return (m_nRoomType==TYPE_WATERENTER || m_nRoomType==TYPE_WATERNOENTER);}
 	POSITION GetFirstCharacterInRoom() {return m_CharactersInRoom.GetStartPosition();}
 	CCharacter *GetNextCharacter(POSITION &pos) {return m_CharactersInRoom.GetNext(pos);}

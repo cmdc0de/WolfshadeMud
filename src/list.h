@@ -33,13 +33,11 @@ private:
 		T Value;
 		sNode *m_pNext;
 	protected:
-		static CMemoryAllocator<sNode > &GetAllocator();
+		
 	public:
 		sNode(T &Val) {Value = Val;m_pNext = NULL;}
 		sNode *&GetNext() {return m_pNext;}
 		T &GetData() {return Value;}
-		void *operator new(size_t size) {return GetAllocator().Allocate();}
-		void operator delete(void *ptr) {GetAllocator().Deallocate((sNode *)ptr);}
 		bool operator==(T &T1) {return Value==T1;}
 	};
 	friend struct sNode;

@@ -25,13 +25,13 @@
 #include "error.h"
 #include "log.h"
 
-void CError::SetError(short ErrorType, char *ErrorMessage)
+void CError::SetError(short ErrorType, const char *ErrorMessage)
 {
 	m_ErrorType = ErrorType;
 	strcpy(m_strErrorMessage,ErrorMessage);
 }
 
-void CError::SetError(char *ErrorMessage)
+void CError::SetError(const char *ErrorMessage)
 {
 	strcpy(m_strErrorMessage,ErrorMessage);
 }

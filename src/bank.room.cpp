@@ -20,8 +20,10 @@
 //
 //////////////////////////////////////////////////////////////////////
 
+#include "random.h"
+extern CRandom GenNum;
 #include "stdinclude.h"
-#pragma hdrstop
+
 #include "bank.room.h"
 #include "money.h"
 
@@ -49,10 +51,10 @@ void CBankRoom::DoList(CString &strList)
 		"%s to %s at %d%%\r\n";
 
 	strList.Format(strPrice,
-		(char *)sMoney::m_strCopper,(char *)sMoney::m_strSilver,m_nCToS,
-		(char *)sMoney::m_strCopper,(char *)sMoney::m_strGold,m_nCToG,
-		(char *)sMoney::m_strCopper,(char *)sMoney::m_strPlat,m_nCToP,
-		(char *)sMoney::m_strSilver,(char *)sMoney::m_strGold,m_nSToG,
-		(char *)sMoney::m_strSilver,(char *)sMoney::m_strPlat,m_nSToP,
-		(char *)sMoney::m_strGold,(char *)sMoney::m_strPlat,m_nGToP);
+		sMoney::m_strCopper.cptr(),sMoney::m_strSilver.cptr(),m_nCToS,
+		sMoney::m_strCopper.cptr(),sMoney::m_strGold.cptr(),m_nCToG,
+		sMoney::m_strCopper.cptr(),sMoney::m_strPlat.cptr(),m_nCToP,
+		sMoney::m_strSilver.cptr(),sMoney::m_strGold.cptr(),m_nSToG,
+		sMoney::m_strSilver.cptr(),sMoney::m_strPlat.cptr(),m_nSToP,
+		sMoney::m_strGold.cptr()  ,sMoney::m_strPlat.cptr(),m_nGToP);
 }

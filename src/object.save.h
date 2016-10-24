@@ -1,3 +1,6 @@
+
+#include "wolfshade.string.h"
+
 //////////////////////////////////////////////////////////////
 //Wolfshade MUD server
 //Copyright (C) 1999 Demetrius and John Comes
@@ -35,6 +38,8 @@
 #define MAX_WEAR_AFFECTS 8
 #define MAX_EXTRA_DESC 3
 
+class CObject;
+
 struct sObjectSave  
 {
 	friend class CObject;
@@ -52,8 +57,8 @@ protected:
 		const char *GetExtraDesc() const {return m_strExtraDesc;}
 		sSaveExtraDesc &operator=(const CObjectDesc &r)
 		{
-			strcpy(m_strKeyWord,(char *)r.GetKeyWord());
-			strcpy(m_strExtraDesc,(char *)r.GetExtraDesc());
+			strcpy(m_strKeyWord,r.GetKeyWord().cptr());
+			strcpy(m_strExtraDesc,r.GetExtraDesc().cptr());
 			m_bEmpty = false;
 			return *this;
 		}

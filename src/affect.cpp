@@ -23,14 +23,13 @@
 
 #include "affect.h"
 
-const int sAffect::AFFECT_OFF=0;
-const int sAffect::PERM_AFFECT=-1;
-const int sAffect::MANUAL_AFFECT=-2;
+const int sAffect::AFFECT_OFF = 0;
+const int sAffect::PERM_AFFECT = -1;
+const int sAffect::MANUAL_AFFECT = -2;
 //////////////////////////////////////////////////////////////////////
 // Construction/Destruction
 //////////////////////////////////////////////////////////////////////
 
-sAffect::~sAffect()
-{
+sAffect::~sAffect() {
 
 }

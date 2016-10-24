@@ -102,6 +102,7 @@ $(OBJDIR)/portal.o \
 $(OBJDIR)/psionicist.o \
 $(OBJDIR)/racial.reference.o \
 $(OBJDIR)/ranger.o \
+$(OBJDIR)/random.o \
 $(OBJDIR)/rogue.o \
 $(OBJDIR)/room.o \
 $(OBJDIR)/saurial.reference.o \
@@ -436,6 +437,9 @@ $(OBJDIR)/psionicist.o psionicist.o : $(SRCDIR)/psionicist.cpp
 
 $(OBJDIR)/racial.reference.o racial.reference.o : $(SRCDIR)/racial.reference.cpp
 	$(CC) -c $(CXXFLAGS) $(SRCDIR)/racial.reference.cpp -o $(OBJDIR)/racial.reference.o
+
+$(OBJDIR)/random.o random.o : $(SRCDIR)/random.cpp
+	$(CC) -c $(CXXFLAGS) $(SRCDIR)/random.cpp -o $(OBJDIR)/random.o
 
 $(OBJDIR)/ranger.o ranger.o : $(SRCDIR)/ranger.cpp
 	$(CC) -c $(CXXFLAGS) $(SRCDIR)/ranger.cpp -o $(OBJDIR)/ranger.o

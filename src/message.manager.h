@@ -143,7 +143,7 @@ public:
 inline const CMsg *CMessageManager::IsSocial(CString strSocial)  const
 {
 	CMsg *pMsg;
-	if(m_pSocialMap->Lookup(strSocial,pMsg))
+	if(m_pSocialMap->Lookup(strSocial.cptr(),pMsg))
 		return pMsg;
 	return NULL;
 }

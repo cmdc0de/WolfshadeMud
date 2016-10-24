@@ -19,76 +19,60 @@
 //
 //////////////////////////////////////////////////////////////////////
 
+#include "random.h"
+extern CRandom GenNum;
 #include "stdinclude.h"
-#pragma hdrstop
 #include "armor.h"
 
-int CArmor::SHADOW_ARMOR_PULSE=CMudTime::PULSES_PER_REAL_MIN*2;
+int CArmor::SHADOW_ARMOR_PULSE = CMudTime::PULSES_PER_REAL_MIN * 2;
 
 //////////////////////////////////////////////////////////////////////
 // Construction/Destruction
 //////////////////////////////////////////////////////////////////////
 
 CArmor::CArmor(CObjectPrototype *obj, CCharacter *PersonCarriedby, CRoom *pInRoom)
-	: CObject(obj,PersonCarriedby,pInRoom)
-{
-	m_nACAjustment = obj->Val0;
-}	
-
-CArmor::CArmor(const sObjectSave &ObjSave,CCharacter *pChar,CRoom *pRoom)
-	: CObject(ObjSave,pChar,pRoom)
-{
-	m_nACAjustment = ObjSave.m_nVal0;
+: CObject(obj, PersonCarriedby, pInRoom) {
+    m_nACAjustment = obj->Val0;
 }
 
-CArmor::~CArmor()
-{
+CArmor::CArmor(const sObjectSave &ObjSave, CCharacter *pChar, CRoom *pRoom)
+: CObject(ObjSave, pChar, pRoom) {
+    m_nACAjustment = ObjSave.m_nVal0;
+}
+
+CArmor::~CArmor() {
 
 }
 
-void CArmor::WearAffects(bool bRemoving)
-{
-	if(m_pCarriedby)
-	{
-		if(bRemoving)
-		{
-			m_pCarriedby->AdjustAC(m_nACAjustment);
-		}
-		else
-		{
-			m_pCarriedby->AdjustAC(-m_nACAjustment);
-		}
-	}
-	CObject::WearAffects(bRemoving);
+void CArmor::WearAffects(bool bRemoving) {
+    if (m_pCarriedby) {
+        if (bRemoving) {
+            m_pCarriedby->AdjustAC(m_nACAjustment);
+        } else {
+            m_pCarriedby->AdjustAC(-m_nACAjustment);
+        }
+    }
+    CObject::WearAffects(bRemoving);
 }
 
-void CArmor::FadeAffects(long lTimeToRemove)
-{
-	if(IsAffectedBy(OBJ_AFFECT_SHADOW_ARMOR)
-		&& IsAffectedBy(OBJ_AFFECT_CURRENTLY_WORN)
-		&& !(CMudTime::GetCurrentPulse()%SHADOW_ARMOR_PULSE))
-	{
-		if(m_pCarriedby)
-		{
-			if(m_pCarriedby->IsAffectedBy(CCharacter::AFFECT_HIDING))
-			{
-				m_pCarriedby->RemoveAffect(CCharacter::AFFECT_HIDING,false);//remove it silently
-				m_pCarriedby->AddAffect(CCharacter::AFFECT_HIDING,sAffect::MANUAL_AFFECT,0,false); 
-			}
-			else
-			{
-				m_pCarriedby->AddAffect(CCharacter::AFFECT_HIDING,sAffect::MANUAL_AFFECT,0,true); 
-			}
-			if(m_pCarriedby->IsAffectedBy(CCharacter::AFFECT_STONE_SKIN))
-			{
-				m_pCarriedby->RemoveAffect(CCharacter::AFFECT_STONE_SKIN,false);//remove with no message
-				m_pCarriedby->AddAffect(CCharacter::AFFECT_STONE_SKIN,sAffect::MANUAL_AFFECT,500+DIE(200),false); //reapply
-			}
-			else
-			{
-				m_pCarriedby->AddAffect(CCharacter::AFFECT_STONE_SKIN,sAffect::MANUAL_AFFECT,500+DIE(200),true); //reapply
-			}
-		}
-	}
-	CObject::FadeAffects(lTimeToRemove);
+void CArmor::FadeAffects(long lTimeToRemove) {
+    if (IsAffectedBy(OBJ_AFFECT_SHADOW_ARMOR)
+            && IsAffectedBy(OBJ_AFFECT_CURRENTLY_WORN)
+            && !(CMudTime::GetCurrentPulse() % SHADOW_ARMOR_PULSE)) {
+        if (m_pCarriedby) {
+            if (m_pCarriedby->IsAffectedBy(CCharacter::AFFECT_HIDING)) {
+                m_pCarriedby->RemoveAffect(CCharacter::AFFECT_HIDING, false); //remove it silently
+                m_pCarriedby->AddAffect(CCharacter::AFFECT_HIDING, sAffect::MANUAL_AFFECT, 0, false);
+            } else {
+                m_pCarriedby->AddAffect(CCharacter::AFFECT_HIDING, sAffect::MANUAL_AFFECT, 0, true);
+            }
+            if (m_pCarriedby->IsAffectedBy(CCharacter::AFFECT_STONE_SKIN)) {
+                m_pCarriedby->RemoveAffect(CCharacter::AFFECT_STONE_SKIN, false); //remove with no message
+                m_pCarriedby->AddAffect(CCharacter::AFFECT_STONE_SKIN, sAffect::MANUAL_AFFECT, 500 + DIE(200), false); //reapply
+            } else {
+                m_pCarriedby->AddAffect(CCharacter::AFFECT_STONE_SKIN, sAffect::MANUAL_AFFECT, 500 + DIE(200), true); //reapply
+            }
+        }
+    }
+    CObject::FadeAffects(lTimeToRemove);
 }

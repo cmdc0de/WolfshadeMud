@@ -48,14 +48,14 @@ private:
 public:
 	CError(const CError &copy);
 	bool IsType(short nError) {return m_ErrorType==nError;}
-	void SetError(short ErrorType, char *ErrorWording);
-	void SetError(char *ErrorWording);
+	void SetError(short ErrorType, const char *ErrorWording);
+	void SetError(const char *ErrorWording);
 	short GetError() {return m_ErrorType;}
 	char *GetMessage() {return m_strErrorMessage;}
-	inline CError(short ErrorType,char *strErrorMessage);
+	inline CError(short ErrorType,const char *strErrorMessage);
 };
 
-inline CError::CError(short nErrorType,char *strErrorMessage)
+inline CError::CError(short nErrorType,const char *strErrorMessage)
 {
 	strcpy(m_strErrorMessage,strErrorMessage);
 	m_ErrorType = nErrorType;
