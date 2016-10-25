@@ -19,9 +19,9 @@
 // Container.cpp: implementation of the CContainer class.
 //
 //////////////////////////////////////////////////////////////////////
-
+#include "random.h"
+extern CRandom GenNum;
 #include "stdinclude.h"
-#pragma hdrstop
 #include "container.h"
 #include "object.manager.h"
 #include "object.save.h"
@@ -162,7 +162,7 @@ void CContainer::GetContents(const CCharacter *pLooker, CString &str)
 ///////////////////////////////////
 //	Save Containers contents
 //	This can be called recursively!
-void CContainer::SaveContents(ofstream & ObjFile)
+void CContainer::SaveContents(std::ofstream & ObjFile)
 {
 	POSITION pos = Contents.GetStartPosition();
 	CObject *pObj;
@@ -181,11 +181,11 @@ void CContainer::SaveContents(ofstream & ObjFile)
 ////////////////////////////////
 //	LoadContens
 //  Could be called recrusively
-void CContainer::LoadContents(ifstream & ObjFile, short nCount)
+void CContainer::LoadContents(std::ifstream & ObjFile, short nCount)
 {
 	sObjectSave ObjSave;
 	CObject *pObj;
-	for(register int i =0;i<nCount;i++)
+	for(int i =0;i<nCount;i++)
 	{
 		ObjFile.read((char *)&ObjSave,sizeof(sObjectSave));
 		

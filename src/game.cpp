@@ -22,10 +22,9 @@
 *  Implementation of CGame
 *
 */
-#include "stdinclude.h"
-#pragma hdrstop
-
+#include "random.h"
 extern CRandom GenNum;
+#include "stdinclude.h"
 
 CCharacter * CalcClassPtr(CCharIntermediate *ch);
 
@@ -89,7 +88,7 @@ CGame::CGame(CString strOpts)
 	m_pObjectManager->LoadCorpses();
 
 	m_pConnections = new CSocket(strOpts);
-	MudLog << "Size of CCharacter Class: " << sizeof(CCharacter) << endl;
+	MudLog << "Size of CCharacter Class: " << int(sizeof(CCharacter)) << endl;
 }
 
 CGame::~CGame()
@@ -170,7 +169,7 @@ void CGame::GetCharactersFromQ(CLinkList<CCharIntermediate> &NewChars)
 	{
 		if(NewCharacter->ShouldBeImp())
 		{
-			for(register int i=0;i<LVL_IMP;i++)
+			for(int i=0;i<LVL_IMP;i++)
 			{
 				NewCharacter->AdvanceLevel(true,false);
 			}
