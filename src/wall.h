@@ -51,8 +51,8 @@ void CWall<X>::FadeAffects(int nTime)
 	if(m_nTimeToLive<=0)
 	{
 		//kill them
-		m_nCurrentHpts = HITPTS_OF_DEATH;
-		UpDatePosition();
+		X::m_nCurrentHpts = HITPTS_OF_DEATH;
+		X::UpDatePosition();
 	}
 	X::FadeAffects(nTime);
 }
@@ -65,7 +65,7 @@ void CWall<X>::SyncWithOtherSide()
 		m_pOtherSide->m_nCurrentHpts = this->m_nCurrentHpts;
 			//Make them clones of each other
 		m_pOtherSide->m_nMaxHpts = this->m_nMaxHpts;
-		m_pOtherSide->m_nMaxMovePts = m_nMovePts = 0;
+		m_pOtherSide->m_nMaxMovePts = this->m_nMovePts = 0;
 		m_pOtherSide->m_nMaxManaPts = this->m_nMaxManaPts;
 		m_pOtherSide->m_nManaPts = this->m_nManaPts;
 	}
@@ -90,7 +90,7 @@ template<class X>
 void CWall<X>::DoAI(const CInterp *pInterp)
 {
 	//walls don't do defensive ai
-	if(IsFighting() && m_bIsAnimated)
+	if(this->IsFighting() && this->m_bIsAnimated)
 		X::DoAI(pInterp);
 }
 
@@ -105,14 +105,14 @@ template<class X>
 CWall<X>::CWall(CWall<X> *p,CMobPrototype &mob,CRoom *pRoom)
 	: X(mob,pRoom), CCharacter(mob,pRoom)
 {
-	m_bIsAnimated = false;
-	m_bMakeCorpseOnDeath = false;
-	m_nTimeToLive = p->m_nTimeToLive;
-	m_nPreference = CNPC::SENTINEL;
-	m_nDir = CWorld::ReverseDirection(p->m_nDir);
-	assert(GetRoom());
-	GetRoom()->Wall(m_nDir,false);
-	GetRoom()->Add(this);
+	this->m_bIsAnimated = false;
+	this->m_bMakeCorpseOnDeath = false;
+	this->m_nTimeToLive = p->m_nTimeToLive;
+	this->m_nPreference = CNPC::SENTINEL;
+	this->m_nDir = CWorld::ReverseDirection(p->m_nDir);
+	assert(this->GetRoom());
+	this->GetRoom()->Wall(m_nDir,false);
+	this->GetRoom()->Add(this);
 	//only add this side mob manager will add the other side
 	GVM.Add(this);
 	m_pOtherSide = p;
@@ -123,19 +123,19 @@ CWall<X>::CWall(const sWallInfo *pWallInfo, CMobPrototype &mob, CMobPrototype &O
 	: X(mob,pPutInRoom), CCharacter(mob,pPutInRoom)
 {
 	m_bIsAnimated = false;
-	m_bMakeCorpseOnDeath = false;
-	m_nPreference = CNPC::SENTINEL;
-	m_nDir = pWallInfo->m_nDirection;
-	m_nTimeToLive = RANGE(pWallInfo->m_nTimeToLive,(CMudTime::PULSES_PER_REAL_MIN*15),CMudTime::PULSES_PER_REAL_MIN);
-	assert(GetRoom());
-	GetRoom()->Wall(m_nDir,false);
-	GetRoom()->Add(this);
+	this->m_bMakeCorpseOnDeath = false;
+	this->m_nPreference = CNPC::SENTINEL;
+	this->m_nDir = pWallInfo->m_nDirection;
+	this->m_nTimeToLive = RANGE(pWallInfo->m_nTimeToLive,(CMudTime::PULSES_PER_REAL_MIN*15),CMudTime::PULSES_PER_REAL_MIN);
+	assert(this->GetRoom());
+	this->GetRoom()->Wall(m_nDir,false);
+	this->GetRoom()->Add(this);
 	m_pOtherSide = NULL;
-	CRoom *pRoom = GetRoom()->GetRoomToThe(m_nDir);
+	CRoom *pRoom = this->GetRoom()->GetRoomToThe(m_nDir);
 	//incase there isn't a door in that direction
 	if(pRoom!=NULL)
 	{
-		switch(GetClass())
+		switch(this->GetClass())
 		{
 		case CLASS_WARRIOR:
 			m_pOtherSide = new CWall<CNPCWarrior>(this,OtherSide,pRoom);
@@ -152,7 +152,7 @@ CWall<X>::~CWall()
 {
 	if(!CGame::IsShuttingDown())
 	{
-		GetRoom()->Wall(m_nDir,true);
+		this->GetRoom()->Wall(m_nDir,true);
 		if(m_pOtherSide!=NULL)
 		{
 			m_pOtherSide->m_nCurrentHpts = HITPTS_OF_DEATH;

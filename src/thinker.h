@@ -104,7 +104,7 @@ void CThinker<Thinker>::SpellUp(const CSpell<Thinker> *pSpell) {
         m_Spells[pSpell->GetSpellID()] += DIE(this->GetLearingBonus());
         CString strToChar;
         strToChar.Format("&cYou feel more comfortable casting %s&n\r\n",
-                (char *) pSpell->GetColorizedName());
+                pSpell->GetColorizedName().cptr());
         SendToChar(strToChar);
     }
 }
@@ -234,7 +234,7 @@ void CThinker<Thinker>::DoPractice(CString strToPractice, const CCharacter *pTea
             if (m_Spells[pSpell->GetSpellID()] == 0) {
                 sMoney Cost;
                 if (CanAffordTraining(Cost, pSpell->GetSpellID(), pTeacher, false)) {
-                    strToChar.Format("You learn the spell %s.\r\n", (char *) pSpell->GetColorizedName());
+                    strToChar.Format("You learn the spell %s.\r\n", pSpell->GetColorizedName().cptr());
                     m_Spells[pSpell->GetSpellID()] = (skill_type) DIE(nPctLearn);
                     m_nSpellSphere |= pSpell->GetSphere();
 

@@ -19,9 +19,9 @@
 // light.cpp: implementation of the CLight class.
 //
 //////////////////////////////////////////////////////////////////////
-
+#include "random.h"
+extern CRandom GenNum;
 #include "stdinclude.h"
-#pragma hdrstop
 #include "light.h"
 
 const int CLight::LIGHT_LIT = 1;

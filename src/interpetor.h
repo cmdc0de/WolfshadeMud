@@ -47,7 +47,7 @@ private:
 		short int MinLevel;
 		int m_nPositionCantBeIn,
 			m_nAffectsToRemove;
-		inline sComClass(char *name,void (CInterp::*Comm)(CCharacter *ptr),int minl, int nPositionCantBeIn, int m_nAffectsToRemove=0);
+		inline sComClass(const char *name,void (CInterp::*Comm)(CCharacter *ptr),int minl, int nPositionCantBeIn, int m_nAffectsToRemove=0);
 		bool IsGodCommand() {return MinLevel>=LVL_IMMORT;}
 	};
 	struct sHelp
@@ -245,7 +245,7 @@ protected:
 	void Show(CCharacter *pCh);
 };
 
-inline CInterp::sComClass::sComClass(char *name,void (CInterp::*Comm)(CCharacter *ptr),int minl, int nPositions, int nAffectsToRemove)
+inline CInterp::sComClass::sComClass(const char *name,void (CInterp::*Comm)(CCharacter *ptr),int minl, int nPositions, int nAffectsToRemove)
 {
 	CommandName = name;
 	CommandFnc = Comm;

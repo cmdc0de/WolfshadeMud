@@ -24,9 +24,9 @@
 *	too big
 *	And master code
 */
-
+#include "random.h"
+extern CRandom GenNum;
 #include "stdinclude.h"
-#pragma hdrstop
 
 ////////////////////////////////////////
 //	AddToGroup
@@ -58,7 +58,7 @@ void CCharacter::sGroup::AddToGroup(CCharacter *pGrouper,CCharacter *pCh)
 		{
 			if(pCh!=m_pGroup->GetFirst())
 			{
-				strToChar.Format("You have just been kicked out of %s's group.\r\n",(char *)pGrouper->GetRaceOrName(pCh));
+				strToChar.Format("You have just been kicked out of %s's group.\r\n",pGrouper->GetRaceOrName(pCh).cptr());
 				pCh->SendToChar(strToChar);
 				pGrouper->GetRoom()->SendToRoom("%s has just been kick out of %s's group.\r\n",pCh,pGrouper);
 			}
@@ -67,7 +67,7 @@ void CCharacter::sGroup::AddToGroup(CCharacter *pGrouper,CCharacter *pCh)
 		//check to insure the groupie isn't in another group
 		else if(pCh->GetGroup().IsGrouped())
 		{
-			strToChar.Format("%s is in another group.\r\n",(char *)pCh->GetRaceOrName(pGrouper));
+			strToChar.Format("%s is in another group.\r\n",pCh->GetRaceOrName(pGrouper).cptr());
 			pGrouper->SendToChar(strToChar);
 		}
 		// you have to be consented
@@ -82,9 +82,9 @@ void CCharacter::sGroup::AddToGroup(CCharacter *pGrouper,CCharacter *pCh)
 		{
 			pGrouper->GetGroup().m_pGroup->Add(pCh);
 			pCh->GetGroup().SetGroup(pGrouper->GetGroup().m_pGroup);
-			strToChar.Format("You are now a member of %s's group.\r\n",(char *)pGrouper->GetName());
+			strToChar.Format("You are now a member of %s's group.\r\n",pGrouper->GetName().cptr());
 			pCh->SendToChar(strToChar);
-			strToChar.Format("%s is now a member of your group.\r\n",(char *)pCh->GetName());
+			strToChar.Format("%s is now a member of your group.\r\n",pCh->GetName().cptr());
 			pGrouper->SendToChar(strToChar);
 		}
 	}
@@ -101,7 +101,7 @@ void CCharacter::sGroup::AddToGroup(CCharacter *pGrouper,CCharacter *pCh)
 		else if(pCh->GetGroup().IsGrouped())
 		{
 			strToChar.Format("%s is in another group.\r\n",
-				(char *)pCh->GetRaceOrName(pGrouper));
+				pCh->GetRaceOrName(pGrouper).cptr());
 			pGrouper->SendToChar(strToChar);
 		}
 		else
@@ -111,9 +111,9 @@ void CCharacter::sGroup::AddToGroup(CCharacter *pGrouper,CCharacter *pCh)
 			// add new char
 			m_pGroup->Add(pCh);
 			pCh->GetGroup().SetGroup(pGrouper->GetGroup().m_pGroup);
-			strToChar.Format("You are now a member of %s's group.\r\n",(char *)pGrouper->GetRaceOrName(pCh));
+			strToChar.Format("You are now a member of %s's group.\r\n",pGrouper->GetRaceOrName(pCh).cptr());
 			pCh->SendToChar(strToChar);
-			strToChar.Format("%s is now a member of your group.\r\n",(char *)pCh->GetName());
+			strToChar.Format("%s is now a member of your group.\r\n",pCh->GetName().cptr());
 			pGrouper->SendToChar(strToChar);
 		}
 	}
@@ -165,7 +165,7 @@ void CCharacter::sGroup::SendToGroup(CString strToChar,CCharacter *pCh)
 		}
 		else if(pCurrent!=pCh)
 		{
-			str.Format(strToChar,(char *)pCh->GetRaceOrName(pCurrent));
+			str.Format(strToChar.cptr(),pCh->GetRaceOrName(pCurrent).cptr());
 			pCurrent->SendToChar(str);
 		}
 	}
@@ -245,14 +245,14 @@ void CCharacter::sGroup::Remove(CCharacter *pCh)
 			m_pGroup->Remove(pCh);
 			pHead=m_pGroup->GetFirst();
 			//send message to new group leader
-			strToChar.Format("%s has left the group. You are now leader.\r\n",(char *)pCh->GetRaceOrName(pHead));
+			strToChar.Format("%s has left the group. You are now leader.\r\n",pCh->GetRaceOrName(pHead).cptr());
 			pHead->SendToChar(strToChar);
 		}
 		else
 		{
 			pHead=m_pGroup->GetFirst();
 			//send message to head of gropu they pCh is leaving
-			strToChar.Format("%s has left your group.\r\n",(char *)pCh->GetRaceOrName(pHead));
+			strToChar.Format("%s has left your group.\r\n",pCh->GetRaceOrName(pHead).cptr());
 			pHead->SendToChar(strToChar);
 			//remove them from group LL
 			m_pGroup->Remove(pCh);
@@ -300,13 +300,13 @@ void CCharacter::sGroup::BuildGroupString(CString & strGroup)
 			pCh = m_pGroup->GetNext(pos);
 			if(IsHead(pCh))
 			{
-				strGroup.Format("%s%s (Head)\r\n",(char *)strGroup,
-					(char *)pCh->GetVitalStats());
+				strGroup.Format("%s%s (Head)\r\n",strGroup.cptr(),
+					pCh->GetVitalStats().cptr());
 			}
 			else
 			{
-				strGroup.Format("%s%s\r\n",(char *)strGroup,
-					(char *)pCh->GetVitalStats());
+				strGroup.Format("%s%s\r\n",strGroup.cptr(),
+					pCh->GetVitalStats().cptr());
 			}
 		}
 	}
@@ -352,10 +352,10 @@ void CCharacter::sGroup::Split(CCharacter *pCh, sMoney MoneyToSplit)
 
 				CString strToGroup;
 				strToGroup.Format("You receive your share of the booty: %s\r\n",
-					(char *)GroupMoney.GetMoneyString());
+					GroupMoney.GetMoneyString().cptr());
 				CString strToChar;
 				strToChar.Format("You split some the booty with your group.\r\nYour share is: %s.\r\n",
-					(char *)MoneyToSpliter.GetMoneyString());
+					MoneyToSpliter.GetMoneyString().cptr());
 			
 				pos = m_pGroup->GetStartPosition();
 				CCharacter *pTarget;
@@ -539,11 +539,11 @@ void CCharacter::sFollower::Remove(CCharacter *pCh)
 	CString strToChar;
 	//send message to pch
 	strToChar.Format("You stop following %s.\r\n",
-		(char *)pCh->m_Follow.m_pCharacterBeingFollowed->GetRaceOrName(pCh));
+		pCh->m_Follow.m_pCharacterBeingFollowed->GetRaceOrName(pCh).cptr());
 	pCh->SendToChar(strToChar);
 	//send mesg to who they are following
 	strToChar.Format("%s stops following you.\r\n",
-		(char *)pCh->GetRaceOrName(pCh->m_Follow.m_pCharacterBeingFollowed));
+		pCh->GetRaceOrName(pCh->m_Follow.m_pCharacterBeingFollowed).cptr());
 	pCh->m_Follow.m_pCharacterBeingFollowed->SendToChar(strToChar);
 	//remove them from followersLL
 	m_Followers.Remove(pCh);
@@ -598,10 +598,10 @@ void CCharacter::sMaster::Remove(CCharacter *pCh)
 {
 	CString strToChar;
 	strToChar.Format("You are free of %s's hold.\r\n",
-		(char *)pCh->m_Master.GetMaster()->GetRaceOrName(pCh));
+		pCh->m_Master.GetMaster()->GetRaceOrName(pCh).cptr());
 	pCh->SendToChar(strToChar);
 	strToChar.Format("You lose your hold on %s.\r\n",
-		(char *)pCh->GetRaceOrName(pCh->GetMaster()));
+		pCh->GetRaceOrName(pCh->GetMaster()).cptr());
 	pCh->GetMaster()->SendToChar(strToChar);
 	pCh->SetMaster(NULL,MASTERED_OFF);
 	POSITION pos = NULL;
@@ -626,7 +626,7 @@ void CCharacter::sMaster::CleanUp(CCharacter *pOwner)
 	{
 		pCh = m_MasterOf.GetNext(pos);
 		strToChar.Format("You are free of %s's hold.\r\n",
-			(char *)pCh->m_Master.m_pMaster->GetRaceOrName(pCh));
+			pCh->m_Master.m_pMaster->GetRaceOrName(pCh).cptr());
 		pCh->SendToChar(strToChar);
 		pCh->SetMaster(NULL,MASTERED_OFF);
 		m_MasterOf.Remove(pCh,pos);
@@ -650,7 +650,7 @@ void CCharacter::sFollower::CleanUp(CCharacter *pOwner)
 	{
 		pFollower = m_Followers.GetNext(pos);
 		strToChar.Format("You stop following %s.\r\n",
-			(char *)(pFollower->IsNPC() ? pFollower->GetName() : pFollower->m_Follow.m_pCharacterBeingFollowed->GetRaceOrName(pFollower)));
+			(pFollower->IsNPC() ? pFollower->GetName().cptr() : pFollower->m_Follow.m_pCharacterBeingFollowed->GetRaceOrName(pFollower).cptr()));
 		pFollower->SendToChar(strToChar);
 		pFollower->m_Follow.m_pCharacterBeingFollowed = NULL;
 	}

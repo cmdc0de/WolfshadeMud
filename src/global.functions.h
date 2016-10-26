@@ -126,7 +126,7 @@ CCharacter * CalcClassPtr(CCharIntermediate *ch) {
 }
 
 UINT HashKey(CString &s, int nLetters) {
-    return HashKey(s.cptr(),nLetters);
+    return HashKey(s.cptr(), nLetters);
 }
 
 UINT HashKey(const char *str, int nLetters) {
@@ -208,28 +208,28 @@ void StackObjects(const CList<CObject *> &Objs, const CCharacter *pLooker, CStri
             strExtra = pStack->m_pObj->GetExtraString();
             if (pStack->m_nNumber == 1) {
                 if (strExtra.IsEmpty()) {
-                    strLook.Format("%s%s\r\n", (char *) strLook,
+                    strLook.Format("%s%s\r\n", strLook.cptr(),
                             (bInInventory ? pStack->m_pObj->GetObjName() :
                             pStack->m_pObj->GetObjSittingDesc()));
                 } else {
                     strExtra.SkipSpaces();
-                    strLook.Format("%s%s (%s)\r\n", (char *) strLook,
+                    strLook.Format("%s%s (%s)\r\n", strLook.cptr(),
                             (bInInventory ? pStack->m_pObj->GetObjName() :
                             pStack->m_pObj->GetObjSittingDesc()),
-                            (char *) strExtra);
+                            strExtra.cptr());
                 }
             } else {
                 if (strExtra.IsEmpty()) {
-                    strLook.Format("%s[%d] %s\r\n", (char *) strLook,
+                    strLook.Format("%s[%d] %s\r\n", strLook.cptr(),
                             pStack->m_nNumber,
                             (bInInventory ? pStack->m_pObj->GetObjName() :
                             pStack->m_pObj->GetObjSittingDesc()));
                 } else {
-                    strLook.Format("%s[%d] %s (%s)\r\n", (char *) strLook,
+                    strLook.Format("%s[%d] %s (%s)\r\n", strLook.cptr(),
                             pStack->m_nNumber,
                             (bInInventory ? pStack->m_pObj->GetObjName() :
                             pStack->m_pObj->GetObjSittingDesc()),
-                            (char *) strExtra);
+                            strExtra.cptr());
                 }
             }
         }
