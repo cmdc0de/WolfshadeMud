@@ -95,7 +95,7 @@ public:
 	virtual UINT GetDefaultPos() {return m_nDefaultPos;}
 	virtual CString GetDefaultPosDesc();
 	virtual bool IsNPC() const;
-	virtual void SendToChar(char * strMsg,bool bColorize=true) const;
+	virtual void SendToChar(const char * strMsg,bool bColorize=true) const;
 	virtual void SendToChar(CString strMsg,bool bColorize=true) const;
 	virtual void AddMemory(CCharacter *pFighter);
 	virtual void SendCharPage(CString str) {SendToChar(str);} //no paging for npc's

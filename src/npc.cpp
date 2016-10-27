@@ -136,7 +136,7 @@ void CNPC::AddMemory(CCharacter *pFighting) {
 //	If we are switched send messages to person switched to
 //////////////////////////////////
 
-void CNPC::SendToChar(char * strMsg, bool bColorize) const {
+void CNPC::SendToChar(const char * strMsg, bool bColorize) const {
    this->SendToChar(CString(strMsg), bColorize);
 }
 /////////////////////////////////

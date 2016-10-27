@@ -707,7 +707,7 @@ public:
     virtual long GetVnum();
     virtual bool HasCommand();
     virtual void SendToChar(CString Message, bool bColorize = true) const;
-    virtual void SendToChar(char *Message, bool bColorize = true) const;
+    virtual void SendToChar(const char *Message, bool bColorize = true) const;
     virtual void Attack(bool bOnlyOneAttack = false);
     virtual bool IsNPC() const;
     virtual ~CCharacter();

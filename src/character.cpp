@@ -419,7 +419,7 @@ bool CCharacter::HasCommand() {
   return true;
 }
 
-void CCharacter::SendToChar(char * Message, bool bColorize) const {
+void CCharacter::SendToChar(const char * Message, bool bColorize) const {
   CString strToChar(Message);
   SendToChar(strToChar, bColorize);
 }

@@ -7,18 +7,18 @@
 #include "random.h"
 
 CRandom::CRandom() {
-    m_data = 0;
-    srand((unsigned) time(NULL));
+   m_data = 0;
+   srand((unsigned) time(NULL));
 }
 
 int CRandom::Roll(unsigned int dice) {
-    return (rand() % dice) + 1;
+   return(rand() % dice) + 1;
 }
 
 int CRandom::Roll(unsigned int dice, unsigned int Times) {
-    m_data = 0;
-    for (unsigned short int i = 0; i < Times; i++) {
-        m_data += (rand() % dice) + 1;
-    }
-    return m_data;
+   m_data = 0;
+   for (unsigned short int i = 0; i < Times; i++) {
+	m_data += (rand() % dice) + 1;
+   }
+   return m_data;
 }

@@ -19,5 +19,6 @@
 
 // precomplied header
 
+#include "random.h"
+extern CRandom GenNum;
 #include "stdinclude.h"
-#pragma hdrstop
