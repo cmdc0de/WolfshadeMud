@@ -280,8 +280,11 @@ CString CString::Left(int Position) const {
    if (Position == -1)
 	return *this;
 
-   if (Position < 1)
-	return "";
+   if (Position < 1) {
+	char *p = new char [1];
+	p[0] = '\0';
+	return p;
+   }
 
    if (Position > m_Length)
 	return(*this)(0, m_Length);
@@ -291,14 +294,17 @@ CString CString::Left(int Position) const {
 //do not include character at Position!
 
 CString CString::Right(int Position) const {
-   if ((Position + 1) > (m_Length - 1))
-	return "";
+   if ((Position + 1) > (m_Length - 1)) {
+	char *p = new char [1];
+	p[0] = '\0';
+	return p;
+   }
 
    return(*this)(Position + 1, m_Length - 1);
 }
 
 void CString::RemoveFunkyChars() {
-   char *tmp = (char *) operator new(m_Length + 1);
+   char *tmp = new char [m_Length + 1];
    int c1 = 0, c2 = 0;
    while (*(sPtr + c1) != '\0') {
 	if (*(sPtr + c1) != '\b' || *(sPtr + c1) != '\t') {
@@ -321,8 +327,9 @@ CString CString::GetWordAfter(int num, bool bAllAfter) {
    while (nWord <= num) {
 	nStartWord = nEndWord;
 	while (*tmp == ' ') {
-	   if (*tmp == '\0')
-		return "";
+	   if (*tmp == '\0') {
+		return tmp;
+	   }
 	   tmp++;
 	   nStartWord++;
 	}
@@ -496,6 +503,7 @@ bool CString::Compare(const CString &right) {
 }
 
 bool CString::Compare(const char *right) {
+   //stricmp()
    int sCount = 0, rCount = 0;
    while (*(sPtr + sCount) != '\0') {
 	if (tolower(*(sPtr + sCount)) != tolower(*(right + rCount))) {

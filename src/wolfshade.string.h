@@ -159,23 +159,27 @@ inline void CString::Empty() {
     sPtr = NULL;
     m_Length = 0;
     sPtr  = new char [m_Length+1];
+    sPtr[0]='\0';
 }
 
 inline CString::CString(int num) {
     m_Length = num;
     sPtr = new char [m_Length+1];
+    memset(sPtr,0,m_Length+1);
 }
 
 inline CString::CString(const char *s) {
     m_Length = strlen(s);
     sPtr = new char [m_Length+1];
+    memset(sPtr,0,m_Length+1);
     strcpy(sPtr, s);
 }
 
 inline CString::CString(const CString &copy) {
     m_Length = copy.m_Length;
     sPtr = new char [m_Length+1];
-    strcpy(sPtr, copy.sPtr);
+    memset(sPtr,0,m_Length+1);
+    strncpy(sPtr, copy.sPtr, m_Length);
 }
 
 inline int CString::MakeInt() {
@@ -201,20 +205,18 @@ inline const CString &CString::operator=(const CString &right) {
         //m_Length = right.m_Length;
         m_Length = strlen(right.sPtr);
         sPtr = new char [m_Length+1];
+        memset(sPtr,0,m_Length+1);
         strcpy(sPtr, right.sPtr);
     }
     return *this;
 }
 
 inline const CString &CString::operator=(const char *right) {
-    //incase we have a case like skip spaces
-    char *pTmp = sPtr;
-    int nTmp = m_Length;
+    delete [] sPtr;
     m_Length = strlen(right);
-    sPtr = (char *) operator new(m_Length + 1);
+    sPtr = new char[m_Length + 1];
+    memset(sPtr,0,m_Length+1);
     strcpy(sPtr, right);
-
-    delete [] pTmp;
 
     return *this;
 }
@@ -225,6 +227,7 @@ inline CString &CString::operator+=(const CString &right) {
     //m_Length +=right.m_Length;
     m_Length += strlen(right.sPtr);
     sPtr = new char[m_Length+1];
+    memset(sPtr,0,m_Length+1);
     strcpy(sPtr, tempPtr);
     strcat(sPtr, right.sPtr);
     delete [] tempPtr;
@@ -236,7 +239,8 @@ inline CString &CString::operator+=(const char *right) {
     char *tempPtr = sPtr;
     int tmpLength = m_Length;
     m_Length += strlen(right);
-    sPtr = (char *) operator new(m_Length + 1);
+    sPtr = new char[m_Length + 1];
+    memset(sPtr,0,m_Length+1);
     strcpy(sPtr, tempPtr);
     strcat(sPtr, right);
     delete [] tempPtr;
@@ -246,7 +250,8 @@ inline CString &CString::operator+=(const char *right) {
 inline CString &CString::operator+=(const char right) {
     char *tempPtr = sPtr;
     m_Length++;
-    sPtr = (char *) operator new(m_Length + 1);
+    sPtr = new char [m_Length + 1];
+    memset(sPtr,0,m_Length+1);
     strcpy(sPtr, tempPtr);
     strcat(sPtr, &right);
     delete [] tempPtr;
@@ -255,13 +260,16 @@ inline CString &CString::operator+=(const char right) {
 }
 
 inline CString CString::operator()(int index, int sublength) const {
-    assert(index >= 0 && index < m_Length && sublength >= 0);
+    assert(index >= 0);
+    assert(index < m_Length);
+    assert(sublength >= 0);
 
     CString sub;
 
     sub.m_Length = (sublength - index) + 1;
 
-    sub.sPtr = (char *) operator new(sub.m_Length + 1);
+    sub.sPtr = new char [sub.m_Length + 1];
+    memset(sub.sPtr,0, sub.m_Length+1);
     strncpy(sub.sPtr, (sPtr + index), sub.m_Length);
 
     return sub;
@@ -296,17 +304,11 @@ inline short CString::Find(char LookFor, int nHowMany) {
 }
 
 inline char *CString::ptr() {
-    if (!m_Length) {
-        return (char *)"";
-    }
     return sPtr;
 }
 
 inline const char *CString::cptr() const {
-    if (!m_Length) {
-        return "";
-    }
-    return sPtr;
+   return sPtr;
 }
 
 ///////////////////////////////////////////////

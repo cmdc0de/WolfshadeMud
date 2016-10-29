@@ -326,7 +326,7 @@ void CAscii::NumericFromBuf(CString &strBuf, const char *pFormat, ...) {
 CAscii & CAscii::getline(char *buf, int nLength, char delim) {
     std::ifstream::getline(buf, nLength, delim);
     int nLen = strlen(buf);
-    if (buf[nLen - 1] == '\r') {
+    if (nLen && buf[nLen - 1] == '\r') {
         buf[nLen - 1] = '\0';
     }
     return *this;

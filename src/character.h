@@ -42,7 +42,6 @@
 #include "proficiency.h"
 #include "list.h"
 #include "trackinfo.h"
-#define PLAYER_FILES "players/players.wolfshade"
 
 #define SPELL_NO_AFFECT -1
 

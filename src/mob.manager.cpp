@@ -95,7 +95,7 @@ void CMobManager::BootMobs() {
 		if (!m_MobMap.Lookup(MobReader.Vnum, pCheck)) {
 		   m_MobMap.Add(MobReader.Vnum, new CMobPrototype(&MobReader));
 		} else {
-		   ErrorLog << "Dublicate mob vnums: " << MobReader.Vnum << endl;
+		   ErrorLog << "Duplicate mob vnums: " << MobReader.Vnum << endl;
 		}
 	   } catch (CError *Er) {
 		if (Er->GetError() == CRITICAL_ERROR) {

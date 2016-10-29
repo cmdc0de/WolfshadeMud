@@ -51,7 +51,6 @@ CMap <CString, short> CCharacterAttributes::m_SkillNamesMap;
 CString CCharacterAttributes::m_SkillNamesArray[MAX_MUD_SKILLS];
 const CString CCharacterAttributes::m_strSelf("me self myself");
 //player file
-std::fstream CCharacterAttributes::m_PlayerFile(PLAYER_FILES, std::ios_base::binary | std::ios_base::in | std::ios_base::out);
 CMap<CString, long> CCharacterAttributes::m_PlayerFilePos;
 const int CCharacterAttributes::PREFERS_NO_HASSLE = (1 << 0);
 const int CCharacterAttributes::PREFERS_TELLS_WHEN_SWITCHED = (1 << 1);
@@ -97,6 +96,10 @@ const char *CCharacterAttributes::SizeNames[TOTAL_SIZES] ={
     "Giant"
 };
 
+
+static const char *PLAYER_FILE = "players/players.wolfshade";
+std::fstream m_PlayerFile(PLAYER_FILE);
+
 /////////////////////////////////////////////////
 //	statics functions
 
@@ -105,6 +108,9 @@ void CCharacterAttributes::InitStatics() {
         return;
     }
     Initialized = true;
+    m_PlayerFile.open(PLAYER_FILE,std::ios_base::in | std::ios_base::out | std::ios_base::binary | std::ios_base::app);
+    assert(m_PlayerFile.is_open());
+    m_PlayerFile.clear();
     InitSkillNames();
     BootPlayers();
     ReadNews();
@@ -114,6 +120,11 @@ void CCharacterAttributes::InitStatics() {
 /////////////////////////
 //	Associate skill names with numbers
 ////////////////////////
+
+bool CCharacterAttributes::ShouldBeImp() {
+   m_PlayerFile.seekg(0,std::ios::end);
+   return 0==m_PlayerFile.tellg();
+}
 
 void CCharacterAttributes::InitSkillNames() {
     m_SkillNamesMap.Add("APPLY POISON", SKILL_APPLY_POISON);
@@ -342,9 +353,9 @@ void CCharacterAttributes::RemoveDeletedChars() {
             m_PlayerFile.read((char *) &pSaveChars[i], sizeof (sSaveChar));
         }
         m_PlayerFile.close();
-        remove(PLAYER_FILES);
+        remove(PLAYER_FILE);
         //cheap way to truncate the file
-        m_PlayerFile.open(PLAYER_FILES, std::ios_base::binary | std::ios_base::in | std::ios_base::out);
+        m_PlayerFile.open(PLAYER_FILE, std::ios_base::binary | std::ios_base::in | std::ios_base::out);
         m_PlayerFile.seekg(0, std::ios_base::beg);
         int nDeleted = 0;
         for (i = 0; i < (int) lNumOfPlayers; i++) {
@@ -984,7 +995,8 @@ void CCharacterAttributes::GetFragList(CString &str) {
 }
 
 bool CCharacterAttributes::SaveToFile(bool bAllowNew) {
-    long lFilePos;
+    long lFilePos = 0;
+    assert(m_PlayerFile.is_open());
     bool b = m_PlayerFilePos.Lookup(m_strName, lFilePos);
     if (b || bAllowNew) {
         sSaveChar SaveChar(this);

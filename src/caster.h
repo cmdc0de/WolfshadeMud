@@ -205,7 +205,9 @@ void CCaster<CasterClass>::Save(bool bDidJustDie) {
     if (!this->IsNPC()) {
         CString strFile(SPELL_SAVE_PREFIX);
         strFile += m_strName;
-        std::ofstream SpellFile(strFile.cptr(), std::ios::binary | std::ios::out);
+        std::ofstream SpellFile(strFile.cptr());
+        bool b = SpellFile.is_open();
+        //SpellFile.open()
         if (!SpellFile) {
             ErrorLog << "Spell file for " << m_strName << " won't open on save!" << endl;
         }
@@ -213,8 +215,10 @@ void CCaster<CasterClass>::Save(bool bDidJustDie) {
             sSpellSave<CasterClass> SpellsToSave;
             SpellsToSave.AddPrepared(&m_SpellsPrepared);
             SpellsToSave.AddPreparing(&m_SpellsBeingPrepared);
-            SpellFile.write((char *) &SpellsToSave, sizeof (sSpellSave<CasterClass>));
+            bool bg = SpellFile.write((char *) &SpellsToSave, sizeof (sSpellSave<CasterClass>)).good();
+            assert(bg);
         }
+        SpellFile.flush();
         SpellFile.close();
     }
     //do character save

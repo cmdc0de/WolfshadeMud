@@ -112,7 +112,7 @@ private:
 	void RemoveDeletedChars();
 	void BootPlayers();
 protected:
-	static std::fstream m_PlayerFile;
+	//static std::fstream m_PlayerFile;
 	static CMap<CString,long> m_PlayerFilePos;
 	static CString NEWS;
 	static CString MOTD;
@@ -243,7 +243,7 @@ public:
 	void SetFuguePlane() {m_lLastRentRoom = FUGUE_PLANE;}
 	short GetFugueTime() {return m_nFuguePlaneTime;}
 	bool IsNewCharacter() {long lPos;return !m_PlayerFilePos.Lookup(m_strName,lPos);}
-	bool ShouldBeImp() {m_PlayerFile.seekg(0,std::ios::end);return 0==m_PlayerFile.tellg();}
+	bool ShouldBeImp();
 	void SetFugueTime(short nTime) {m_nFuguePlaneTime = nTime;}
 	//do not make Prefers (m_nPreference & nPreference)==nPreference....THAT IS WRONG!
 	bool Prefers(int nPreference) const {return (m_nPreference & nPreference) ? true : false;}
