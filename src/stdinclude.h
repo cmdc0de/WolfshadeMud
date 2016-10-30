@@ -3,6 +3,7 @@
 #ifndef STD_HEADER_H_
 #define STD_HEADER_H_
 
+
 #ifdef _WOLFSHADE_WINDOWS_
 #pragma warning(disable: 4522)
 #pragma warning(disable: 4250)
@@ -12,6 +13,7 @@
 #include "conf.h"
 #endif
 #include <iostream>
+using std::endl;
 #include <fstream>
 #include "mudtime.h"
 #include "ascii.stream.h"

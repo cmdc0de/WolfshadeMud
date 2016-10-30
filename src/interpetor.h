@@ -60,7 +60,7 @@ private:
 	CString m_strGodHelp;
 	void BuildHelp();
 	CMap<CString,sComClass *> *m_pCmdTable;
-	CWolfshadeLog BugFile;
+	std::ofstream BugFile;
 	std::ifstream m_HelpFile;
 	CMap<CString,sHelp *> m_HelpTable;
 	void BuildCommands();

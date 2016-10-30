@@ -143,9 +143,10 @@ inline short CString::Count(char nToCount) {
 
 inline void CString::SkipSpaces() {
     char *tmp = sPtr;
+    char *end = tmp + m_Length;
     if (*tmp != ' ')
         return;
-    while (*tmp == ' ') tmp++;
+    while (tmp < end && *tmp == ' ') tmp++;
     *this = tmp;
 }
 
@@ -216,7 +217,7 @@ inline const CString &CString::operator=(const char *right) {
     m_Length = strlen(right);
     sPtr = new char[m_Length + 1];
     memset(sPtr,0,m_Length+1);
-    strcpy(sPtr, right);
+    strncpy(sPtr, right, m_Length);
 
     return *this;
 }

@@ -3039,7 +3039,7 @@ void CCharacter::GainExp(CCharacter *pDefender, int nExp) {
 	m_nExperience += nExp;
 	if (pDefender->IsDead()) {
 	  CString strLog;
-	  MudLog << "DEATH: " << GetName() << " has just killed " << pDefender->GetName() << endl(strLog);
+	  MudLog << "DEATH: " << GetName() << " has just killed " << pDefender->GetName() << endl;
 	  GVM.SendToGods(strLog, PREFERS_GOD_LOG_DEATHS, pDefender);
 	  //adjust alignment
 	  AdjustAlignment(pDefender);

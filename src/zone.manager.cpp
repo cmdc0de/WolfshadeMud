@@ -128,8 +128,8 @@ void CZoneManager::ResetZones(bool bResetAll, CObjectManager &ObjManager, CMobMa
 	   if ((!pZone->ResetModeIs(ZONE_ON_EMPTY_RESET))
 		   || CWorld::IsZoneEmpty(pZone->GetZoneNum())) {
 		CString str;
-		MudLog << "resetting zone " << pZone->ZoneName << endl(str);
-		GVM.SendToGods(str, CCharacterAttributes::PREFERS_GOD_LOG_ZONES, NULL);
+		MudLog << "resetting zone " << pZone->ZoneName << endl;
+		//GVM.SendToGods(str, CCharacterAttributes::PREFERS_GOD_LOG_ZONES, NULL);
 		ResetDoors(pZone);
 		ResetMobs(pZone, MobManager, ObjManager, bResetAll);
 		ResetRoomObjects(pZone, ObjManager);

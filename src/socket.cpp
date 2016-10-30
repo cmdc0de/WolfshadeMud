@@ -280,8 +280,8 @@ void CSocket::NewDescriptor() {
 	   newbieDesc->Host = from->h_name;
 	}
 	CString strGod;
-	MudLog << newbieDesc->Host << " and there are " << Descriptors.GetCount() << " connected sockets" << endl(strGod);
-	GVM.SendToGods(strGod, CCharacterAttributes::PREFERS_GOD_CONNECTION_LOG, NULL);
+	MudLog << newbieDesc->Host << " and there are " << Descriptors.GetCount() << " connected sockets" << endl;
+	//GVM.SendToGods(strGod, CCharacterAttributes::PREFERS_GOD_CONNECTION_LOG, NULL);
    }
 }
 

@@ -188,8 +188,8 @@ void CGame::GetCharactersFromQ(CLinkList<CCharIntermediate> &NewChars)
 		GVM.AddGod(NewCharacter);
 	}
 	CString strGodMsg;
-	MudLog << NewCharacter->GetName() << " has entered the game" << endl(strGodMsg);
-	GVM.SendToGods(strGodMsg,CCharacterAttributes::PREFERS_GOD_CONNECTION_LOG,NULL);
+	MudLog << NewCharacter->GetName() << " has entered the game" << endl;
+	//GVM.SendToGods(strGodMsg,CCharacterAttributes::PREFERS_GOD_CONNECTION_LOG,NULL);
 	//Add to gobal LL after we advance level
 	GVM.Add(NewCharacter);
 	NewCharacter->GetRoom()->SendToRoom("%s enters the game.\r\n",NewCharacter);

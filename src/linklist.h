@@ -121,7 +121,7 @@ void CLinkList<BaseClass>::Destroy()
 	m_pFirst = m_pLast = NULL;
 #ifdef _DEBUG
 	if(m_nCount!=0)
-		ErrorLog << "Bad LL!" << endl;
+		ErrorLog << "Bad LL!" << std::endl;
 #endif
 }
 

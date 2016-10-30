@@ -31,6 +31,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <sstream>
+using std::endl;
 #include <stdarg.h>
 
 CAscii::CAscii(CString file, long bits) : std::ifstream() {

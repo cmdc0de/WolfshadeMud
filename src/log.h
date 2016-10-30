@@ -29,6 +29,10 @@
 #include <time.h>
 #include "wolfshade.string.h"
 
+#define MudLog std::cout 
+#define ErrorLog std::cout
+
+#if 0
 #define MudLog CWolfshadeLog::GetMudLog()
 #define ErrorLog CWolfshadeLog::GetErrorLog()
 
@@ -210,8 +214,8 @@ public:
 
     CWolfshadeLog &end() {
         if (m_bToScreen)
-            std::cout << std::endl;
-        std::ostream::operator<<(std::endl);
+            std::cout.flush();
+        this->flush();
         return *this;
     }
 
@@ -255,4 +259,5 @@ private:
 CWolfshadeLog &endl(CWolfshadeLog &);
 CWolfshadeLog &_endl(CWolfshadeLog &log, CString &str);
 WSMMANIP endl(CString &str);
+#endif
 #endif

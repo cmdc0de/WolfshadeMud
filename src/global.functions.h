@@ -142,7 +142,7 @@ UINT HashKey(const char *str, int nLetters) {
 UINT HashKey(long key, int nLetters) {
     return ((UINT) key) << 4;
 }
-
+#if 0
 CWolfshadeLog &endl(CWolfshadeLog &log) {
     return log.end();
 }
@@ -154,7 +154,7 @@ CWolfshadeLog &_endl(CWolfshadeLog &log, CString &str) {
 WSMMANIP endl(CString &str) {
     return WSMMANIP(_endl, &str);
 }
-
+#endif
 class Stack {
 public:
     CObject *m_pObj;

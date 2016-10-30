@@ -138,7 +138,7 @@ void CString::ToLower() {
 }
 
 std::istream &operator>>(std::istream &input, CString &s) {
-   char t[MAX_FILE_STRING_SIZE];
+   char t[MAX_FILE_STRING_SIZE] = {'\0'};
    input >> std::setw(MAX_FILE_STRING_SIZE) >> t;
    s = t;
    return input;
