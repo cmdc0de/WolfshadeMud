@@ -157,8 +157,9 @@ void CCaster<CasterClass>::LoadSpells() {
     CString strFile(SPELL_SAVE_PREFIX);
     strFile += m_strName;
     //std::ifstream SpellFile(strFile,std::ios::binary | std::ios::in | std::ios::nocreate);
-    std::ifstream SpellFile(strFile.cptr(), std::ios::binary | std::ios::in);
+    std::ifstream SpellFile(strFile.cptr(), std::ios::binary | std::ios::in | std::ios::ate);
     if (!SpellFile) {
+        MudLog << "spell file count not be opened" << std::endl;
         return;
     }
     sSpellSave<CasterClass> SavedSpells;

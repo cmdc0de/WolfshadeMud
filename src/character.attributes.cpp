@@ -108,7 +108,7 @@ void CCharacterAttributes::InitStatics() {
         return;
     }
     Initialized = true;
-    m_PlayerFile.open(PLAYER_FILE,std::ios_base::in | std::ios_base::out | std::ios_base::binary | std::ios_base::app);
+    m_PlayerFile.open(PLAYER_FILE,std::ios_base::in | std::ios_base::out | std::ios_base::binary | std::fstream::ate);
     assert(m_PlayerFile.is_open());
     m_PlayerFile.clear();
     InitSkillNames();
@@ -355,7 +355,7 @@ void CCharacterAttributes::RemoveDeletedChars() {
         m_PlayerFile.close();
         remove(PLAYER_FILE);
         //cheap way to truncate the file
-        m_PlayerFile.open(PLAYER_FILE, std::ios_base::binary | std::ios_base::in | std::ios_base::out);
+        m_PlayerFile.open(PLAYER_FILE, std::fstream::binary | std::fstream::in | std::fstream::out | std::fstream::ate);
         m_PlayerFile.seekg(0, std::ios_base::beg);
         int nDeleted = 0;
         for (i = 0; i < (int) lNumOfPlayers; i++) {
