@@ -23,6 +23,9 @@
 #define _PROFICIENCY_H_
 #define TOTAL_SKILL_SPHERES 15
 
+#include "wolfshade.string.h"
+
+
 class CProficiency
 {
 private:
@@ -72,8 +75,8 @@ public:
 		{
 			pProf = m_ProficiencyLL.GetNext(pos);
 			str.Format("%s %-30s %-2d\r\n",
-				(char *)str,
-				(char *)pProf->m_strSkillSetName,
+				str.cptr(),
+				pProf->m_strSkillSetName.cptr(),
 				pProf->m_nTier);
 		}
 	}
@@ -87,8 +90,8 @@ public:
 			if(pProf->m_nValue & nSkillSphere)
 			{
 				str.Format("%s %s%s",
-					(char *)str,
-					(char *)pProf->m_strSkillSetName,
+					str.cptr(),
+					pProf->m_strSkillSetName.cptr(),
 					(bAddReturn ? "\r\n" : ""));
 			}
 		}

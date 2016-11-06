@@ -33,6 +33,7 @@
 #include "linklist.h"
 #include "affect.h"
 #include "object.save.h"
+#include "wolfshade.string.h"
 
 class CCharacter; //forward def
 class CRoom;
@@ -222,12 +223,12 @@ public: //inlined
 	void Set(CCharacter *ch,CRoom *pRoom) {m_pCarriedby = ch;m_pInRoom = pRoom;}
 	const CCharacter *IsBeingCarriedby() {return m_pCarriedby;}
 	obj_vnum GetVnum() {return m_nVnum;}
-	const char *GetObjSittingDesc() {return m_strObjSittingDesc;}
-	const char *GetObjName() {return m_strObjName;}
+	const char *GetObjSittingDesc() {return m_strObjSittingDesc.cptr();}
+	const char *GetObjName() {return m_strObjName.cptr();}
 	const char *GetObjName(const CCharacter *pCh);
 	CString GetAlias() {return m_strObjAlias;}
 	CString GetDesc() {return m_strObjDesc;}
-	const char *GetSittingDesc() {return m_strObjSittingDesc;}
+	const char *GetSittingDesc() {return m_strObjSittingDesc.cptr();}
 	int GetObjectVal0() {return m_nVal0;}
 	unsigned int GetWearBit() const {return m_nWearBit;}
 	bool IsWeapon() {return ITEM_TYPE_WEAPON==m_nObjType;}

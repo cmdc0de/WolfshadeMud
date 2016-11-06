@@ -44,6 +44,6 @@ public:
 	int AsciiConvert(char *);
 	void ReadFileString(CString &strValue, char delim = '~');
 	void Numeric(const char *pFormat, ...);
-	CAscii(CString file,long bits) : std::ifstream(file,bits){;}
+	CAscii(CString file,long bits);
 };
 #endif

@@ -115,7 +115,7 @@ class CMessageManager
 	friend class CCharacter;
 private:
 	void BootSkillsFile();
-	void BootMessageFile(char *strFile,int nMessages,CMap<CString, CMsg *> *&pMap, int nHash=127);
+	void BootMessageFile(const char *strFile,int nMessages,CMap<CString, CMsg *> *&pMap, int nHash=127);
 	static const char* m_AttackMessages[];
 	static const char* m_WeaponTypes[];
 	static const char* m_HitMessages[];
@@ -143,7 +143,7 @@ public:
 inline const CMsg *CMessageManager::IsSocial(CString strSocial)  const
 {
 	CMsg *pMsg;
-	if(m_pSocialMap->Lookup(strSocial,pMsg))
+	if(m_pSocialMap->Lookup(strSocial.cptr(),pMsg))
 		return pMsg;
 	return NULL;
 }

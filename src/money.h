@@ -95,7 +95,7 @@ inline int sMoney::RemoveCopper(int nCopper)
 	nCopper = nCopper==-1 ? Copper : nCopper;
 	if(Copper < nCopper)
 	{
-		CError Err(MESSAGE_ONLY,"You don't have that much copper!\r\n");
+		CError Err(MESSAGE_ONLY,(const char *)"You don't have that much copper!\r\n");
 		throw &Err;
 	}
 	

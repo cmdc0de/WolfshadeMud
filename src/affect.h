@@ -30,47 +30,56 @@
 #pragma once
 #endif // _MSC_VER >= 1000
 
-struct sAffect
-{
+struct sAffect {
 public:
-	static const int AFFECT_OFF,
-		PERM_AFFECT,
-		MANUAL_AFFECT;
+    static const int AFFECT_OFF,
+    PERM_AFFECT,
+    MANUAL_AFFECT;
 public:
-	int m_nTimeOfAffect,
-		m_nTime,
-		m_nValue;
-	void Set(int nTime, int nValue) 
-	{
-		m_nTime = nTime;
-		m_nValue = nValue;
-	}
-	bool HasAffect() const {return (m_nTime != AFFECT_OFF || m_nTime == PERM_AFFECT || m_nTime == MANUAL_AFFECT);}
-	bool IsPermAffect() const {return m_nTime == PERM_AFFECT;}
-	bool IsManual() const {return m_nTime == MANUAL_AFFECT;}
-	bool IsAffectTime(int nTimeOfAffect) 
-	{
-		if(m_nTimeOfAffect==-1)
-		{
-			m_nTimeOfAffect = nTimeOfAffect;
-		}
-		if(--m_nTimeOfAffect<0)
-		{
-			m_nTimeOfAffect = nTimeOfAffect;
-			return true;
-		}
-		return false;
-	}
-	void Remove() 
-	{
-		if(!IsPermAffect())
-		{
-			m_nTime = m_nValue = AFFECT_OFF;
-			m_nTimeOfAffect = -1;
-		}
-	}
-	sAffect() {m_nTimeOfAffect = -1;m_nTime = m_nValue = AFFECT_OFF;}
-	~sAffect();
+    int m_nTimeOfAffect,
+    m_nTime,
+    m_nValue;
+
+    void Set(int nTime, int nValue) {
+        m_nTime = nTime;
+        m_nValue = nValue;
+    }
+
+    bool HasAffect() const {
+        return (m_nTime != AFFECT_OFF || m_nTime == PERM_AFFECT || m_nTime == MANUAL_AFFECT);
+    }
+
+    bool IsPermAffect() const {
+        return m_nTime == PERM_AFFECT;
+    }
+
+    bool IsManual() const {
+        return m_nTime == MANUAL_AFFECT;
+    }
+
+    bool IsAffectTime(int nTimeOfAffect) {
+        if (m_nTimeOfAffect == -1) {
+            m_nTimeOfAffect = nTimeOfAffect;
+        }
+        if (--m_nTimeOfAffect < 0) {
+            m_nTimeOfAffect = nTimeOfAffect;
+            return true;
+        }
+        return false;
+    }
+
+    void Remove() {
+        if (!IsPermAffect()) {
+            m_nTime = m_nValue = AFFECT_OFF;
+            m_nTimeOfAffect = -1;
+        }
+    }
+
+    sAffect() {
+        m_nTimeOfAffect = -1;
+        m_nTime = m_nValue = AFFECT_OFF;
+    }
+    ~sAffect();
 };
 
 #endif // !defined(AFX_AFFECT_H__758FD083_A666_11D2_81AA_00600834E9F3__INCLUDED_)

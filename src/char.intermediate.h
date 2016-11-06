@@ -95,7 +95,7 @@ public:
 	CCharIntermediate(sPlayerDescriptor *desc);
 	CCharIntermediate(CCharIntermediate *ch);
 	void SendToChar(const char *strSend);
-	void SendToChar(CString strSend) const;
+	void SendToChar(const CString &strSend) const;
 protected:
 	bool IsLegalName();
 	void SendClassList(short nRace);

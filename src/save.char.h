@@ -36,6 +36,7 @@
 #include "affect.h"
 
 class CCharacterAttributes;
+class CAttributes;
 
 struct sSaveChar  
 {

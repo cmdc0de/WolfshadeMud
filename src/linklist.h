@@ -121,7 +121,7 @@ void CLinkList<BaseClass>::Destroy()
 	m_pFirst = m_pLast = NULL;
 #ifdef _DEBUG
 	if(m_nCount!=0)
-		ErrorLog << "Bad LL!" << endl;
+		ErrorLog << "Bad LL!" << std::endl;
 #endif
 }
 
@@ -130,7 +130,7 @@ void CLinkList<BaseClass>::Add(BaseClass *ptr)
 {
 	if(!ptr)
 	{
-		CError Err(CRITICAL_ERROR,"NULL pointer pass to add in LL class\n");
+		CError Err(CRITICAL_ERROR,(char *)"NULL pointer pass to add in LL class\n");
 		throw &Err;
 	}
 
@@ -153,7 +153,7 @@ void CLinkList<BaseClass>::AddBegining(BaseClass *ptr)
 {
 	if(!ptr)
 	{
-		CError Err(CRITICAL_ERROR,"NULL pointer pass to add in LL class\n");
+		CError Err(CRITICAL_ERROR,(char *)"NULL pointer pass to add in LL class\n");
 		throw &Err;
 	}
 	Node *tmp = m_pFirst;
