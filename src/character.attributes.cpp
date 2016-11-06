@@ -357,7 +357,8 @@ void CCharacterAttributes::RemoveDeletedChars() {
 	   assert(1 == fread((char *) &pSaveChars[i], sizeof(sSaveChar), 1, mPlayerFile));
 	}
 	fclose(mPlayerFile);
-	remove(PLAYER_FILE);
+	mPlayerFile = fopen(PLAYER_FILE, "wb+");
+	fclose(mPlayerFile);
 	//cheap way to truncate the file
 	mPlayerFile = fopen(PLAYER_FILE, "rb+");
 	assert(mPlayerFile && !ferror(mPlayerFile));
@@ -1017,11 +1018,6 @@ bool CCharacterAttributes::SaveToFile(bool bAllowNew) {
 	   fseek(mPlayerFile, lFilePos, SEEK_SET);
 	}
 	fwrite((char *) &SaveChar, sizeof(sSaveChar), 1, mPlayerFile);
-	{
-	   sSaveChar test;
-	   fseek(mPlayerFile, lFilePos, SEEK_SET);
-	   fread((char *)&test,sizeof(sSaveChar),1,mPlayerFile);
-	}
 	fflush(mPlayerFile);
 	return true;
    }
