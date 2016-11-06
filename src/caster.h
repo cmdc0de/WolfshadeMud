@@ -23,6 +23,7 @@
 #include "spell.h"
 #include "spell.save.h"
 #include "random.h"
+#include <cstdio>
 extern CRandom GenNum;
 
 template<class CasterClass>
@@ -156,14 +157,16 @@ template<class CasterClass>
 void CCaster<CasterClass>::LoadSpells() {
     CString strFile(SPELL_SAVE_PREFIX);
     strFile += m_strName;
-    //std::ifstream SpellFile(strFile,std::ios::binary | std::ios::in | std::ios::nocreate);
-    std::ifstream SpellFile(strFile.cptr(), std::ios::binary | std::ios::in | std::ios::ate);
+    FILE *SpellFile = fopen(strFile.cptr(), "rb");
     if (!SpellFile) {
-        MudLog << "spell file count not be opened" << std::endl;
+        MudLog << "spell file " << strFile.cptr() << "could not be opened" << std::endl;
+        return;
+    } else if (ferror(SpellFile) != 0) {
+        MudLog << "error opening spell file" << strFile.cptr() << std::endl;
         return;
     }
     sSpellSave<CasterClass> SavedSpells;
-    SpellFile.read((char *) &SavedSpells, sizeof (sSpellSave<CasterClass>));
+    assert(1 == fread((char *) &SavedSpells, sizeof (sSpellSave<CasterClass>), 1, SpellFile));
     const CSpell<CasterClass> *pSpell;
     short i = 0;
     for (i = 0; i < SavedSpells.GetMaxSpellsPrepared()
@@ -194,6 +197,7 @@ void CCaster<CasterClass>::LoadSpells() {
             this->SendToChar(strError);
         }
     }
+    fclose(SpellFile);
 }
 
 //Save
@@ -206,21 +210,19 @@ void CCaster<CasterClass>::Save(bool bDidJustDie) {
     if (!this->IsNPC()) {
         CString strFile(SPELL_SAVE_PREFIX);
         strFile += m_strName;
-        std::ofstream SpellFile(strFile.cptr());
-        bool b = SpellFile.is_open();
-        //SpellFile.open()
-        if (!SpellFile) {
-            ErrorLog << "Spell file for " << m_strName << " won't open on save!" << endl;
+        FILE *SpellFile = fopen(strFile.cptr(), "wb+");
+        if (!SpellFile || (ferror(SpellFile) != 0)) {
+            ErrorLog << "Spell file for " << m_strName.cptr() << " won't open on save!" << endl;
+        } else {
+            if (!bDidJustDie) {
+                sSpellSave<CasterClass> SpellsToSave;
+                SpellsToSave.AddPrepared(&m_SpellsPrepared);
+                SpellsToSave.AddPreparing(&m_SpellsBeingPrepared);
+                fwrite((char *) &SpellsToSave, sizeof (sSpellSave<CasterClass>), 1, SpellFile);
+            }
         }
-        if (!bDidJustDie) {
-            sSpellSave<CasterClass> SpellsToSave;
-            SpellsToSave.AddPrepared(&m_SpellsPrepared);
-            SpellsToSave.AddPreparing(&m_SpellsBeingPrepared);
-            bool bg = SpellFile.write((char *) &SpellsToSave, sizeof (sSpellSave<CasterClass>)).good();
-            assert(bg);
-        }
-        SpellFile.flush();
-        SpellFile.close();
+        fflush(SpellFile);
+        fclose(SpellFile);
     }
     //do character save
     CCharacter::Save(bDidJustDie);
