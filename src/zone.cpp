@@ -37,6 +37,7 @@ CZone::CZone() {
    Doors.SetDeleteData();
    RoomCash.SetDeleteData();
    LifeSpan = -1;
+	ZoneNum = -1;
 }
 
 void CZone::ReadZone(CString FileName) {

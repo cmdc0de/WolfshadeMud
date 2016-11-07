@@ -25,7 +25,7 @@ class CTransport; //forward def
 
 class CTransportRoom : public CRoom
 {
-	friend CTransport;
+	friend class CTransport;
 protected:
 	CTransport *m_pTrans;
 protected:

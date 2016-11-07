@@ -271,15 +271,18 @@ void CZoneManager::ResetRoomCash(CZone * pZone, bool bResetAll) {
 //	
 
 CString CZoneManager::GetZoneInformation() {
-   CString strInfo("Zone#     Zone Name                           Time      Left      Reset-Mode\r\n");
+   CString strInfo("Zone#     Zone Name                           Time    Left    Reset-Mode\r\n");
    POSITION pos = m_ZoneMap.GetStartingPosition();
    CZone *pZone;
    while (pos) {
 	pZone = m_ZoneMap.GetNext(pos);
-	strInfo.Format("%s%-10d%-40s%-5d%-5d%s\r\n",
+	CString zname(pZone->ZoneName);
+	zname.Colorize(false);
+	strInfo.Format("%s|%-9d|%-35s|%-7d|%-7d|%s\r\n",
 		strInfo.cptr(),
 		pZone->ZoneNum,
-		pZone->ZoneName.cptr(),
+		zname.cptr(),
+		//pZone->ZoneName.cptr(),
 		pZone->LifeSpan,
 		pZone->Timer,
 		strResetType[pZone->ResetMode]);

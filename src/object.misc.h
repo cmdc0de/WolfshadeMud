@@ -29,7 +29,7 @@ private:
 		void (CPotion::*m_pFnc)(CCharacter *pUser);
 		sPotionSpecial(void (CPotion::*p)(CCharacter *pU)=NULL){m_pFnc = p;}
 	};
-	friend sPotionSpecial;
+	friend struct sPotionSpecial;
 private:
 	void InitPotionStatics();
 	static bool m_bInitPotion;

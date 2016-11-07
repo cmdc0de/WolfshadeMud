@@ -81,7 +81,7 @@ const CMudTime::sSeason CMudTime::SEASON_WINTER(12, 15, 9, 18, "Today is the fir
 const CMudTime::sSeason CMudTime::SEASON_SPRING(3, 15, 7, 19, "Today is the first day of spring.\r\n");
 const CMudTime::sSeason CMudTime::SEASON_SUMMER(6, 15, 6, 21, "Today is the first day of summer.\r\n");
 
-const char *CMudTime::m_Months[] ={
+const char *CMudTime::m_Months[] = {
    "Month 1",
    "Month 2",
    "Month 3",
@@ -96,7 +96,7 @@ const char *CMudTime::m_Months[] ={
    "Month 12"
 };
 
-const char *CMudTime::m_Days[] ={
+const char *CMudTime::m_Days[] = {
    "Day 1",
    "Day 2",
    "Day 3",
@@ -133,7 +133,7 @@ const char *CMudTime::m_Days[] ={
 };
 const short CMudTime::PC_ADJUST_YEARS = 8;
 const short CMudTime::m_YearPC_Dam_Adj[] = {25, 30, 35, 40, 45, 50, 60, 70};
-const char *CMudTime::m_strYear[] ={
+const char *CMudTime::m_strYear[] = {
    "Year of the bunny",
    "Year of the lamb",
    "Year of the snake",

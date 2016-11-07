@@ -229,7 +229,7 @@ bool CSocket::NewConnections() {
 	FD_SET(currentDesc->m_ConnectedSocket, &output_set);
 	FD_SET(currentDesc->m_ConnectedSocket, &exception_set);
    }
-   //Circle sleeps here before next pulse
+   
    if (select(ListenSocket + 1, &input_set, &output_set,
 	   &exception_set, &NullTime) < 0) {
 	//ErrorLog << "Select poll";
