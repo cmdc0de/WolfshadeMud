@@ -166,7 +166,9 @@ void CCaster<CasterClass>::LoadSpells() {
         return;
     }
     sSpellSave<CasterClass> SavedSpells;
-    assert(1 == fread((char *) &SavedSpells, sizeof (sSpellSave<CasterClass>), 1, SpellFile));
+    //assert(1 == fread((char *) &SavedSpells, sizeof (sSpellSave<CasterClass>), 1, SpellFile));
+    int spellsRead = fread((char *) &SavedSpells, sizeof (sSpellSave<CasterClass>), 1, SpellFile);
+    if(spellsRead<=0) return;
     const CSpell<CasterClass> *pSpell;
     short i = 0;
     for (i = 0; i < SavedSpells.GetMaxSpellsPrepared()
