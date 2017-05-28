@@ -126,15 +126,15 @@ void CDrowElfReference::SetConstitution() {
   m_sConstitution[1] = sConstitution(0, 0, -10); //10-19
   m_sConstitution[2] = sConstitution(0, 1, 0); //20-29
   m_sConstitution[3] = sConstitution(0, 2, 0); //30-39
-  m_sConstitution[4] = sConstitution(0, 2, 0); //40-49
-  m_sConstitution[5] = sConstitution(0, 2, 0); //50-59
-  m_sConstitution[6] = sConstitution(0, 2, 0); //60-69
-  m_sConstitution[7] = sConstitution(1, 3, 0); //70-79
-  m_sConstitution[8] = sConstitution(1, 4, 10); //80-89
-  m_sConstitution[9] = sConstitution(2, 5, 20); //90-99
-  m_sConstitution[10] = sConstitution(3, 6, 30); //100-109
-  m_sConstitution[11] = sConstitution(4, 7, 40); //110-119
-  m_sConstitution[12] = sConstitution(5, 8, 50); //120
+  m_sConstitution[4] = sConstitution(1, 2, 0); //40-49
+  m_sConstitution[5] = sConstitution(2, 2, 0); //50-59
+  m_sConstitution[6] = sConstitution(3, 2, 0); //60-69
+  m_sConstitution[7] = sConstitution(5, 3, 0); //70-79
+  m_sConstitution[8] = sConstitution(5, 4, 10); //80-89
+  m_sConstitution[9] = sConstitution(8, 5, 20); //90-99
+  m_sConstitution[10] = sConstitution(8, 6, 30); //100-109
+  m_sConstitution[11] = sConstitution(9, 7, 40); //110-119
+  m_sConstitution[12] = sConstitution(10, 8, 50); //120
 }
 
 void CDrowElfReference::SetInnateRace() {
