@@ -113,6 +113,9 @@ CMobPrototype::~CMobPrototype() {
 //	4/27/98
 //////////////////////////////////////
 
+static const char *strY = "Y";
+static const char *strN = "N";
+
 void CMobPrototype::VStat(CString & ToChar) {
    static CString strFormat(
 	   "Name: %s       Race: %s       Class: %s\r\n"
@@ -120,12 +123,52 @@ void CMobPrototype::VStat(CString & ToChar) {
 	   "AC: %d/100     Experience: %d Thaco: %d\r\n"
 	   "Mob Alias: %s\r\n"
 	   "Mob Description: %s \r\n"
-	   "Mob Default Desc Position: %s \r\n");
+	   "Mob Default Desc Position: %s \r\n"
+	   "Sentinel:   %s	Scavenger:   %s		Aware: 			%s\r\n"
+	   "Aggressive: %s	StayZone:    %s		Flee:  			%s\r\n"
+	   "AggroEvil:  %s	AggroGood:   %s		AggroNuetral: 	%s\r\n"
+	   "Memory:     %s 	AggroEvilR:  %s		AggroGoodR: 	%s\r\n"
+	   "AggroNueR:  %s	AggroAlienR: %s		NoBase: 		%s\r\n"
+	   "Track:	    %s	Teacher:     %s		GuardGood: 		%s\r\n"
+	   "GuardEvil:  %s	GuardNeutral:%s		GuardNPC:		%s\r\n"
+	   "GuardChr:   %s	GuardRace:   %s		GuardGoodRace:  %s\r\n"
+	   "GuardEvilR: %s	GuardNueR:   %s		GuardAlienRace: %s\r\n"
+	   "PermDI:     %s\r\n"
+		);
 
    ToChar.Format(strFormat.cptr(), MobName.cptr(), GVM.GetRaceName(Race),
 	   GVM.GetClassName(ClassType), Alignment, Level, CCharacterAttributes::GetSexName(Sex),
 	   AC, Experience, Thaco, MobAlias.cptr(), MobDescription.cptr(),
-	   DefaultPosDesc.cptr());
+	   DefaultPosDesc.cptr()
+	   ,((MobFlags&(1<<0))!=0?strY:strN)
+	   ,((MobFlags&(1<<1))!=0?strY:strN)
+	   ,((MobFlags&(1<<2))!=0?strY:strN)
+	   ,((MobFlags&(1<<3))!=0?strY:strN)
+	   ,((MobFlags&(1<<4))!=0?strY:strN)
+	   ,((MobFlags&(1<<5))!=0?strY:strN)
+	   ,((MobFlags&(1<<6))!=0?strY:strN)
+	   ,((MobFlags&(1<<7))!=0?strY:strN)
+	   ,((MobFlags&(1<<8))!=0?strY:strN)
+	   ,((MobFlags&(1<<9))!=0?strY:strN)
+	   ,((MobFlags&(1<<10))!=0?strY:strN)
+	   ,((MobFlags&(1<<11))!=0?strY:strN)
+	   ,((MobFlags&(1<<12))!=0?strY:strN)
+	   ,((MobFlags&(1<<13))!=0?strY:strN)
+	   ,((MobFlags&(1<<14))!=0?strY:strN)
+	   ,((MobFlags&(1<<15))!=0?strY:strN)
+	   ,((MobFlags&(1<<16))!=0?strY:strN)
+	   ,((MobFlags&(1<<17))!=0?strY:strN)
+	   ,((MobFlags&(1<<18))!=0?strY:strN)
+	   ,((MobFlags&(1<<19))!=0?strY:strN)
+	   ,((MobFlags&(1<<20))!=0?strY:strN)
+	   ,((MobFlags&(1<<21))!=0?strY:strN)
+	   ,((MobFlags&(1<<22))!=0?strY:strN)
+	   ,((MobFlags&(1<<23))!=0?strY:strN)
+	   ,((MobFlags&(1<<24))!=0?strY:strN)
+	   ,((MobFlags&(1<<25))!=0?strY:strN)
+	   ,((MobFlags&(1<<26))!=0?strY:strN)
+	   ,((MobFlags&(1<<27))!=0?strY:strN)
+	   );
 }
 
 //////////////////////////////////////
