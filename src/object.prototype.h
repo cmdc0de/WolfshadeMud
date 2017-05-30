@@ -32,7 +32,7 @@
 #include "linklist.h"
 
 #define ITEM_TYPE_CORPSE 0
-//#define ITEM_TYPE_FOOD	1 UNUSED
+#define ITEM_TYPE_PLAIN_OLD_OBJECT	1
 #define ITEM_TYPE_LIGHT	2
 #define ITEM_TYPE_SCROLL	3
 //#define ITEM_TYPE_WAND	4 UNUSED
