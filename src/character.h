@@ -565,6 +565,7 @@ protected:
     void DoFirstAid();
     void GodChange();
     void DoSearch(CObject *pObj);
+    void DoRead();
 protected: //inlined
 
     short GetMaxWeaponPositions() {

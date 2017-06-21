@@ -472,7 +472,7 @@ void CObjectManager::ReduceObjectAffects(long lToReduce) {
 CObject * CObjectManager::CalObjectPointer(CObjectPrototype *obj, CCharacter *PersonCarriedby, CRoom *pRoom) {
    CObject *pObj;
    switch (obj->ObjType) {
-	case ITEM_TYPE_CORPSE:
+   case ITEM_TYPE_CORPSE:
 	   pObj = NULL;
 	   break;
 	case ITEM_TYPE_CONTAINER:
@@ -491,8 +491,8 @@ CObject * CObjectManager::CalObjectPointer(CObjectPrototype *obj, CCharacter *Pe
 	   pObj = (new CPotion(obj, PersonCarriedby, pRoom));
 	   break;
 	case ITEM_TYPE_SCROLL: case ITEM_TYPE_STAFF:
-	case ITEM_TYPE_FOUNTAIN:case ITEM_TYPE_WEAPON:
-	case ITEM_TYPE_SPELL_OBJ:
+	case ITEM_TYPE_FOUNTAIN: case ITEM_TYPE_WEAPON:
+	case ITEM_TYPE_PLAIN_OLD_OBJECT:
 	   pObj = (new CObject(obj, PersonCarriedby, pRoom));
 	   break;
 	case ITEM_TYPE_TRANSPORT:
@@ -533,7 +533,7 @@ CObject * CObjectManager::CalObjectPointer(const sObjectSave & ObjSave, CCharact
 	   break;
 	case ITEM_TYPE_SCROLL: case ITEM_TYPE_STAFF:
 	case ITEM_TYPE_FOUNTAIN:case ITEM_TYPE_WEAPON:
-	case ITEM_TYPE_SPELL_OBJ:
+	case ITEM_TYPE_SPELL_OBJ: case ITEM_TYPE_PLAIN_OLD_OBJECT:
 	   pObj = (new CObject(ObjSave, pChar, pRoom));
 	   break;
 	case ITEM_TYPE_PORTAL:

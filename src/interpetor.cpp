@@ -1,6 +1,6 @@
 /*
  *
- *  Explain how this really works!
+ *  Explain how this really works!     
  *
  */
 #include "random.h"
@@ -317,6 +317,9 @@ void CInterp::BuildCommands() {
 	m_pCmdTable->Add("rest",
 			new sComClass("rest", &CInterp::Rest, 0, POS_DEAD | POS_INCAP | POS_MORTALED | POS_SLEEPING,
 					REMOVE_HIDE | REMOVE_MEDITATE));
+	m_pCmdTable->Add("read",
+			new sComClass("read", &CInterp::Read, 0, POS_DEAD | POS_INCAP | POS_MORTALED | POS_SLEEPING,
+					REMOVE_MEDITATE)),
 	m_pCmdTable->Add("split",
 			new sComClass("split", &CInterp::Split, 0, POS_DEAD | POS_INCAP | POS_MORTALED | POS_SLEEPING,
 					REMOVE_HIDE | REMOVE_MEDITATE));
@@ -580,6 +583,14 @@ void CInterp::Wake(CCharacter *pCh) {
 			pCh->SendToChar("Your not sleeping!\r\n");
 		}
 	}
+}
+
+//////////////////////////////////////////////
+// reads an object
+// written: 5-30-2017
+//////////////////////////////////////////
+void CInterp::Read(CCharacter *pCh) {
+	pCh->DoRead();
 }
 
 //////////////////////////////////////////////////////

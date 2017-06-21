@@ -120,6 +120,7 @@ protected:
 	void Shout(CCharacter *pCh);
 	void GodLocate(CCharacter *pCh);
 	void Initiate(CCharacter *pCh);
+	void Read(CCharacter *pCh);
 protected: //directly defined
 	void Exit(CCharacter *pCh);
 	void Wake(CCharacter *pCh);

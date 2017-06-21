@@ -205,6 +205,7 @@ public:
 	virtual void DoLook(CString &str);
 	virtual void AddCharAffects(bool bRemoving,bool bSendMsg);
 	virtual ~CObject();
+	CString GetExtraDescriptionString(const char *key);
 
 public:
 	CObject(const sObjectSave &ObjSave,CCharacter *pChar,CRoom *pRoom);
