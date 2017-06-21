@@ -305,6 +305,7 @@ CMage::CMage(CCharIntermediate *ch) : CCaster<CMage>(ch), CCharacter(ch) {
    if (IsNewbie()) {
 	InitSkills();
 	m_nSkillSphere |= GENERAL;
+	m_Spells[MAGE_MAGICMISSILE] = 1;
    }
 }
 

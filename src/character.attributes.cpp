@@ -108,11 +108,6 @@ void CCharacterAttributes::InitStatics() {
 	return;
    }
    Initialized = true;
-   FILE *testFile = fopen(PLAYER_FILE,"rb");
-   if(!testFile) {
-	testFile = fopen(PLAYER_FILE,"wb+");
-   }
-   fclose(testFile);
    mPlayerFile = fopen(PLAYER_FILE, "rb+");
    assert(mPlayerFile);
    InitSkillNames();

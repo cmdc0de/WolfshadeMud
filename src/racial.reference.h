@@ -44,7 +44,7 @@
 #define INNATE_INVIS (1<<12)
 //0-120 ablitites so
 #define MAX_ABLITIES_RANGE 13
-#define BONUS_STARTING_HIT_POINTS 10
+#define BONUS_STARTING_HIT_POINTS 20
 
 //temp variable
 #define GEN_START_ROOM 1000013
