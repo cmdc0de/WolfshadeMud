@@ -151,6 +151,7 @@ void CCaster<CasterClass>::SpellUp(const CSpell<CasterClass> *pSpell) {
 
 template<class CasterClass>
 void CCaster<CasterClass>::LoadSpells() {
+
 	CString strFile(SPELL_SAVE_PREFIX);
 	strFile += m_strName;
 	FILE *SpellFile = fopen(strFile.cptr(), "rb");
